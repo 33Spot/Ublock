@@ -1018,7 +1018,7 @@ anime-odcinki.pl##+js(abort-current-inline-script.js, Math, zfgloaded)
 !||mc.yandex.ru^$other
 !||mc.yandex.ru^$image
 
-||anime-odcinki.pl/wp-includes/js/wp-embed.min.js$script,first-party
+@@||anime-odcinki.pl/wp-includes/js/wp-embed.min.js$script,first-party
 ||anime-odcinki.pl/wp-content/themes/animeodcinki/js/owl.carousel.min.js$script,first-party
 ||tt2.openload.co^$xmlhttprequest
 
@@ -15587,4 +15587,5 @@ www.zdnet.com###lightbox-917db656-f725-41c5-a080-58eb92128c48-1559189866664
 ||flix555.com/player8/vast.js$script,first-party
 
 ! 2.06.2019 tvp.pl
-||s.tvp.pl/files/tvplayer/1.8.27/platforms/mse/hlsjs/hls.min.js$script,domain=vod.tvp.pl
+!||s.tvp.pl/files/tvplayer/1.8.27/platforms/mse/hlsjs/hls.min.js$script,domain=vod.tvp.pl
+||*/files/*/*/platforms/mse/hlsjs/hls.min.js
