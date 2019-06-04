@@ -15589,3 +15589,4 @@ www.zdnet.com###lightbox-917db656-f725-41c5-a080-58eb92128c48-1559189866664
 ! 2.06.2019 tvp.pl
 !||s.tvp.pl/files/tvplayer/1.8.27/platforms/mse/hlsjs/hls.min.js$script,domain=vod.tvp.pl
 ||*/files/*/*/platforms/mse/hlsjs/hls.min.js
+||myao.adocean.pl/files/js/ado.js$script,domain=vod.tvp.pl
