@@ -10,7 +10,6 @@
 !
 ! Expires: -
 
-
 ||cagelrib.net
 ||pushedwebnews.com
 ||naucaips.com
@@ -15595,3 +15594,7 @@ www.zdnet.com###lightbox-917db656-f725-41c5-a080-58eb92128c48-1559189866664
 
 ! 4.06.2019 watchcartoonsonline.la
 !||deloplen.com/fac.php$subdocument,domain=www3.watchcartoonsonline.la
+
+! 7.06.2019 anime-odcinki.pl
+||s.spolecznosci.net/js/ads.js$script,first-party
+||s.spolecznosci.net/js/core2-min.js$script,domain=anime-odcinki.pl
