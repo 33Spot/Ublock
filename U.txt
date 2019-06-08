@@ -6,7 +6,7 @@
 !
 ! Link: https://raw.githubusercontent.com/33Spot/Ublock/master/U.txt
 !
-! Version: 20190516a
+! Version: 20190608
 !
 ! Expires: -
 
@@ -15598,3 +15598,11 @@ www.zdnet.com###lightbox-917db656-f725-41c5-a080-58eb92128c48-1559189866664
 ! 7.06.2019 anime-odcinki.pl
 ||s.spolecznosci.net/js/ads.js$script,first-party
 ||s.spolecznosci.net/js/core2-min.js$script,domain=anime-odcinki.pl
+
+! 8.06.2019 https://www.gamecopyworld.com
+www.gamecopyworld.com##body > div:nth-of-type(3)
+
+! 8.06.2019 gamecopyworld.com
+||dl.gamecopyworld.com/-ads.js$script,domain=dl.gamecopyworld.com
+||a2.consoletarget.com/-ads.js$script,domain=a2.consoletarget.com
+||a2.consoletarget.com/@_kgn.php$subdocument,domain=dl.gamecopyworld.com
