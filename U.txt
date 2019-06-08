@@ -15601,8 +15601,13 @@ www.zdnet.com###lightbox-917db656-f725-41c5-a080-58eb92128c48-1559189866664
 
 ! 8.06.2019 https://www.gamecopyworld.com
 www.gamecopyworld.com##body > div:nth-of-type(3)
+d2.consoletarget.com##body > div:nth-of-type(3)
 
 ! 8.06.2019 gamecopyworld.com
 ||dl.gamecopyworld.com/-ads.js$script,domain=dl.gamecopyworld.com
 ||a2.consoletarget.com/-ads.js$script,domain=a2.consoletarget.com
 ||a2.consoletarget.com/@_kgn.php$subdocument,domain=dl.gamecopyworld.com
+||a1.consoletarget.com/@_kgn.php$subdocument,domain=d2.consoletarget.com
+||a1.consoletarget.com/-ads.js$script,domain=a1.consoletarget.com
+||d2.consoletarget.com/js/p2.js$script,domain=d2.consoletarget.com
+||b.bnrslks.com/p2.js$script,domain=d2.consoletarget.com
