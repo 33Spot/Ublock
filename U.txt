@@ -689,6 +689,9 @@ txxx.com##.iRx9
 !||dexessee.com^$script,domain=www6.fmovies.to
 !||ugrastes.uk^$script,domain=www6.fmovies.to
 !||c.disquscdn.com/next/embed/common.bundle.880980e048a2432334f13013030456ac.js$script,domain=disqus.com
+www9.fmovies.to###(id*=rn_ad_native_)
+www9.fmovies.to##.mn-related-container_no-responsive.mn-related-container
+www9.fmovies.to##.mn-thumb
 
 ! 2.04.2019 fmovies.to
 ||zap.buzz^$subdocument,domain=mcloud.to
@@ -15636,3 +15639,7 @@ ffmovies.ru##.mn-related-container
 
 ! 10.06.2019 ffmovies.ru
 ||ssl.p.jwpcdn.com/player/v/8.8.2/jwpsrv.js$script,domain=prettyfast.to
+
+
+
+
