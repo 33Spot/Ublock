@@ -6,7 +6,7 @@
 !
 ! Link: https://raw.githubusercontent.com/33Spot/Ublock/master/U.txt
 !
-! Version: 20190608
+! Version: 20190609
 !
 ! Expires: -
 
@@ -15611,3 +15611,19 @@ d2.consoletarget.com##body > div:nth-of-type(3)
 ||a1.consoletarget.com/-ads.js$script,domain=a1.consoletarget.com
 ||d2.consoletarget.com/js/p2.js$script,domain=d2.consoletarget.com
 ||b.bnrslks.com/p2.js$script,domain=d2.consoletarget.com
+||wackyview.com/gpp.php$subdocument,domain=www.gameburnworld.com
+||whalecdn.cpmstar.com/cached/creatives/*$image,domain=www.gameburnworld.com
+||www.gameburnworld.com/shtml/iframe/ad_468x60_top_ad.htm$subdocument,domain=www.gameburnworld.com
+||www.gameburnworld.com/shtml/iframe/ad_left_menu.htm$subdocument,domain=www.gameburnworld.com
+||www.gameburnworld.com/shtml/iframe/ad_top_header.htm$subdocument,domain=www.gameburnworld.com
+||server.cpmstar.com/cached/js/popunder_v100.pack.js$script,domain=www.gameburnworld.com
+||cdn.cpmstar.com/cached/js/popunder_v100.pack.js$script,domain=www.gameburnworld.com
+
+! 9.06.2019 https://fuskator.com
+!fuskator.com###entrance_terms
+!fuskator.com###overlay
+
+! 9.06.2019 gotporn.com
+||cdn3-static-cf.gotporn.com/desktop/js/scripts-c3667ca0e5.js$script,domain=www.gotporn.com
+
+
