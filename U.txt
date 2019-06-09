@@ -13,7 +13,7 @@
 ||cagelrib.net
 ||pushedwebnews.com
 ||naucaips.com
-||dilruwka.net
+||dilruwha.net
 
 toteraz.pl###msgLayer > div > div:nth-of-type(1)
 toteraz.pl###msgLayer > div
@@ -15639,7 +15639,3 @@ ffmovies.ru##.mn-related-container
 
 ! 10.06.2019 ffmovies.ru
 ||ssl.p.jwpcdn.com/player/v/8.8.2/jwpsrv.js$script,domain=prettyfast.to
-
-
-
-
