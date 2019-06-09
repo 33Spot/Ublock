@@ -1166,7 +1166,7 @@ anime-odcinki.pl##+js(abort-current-inline-script.js, Math, zfgloaded)
 ||go.oclasrv.com^
 ||pushsar.com/event^
 ||cobalten.com^$popup,domain=anime-odcinki.pl
-||runative-syndicate.com^$script,domain=anime-odcinki.pl
+!||runative-syndicate.com^$script,domain=anime-odcinki.pl
 anime-odcinki.pl##.mn-related-container
 ||anime-odcinki.pl/wp-content/uploads/*/*/E-NEKOpSl.jpg$image
 
@@ -15605,17 +15605,19 @@ d2.consoletarget.com##body > div:nth-of-type(3)
 
 ! 8.06.2019 gamecopyworld.com
 ||dl.gamecopyworld.com/-ads.js$script,domain=dl.gamecopyworld.com
-||a2.consoletarget.com/-ads.js$script,domain=a2.consoletarget.com
-||a2.consoletarget.com/@_kgn.php$subdocument,domain=dl.gamecopyworld.com
-||a1.consoletarget.com/@_kgn.php$subdocument,domain=d2.consoletarget.com
-||a1.consoletarget.com/-ads.js$script,domain=a1.consoletarget.com
-||d2.consoletarget.com/js/p2.js$script,domain=d2.consoletarget.com
+||*.consoletarget.com/-ads.js$script,domain=*.consoletarget.com
+||*.consoletarget.com/@_kgn.php$subdocument,domain=dl.gamecopyworld.com
+||*.consoletarget.com/@_kgn.php$subdocument,domain=*.consoletarget.com
+||*.consoletarget.com/js/p2.js$script,domain=*.consoletarget.com
 ||b.bnrslks.com/p2.js$script,domain=d2.consoletarget.com
 ||wackyview.com/gpp.php$subdocument,domain=www.gameburnworld.com
 ||whalecdn.cpmstar.com/cached/creatives/*$image,domain=www.gameburnworld.com
-||www.gameburnworld.com/shtml/iframe/ad_468x60_top_ad.htm$subdocument,domain=www.gameburnworld.com
-||www.gameburnworld.com/shtml/iframe/ad_left_menu.htm$subdocument,domain=www.gameburnworld.com
-||www.gameburnworld.com/shtml/iframe/ad_top_header.htm$subdocument,domain=www.gameburnworld.com
+
+!||www.gameburnworld.com/shtml/iframe/ad_468x60_top_ad.htm$subdocument,domain=www.gameburnworld.com
+!||www.gameburnworld.com/shtml/iframe/ad_left_menu.htm$subdocument,domain=www.gameburnworld.com
+!||www.gameburnworld.com/shtml/iframe/ad_top_header.htm$subdocument,domain=www.gameburnworld.com
+||www.gameburnworld.com/shtml/iframe/ad_*.htm$subdocument,domain=www.gameburnworld.com
+
 ||server.cpmstar.com/cached/js/popunder_v100.pack.js$script,domain=www.gameburnworld.com
 ||cdn.cpmstar.com/cached/js/popunder_v100.pack.js$script,domain=www.gameburnworld.com
 
@@ -15626,4 +15628,5 @@ d2.consoletarget.com##body > div:nth-of-type(3)
 ! 9.06.2019 gotporn.com
 ||cdn3-static-cf.gotporn.com/desktop/js/scripts-c3667ca0e5.js$script,domain=www.gotporn.com
 
-
+! 10.06.2019 ffmovies.ru
+||cootewie.com/bundle.css$stylesheet,domain=ffmovies.ru
