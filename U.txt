@@ -15650,3 +15650,4 @@ ffmovies.ru##.mn-related-container
 
 ! 10.06.2019 ffmovies.ru
 ||ssl.p.jwpcdn.com/player/v/8.8.2/jwpsrv.js$script,domain=prettyfast.to
+||prettyfast.to/assets/jwplayer/8.8.2/related.js$script,first-party
