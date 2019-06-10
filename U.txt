@@ -708,6 +708,9 @@ www9.fmovies.to##.mn-thumb
 ||creative.wwwpromoter.com^$subdocument,domain=www6.fmovies.to
 www6.fmovies.to##div.pnp8tx5wirqg:nth-of-type(*)
 www9.fmovies.to##wrapper
+www9.fmovies.to##wrapper
+www9.fmovies.to##wrapper
+
 @@||fmovies.is^$generichide
 fmovies.is##.ads
 
@@ -783,6 +786,9 @@ ffmovies.ru##+js(abort-on-property-read.js, zfgloadedpopup)
 !ffmovies.ru##.mn-related-container_no-responsive.mn-related-container
 !ffmovies.ru##.mn-thumb
 ffmovies.ru##wrapper
+ffmovies.ru##wrapper
+ffmovies.ru##wrapper
+
 ||sb.scorecardresearch.com^$script,domain=ffmovies.ru
 ||jsc.mgid.com/f/m/fmovies.to.180496.js$script,domain=ffmovies.ru
 ||native.propellerclick.com^$xmlhttprequest,domain=ffmovies.ru
