@@ -15654,3 +15654,6 @@ ffmovies.ru##.mn-related-container
 
 ! 13.06.2019 spankbang.com
 ||static.spankbang.com/static_desktop/gen/ac_packed.v4.2c29694b.js$script,domain=pl.spankbang.com
+
+! 13.06.2019 xhamster.com
+||static-cl.xhcdn.com/js/52f741aa.hls.js$script,domain=pl.xhamster.com
