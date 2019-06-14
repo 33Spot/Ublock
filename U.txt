@@ -15683,3 +15683,12 @@ pl.pornhub.com##.clearfix.xy9olv > div:nth-of-type(3)
 
 ! 14.06.2019 watchcartoonsonline.la
 ||my.rtmark.net^$image,domain=deloplen.com
+
+! 14.06.2019 https://www1.9anime.nl
+!9anime.*###rn_ad_native_ykw39 > .mn-related-container
+!9anime.*###rn_ad_native_yo3vp > .mn-related-container
+9anime.*##(id*=rn_ad_native_)
+!> .mn-related-container
+
+! 14.06.2019 9anime.nl
+||cdn.runative-syndicate.com/sdk/v1/n.js$script
