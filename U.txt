@@ -106,8 +106,6 @@ allegro.pl##.full-width._26e29_ix2OZ.opbox-sheet-wrapper._26e29_1bLR9.v2144._26e
 ! 7.06.2018, 03:20:01 https://www.aznude.com/browse/celebs/r/3.html
 www.aznude.com##.recommended.container-2.container
 
-www.pornhub.com##.clearfix.streamateContent.row-4-thumbs.videos
-www.pornhub.com##.streamatesModelsContainer.sectionWrapper
 
 ! 30.06.2018, 11:57:25 https://a-o.ninja/anime/aishen-qiaokeli-ing-2/4
 a-o.ninja##.jgcabd-container
@@ -172,34 +170,50 @@ titki.top##.adsbar > h3
 www.dobreprogramy.pl##.qdxgv57
 www.dobreprogramy.pl##.v5p4u8a
 www.dobreprogramy.pl##.dzj77uw
-pl.pornhub.com###playlist_65360942 > .wrap > .linkWrapper > .borderLink
-pl.pornhub.com##.clear.hd
-pl.pornhub.com###pb_block
-pl.pornhub.com##.adlink2
-pl.pornhub.com##.removeAdsStyle.removeAdLink
-pl.pornhub.com#div(class*=premium)
-pl.pornhub.com#div(class*=Premium)
+
+*.pornhub.com##.clearfix.streamateContent.row-4-thumbs.videos
+*.pornhub.com##.streamatesModelsContainer.sectionWrapper
+*.pornhub.com###playlist_65360942 > .wrap > .linkWrapper > .borderLink
+*.pornhub.com##.clear.hd
+*.pornhub.com###pb_block
+*.pornhub.com##.adlink2
+*.pornhub.com##.removeAdsStyle.removeAdLink
+*.pornhub.com#div(class*=premium)
+*.pornhub.com#div(class*=Premium)
 
 ||*.pornhub.com/js/ht.js^$script
 ||di.phncdn.com/www-static/js//playlist/playlist-basic.js^$script
 ||media.trafficjunky.net/js/holiday-promo.js^$script
 ||cdn1d-static-shared.phncdn.com/jquery-ui-1.10.3.js^$script
 ||di.phncdn.com/www-static/js/lib/networkbar-5.0.0.js^$script
-www.pornhub.com###pb_block
-www.pornhub.com###pb_template
-www.pornhub.com##.mhp1138_visible.mhp1138_hotspots > svg
-www.pornhub.com##.mhp1138_eventCatcher
-www.pornhub.com##.clearfix.uz2juehdanax0oq6v
-www.pornhub.com##div:nth-of-type(3) > div > .removeAdsStyle.removeAdLink
-www.pornhub.com##div:nth-of-type(3) > div > .ad-link
-www.pornhub.com##body > div:nth-of-type(*)
+*.pornhub.com###pb_block
+*.pornhub.com###pb_template
+*.pornhub.com##.mhp1138_visible.mhp1138_hotspots > svg
+*.pornhub.com##.mhp1138_eventCatcher
+*.pornhub.com##.clearfix.uz2juehdanax0oq6v
+*.pornhub.com##div:nth-of-type(3) > div > .removeAdsStyle.removeAdLink
+*.pornhub.com##div:nth-of-type(3) > div > .ad-link
+*.pornhub.com##body > div:nth-of-type(*)
 ||hrahdmon.com^
-||media.trafficjunky.net^
+!||media.trafficjunky.net^
 ||cdn1-smallimg.phncdn.com^
 ||www.pornhub.com/svvt/add
 ||cdn1d-static-shared.phncdn.com/iframe-1.1.5.html
 ||hubt.pornhub.com^
 ||*.nsimg.net^
+
+! 5.04.2019 pornhub.com
+||smpop.icfcdn.com^$script
+||di.phncdn.com/www-static/js/widgets-live-popup.js$script,domain=www.pornhub.com
+! 7.04.2019 https://www.pornhub.com
+www.pornhub.com##milktruck > div:nth-of-type(*)
+www.pornhub.com###hd-rightColVideoPage > milktruck > div:nth-of-type(1)
+@@||trafficjunky.net^$third-party,important
+
+!##[href="http://www.trafficjunky.net"]
+!www.pornhub.com,youporn.com##+js(abort-on-property-read.js, AdDelivery.prototype.requestTrafficJunkyAds)
+
+
 
 ! 11.03.2019 https://tubepornclassic.com
 tubepornclassic.com##.player-holder > .nopop--new.nopop
@@ -1187,9 +1201,6 @@ anime-odcinki.pl##.mn-related-container
 ! 5.04.2019 https://pl.redtube.com
 pl.redtube.com###ab_banner
 
-! 5.04.2019 pornhub.com
-||smpop.icfcdn.com^$script
-||di.phncdn.com/www-static/js/widgets-live-popup.js$script,domain=www.pornhub.com
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4184
 a-o.ninja,anime-odcinki.pl##+js(set-constant.js, showAds, true)
@@ -1400,7 +1411,7 @@ activistpost.com##+js(noeval-if.js, Aderz)
 ! https://github.com/gorhill/uBlock/issues/1094
 extremetube.com,pornhub.com,primewire.*,redtube.*,spankwire.com,tube8.*,youporn.com,youporngay.com##+js(pornhub-popup-defuser.js)
 ! Using important will prevent the site from leveraging random exception filters
-||trafficjunky.net^$third-party,important
+@@||trafficjunky.net^$third-party,important
 ||xxxmyself.com^$important
 ||xxxnavy.com^$important
 
@@ -1414,12 +1425,6 @@ femdom-joi.com##[src="https://gounlimited.to/*.html"]
 !||cdn1d-static-shared.phncdn.com/timings-1.0.0.js$script,domain=www.pornhub.com
 !||ci.phncdn.com/www-static/js/ph-tracking.js$script,domain=www.pornhub.com
 
-! 7.04.2019 https://www.pornhub.com
-www.pornhub.com##milktruck > div:nth-of-type(*)
-www.pornhub.com###hd-rightColVideoPage > milktruck > div:nth-of-type(1)
-||trafficjunky.net^$third-party,important
-##[href="http://www.trafficjunky.net"]
-www.pornhub.com,youporn.com##+js(abort-on-property-read.js, AdDelivery.prototype.requestTrafficJunkyAds)
 
 ! 9.04.2019 https://mintguide.org
 ||mintguide.org/templates/MintGreen12mexalim/dleimages/marker.png$image
@@ -15662,3 +15667,9 @@ ffmovies.ru##.mn-related-container
 ||cse.google.com/adsense/search/async-ads.js$script,domain=www.oknonet.pl
 ||www.oknonet.pl/js/sha1.js$script,domain=www.oknonet.pl
 www.oknonet.pl###AdBig
+
+!pornhub.com##+js(set-constant.js, page_params.holiday_promo, true)
+!@@https://media.trafficjunky.net/__js/test.js
+
+! 14.06.2019 https://pl.pornhub.com
+pl.pornhub.com##.clearfix.xy9olv > div:nth-of-type(3)
