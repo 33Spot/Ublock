@@ -15657,3 +15657,8 @@ ffmovies.ru##.mn-related-container
 
 ! 13.06.2019 xhamster.com
 ||static-cl.xhcdn.com/js/52f741aa.hls.js$script,domain=pl.xhamster.com
+
+! 14.06.2019 oknonet.pl
+||cse.google.com/adsense/search/async-ads.js$script,domain=www.oknonet.pl
+||www.oknonet.pl/js/sha1.js$script,domain=www.oknonet.pl
+www.oknonet.pl###AdBig
