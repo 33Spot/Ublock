@@ -1596,10 +1596,14 @@ pornhub.com##+js(pornhub-sanitizer.js)
 ||static.adzerk.net/ados.js$script,important,domain=serverfault.com|stackoverflow.com
 
 ! https://github.com/uBlockOrigin/uAssets/issues/35
-||8s8.eu/fa.js$script,redirect=fuckadblock.js-3.2.0,domain=g9g.eu
-||g9g.eu^*fa.js$script,redirect=fuckadblock.js-3.2.0
-||im9.eu^*fa.js$script,redirect=fuckadblock.js-3.2.0
-||w87.eu/ads/banner.png$image,redirect=32x32-transparent.png,domain=im9.eu
+!||8s8.eu/fa.js$script,redirect=fuckadblock.js-3.2.0,domain=g9g.eu
+!||g9g.eu^*fa.js$script,redirect=fuckadblock.js-3.2.0
+!||im9.eu^*fa.js$script,redirect=fuckadblock.js-3.2.0
+!||w87.eu/ads/banner.png$image,redirect=32x32-transparent.png,domain=im9.eu
+||*.eu/fa.js$script,redirect=fuckadblock.js-3.2.0
+||*.eu^*fa.js$script,redirect=fuckadblock.js-3.2.0
+||*.eu^*fa.js$script,redirect=fuckadblock.js-3.2.0
+||*.eu/ads/banner.png$image,redirect=32x32-transparent.png
 
 ! https://github.com/uBlockOrigin/uAssets/issues/36
 play.spotify.com##+js(nr-unwrapper.js)
@@ -15674,7 +15678,5 @@ www.oknonet.pl###AdBig
 ! 14.06.2019 https://pl.pornhub.com
 pl.pornhub.com##.clearfix.xy9olv > div:nth-of-type(3)
 
-
 ! 14.06.2019 youtube.com
 @@||static.doubleclick.net/instream/ad_status.js$script,domain=www.youtube.com
-
