@@ -270,8 +270,8 @@ www.youtube.com###contents > .ytd-search-pyv-renderer.style-scope
 
 ||platform.twitter.com/widgets/*$inline-script,domain=platform.twitter.com
 ||staticxx.facebook.com/connect/xd_arbiter/*$inline-script,domain=staticxx.facebook.com
-||st.bebi.com^$script,domain=www2.9anime.to
-||trck.bebi.com/1.0/*$image,domain=www2.9anime.to
+||st.bebi.com^$script,domain=*.9anime.*
+||trck.bebi.com/1.0/*$image,domain=*.9anime.*
 
 !||apis.google.com/_/scs/abc-static/_/js/*$script,domain=www.google.pl
 !||www.gstatic.com/og/_/js/*$script,domain=www.google.pl
@@ -787,10 +787,10 @@ fmovies.cab##+js(abort-on-property-read.js, _0x1477)
 ||soujoobafoo.com^
 ||9anime.*^$script,1p
 @@||9anime.*/assets/$script,1p
-@@||static.animecdn.xyz/js/ads.js$script,domain=9animes.ru
-||native.propellerclick.com^$script,domain=www2.9anime.to
-||jsc.mgid.com/9/*$script,domain=www2.9anime.to
-||www2.9anime.to^$inline-script,domain=www2.9anime.to
+@@||static.animecdn.xyz/js/ads.js$script,domain=9animes.*
+||native.propellerclick.com^$script,domain=*.9anime.*
+||jsc.mgid.com/9/*$script,domain=*.9anime.*
+||www2.9anime.to^$inline-script,domain=*.9anime.*
 
 ! 3.04.2019 ffmovies.ru
 ffmovies.ru##+js(abort-current-inline-script.js, parseInt, incrementClicks)
@@ -15224,6 +15224,19 @@ www8.tok2.com###meerkat-wrap
 !||*.*/*/rwdgrid/*/rwdgrid.min.css$stylesheet
 ||*/*/underscore/*/underscore.min.js$script
 ||*/*/rwdgrid/*/rwdgrid.min.css$stylesheet
+||*/underscore.js$script
+||*/rwdgrid.min.css$stylesheet
+||*/lodash.js$script
+||*/script.js$script
+
+||ceeglagu.net$stylesheet
+||ceeglagu.net$script
+||ceeglagu.net$xmlhttprequest
+||ceeglagu.net$image
+
+!||ceeglagu.net/script.js$script
+!||ceeglagu.net/lodash.js$script
+!||ceeglagu.net/underscore.js$script
 @@||*/*/script-*.*.*.js$script
 @@||*/player/*/*.*.*/jwpsrv.js$script
 
@@ -15536,9 +15549,11 @@ anime-odcinki.pl###sad_5464 > iframe
 ||*/apu.php$script
 ||*/ntfc.php$script
 
+
 anime-odcinki.pl##.navbar-nav.nav.menu
 
 !||*/afu.php?zoneid=*$subdocument
+||*/fac.php
 ||*/apu.php?[id*="zoneid="]
 ||*/afu.php?[id*="zoneid="]
 ||*/lp.php?[id*="zoneid="]
@@ -15692,3 +15707,6 @@ pl.pornhub.com##.clearfix.xy9olv > div:nth-of-type(3)
 
 ! 14.06.2019 9anime.nl
 ||cdn.runative-syndicate.com/sdk/v1/n.js$script
+
+! 16.06.2019 watchcartoonsonline.la
+||cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js$script
