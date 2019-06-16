@@ -15229,10 +15229,17 @@ www8.tok2.com###meerkat-wrap
 ||*/lodash.js$script
 ||*/script.js$script
 
-||ceeglagu.net$stylesheet
-||ceeglagu.net$script
-||ceeglagu.net$xmlhttprequest
-||ceeglagu.net$image
+||ceeglagu.net
+||steptaik.net
+||jsc.mgid.com
+||ucheephu.com
+||dexessee.com
+||ugrastes.uk
+||pegloang.com
+||zuzodoad.com
+||naustoch.net
+||eseecmoa.com
+||ensnes.pro
 
 !||ceeglagu.net/script.js$script
 !||ceeglagu.net/lodash.js$script
@@ -15712,4 +15719,3 @@ pl.pornhub.com##.clearfix.xy9olv > div:nth-of-type(3)
 ||cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js$script
 ||g.jwpsrv.com^$subdocument
 ||whos.amung.us^$script
-
