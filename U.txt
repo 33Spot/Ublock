@@ -15711,3 +15711,5 @@ pl.pornhub.com##.clearfix.xy9olv > div:nth-of-type(3)
 ! 16.06.2019 watchcartoonsonline.la
 ||cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js$script
 ||g.jwpsrv.com^$subdocument
+||whos.amung.us^$script
+
