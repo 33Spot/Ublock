@@ -15253,7 +15253,8 @@ www8.tok2.com###meerkat-wrap
 
 ! 29.04.2019 flenix.fun
 !||viduplayer.com/player7/lightsout.js$script,first-party
-||d3al52d8cojds7.cloudfront.net^$script,domain=flenix.fun
+!||d3al52d8cojds7.cloudfront.net^$script,domain=flenix.fun
+||*.cloudfront.net^$script,domain=flenix.fun
 ||s3.amazonaws.com/www.adnigma.com/TemplateRun/js/DialogTag3.js$script,domain=flenix.fun
 ||doo6pwib3qngu.cloudfront.net^$script,domain=thesandonesof.info
 ||ozonestsscareer.info
