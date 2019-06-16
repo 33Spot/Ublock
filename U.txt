@@ -15744,3 +15744,6 @@ pl.pornhub.com##.clearfix.xy9olv > div:nth-of-type(3)
 
 ! 16.06.2019 spankbang.com
 ||static.spankbang.com/Javascript/Translation/pl.js$script,domain=pl.spankbang.com
+
+! 16.06.2019 ipla.tv
+||www.ipla.tv/ads/window-load-handler.js$script,domain=www.ipla.tv
