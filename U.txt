@@ -15747,3 +15747,8 @@ pl.pornhub.com##.clearfix.xy9olv > div:nth-of-type(3)
 
 ! 16.06.2019 ipla.tv
 ||www.ipla.tv/ads/window-load-handler.js$script,domain=www.ipla.tv
+
+
+! 18.06.2019 tvp.pl
+||s.tvp.pl/files/tvplayer/1.8.27/platforms/videojs/videojs.vpaid.min.css$stylesheet,domain=vod.tvp.pl
+||svastx.moatads.com^$xmlhttprequest,domain=vod.tvp.pl
