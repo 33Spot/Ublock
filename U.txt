@@ -15635,7 +15635,7 @@ www.zdnet.com###lightbox-917db656-f725-41c5-a080-58eb92128c48-1559189866664
 
 ! 2.06.2019 tvp.pl
 !||s.tvp.pl/files/tvplayer/1.8.27/platforms/mse/hlsjs/hls.min.js$script,domain=vod.tvp.pl
-||*/files/*/*/platforms/mse/hlsjs/hls.min.js
+@@||*/files/*/*/platforms/mse/hlsjs/hls.min.js
 ||myao.adocean.pl/files/js/ado.js$script,domain=vod.tvp.pl
 
 ! 4.06.2019 watchcartoonsonline.la
@@ -15748,7 +15748,6 @@ pl.pornhub.com##.clearfix.xy9olv > div:nth-of-type(3)
 ! 16.06.2019 ipla.tv
 ||www.ipla.tv/ads/window-load-handler.js$script,domain=www.ipla.tv
 
-
 ! 18.06.2019 tvp.pl
 ||s.tvp.pl/files/tvplayer/1.8.27/platforms/videojs/videojs.vpaid.min.css$stylesheet,domain=vod.tvp.pl
 ||svastx.moatads.com^$xmlhttprequest,domain=vod.tvp.pl
@@ -15760,3 +15759,6 @@ pl.pornhub.com##.clearfix.xy9olv > div:nth-of-type(3)
 ||teleshow.wp.pl^$script,domain=www.dobreprogramy.pl
 ||s0.2mdn.net/instream/video/client.js$script,domain=www.dobreprogramy.pl
 ||std.wpcdn.pl/wpjslib/wpjslib-sgap.js$script,domain=www.dobreprogramy.pl
+
+! 18.06.2019 tvp.pl
+||adocean-pl.hit.gemius.pl/gdejs/xgde.js$script,domain=sport.tvp.pl
