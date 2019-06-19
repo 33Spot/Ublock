@@ -19620,3 +19620,11 @@ urlchecker.org###ads_notify
 @@||vjs.zencdn.net/4.12/video.js$script
 @@||jwpsrv.com/library/5V3tOP97EeK2SxIxOUCPzg.js$script
 gaara-fr.com###ga-skin-top
+
+
+! 19.06.2019 ipla.tv
+!||s0.2mdn.net/instream/video/client.js$script,domain=www.ipla.tv
+||*/instream/video/client.js$script,domain=www.ipla.tv
+!||svastx.moatads.com^$xmlhttprequest,domain=imasdk.googleapis.com
+||*.moatads.com^$xmlhttprequest,domain=imasdk.googleapis.com
+
