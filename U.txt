@@ -19628,3 +19628,6 @@ gaara-fr.com###ga-skin-top
 !||svastx.moatads.com^$xmlhttprequest,domain=imasdk.googleapis.com
 ||*.moatads.com^$xmlhttprequest,domain=imasdk.googleapis.com
 
+! 19.06.2019 watchcartoonsonline.la
+!||t.sharethis.com/1/d/t.dhj$script,domain=watchcartoonsonline.la
+||*.sharethis.com^$script,domain=watchcartoonsonline.la
