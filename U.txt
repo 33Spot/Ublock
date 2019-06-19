@@ -19634,3 +19634,7 @@ gaara-fr.com###ga-skin-top
 
 ! 19.06.2019 ipla.tv
 ||ipla.hit.stat24.com/__/ad.xml$xmlhttprequest,domain=www.ipla.tv
+
+! 19.06.2019 https://pl.pornhub.com
+pl.pornhub.com###pb_block
+
