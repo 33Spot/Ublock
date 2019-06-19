@@ -19631,3 +19631,6 @@ gaara-fr.com###ga-skin-top
 ! 19.06.2019 watchcartoonsonline.la
 !||t.sharethis.com/1/d/t.dhj$script,domain=watchcartoonsonline.la
 ||*.sharethis.com^$script,domain=watchcartoonsonline.la
+
+! 19.06.2019 ipla.tv
+||ipla.hit.stat24.com/__/ad.xml$xmlhttprequest,domain=www.ipla.tv
