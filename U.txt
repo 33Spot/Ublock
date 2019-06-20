@@ -15762,9 +15762,11 @@ pl.pornhub.com##.clearfix.xy9olv > div:nth-of-type(3)
 
 ! 18.06.2019 tvp.pl
 !||adocean-pl.hit.gemius.pl/gdejs/xgde.js$script,domain=sport.tvp.pl
-||*/gdejs/xgde.js$script,domain=sport.tvp.pl,player.pl
+||*/gdejs/xgde.js$script
+!,domain=sport.tvp.pl,player.pl
 !||s.tvp.pl/files/tvplayer/1.8.27/platforms/videojs/videojs.vpaid.min.js$script,domain=sport.tvp.pl
-||s.tvp.pl/*/tvplayer/*/*/videojs/videojs.vpaid.min.js$script,domain=sport.tvp.pl
+||s.tvp.pl/*/tvplayer/*/*/videojs/videojs.vpaid.min.js$script
+!,domain=sport.tvp.pl
 
 ! 18.06.2019 zmovies.to
 ||bnsjb1ab1e.com^$script,domain=vidsrc.me
