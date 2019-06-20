@@ -19648,3 +19648,6 @@ pl.pornhub.com###pb_block
 @@||yomusi.co/blockadblock.js$script,first-party
 @@||stats.g.doubleclick.net^$image,domain=yomusi.co
 
+! 20.06.2019 watchcartoonsonline.la
+!||iamcdn.net/players/jwplayer/8.4.2/plugins/related.js$script,domain=www18.watchcartoonsonline.la
+||iamcdn.net/players/jwplayer/*/plugins/related.js$script,domain=www18.watchcartoonsonline.la
