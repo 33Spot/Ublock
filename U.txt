@@ -19660,3 +19660,6 @@ inpost.pl##.art-banner--bottom
 ! 20.06.2019 watchcartoonsonline.la
 !||iamcdn.net/players/jwplayer/8.4.2/plugins/related.js$script,domain=www18.watchcartoonsonline.la
 ||iamcdn.net/players/jwplayer/*/plugins/related.js$script,domain=www18.watchcartoonsonline.la
+
+! 20.06.2019 player.pl
+||tvn.adocean.pl/files/js/billboard_gao_lib.js$script,domain=player.pl
