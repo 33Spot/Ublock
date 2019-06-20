@@ -19681,3 +19681,13 @@ inpost.pl##.art-banner--bottom
 ! 20.06.2019 zmovies.to
 !||gqqdlckj8y.com/aa/94/fc/aa94fcea973ddd9703961cc3bf7e4af2.js$script,domain=vidsrc.me
 !||*.com/*/*/*/*.js$script,domain=vidsrc.me
+
+! 20.06.2019 tvp.pl
+||tvpgapl.hit.gemius.pl/xgemius.js$script,domain=sport.tvp.pl
+||pro.hit.gemius.pl/hmapxy.js$script,domain=sport.tvp.pl
+
+! 20.06.2019 9anime.nl
+||a.exosrv.com^$script,domain=www.rapidvideo.com
+
+! 20.06.2019 fmovies.to
+||greedseed.world^$script,domain=openload.pw
