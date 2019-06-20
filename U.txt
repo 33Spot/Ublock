@@ -19646,4 +19646,5 @@ pl.pornhub.com###pb_block
 ! 20.06.2019 yomusi.co
 ||ad.a-ads.com^$subdocument,domain=yomusi.co
 @@||yomusi.co/blockadblock.js$script,first-party
+@@||stats.g.doubleclick.net^$image,domain=yomusi.co
 
