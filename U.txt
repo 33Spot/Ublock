@@ -15762,8 +15762,9 @@ pl.pornhub.com##.clearfix.xy9olv > div:nth-of-type(3)
 
 ! 18.06.2019 tvp.pl
 !||adocean-pl.hit.gemius.pl/gdejs/xgde.js$script,domain=sport.tvp.pl
-||*/gdejs/xgde.js$script
+!||*/gdejs/xgde.js$script
 !,domain=sport.tvp.pl,player.pl
+
 !||s.tvp.pl/files/tvplayer/1.8.27/platforms/videojs/videojs.vpaid.min.js$script,domain=sport.tvp.pl
 ||s.tvp.pl/*/tvplayer/*/*/videojs/videojs.vpaid.min.js$script
 !,domain=sport.tvp.pl
@@ -19643,13 +19644,13 @@ pl.pornhub.com###pb_block
 
 ! 19.06.2019 tvp.pl
 !||pro.hit.gemius.pl/gemiuslib.js$script,domain=vod.tvp.pl
-||*/gemiuslib.js$script
+!||*/gemiuslib.js$script
 !,domain=vod.tvp.pl,player.pl,sport.tvp.pl
 !||tvpgapl.hit.gemius.pl/pp_gemius.js$script,domain=vod.tvp.pl
-||*/pp_gemius.js$script
+!||*/pp_gemius.js$script
 !,domain=vod.tvp.pl,player.pl,sport.tvp.pl
 !||vod.tvp.pl/gemius/gemius.js$script,domain=vod.tvp.pl
-||*/gemius/gemius.js$script
+!||*/gemius/gemius.js$script
 !,domain=vod.tvp.pl,player.pl,sport.tvp.pl
 
 ! 19.06.2019 https://inpost.pl
