@@ -19668,3 +19668,15 @@ inpost.pl##.art-banner--bottom
 
 ! 20.06.2019 player.pl
 ||tvn.adocean.pl/files/js/billboard_gao_lib.js$script,domain=player.pl
+
+! 20.06.2019 zmovies.to
+!||4l7wg5kf3z.com/50/5b/9a/505b9ab37b7d51d7b0217c27ecdebd43.js$script,domain=vidsrc.me
+||*/*/*/*/*ecdebd*.js$script,domain=vidsrc.me
+
+! 20.06.2019 zmovies.to
+!||myornamenti.com/49/a4/11/49a41147d423d933e902f741e7480718.js$script,domain=vidsrc.me
+!||myornamenti.com/*/*/*/*.js$script,domain=vidsrc.me
+
+! 20.06.2019 zmovies.to
+!||gqqdlckj8y.com/aa/94/fc/aa94fcea973ddd9703961cc3bf7e4af2.js$script,domain=vidsrc.me
+!||*.com/*/*/*/*.js$script,domain=vidsrc.me
