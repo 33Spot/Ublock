@@ -19643,11 +19643,14 @@ pl.pornhub.com###pb_block
 
 ! 19.06.2019 tvp.pl
 !||pro.hit.gemius.pl/gemiuslib.js$script,domain=vod.tvp.pl
-||*/gemiuslib.js$script,domain=vod.tvp.pl,player.pl,sport.tvp.pl
+||*/gemiuslib.js$script
+!,domain=vod.tvp.pl,player.pl,sport.tvp.pl
 !||tvpgapl.hit.gemius.pl/pp_gemius.js$script,domain=vod.tvp.pl
-||*/pp_gemius.js$script,domain=vod.tvp.pl,player.pl,sport.tvp.pl
+||*/pp_gemius.js$script
+!,domain=vod.tvp.pl,player.pl,sport.tvp.pl
 !||vod.tvp.pl/gemius/gemius.js$script,domain=vod.tvp.pl
-||*/gemius/gemius.js$script,domain=vod.tvp.pl,player.pl,sport.tvp.pl
+||*/gemius/gemius.js$script
+!,domain=vod.tvp.pl,player.pl,sport.tvp.pl
 
 ! 19.06.2019 https://inpost.pl
 inpost.pl##.art-screen
