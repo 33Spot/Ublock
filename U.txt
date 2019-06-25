@@ -19691,3 +19691,6 @@ inpost.pl##.art-banner--bottom
 
 ! 20.06.2019 fmovies.to
 ||greedseed.world^$script,domain=openload.pw
+
+! 25.06.2019 https://www.youtube.com
+www.youtube.com##ytd-popup-container.ytd-app.style-scope
