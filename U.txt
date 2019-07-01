@@ -854,7 +854,7 @@ ffmovies.ru##wrapper
 ||nbclix.com^$popup,domain=ffmovies.ru
 ||qnjdtefk.com^
 ||qnjdtefk.com^$popup
-||ffmovies.ru^$popup
+!||ffmovies.ru^$popup
 
 !||fruithosts.net^$xmlhttprequest,first-party
 @@||fruithosts.net^$inline-script,first-party
