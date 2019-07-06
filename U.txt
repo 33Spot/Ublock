@@ -19697,3 +19697,10 @@ inpost.pl##.art-banner--bottom
 
 ! 25.06.2019 https://www.youtube.com
 www.youtube.com##ytd-popup-container.ytd-app.style-scope
+
+! 4.07.2019 https://www.youtube.com
+www.youtube.com###alert-banner > .ytd-browse.style-scope
+
+! 4.07.2019 gadgetsnow.com
+||z-na.amazon-adsystem.com^$script,domain=www.gadgetsnow.com
+||ade.clmbtech.com^$script,domain=www.gadgetsnow.com
