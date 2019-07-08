@@ -605,7 +605,7 @@ tubepornclassic.com##.iRx9
 ||collector1.xhamster.com^
 ||cdn.tsyndicate.com/sdk/v1/ad.js^$script
 !||s7.addthis.com/js/300/addthis_widget.js^$script
-||cdn.tsyndicate.com^
+!||cdn.tsyndicate.com^
 
 !||static-cl.xhcdn.com/xh-tpl3/js/*.common.js$script
 !||static-cl.xhcdn.com/xh-tpl3/js/locales/pl/*.common.js$script
@@ -614,20 +614,20 @@ pl.xhamster.com##.rendered.vertical.wid-cams-widget
 !||static-cl.xhcdn.com/xh-tpl3/js/locales/*.header.js$script
 !||static-cl.xhcdn.com/xh-tpl3/js/*.header.js$script
 
-||ip*.ahcdn.com^$xmlhttprequest,domain=xhamster.com
+!||ip*.ahcdn.com^$xmlhttprequest,domain=xhamster.com
 ||ip*.ahcdn.com^$media,domain=xhamster.com
 ||collector.xhamster.com^$xmlhttprequest
 ||cdn.trafficstars.com^
-||video*.xhcdn.com^$xmlhttprequest
+!||video*.xhcdn.com^$xmlhttprequest
 ||video*.xhcdn.com^$media
 @@||cnt.xhamster.com/cnt.php
-||*.cdn13.com^$xmlhttprequest
+!||*.cdn13.com^$xmlhttprequest
 @@||*.cdn13.com^$media
 ||tsyndicate.com/iframe2/*$inline-script
 pl.xhamster.com##.player-ad-close
 ||tsyndicate.com/iframe2*$subdocument
 pl.xhamster.com##.no-popunder.wid-banner-container
-||tsyndicate.com^$subdocument
+!||tsyndicate.com^$subdocument
 ||pl.xhamster.com/video-hls/*$xmlhttprequest
 pl.xhamster.com##.wid-spot-container.no-popunder.bottom-widget-section
 
