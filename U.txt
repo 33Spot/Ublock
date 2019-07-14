@@ -19704,3 +19704,9 @@ www.youtube.com###alert-banner > .ytd-browse.style-scope
 ! 4.07.2019 gadgetsnow.com
 ||z-na.amazon-adsystem.com^$script,domain=www.gadgetsnow.com
 ||ade.clmbtech.com^$script,domain=www.gadgetsnow.com
+
+! 10.07.2019 reddup.co
+||padsblue.com^$script,domain=www.reddup.co
+
+! 14.07.2019 https://www.pcgamer.com
+www.pcgamer.com###cmp-container-id
