@@ -19710,3 +19710,13 @@ www.youtube.com###alert-banner > .ytd-browse.style-scope
 
 ! 14.07.2019 https://www.pcgamer.com
 www.pcgamer.com###cmp-container-id
+
+! 14.07.2019 tibiopedia.pl
+||tibiopedia.pl/js/library/scripts.js$script,first-party
+||tibiopedia.pl/js/cookie.js$script,first-party
+
+! 17.07.2019 https://anime-odcinki.pl
+anime-odcinki.pl##.pea_cook_bottomright.pea_cook_wrapper
+
+! 24.07.2019 https://www.youtube.com
+www.youtube.com##.opened
