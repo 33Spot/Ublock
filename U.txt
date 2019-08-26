@@ -19720,3 +19720,22 @@ anime-odcinki.pl##.pea_cook_bottomright.pea_cook_wrapper
 
 ! 24.07.2019 https://www.youtube.com
 www.youtube.com##.opened
+
+! 1.08.2019 https://zmovies.to
+zmovies.to###spu-11
+zmovies.to###spu-bg-11
+
+! 9.08.2019 https://www.micrology.pl
+||static.mailerlite.com/data/a/1049/1049634/webforms/q9u1d6/906/906330/page.html?v=1565385181$subdocument
+www.micrology.pl###ml-webforms-popup-906330-overlay
+
+! 13.08.2019 https://www.edaboard.com
+||www.edaboard.com/interstitial/blackdot.gif$image
+www.edaboard.com###interVeil
+www.edaboard.com###interContainer
+
+! 22.08.2019 newsmode.me
+||newsmode.me^
+
+! 23.08.2019 https://tubepornclassic.com
+tubepornclassic.com##.___it0i7lborsb3o8.oImef.oImef0
