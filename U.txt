@@ -19744,4 +19744,18 @@ tubepornclassic.com##.___it0i7lborsb3o8.oImef.oImef0
 ||csi.gstatic.com^$other,domain=imasdk.googleapis.com
 ||tvpgapl.hit.gemius.pl^$other,domain=vod.tvp.pl
 
+! 31.08.2019 9anime.to
+||9anime.to/user/ajax/*$xmlhttprequest,first-party
 
+! 2.09.2019 https://tubepornclassic.com
+tubepornclassic.com##.iRx9_wrt
+
+! 3.09.2019 https://wlaczoszczedzanie.pl
+||static.mailerlite.com/data/a/1281/1281948/webforms/o5k8v6/1103/1103238/page.html$subdocument
+wlaczoszczedzanie.pl###ml-webforms-popup-1103238-overlay
+
+! 3.09.2019 9anime.to
+||class2deal.com^$script,domain=9anime.to
+||whos.amung.us^$domain=9anime.to
+||daurifek.net^$domain=prettyfast.to
+||vaipsona.com^$domain=prettyfast.to
