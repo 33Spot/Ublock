@@ -19762,3 +19762,45 @@ wlaczoszczedzanie.pl###ml-webforms-popup-1103238-overlay
 
 ! 4.09.2019 tubepornclassic.com
 ||tubepornclassic.com/detroit/*$script,first-party
+
+! 4.09.2019 nuvid.com
+||cdn.tsyndicate.com^$script,first-party
+||cdn.tsyndicate.com/*/*/*/*^$script,first-party
+||cdn.tsyndicate.com/*/*/*^$script,first-party
+||cdn.tsyndicate.com/*/*^$script,first-party
+
+! 4.09.2019 uiporn.com
+||www.uiporn.com/*/*/*/*$script,domain=www.uiporn.com
+||www.uiporn.com/*/*/*$script,domain=www.uiporn.com
+
+! 4.09.2019 https://www.yeptube.com
+www.yeptube.com##.drt-poster
+www.yeptube.com##.drt-context-menu
+www.yeptube.com##.drt-spot-frame
+www.yeptube.com##.drt-spot-visible.no-buttons.drt-spot-box
+
+! 4.09.2019 yeptube.com
+||i.bimbolive.com^$domain=propbn.com
+||creative.stripchat.com/js/player.js$script,domain=propbn.com
+
+! 4.09.2019 https://www.yeptube.com
+www.yeptube.com##[src="/yeptube_right_ads.php?v=17.38"]
+www.yeptube.com###puFloatDiv
+www.yeptube.com##.livecams.c-content
+www.yeptube.com##div.mt10.container:nth-of-type(6) > .c-title
+
+! 4.09.2019 xhamster.com
+||*.xhamster.com^$xmlhttprequest,domain=*.xhamster.com
+
+! 4.09.2019 https://pl.xhamster.com
+pl.xhamster.com##.wit-spot-container.no-popunder.bottom-widget-section
+pl.xhamster.com##.no-popunder.wit-spot-container.wit-player
+
+! 4.09.2019 pornhub.com
+||*.phncdn.com/videos/*/*/*/original/(*)(*)0.jpg$image,domain=*.pornhub.com
+
+! 4.09.2019 https://pl.pornhub.com
+pl.pornhub.com##.tooltipTrig.premiumLockedVideo
+
+! 4.09.2019 vrporn.com
+||cdn.webglstats.com^$xmlhttprequest,domain=vrporn.com
