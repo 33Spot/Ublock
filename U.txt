@@ -19759,3 +19759,6 @@ wlaczoszczedzanie.pl###ml-webforms-popup-1103238-overlay
 ||daurifek.net^$domain=prettyfast.to
 ||vaipsona.com^$domain=prettyfast.to
 ||class2deal.com^$domain=9anime.to
+
+! 4.09.2019 tubepornclassic.com
+||tubepornclassic.com/detroit/*$script,first-party
