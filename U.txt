@@ -19804,3 +19804,7 @@ pl.pornhub.com##.tooltipTrig.premiumLockedVideo
 
 ! 4.09.2019 vrporn.com
 ||cdn.webglstats.com^$xmlhttprequest,domain=vrporn.com
+
+! 4.09.2019 https://player.pl
+player.pl##iframe.__ipPerunElement
+player.pl##div.__ipPerunElement
