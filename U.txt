@@ -19808,3 +19808,7 @@ pl.pornhub.com##.tooltipTrig.premiumLockedVideo
 ! 4.09.2019 https://player.pl
 player.pl##iframe.__ipPerunElement
 player.pl##div.__ipPerunElement
+
+! 5.09.2019 https://anime-odcinki.pl
+anime-odcinki.pl###reklama_lewa
+anime-odcinki.pl###reklama_prawa
