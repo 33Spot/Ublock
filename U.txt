@@ -325,10 +325,10 @@ www.ipla.tv##.skip-intro--QdqTx.cpp2-skip-intro
 !@@||webshark.pl/apcu/*$script,domain=freedisc.pl
 
 ||staticxx.facebook.com/connect/xd_arbiter/*$subdocument,domain=freedisc.pl
-||static.xx.fbcdn.net^$script,domain=www.facebook.com
-||static.xx.fbcdn.net/favicon.ico$image,domain=static.xx.fbcdn.net
+!||static.xx.fbcdn.net^$script,domain=www.facebook.com
+!||static.xx.fbcdn.net/favicon.ico$image,domain=static.xx.fbcdn.net
 ||static.xx.fbcdn.net/rsrc.php/v3i7Kf4/yT/l/pl_PL/*$script,domain=www.facebook.com
-||static.xx.fbcdn.net^$script,domain=www.facebook.com
+!||static.xx.fbcdn.net^$script,domain=www.facebook.com
 
 ||freedisc.pl/static/player/*/vast.js$script
 ||freedisc.pl/static/player/*/vast-ap.js$script
