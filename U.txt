@@ -19812,3 +19812,15 @@ player.pl##div.__ipPerunElement
 ! 5.09.2019 https://anime-odcinki.pl
 anime-odcinki.pl###reklama_lewa
 anime-odcinki.pl###reklama_prawa
+
+! 11.09.2019 xhamster.com
+||cdn.tsyndicate.com^$script,domain=xhamster.com
+||static-cl.xhcdn.com/*/*/*header.js^$script,domain=xhamster.com
+!||static-cl.xhcdn.com/*/*/*common.js^$script,domain=xhamster.com
+||static-cl.xhcdn.com/*/*/*/*/*header.js^$script,domain=xhamster.com
+||static-cl.xhcdn.com/*/*/*/*/*common.js^$script,domain=xhamster.com
+
+! 11.09.2019 https://pl.xhamster.com
+pl.xhamster.com##.no-popunder.wil-sponsor-banner
+pl.xhamster.com##.no-popunder.wil-spot-container.wil-player
+pl.xhamster.com##.rendered.horizontal.as-width-wrap.wil-cams-widget
