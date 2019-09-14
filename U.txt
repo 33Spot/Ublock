@@ -19824,3 +19824,8 @@ anime-odcinki.pl###reklama_prawa
 pl.xhamster.com##.no-popunder.wil-sponsor-banner
 pl.xhamster.com##.no-popunder.wil-spot-container.wil-player
 pl.xhamster.com##.rendered.horizontal.as-width-wrap.wil-cams-widget
+
+
+! 9/14/2019 tvn24.pl
+||tvn2.adocean.pl/files/js/ado.js$script,domain=www.tvn24.pl
+||spush.services.tvn.pl^$script,domain=www.tvn24.pl
