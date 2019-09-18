@@ -19830,3 +19830,5 @@ pl.xhamster.com##.rendered.horizontal.as-width-wrap.wil-cams-widget
 
 ||assets.gfycat.com/House_Banners/$image
 
+! 9/18/2019 tvp.pl
+||tvpgapl.hit.gemius.pl^$script,domain=vod.tvp.pl
