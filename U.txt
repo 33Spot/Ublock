@@ -19837,4 +19837,4 @@ pl.xhamster.com##.rendered.horizontal.as-width-wrap.wil-cams-widget
 ||tvn.hit.gemius.pl^$script,domain=eurosport.tvn24.pl
 
 ! 9/18/2019 tvp.pl
-||tvpgapl.hit.gemius.pl^$script,domain=vod.tvp.pl
+||gapl.hit.gemius.pl/gplayer.js$script,domain=vod.tvp.pl
