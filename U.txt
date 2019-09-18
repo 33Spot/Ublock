@@ -19625,7 +19625,6 @@ urlchecker.org###ads_notify
 @@||jwpsrv.com/library/5V3tOP97EeK2SxIxOUCPzg.js$script
 gaara-fr.com###ga-skin-top
 
-
 ! 19.06.2019 ipla.tv
 !||s0.2mdn.net/instream/video/client.js$script,domain=www.ipla.tv
 ||*/instream/video/client.js$script,domain=www.ipla.tv
@@ -19825,7 +19824,9 @@ pl.xhamster.com##.no-popunder.wil-sponsor-banner
 pl.xhamster.com##.no-popunder.wil-spot-container.wil-player
 pl.xhamster.com##.rendered.horizontal.as-width-wrap.wil-cams-widget
 
-
 ! 9/14/2019 tvn24.pl
 ||tvn2.adocean.pl/files/js/ado.js$script,domain=www.tvn24.pl
 ||spush.services.tvn.pl^$script,domain=www.tvn24.pl
+
+||assets.gfycat.com/House_Banners/$image
+
