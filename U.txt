@@ -19842,3 +19842,8 @@ pl.xhamster.com##.rendered.horizontal.as-width-wrap.wil-cams-widget
 ! 9/21/2019 tvn24.pl
 ||tvn.adocean.pl^$domain=www.tvn24.pl
 
+! 23.09.2019 https://megajoi.com
+megajoi.com##div.margin-bottom-10.thumb:nth-of-type(1)
+megajoi.com##div.margin-bottom-10.thumb:nth-of-type(2)
+megajoi.com##div.margin-bottom-10.thumb:nth-of-type(3)
+
