@@ -19854,3 +19854,8 @@ megajoi.com##div.margin-bottom-10.thumb:nth-of-type(3)
 ! 9/24/2019 tvn24.pl
 ||tvn.adocean.pl^$domain=fakty.tvn24.pl
 
+
+! 29.09.2019 titki.top
+||bzlwe.com^$script,domain=titki.top
+||r.meendocash.com^$script,domain=titki.top
+
