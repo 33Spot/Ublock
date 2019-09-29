@@ -19854,11 +19854,9 @@ megajoi.com##div.margin-bottom-10.thumb:nth-of-type(3)
 ! 9/24/2019 tvn24.pl
 ||tvn.adocean.pl^$domain=fakty.tvn24.pl
 
-
 ! 29.09.2019 titki.top
 ||bzlwe.com^$script,domain=titki.top
 ||r.meendocash.com^$script,domain=titki.top
-
 
 ! 29.09.2019 https://1fichier.com
 ||img.1fichier.com/ui/ui-bg_highlight-soft_100_eeeeee_1x100.png$image
@@ -19887,3 +19885,7 @@ www.bookys-gratuit.com##.corps > center:nth-of-type(1)
 
 ! 29.09.2019 1fichier.com
 ||superonclick.com^$script,domain=1fichier.com
+
+! 29.09.2019 freedisc.pl
+||gem.gbc.criteo.com^$xhr,domain=gum.criteo.com
+
