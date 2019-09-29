@@ -19888,4 +19888,4 @@ www.bookys-gratuit.com##.corps > center:nth-of-type(1)
 ||superonclick.com^$script,domain=1fichier.com
 
 ! 29.09.2019 freedisc.pl
-!||gem.gbc.criteo.com^$xhr,domain=gum.criteo.com
+||gem.gbc.criteo.com^$xhr,domain=gum.criteo.com
