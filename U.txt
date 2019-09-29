@@ -19859,3 +19859,31 @@ megajoi.com##div.margin-bottom-10.thumb:nth-of-type(3)
 ||bzlwe.com^$script,domain=titki.top
 ||r.meendocash.com^$script,domain=titki.top
 
+
+! 29.09.2019 https://1fichier.com
+||img.1fichier.com/ui/ui-bg_highlight-soft_100_eeeeee_1x100.png$image
+1fichier.com##.ui-front.ui-widget-content.ui-widget.ui-corner-all.ui-dialog
+||img.1fichier.com/ui/ui-bg_diagonals-thick_20_666666_40x40.png$image
+1fichier.com##.ui-front.ui-widget-overlay
+1fichier.com##div.ct_warn:nth-of-type(1)
+
+www.lesechos.fr##.paywall-fx > .container
+
+! 12/12/2018 à 15:37:30 https://www.lesechos.fr/
+www.lesechos.fr##.main-header
+www.lemonde.fr##.Header
+
+! 13/12/2018 à 07:45:50 https://www.lequipe.fr/
+www.lequipe.fr##.navigation__home
+
+! 13/12/2018 à 07:50:23 http://www.lefigaro.fr/
+www.lefigaro.fr##.full.figh__full
+
+! 13/12/2018 à 07:50:41 http://www.lefigaro.fr/
+www.lefigaro.fr##.header-placeholder
+
+! 28/01/2019 https://www.bookys-gratuit.com
+www.bookys-gratuit.com##.corps > center:nth-of-type(1)
+
+! 29.09.2019 1fichier.com
+||superonclick.com^$script,domain=1fichier.com
