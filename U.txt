@@ -19900,3 +19900,7 @@ www.nueey.com##.theiaPostSlider_preloadedSlide > strong
 ||zmovies.to/wp-content/plugins/popups/public/assets/js/public.js$script,1p
 ||zmovies.to/wp-content/themes/dooplay/*$script,1p
 ||zmovies.to/wp-content/themes/dooplay/assets/js/front.livesearch.js$script,1p
+||zijaipse.com^$domain=vidsrc.me
+||deloplen.com^$domain=vidsrc.me
+||raiphupi.com^$domain=vidsrc.me
+||daurifek.net^$domain=vidsrc.me
