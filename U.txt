@@ -19896,10 +19896,10 @@ www.nueey.com##.theiaPostSlider_preloadedSlide > strong
 ! 30.09.2019 zmovies.to
 ||padsbrown.com^$script,domain=www.vidsource.me
 ||mc.yandex.ru^$script,domain=www.vidsource.me
-||zmovies.to/wp-content/plugins/popups/*$script,1p
-||zmovies.to/wp-content/plugins/popups/public/assets/js/public.js$script,1p
-||zmovies.to/wp-content/themes/dooplay/*$script,1p
-||zmovies.to/wp-content/themes/dooplay/assets/js/front.livesearch.js$script,1p
+!||zmovies.to/wp-content/plugins/popups/*$script,1p
+!||zmovies.to/wp-content/plugins/popups/public/assets/js/public.js$script,1p
+!||zmovies.to/wp-content/themes/dooplay/*$script,1p
+!||zmovies.to/wp-content/themes/dooplay/assets/js/front.livesearch.js$script,1p
 ||zijaipse.com^$domain=vidsrc.me
 ||deloplen.com^$domain=vidsrc.me
 ||raiphupi.com^$domain=vidsrc.me
