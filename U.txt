@@ -19896,3 +19896,4 @@ www.nueey.com##.theiaPostSlider_preloadedSlide > strong
 ! 30.09.2019 zmovies.to
 ||padsbrown.com^$script,domain=www.vidsource.me
 ||mc.yandex.ru^$script,domain=www.vidsource.me
+||zmovies.to/wp-content/plugins/popups/*$script,1p
