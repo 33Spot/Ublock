@@ -19897,3 +19897,4 @@ www.nueey.com##.theiaPostSlider_preloadedSlide > strong
 ||padsbrown.com^$script,domain=www.vidsource.me
 ||mc.yandex.ru^$script,domain=www.vidsource.me
 ||zmovies.to/wp-content/plugins/popups/*$script,1p
+||zmovies.to/wp-content/plugins/popups/public/assets/js/public.js$script,1p
