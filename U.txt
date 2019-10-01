@@ -794,51 +794,51 @@ fmovies.cab##+js(abort-on-property-read.js, _0x1477)
 ||jsc.mgid.com/9/*$script,domain=*.9anime.*
 ||www2.9anime.to^$inline-script,domain=*.9anime.*
 
-! 3.04.2019 ffmovies.ru
-ffmovies.ru##+js(abort-current-inline-script.js, parseInt, incrementClicks)
-ffmovies.ru##+js(abort-current-inline-script.js, decodeURIComponent, atob)
-ffmovies.ru##+js(abort-on-property-read.js, zfgloadedpopup)
-!ffmovies.ru###(id*=rn_ad_native_)
-!ffmovies.ru##.mn-related-container_no-responsive.mn-related-container
-!ffmovies.ru##.mn-thumb
-ffmovies.ru##wrapper
-ffmovies.ru##wrapper
-ffmovies.ru##wrapper
+! 3.04.2019 ffmovies.*
+ffmovies.*##+js(abort-current-inline-script.js, parseInt, incrementClicks)
+ffmovies.*##+js(abort-current-inline-script.js, decodeURIComponent, atob)
+ffmovies.*##+js(abort-on-property-read.js, zfgloadedpopup)
+!ffmovies.*###(id*=rn_ad_native_)
+!ffmovies.*##.mn-related-container_no-responsive.mn-related-container
+!ffmovies.*##.mn-thumb
+ffmovies.*##wrapper
+ffmovies.*##wrapper
+ffmovies.*##wrapper
 
-||sb.scorecardresearch.com^$script,domain=ffmovies.ru
-||jsc.mgid.com/f/m/fmovies.to.180496.js$script,domain=ffmovies.ru
-||native.propellerclick.com^$xmlhttprequest,domain=ffmovies.ru
-||psoapeez.click^$xmlhttprequest,domain=ffmovies.ru
-||xml.popmonetizer.net^$subdocument,domain=ffmovies.ru
-||xml.revrtb.net^$subdocument,domain=ffmovies.ru
+||sb.scorecardresearch.com^$script,domain=ffmovies.*
+||jsc.mgid.com/f/m/fmovies.to.180496.js$script,domain=ffmovies.*
+||native.propellerclick.com^$xmlhttprequest,domain=ffmovies.*
+||psoapeez.click^$xmlhttprequest,domain=ffmovies.*
+||xml.popmonetizer.net^$subdocument,domain=ffmovies.*
+||xml.revrtb.net^$subdocument,domain=ffmovies.*
 ||tharbadir.com^$script
 ||zap.buzz^$subdocument
-||servicer.mgid.com^$script,domain=ffmovies.ru
-||psoapeez.click^$image,domain=ffmovies.ru
+||servicer.mgid.com^$script,domain=ffmovies.*
+||psoapeez.click^$image,domain=ffmovies.*
 ||disqusads.com^$inline-script,first-party
-||pushazer.com^$script,domain=ffmovies.ru
-||deloplen.com^$script,domain=ffmovies.ru
-||creative.wwwpromoter.com^$subdocument,domain=ffmovies.ru
+||pushazer.com^$script,domain=ffmovies.*
+||deloplen.com^$script,domain=ffmovies.*
+||creative.wwwpromoter.com^$subdocument,domain=ffmovies.*
 !  https://www.reddit.com/r/uBlockOrigin/comments/9oxdmp
 ! https://www.reddit.com/r/uBlockOrigin/comments/b58i3p/getting_ads_on_fmovies_again/
-!ffmovies.ru##+js(abort-current-inline-script.js, parseInt, incrementClicks)
-!ffmovies.ru##+js(abort-current-inline-script.js, decodeURIComponent, atob)
-!ffmovies.ru##+js(abort-current-inline-script.js, RegExp, zfgloaded)
+!ffmovies.*##+js(abort-current-inline-script.js, parseInt, incrementClicks)
+!ffmovies.*##+js(abort-current-inline-script.js, decodeURIComponent, atob)
+!ffmovies.*##+js(abort-current-inline-script.js, RegExp, zfgloaded)
 
-! 3.04.2019 ffmovies.ru
-||native.propellerclick.com^$script,domain=ffmovies.ru
+! 3.04.2019 ffmovies.*
+||native.propellerclick.com^$script,domain=ffmovies.*
 ||native.propellerclick.com^$script
-||jsc.mgid.com^$script,domain=ffmovies.ru
+||jsc.mgid.com^$script,domain=ffmovies.*
 ||disqusads.com^$subdocument
 ||c.adsco.re^$script
-||qnjdtefk.com^$domain=ffmovies.ru
-||disqus.com^$subdocument,domain=ffmovies.ru
-||referrer.disqus.com^$image,domain=ffmovies.ru
+||qnjdtefk.com^$domain=ffmovies.*
+||disqus.com^$subdocument,domain=ffmovies.*
+||referrer.disqus.com^$image,domain=ffmovies.*
 
 ||t1.fruithosts.net^$xmlhttprequest
 !||streamango.com^$script,first-party
 !||streamango.com^$stylesheet,first-party
-||mfigasff.com^$popup,domain=ffmovies.ru
+||mfigasff.com^$popup,domain=ffmovies.*
 ||disqus.com^$script
 
 !||fruithosts.net/assets/js/video-js/video.js.mango.js$script,first-party
@@ -847,14 +847,14 @@ ffmovies.ru##wrapper
 
 !||fruithosts.net/assets/js/video-js/videojs.hotkeys.min.js$script,first-party
 !||fruithosts.net/assets/js/video-js/vast/videojs_5.vast.vpaid.min2.js$script,first-party
-||platform.twitter.com^$script,domain=ffmovies.ru
+||platform.twitter.com^$script,domain=ffmovies.*
 !||fruithosts.net/assets/js/video-js/vast/videojs.vast.vpaid.min.css$stylesheet,first-party
 ||disqusads.com^$subdocument
-||jpmyudcnpgl.com^$popup,domain=ffmovies.ru
-||nbclix.com^$popup,domain=ffmovies.ru
+||jpmyudcnpgl.com^$popup,domain=ffmovies.*
+||nbclix.com^$popup,domain=ffmovies.*
 ||qnjdtefk.com^
 ||qnjdtefk.com^$popup
-!||ffmovies.ru^$popup
+!||ffmovies.*^$popup
 
 !||fruithosts.net^$xmlhttprequest,first-party
 @@||fruithosts.net^$inline-script,first-party
@@ -865,12 +865,12 @@ ffmovies.ru##wrapper
 !||fruithosts.net/assets/js/video-js/r/videojs-ie8.min.js$script,first-party
 
 ||udockoan.net^
-||www.google-analytics.com/r/collect$domain=ffmovies.ru
-||www.google-analytics.com/analytics.js$script,domain=ffmovies.ru
-ffmovies.ru##div.p3g0qb0tfyrd:nth-of-type(*)
-||whos.amung.us^$domain=ffmovies.ru
+||www.google-analytics.com/r/collect$domain=ffmovies.*
+||www.google-analytics.com/analytics.js$script,domain=ffmovies.*
+ffmovies.*##div.p3g0qb0tfyrd:nth-of-type(*)
+||whos.amung.us^$domain=ffmovies.*
 
-! 3.04.2019 ffmovies.ru
+! 3.04.2019 ffmovies.*
 ||fruithosts.net^$object,first-party
 ||jsc.mgid.com/f/m/fmovies.to.48532.js^$script
 ||jsc.mgid.com/f/m/fmovies.to.180496.js^$script
@@ -883,34 +883,34 @@ ffmovies.ru##div.p3g0qb0tfyrd:nth-of-type(*)
 ||platform.twitter.com/widgets.js^$script
 !||s7.addthis.com/js/300/addthis_widget.js^$script
 
-@@||ads.lvbetpartners.com^$popup,domain=ffmovies.ru
-@@||topclickguru.com^$popup,domain=ffmovies.ru
-@@||steptaik.net^$popup,domain=ffmovies.ru
-@@||download-for.me^$popup,domain=ffmovies.ru
-@@||hhourtrk2.com^$popup,domain=ffmovies.ru
-@@||static.akacdn.ru^$popup,domain=ffmovies.ru
-@@||rssgflbj.com^$popup,domain=ffmovies.ru
-@@||svdmxetbyfyg.com^$popup,domain=ffmovies.ru
-@@||gaming.youtube.com^$popup,domain=ffmovies.ru
+@@||ads.lvbetpartners.com^$popup,domain=ffmovies.*
+@@||topclickguru.com^$popup,domain=ffmovies.*
+@@||steptaik.net^$popup,domain=ffmovies.*
+@@||download-for.me^$popup,domain=ffmovies.*
+@@||hhourtrk2.com^$popup,domain=ffmovies.*
+@@||static.akacdn.ru^$popup,domain=ffmovies.*
+@@||rssgflbj.com^$popup,domain=ffmovies.*
+@@||svdmxetbyfyg.com^$popup,domain=ffmovies.*
+@@||gaming.youtube.com^$popup,domain=ffmovies.*
 
 ||2.fwcdn.pl^$image,domain=www.filmweb.pl
-||ffmovies.ru^$image,first-party
-||staticf.akacdn.ru/f/assets/jwplayer/jwplayer-7.12.3/jwplayer.js$script,domain=ffmovies.ru
-||steptaik.net^$script,domain=ffmovies.ru
-||steptaik.net^$image,domain=ffmovies.ru
+||ffmovies.*^$image,first-party
+||staticf.akacdn.ru/f/assets/jwplayer/jwplayer-7.12.3/jwplayer.js$script,domain=ffmovies.*
+||steptaik.net^$script,domain=ffmovies.*
+||steptaik.net^$image,domain=ffmovies.*
 !nie rob in-line
-ffmovies.ru##script:contains(window.open)
-ffmovies.ru##+js(window.open-defuser.js)
+ffmovies.*##script:contains(window.open)
+ffmovies.*##+js(window.open-defuser.js)
 fruithosts.net##script:contains(window.open)
 fruithosts.net##+js(window.open-defuser.js)
 !prettyfast.to##script:contains(window.open)
 !prettyfast.to##+js(window.open-defuser.js)
 
-! 2.05.2019 ffmovies.ru
-||stoshoos.com/jquery-ui.css$stylesheet,domain=ffmovies.ru
-! 21.05.2019 ffmovies.ru
-!||class2deal.com/54/99/ca/5499ca9d8db670d14164fded3097fd52.js$script,domain=ffmovies.ru
-||class2deal.com/*/*/*/*.js$script,domain=ffmovies.ru
+! 2.05.2019 ffmovies.*
+||stoshoos.com/jquery-ui.css$stylesheet,domain=ffmovies.*
+! 21.05.2019 ffmovies.*
+!||class2deal.com/54/99/ca/5499ca9d8db670d14164fded3097fd52.js$script,domain=ffmovies.*
+||class2deal.com/*/*/*/*.js$script,domain=ffmovies.*
 
 
 
@@ -1154,12 +1154,12 @@ anime-odcinki.pl##+js(abort-current-inline-script.js, Math, zfgloaded)
 
 *.xhamster.com,*.spankbang.com,dilruwha.net,iamcdn.net,*.hydrax.net,*.vev.*,*.gbtcdn.com,*.disk.ly,cloudvideo.tv,*.clipwatching.com,www.rapidvideo.com,clipwatching.com,fmovie.*,fuskator.com,*.metric.gstatic.com,tpc.googlesyndication.com,leporno.org##+js(abort-current-inline-script.js, atob, tabunder)
 
-vidsource.me,1fichier.com,freedisc.pl,*.spankbang.com,dilruwha.net,iamcdn.net,*.hydrax.net,*.vev.*,*.gbtcdn.com,*.disk.ly,*.clipwatching.com,www.rapidvideo.com,clipwatching.com,cloudvideo.tv,vev.io,stream*.cdncv.net,www.urldelivery.com,www.bcloudhost.com,serverf4.org,*.123movie.*,fmovie.*,verystream.com,generalpornmovies.com,vintporn.com,veehd.com,time-pick.com,123enjoy.net/watch/*.html,there.to,glauptan.net,ebd.cda.pl,putlockerr.is/embed/*,groucign.com,vidsource.me/v/*,t.co,businessnewsvideo.online,embed.iseek.to,prettyfast.to,hqq.tv/player/*,hqq.tv,viduplayer.com,flenix.fun,gomostream.com,thesandonesof.info,targaubs.com/*,ls.hit.gemius.pl,*.mcloud.to,ejoonsoo.net,jetload.net,acquistaresbdunklowflyknitoreo.info,media.cloudcdnvideo.com/r/*,*.cloudcdnvideo.com/embed/*,stream.123downloads.today/*,fmovie.info/watch-free/*,*.betterstream.co,fmovie.info,*.cloudcdnvideo.com,*.123downloads.today,*.playercdn.net,*.fmovies.to,*.jetload.net,database.gdriveplayer.us,*.putlocker.is,vidsrc.me,ojeergoy.com,api.123movie.cc,serverf4.org,gum.criteo.com,acdn.adnxs.com,*.spankbang.com,titki.top,fruithosts.net,streamango.com,tpc.googlesyndication.com,*.xhamster.com,mc.yandex.ru,its.porn,there.to,enoughts.info,ufpcdn.com,gounlimited.to,femdom-joi.com,pornbimbo.com,freedisc.pl/embed/video/*,gum.criteo.com,adk.zaq2.pl,anime-odcinki.pl,oladblock.me,openload.co,ojntbybxh.com,cobalten.com,vidlox.*,*.vidlox.*##script:contains(window.open)
-vidsource.me,1fichier.com,freedisc.pl,*.spankbang.com,dilruwha.net,iamcdn.net,*.hydrax.net,*.vev.*,*.gbtcdn.com,*.disk.ly,*.clipwatching.com,www.rapidvideo.com,clipwatching.com,cloudvideo.tv,vev.io,stream*.cdncv.net,www.urldelivery.com,www.bcloudhost.com,serverf4.org,*.123movie.*,fmovie.*,verystream.com,generalpornmovies.com,vintporn.com,veehd.com,time-pick.com,123enjoy.net/watch/*.html,there.to,glauptan.net,ebd.cda.pl,putlockerr.is/embed/*,groucign.com,vidsource.me/v/*,t.co,businessnewsvideo.online,embed.iseek.to,prettyfast.to,hqq.tv/player/*,hqq.tv,viduplayer.com,flenix.fun,gomostream.com,thesandonesof.info,targaubs.com/*,ls.hit.gemius.pl,*.mcloud.to,ejoonsoo.net,jetload.net,acquistaresbdunklowflyknitoreo.info,media.cloudcdnvideo.com/r/*,*.cloudcdnvideo.com/embed/*,stream.123downloads.today/*,fmovie.info/watch-free/**.betterstream.co,fmovie.info,*.cloudcdnvideo.com,*.123downloads.today,*.playercdn.net,*.fmovies.to,*.jetload.net,database.gdriveplayer.us,*.putlocker.is,vidsrc.me,ojeergoy.com,api.123movie.cc,serverf4.org,gum.criteo.com,acdn.adnxs.com,*.spankbang.com,titki.top,fruithosts.net,streamango.com,tpc.googlesyndication.com,*.xhamster.com,mc.yandex.ru,its.porn,there.to,enoughts.info,ufpcdn.com,gounlimited.to,femdom-joi.com,pornbimbo.com,freedisc.pl/embed/video/*,gum.criteo.com,adk.zaq2.pl,anime-odcinki.pl,oladblock.me,openload.co,ojntbybxh.com,cobalten.com,vidlox.*,*.vidlox.*##+js(window.open-defuser.js)
+vidsrc.me,vidsource.me,1fichier.com,freedisc.pl,*.spankbang.com,dilruwha.net,iamcdn.net,*.hydrax.net,*.vev.*,*.gbtcdn.com,*.disk.ly,*.clipwatching.com,www.rapidvideo.com,clipwatching.com,cloudvideo.tv,vev.io,stream*.cdncv.net,www.urldelivery.com,www.bcloudhost.com,serverf4.org,*.123movie.*,fmovie.*,verystream.com,generalpornmovies.com,vintporn.com,veehd.com,time-pick.com,123enjoy.net/watch/*.html,there.to,glauptan.net,ebd.cda.pl,putlockerr.is/embed/*,groucign.com,vidsource.me/v/*,t.co,businessnewsvideo.online,embed.iseek.to,prettyfast.to,hqq.tv/player/*,hqq.tv,viduplayer.com,flenix.fun,gomostream.com,thesandonesof.info,targaubs.com/*,ls.hit.gemius.pl,*.mcloud.to,ejoonsoo.net,jetload.net,acquistaresbdunklowflyknitoreo.info,media.cloudcdnvideo.com/r/*,*.cloudcdnvideo.com/embed/*,stream.123downloads.today/*,fmovie.info/watch-free/*,*.betterstream.co,fmovie.info,*.cloudcdnvideo.com,*.123downloads.today,*.playercdn.net,*.fmovies.to,*.jetload.net,database.gdriveplayer.us,*.putlocker.is,vidsrc.me,ojeergoy.com,api.123movie.cc,serverf4.org,gum.criteo.com,acdn.adnxs.com,*.spankbang.com,titki.top,fruithosts.net,streamango.com,tpc.googlesyndication.com,*.xhamster.com,mc.yandex.ru,its.porn,there.to,enoughts.info,ufpcdn.com,gounlimited.to,femdom-joi.com,pornbimbo.com,freedisc.pl/embed/video/*,gum.criteo.com,adk.zaq2.pl,anime-odcinki.pl,oladblock.me,openload.co,ojntbybxh.com,cobalten.com,vidlox.*,*.vidlox.*##script:contains(window.open)
+vidsrc.me,vidsource.me,1fichier.com,freedisc.pl,*.spankbang.com,dilruwha.net,iamcdn.net,*.hydrax.net,*.vev.*,*.gbtcdn.com,*.disk.ly,*.clipwatching.com,www.rapidvideo.com,clipwatching.com,cloudvideo.tv,vev.io,stream*.cdncv.net,www.urldelivery.com,www.bcloudhost.com,serverf4.org,*.123movie.*,fmovie.*,verystream.com,generalpornmovies.com,vintporn.com,veehd.com,time-pick.com,123enjoy.net/watch/*.html,there.to,glauptan.net,ebd.cda.pl,putlockerr.is/embed/*,groucign.com,vidsource.me/v/*,t.co,businessnewsvideo.online,embed.iseek.to,prettyfast.to,hqq.tv/player/*,hqq.tv,viduplayer.com,flenix.fun,gomostream.com,thesandonesof.info,targaubs.com/*,ls.hit.gemius.pl,*.mcloud.to,ejoonsoo.net,jetload.net,acquistaresbdunklowflyknitoreo.info,media.cloudcdnvideo.com/r/*,*.cloudcdnvideo.com/embed/*,stream.123downloads.today/*,fmovie.info/watch-free/**.betterstream.co,fmovie.info,*.cloudcdnvideo.com,*.123downloads.today,*.playercdn.net,*.fmovies.to,*.jetload.net,database.gdriveplayer.us,*.putlocker.is,vidsrc.me,ojeergoy.com,api.123movie.cc,serverf4.org,gum.criteo.com,acdn.adnxs.com,*.spankbang.com,titki.top,fruithosts.net,streamango.com,tpc.googlesyndication.com,*.xhamster.com,mc.yandex.ru,its.porn,there.to,enoughts.info,ufpcdn.com,gounlimited.to,femdom-joi.com,pornbimbo.com,freedisc.pl/embed/video/*,gum.criteo.com,adk.zaq2.pl,anime-odcinki.pl,oladblock.me,openload.co,ojntbybxh.com,cobalten.com,vidlox.*,*.vidlox.*##+js(window.open-defuser.js)
 *.spankbang.com,dilruwha.net,iamcdn.net,*.hydrax.net,*.vev.*,*.gbtcdn.com,*.disk.ly,*.clipwatching.com,clipwatching.com,cloudvideo.tv,vev.io,stream*.cdncv.net,www.urldelivery.com,www.bcloudhost.com,serverf4.org,*.123movie.*,fmovie.*,verystream.com,generalpornmovies.com,vintporn.com,veehd.com,time-pick.com,123enjoy.net/watch/*.html,there.to,glauptan.net,ebd.cda.pl,putlockerr.is/embed/*,groucign.com,vidsource.me/v/*,t.co,businessnewsvideo.online,embed.iseek.to,prettyfast.to,hqq.tv/player/*,hqq.tv,viduplayer.com,flenix.fun,gomostream.com,thesandonesof.info,targaubs.com/*,ls.hit.gemius.pl,*.mcloud.to,ejoonsoo.net,jetload.net,acquistaresbdunklowflyknitoreo.info,media.cloudcdnvideo.com/r/*,*.cloudcdnvideo.com/embed/*,stream.123downloads.today/*,fmovie.info/watch-free/**.betterstream.co,fmovie.info,*.cloudcdnvideo.com,*.123downloads.today,*.playercdn.net,*.fmovies.to,*.jetload.net,database.gdriveplayer.us,*.putlocker.is,vidsrc.me,ojeergoy.com,api.123movie.cc,serverf4.org,gum.criteo.com,acdn.adnxs.com,*.spankbang.com,titki.top,fruithosts.net,streamango.com,tpc.googlesyndication.com,*.xhamster.com,mc.yandex.ru,its.porn,there.to,enoughts.info,ufpcdn.com,gounlimited.to,femdom-joi.com,pornbimbo.com,anime-odcinki.pl,oladblock.me,openload.co,ojntbybxh.com,cobalten.com,vidlox.*,*.vidlox.*##+js(abort-on-property-read.js, zfgloadedpopup)
 
-vidsource.me,1fichier.com,freedisc.pl,*.vev.*,vev.io,stream*.cdncv.net,www.urldelivery.com,www.bcloudhost.com,serverf4.org,*.123movie.*,fmovie.*,verystream.com,generalpornmovies.com,vintporn.com,veehd.com,time-pick.com,123enjoy.net/watch/*.html,there.to,glauptan.net,ebd.cda.pl,putlockerr.is/embed/*,groucign.com,vidsource.me/v/*,t.co,businessnewsvideo.online,embed.iseek.to,hqq.tv/player/*,hqq.tv,viduplayer.com,flenix.fun,gomostream.com,thesandonesof.info,targaubs.com/*,ls.hit.gemius.pl,*.mcloud.to,ejoonsoo.net,jetload.net,acquistaresbdunklowflyknitoreo.info,media.cloudcdnvideo.com/r/*,*.cloudcdnvideo.com/embed/*,stream.123downloads.today/*,fmovie.info/watch-free/**.betterstream.co,fmovie.info,*.cloudcdnvideo.com,*.123downloads.today,*.playercdn.net,*.fmovies.to,*.jetload.net,database.gdriveplayer.us,*.putlocker.is,vidsrc.me,ojeergoy.com,api.123movie.cc,serverf4.org,gum.criteo.com,acdn.adnxs.com,titki.top,fruithosts.net,streamango.com,mc.yandex.ru,its.porn,there.to,enoughts.info,ufpcdn.com,gounlimited.to,femdom-joi.com,pornbimbo.com,freedisc.pl/embed/video/*,gum.criteo.com,adk.zaq2.pl,anime-odcinki.pl,oladblock.me,openload.co,ojntbybxh.com,cobalten.com,vidlox.*,*.vidlox.*##script:contains(window.open)
-vidsource.me,1fichier.com,freedisc.pl,*.vev.*,vev.io,stream*.cdncv.net,www.urldelivery.com,www.bcloudhost.com,serverf4.org,*.123movie.*,fmovie.*,verystream.com,generalpornmovies.com,vintporn.com,veehd.com,time-pick.com,123enjoy.net/watch/*.html,there.to,glauptan.net,ebd.cda.pl,putlockerr.is/embed/*,groucign.com,vidsource.me/v/*,t.co,businessnewsvideo.online,embed.iseek.to,hqq.tv/player/*,hqq.tv,viduplayer.com,flenix.fun,gomostream.com,thesandonesof.info,targaubs.com/*,ls.hit.gemius.pl,*.mcloud.to,ejoonsoo.net,jetload.net,acquistaresbdunklowflyknitoreo.info,media.cloudcdnvideo.com/r/*,*.cloudcdnvideo.com/embed/*,stream.123downloads.today/*,fmovie.info/watch-free/**.betterstream.co,fmovie.info,*.cloudcdnvideo.com,*.123downloads.today,*.playercdn.net,*.fmovies.to,*.jetload.net,database.gdriveplayer.us,*.putlocker.is,vidsrc.me,ojeergoy.com,api.123movie.cc,serverf4.org,gum.criteo.com,acdn.adnxs.com,titki.top,fruithosts.net,streamango.com,mc.yandex.ru,its.porn,there.to,enoughts.info,ufpcdn.com,gounlimited.to,femdom-joi.com,pornbimbo.com,freedisc.pl/embed/video/*,gum.criteo.com,adk.zaq2.pl,anime-odcinki.pl,oladblock.me,openload.co,ojntbybxh.com,cobalten.com,vidlox.*,*.vidlox.*##+js(window.open-defuser.js)
+vidsrc.me,vidsource.me,1fichier.com,freedisc.pl,*.vev.*,vev.io,stream*.cdncv.net,www.urldelivery.com,www.bcloudhost.com,serverf4.org,*.123movie.*,fmovie.*,verystream.com,generalpornmovies.com,vintporn.com,veehd.com,time-pick.com,123enjoy.net/watch/*.html,there.to,glauptan.net,ebd.cda.pl,putlockerr.is/embed/*,groucign.com,vidsource.me/v/*,t.co,businessnewsvideo.online,embed.iseek.to,hqq.tv/player/*,hqq.tv,viduplayer.com,flenix.fun,gomostream.com,thesandonesof.info,targaubs.com/*,ls.hit.gemius.pl,*.mcloud.to,ejoonsoo.net,jetload.net,acquistaresbdunklowflyknitoreo.info,media.cloudcdnvideo.com/r/*,*.cloudcdnvideo.com/embed/*,stream.123downloads.today/*,fmovie.info/watch-free/**.betterstream.co,fmovie.info,*.cloudcdnvideo.com,*.123downloads.today,*.playercdn.net,*.fmovies.to,*.jetload.net,database.gdriveplayer.us,*.putlocker.is,vidsrc.me,ojeergoy.com,api.123movie.cc,serverf4.org,gum.criteo.com,acdn.adnxs.com,titki.top,fruithosts.net,streamango.com,mc.yandex.ru,its.porn,there.to,enoughts.info,ufpcdn.com,gounlimited.to,femdom-joi.com,pornbimbo.com,freedisc.pl/embed/video/*,gum.criteo.com,adk.zaq2.pl,anime-odcinki.pl,oladblock.me,openload.co,ojntbybxh.com,cobalten.com,vidlox.*,*.vidlox.*##script:contains(window.open)
+vidsrc.me,vidsource.me,1fichier.com,freedisc.pl,*.vev.*,vev.io,stream*.cdncv.net,www.urldelivery.com,www.bcloudhost.com,serverf4.org,*.123movie.*,fmovie.*,verystream.com,generalpornmovies.com,vintporn.com,veehd.com,time-pick.com,123enjoy.net/watch/*.html,there.to,glauptan.net,ebd.cda.pl,putlockerr.is/embed/*,groucign.com,vidsource.me/v/*,t.co,businessnewsvideo.online,embed.iseek.to,hqq.tv/player/*,hqq.tv,viduplayer.com,flenix.fun,gomostream.com,thesandonesof.info,targaubs.com/*,ls.hit.gemius.pl,*.mcloud.to,ejoonsoo.net,jetload.net,acquistaresbdunklowflyknitoreo.info,media.cloudcdnvideo.com/r/*,*.cloudcdnvideo.com/embed/*,stream.123downloads.today/*,fmovie.info/watch-free/**.betterstream.co,fmovie.info,*.cloudcdnvideo.com,*.123downloads.today,*.playercdn.net,*.fmovies.to,*.jetload.net,database.gdriveplayer.us,*.putlocker.is,vidsrc.me,ojeergoy.com,api.123movie.cc,serverf4.org,gum.criteo.com,acdn.adnxs.com,titki.top,fruithosts.net,streamango.com,mc.yandex.ru,its.porn,there.to,enoughts.info,ufpcdn.com,gounlimited.to,femdom-joi.com,pornbimbo.com,freedisc.pl/embed/video/*,gum.criteo.com,adk.zaq2.pl,anime-odcinki.pl,oladblock.me,openload.co,ojntbybxh.com,cobalten.com,vidlox.*,*.vidlox.*##+js(window.open-defuser.js)
 *.vev.*,vev.io,stream*.cdncv.net,www.urldelivery.com,www.bcloudhost.com,serverf4.org,*.123movie.*,fmovie.*,verystream.com,generalpornmovies.com,vintporn.com,veehd.com,time-pick.com,123enjoy.net/watch/*.html,there.to,glauptan.net,ebd.cda.pl,putlockerr.is/embed/*,groucign.com,vidsource.me/v/*,t.co,businessnewsvideo.online,embed.iseek.to,hqq.tv/player/*,hqq.tv,viduplayer.com,flenix.fun,gomostream.com,thesandonesof.info,targaubs.com/*,ls.hit.gemius.pl,*.mcloud.to,ejoonsoo.net,jetload.net,acquistaresbdunklowflyknitoreo.info,media.cloudcdnvideo.com/r/*,*.cloudcdnvideo.com/embed/*,stream.123downloads.today/*,fmovie.info/watch-free/**.betterstream.co,fmovie.info,*.cloudcdnvideo.com,*.123downloads.today,*.playercdn.net,*.fmovies.to,*.jetload.net,database.gdriveplayer.us,*.putlocker.is,vidsrc.me,ojeergoy.com,api.123movie.cc,serverf4.org,gum.criteo.com,acdn.adnxs.com,titki.top,fruithosts.net,streamango.com,mc.yandex.ru,its.porn,there.to,enoughts.info,ufpcdn.com,gounlimited.to,femdom-joi.com,pornbimbo.com,anime-odcinki.pl,oladblock.me,openload.co,ojntbybxh.com,cobalten.com,vidlox.*,*.vidlox.*##+js(abort-on-property-read.js, zfgloadedpopup)
 
 vidsrc.me,*.xhamster.com,*.spankbang.com,dilruwha.net,prettyfast.to,iamcdn.net,*.hydrax.net,*.vev.*,*.gbtcdn.com,*.disk.ly,cloudvideo.tv,*.clipwatching.com,www.rapidvideo.com,clipwatching.com,www.urldelivery.com,www.bcloudhost.com,fmovie.*,*.spankbang.com,fmovies.*,gum.criteo.com,acdn.adnxs.com,titki.top,pornbimbo.com,anime-odcinki.pl,oladblock.me,openload.co,ojntbybxh.com,cobalten.com,vidlox.*,*.vidlox.*##+js(disable-newtab-links.js)
