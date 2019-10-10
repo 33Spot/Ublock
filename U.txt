@@ -19935,8 +19935,8 @@ www.nueey.com##.theiaPostSlider_preloadedSlide > strong
 ! 10.10.2019 apg-clan.org
 ||apg-clan.org/forumrunner/detect.js$script,1p
 ||ajax.cloudflare.com/cdn-cgi/scripts/95c75768/cloudflare-static/rocket-loader.min.js$script
-||apg-clan.org/dbtech/downloads/clientscript/core.js$script,1p
-||apg-clan.org/dbtech/downloads/clientscript/tabs.js$script,1p
+!||apg-clan.org/dbtech/downloads/clientscript/core.js$script,1p
+!||apg-clan.org/dbtech/downloads/clientscript/tabs.js$script,1p
 ||ajax.cloudflare.com/cdn-cgi/scripts/95c75768/cloudflare-static/rocket-loader.min.js$script,domain=apg-clan.org
 apg-clan.org###ad_global_below_navbar
 
