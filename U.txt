@@ -19928,8 +19928,6 @@ www.nueey.com##.theiaPostSlider_preloadedSlide > strong
 ||v3.logger.pw^$domain=www.vidsource.me
 !||www.youtube.com/*/*/*/*/base.js
 
-
-
 ! 9.10.2019 xhamster.com
 ||content.mql5.com^$script,domain=pl.xhamster.com
 
@@ -19940,4 +19938,8 @@ www.nueey.com##.theiaPostSlider_preloadedSlide > strong
 !||apg-clan.org/dbtech/downloads/clientscript/tabs.js$script,1p
 ||ajax.cloudflare.com/cdn-cgi/scripts/95c75768/cloudflare-static/rocket-loader.min.js$script,domain=apg-clan.org
 apg-clan.org###ad_global_below_navbar
+
+
+! 10.10.2019 gotporn.com
+||a.exosrv.com^$script,domain=www.gotporn.com
 
