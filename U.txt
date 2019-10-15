@@ -19955,4 +19955,5 @@ apg-clan.org###ad_global_below_navbar
 ||onlystream.tv/js/jquery.min.js$script,1p
 ||onlystream.tv/js/*$script,1p
 ||aidalbark.site^$script,domain=gomostream.com
+||certify-js.alexametrics.com^$script,domain=onlystream.tv
 
