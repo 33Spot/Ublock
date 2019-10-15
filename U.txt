@@ -251,7 +251,7 @@ googlevideo.com * noop
 * youtube.com * noop
 #reklamy ktore generuja errorsy jak sie je przycina
 ||www.youtube.com/api/stats/qoe$other,domain=www.youtube.com
-||www.youtube.com/youtubei/v1/log_event$xmlhttprequest,domain=www.youtube.com
+!||www.youtube.com/youtubei/v1/log_event$xmlhttprequest,domain=www.youtube.com
 ||www.youtube.com/get_midroll_info$xmlhttprequest,domain=www.youtube.com
 
 @@||www.youtube.com/yts/jsbin/spf-vflqCgDoF/spf.js$script,domain=www.youtube.com
