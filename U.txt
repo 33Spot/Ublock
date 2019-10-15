@@ -910,7 +910,7 @@ fruithosts.net##+js(window.open-defuser.js)
 ||stoshoos.com/jquery-ui.css$stylesheet,domain=ffmovies.*
 ! 21.05.2019 ffmovies.*
 !||class2deal.com/54/99/ca/5499ca9d8db670d14164fded3097fd52.js$script,domain=ffmovies.*
-||class2deal.com/*/*/*/*.js$script,domain=ffmovies.*
+@@||class2deal.com/*/*/*/*.js$script,domain=ffmovies.*
 
 
 
@@ -19906,7 +19906,7 @@ www.nueey.com##.theiaPostSlider_preloadedSlide > strong
 ||raiphupi.com^$domain=vidsrc.me
 ||daurifek.net^$domain=vidsrc.me
 ||jotchept.com^$domain=prettyfast.to
-||class2deal.com^$domain=www1.ffmovies.to
+@@||class2deal.com^$domain=www1.ffmovies.to
 ||zijaipse.com^$domain=prettyfast.to
 ||pushlinck.com^$domain=www1.ffmovies.to
 ||riluaneth.com^$domain=www1.ffmovies.to
@@ -19916,7 +19916,7 @@ www.nueey.com##.theiaPostSlider_preloadedSlide > strong
 ||raiphupi.com^
 ||daurifek.net^
 ||jotchept.com^
-||class2deal.com^
+@@||class2deal.com^
 ||zijaipse.com^
 ||pushlinck.com^
 ||riluaneth.com^
