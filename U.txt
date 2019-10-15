@@ -15594,7 +15594,7 @@ anime-odcinki.pl##.navbar-nav.nav.menu
 ||g.vev.io/j/collect$xmlhttprequest,first-party
 
 ! 25.05.2019 anime-odcinki.pl
-||www.google.com/recaptcha/api2/webworker.js$script,domain=www.google.com
+@@||www.google.com/recaptcha/api2/webworker.js$script,domain=www.google.com
 
 ! 25.05.2019 gamecopyworld.com
 ||m0002.gamecopyworld.com/games/js/tc_pt20.js$script
