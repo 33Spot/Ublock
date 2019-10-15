@@ -19946,3 +19946,7 @@ apg-clan.org###ad_global_below_navbar
 ! 10.10.2019 gotporn.com
 ||a.exosrv.com^$script,domain=www.gotporn.com
 
+! 15.10.2019 putlockers.cx
+||www.wvlveodsvygn.com^$script,domain=gdriveplayer.us
+||www.wghmgbjpxmlxa.com^$script,domain=gdriveplayer.us
+
