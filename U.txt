@@ -19961,6 +19961,8 @@ apg-clan.org###ad_global_below_navbar
 ||*.com/script/firefox.js$domain=onlystream.tv
 ||celeritascdn.com^$script,domain=onlystream.tv
 ||viduplayer.com/js/pop.js$script,1p
+||onclicksuper.com^$domain=onlystream.tv
+
 
 ! 10/16/2019 tvn24.pl
 ||tvn.adocean.pl^$domain=tvnmeteo.tvn24.pl
