@@ -19951,3 +19951,8 @@ apg-clan.org###ad_global_below_navbar
 ||www.wvlveodsvygn.com^$script,domain=gdriveplayer.us
 ||www.wghmgbjpxmlxa.com^$script,domain=gdriveplayer.us
 
+! 15.10.2019 flenix.fun
+||onlystream.tv/js/jquery.min.js$script,1p
+||onlystream.tv/js/*$script,1p
+||aidalbark.site^$script,domain=gomostream.com
+
