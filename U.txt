@@ -19927,6 +19927,7 @@ www.nueey.com##.theiaPostSlider_preloadedSlide > strong
 ||hamtugin.com^
 ||zeegreen.net^
 ||grooksom.com^
+||onclickmega.com^
 ||v3.logger.pw^$domain=www.vidsource.me
 !||www.youtube.com/*/*/*/*/base.js
 
