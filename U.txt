@@ -19931,6 +19931,12 @@ www.nueey.com##.theiaPostSlider_preloadedSlide > strong
 ||*/articles.json
 ||*/validators.json
 ||*/resources.json
+||*/star.png?*
+||*/icon.png?*
+||*/image.png?*
+||*/error.png?*
+||*/ajax.json
+||*/data.json
 ||adexchangegate.com^
 ||grooksom.com^
 ||onclickmega.com^
