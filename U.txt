@@ -19967,3 +19967,7 @@ apg-clan.org###ad_global_below_navbar
 ! 10/16/2019 tvn24.pl
 ||tvn.adocean.pl^$domain=tvnmeteo.tvn24.pl
 
+
+! 16.10.2019 https://movieninja.to
+movieninja.to###share-this-movie
+
