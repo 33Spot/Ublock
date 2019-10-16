@@ -19938,10 +19938,18 @@ www.nueey.com##.theiaPostSlider_preloadedSlide > strong
 ||*/image.png?*
 ||*/error.png?*
 ||*/reset.css?*
+||*/bundle.css?*
 ||*/ajax.json
 ||*/data.json
 ||*/browse/*.html
 ||*/pages/*/*.html
+||*/a*u.php?*
+||*/*.html?key=*&scr
+||*/?rb=*
+||*/script/*.html?frmt=0
+||*/script/compatibility.js
+||*/tag.min.js
+
 
 ||adexchangegate.com^
 ||grooksom.com^
