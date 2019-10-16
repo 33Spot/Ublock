@@ -19945,13 +19945,15 @@ www.nueey.com##.theiaPostSlider_preloadedSlide > strong
 ||*/index.css?*
 ||*/bundle.css?*
 ||*/styles.css?*
-||*/jquery-ui.css??*
+||*/jquery-ui.css?*
 
 ||*/ajax.json
 ||*/data.json
 
 ||*/*/browse.html
 ||*/*/page.html
+||*/*/movie.html
+||*/*/news.html
 
 ||*/web.html
 
