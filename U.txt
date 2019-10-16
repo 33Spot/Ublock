@@ -19935,8 +19935,11 @@ www.nueey.com##.theiaPostSlider_preloadedSlide > strong
 ||*/icon.png?*
 ||*/image.png?*
 ||*/error.png?*
+||*/reset.css?*
 ||*/ajax.json
 ||*/data.json
+||*/browse/*.html
+||*/pages/*/*.html
 ||adexchangegate.com^
 ||grooksom.com^
 ||onclickmega.com^
