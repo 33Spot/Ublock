@@ -19975,7 +19975,7 @@ www.nueey.com##.theiaPostSlider_preloadedSlide > strong
 ||*/zone?pub=*
 ||*/script/*.html?frmt=0
 !||*/script/compatibility.js
-||*/tag.min.js
+!||*/tag.min.js
 ||*/va?action=
 ||*/*.html?*==
 ||*/*/*/*/*.html?*==
