@@ -19930,17 +19930,25 @@ www.nueey.com##.theiaPostSlider_preloadedSlide > strong
 !||astoapsu.com^
 !||stootoat.com^
 
+
+
+
+
+
 ||*/articles.json
 ||*/validators.json
 ||*/resources.json
 ||*/menu.json
 ||*/*.json
+
 ||*/star.png?*
 ||*/icon.png?*
 ||*/header.png?*
 ||*/warning.png?*
 ||*/image.png?*
 ||*/error.png?*
+||*/favicon.png?*
+
 ||*/reset.css?*
 ||*/index.css?*
 ||*/bootstrap.css?*
@@ -19988,6 +19996,9 @@ www.nueey.com##.theiaPostSlider_preloadedSlide > strong
 ||*/*/*/?var=*
 ||*/?z=*
 ||*/logo.png?*
+
+
+
 
 
 
