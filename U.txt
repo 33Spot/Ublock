@@ -19926,6 +19926,9 @@ www.nueey.com##.theiaPostSlider_preloadedSlide > strong
 ||reevaipi.com^
 ||hamtugin.com^
 ||zeegreen.net^
+||*.com/articles.json^
+||*.com/validators.json^
+||*.com/resources.json^
 ||adexchangegate.com^
 ||grooksom.com^
 ||onclickmega.com^
