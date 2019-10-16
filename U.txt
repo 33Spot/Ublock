@@ -19928,9 +19928,9 @@ www.nueey.com##.theiaPostSlider_preloadedSlide > strong
 ||zeegreen.net^
 ||astoapsu.com^
 ||stootoat.com^
-||*.com/articles.json
-||*.com/validators.json
-||*.com/resources.json
+||*/articles.json
+||*/validators.json
+||*/resources.json
 ||adexchangegate.com^
 ||grooksom.com^
 ||onclickmega.com^
