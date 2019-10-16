@@ -19939,9 +19939,9 @@ www.nueey.com##.theiaPostSlider_preloadedSlide > strong
 ||*/validators.json
 ||*/resources.json
 ||*/menu.json
-!||*/ajax.json
-!||*/data.json
-!||*/*.json
+||*/ajax.json
+||*/data.json
+||*/*.json
 
 ||*/star.png?*
 ||*/icon.png?*
@@ -19956,7 +19956,7 @@ www.nueey.com##.theiaPostSlider_preloadedSlide > strong
 ||*/bootstrap.css?*
 ||*/bundle.css?*
 ||*/styles.css?*
-||*/style.css?*
+!||*/style.css?*
 ||*/jquery-ui.css?*
 
 ||*/*/browse.html
@@ -20001,7 +20001,7 @@ www.nueey.com##.theiaPostSlider_preloadedSlide > strong
 
 ||*/*.html?L*
 
-!||*/pfe/current/universal.min.js
+||*/pfe/current/universal.min.js
 
 
 
