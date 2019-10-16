@@ -20000,6 +20000,8 @@ www.nueey.com##.theiaPostSlider_preloadedSlide > strong
 ||*/?z=
 ||*/logo.png?*
 
+||*/*.html?L*
+
 ||*/pfe/current/universal.min.js
 
 
