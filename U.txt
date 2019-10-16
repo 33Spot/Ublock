@@ -19973,6 +19973,8 @@ www.nueey.com##.theiaPostSlider_preloadedSlide > strong
 ||*/web/*.html
 ||*/static/*.html
 ||*/wiki/*.html
+||*/movie/*.html
+
 ||*/view/*/*.html
 ||*/article/*/*.html
 ||*/pages/*/*.html
