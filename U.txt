@@ -19946,6 +19946,7 @@ www.nueey.com##.theiaPostSlider_preloadedSlide > strong
 ||*/ajax.json
 ||*/data.json
 ||*/*/browse.html
+||*/*/page.html
 ||*/browse/*.html
 ||*/web/*.html
 ||*/wiki/*.html
