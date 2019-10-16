@@ -19946,6 +19946,9 @@ www.nueey.com##.theiaPostSlider_preloadedSlide > strong
 ||*/browse/*.html
 ||*/view/*/*.html
 ||*/pages/*/*.html
+||*/page/*/*.html
+||*/static/*/*/*.html
+||*/*/news/*.html?*
 ||*/a*u.php?*
 ||*/*.html?key=*&scr
 ||*/?rb=*
@@ -19957,6 +19960,8 @@ www.nueey.com##.theiaPostSlider_preloadedSlide > strong
 ||*/*/*/*/*.html?*==
 ||*/*/*/?var=*
 ||*/?z=*
+||*/logo.png?*
+||*
 
 
 
