@@ -19968,6 +19968,7 @@ www.nueey.com##.theiaPostSlider_preloadedSlide > strong
 
 ||*/web.html
 ||*/article.html
+||*/wiki.html
 
 ||*/browse/*.html
 ||*/web/*.html
@@ -19995,8 +19996,8 @@ www.nueey.com##.theiaPostSlider_preloadedSlide > strong
 ||*/va?action=
 ||*/*.html?*==
 ||*/*/*/*/*.html?*==
-||*/*/*/?var=*
-||*/?z=*
+||*/*/*/?var=
+||*/?z=
 ||*/logo.png?*
 
 
