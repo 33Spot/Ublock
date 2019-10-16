@@ -19938,6 +19938,7 @@ www.nueey.com##.theiaPostSlider_preloadedSlide > strong
 ||*/image.png?*
 ||*/error.png?*
 ||*/reset.css?*
+||*/index.css?*
 ||*/bundle.css?*
 ||*/ajax.json
 ||*/data.json
@@ -19949,6 +19950,9 @@ www.nueey.com##.theiaPostSlider_preloadedSlide > strong
 ||*/script/*.html?frmt=0
 ||*/script/compatibility.js
 ||*/tag.min.js
+||*/va?action=
+||*/*.html?*==
+
 
 
 ||adexchangegate.com^
