@@ -20065,3 +20065,5 @@ movieninja.to###share-this-movie
 ||vjs.zencdn.net^$script,domain=www.porngo.com
 ||servicer.adskeeper.co.uk^$script,domain=www.porngo.com
 ||*/7.5.5/video.js$script,domain=www.porngo.com
+||kymirasite.pro^$script,domain=www.porngo.com
+
