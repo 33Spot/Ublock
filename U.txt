@@ -20061,4 +20061,7 @@ apg-clan.org###ad_global_below_navbar
 ! 16.10.2019 https://movieninja.to
 movieninja.to###share-this-movie
 
-
+! 17.10.2019 porngo.com
+||vjs.zencdn.net^$script,domain=www.porngo.com
+||servicer.adskeeper.co.uk^$script,domain=www.porngo.com
+||*/7.5.5/video.js$script,domain=www.porngo.com
