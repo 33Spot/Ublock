@@ -20053,10 +20053,8 @@ apg-clan.org###ad_global_below_navbar
 ||onclicksuper.com^$domain=onlystream.tv  ,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com
 
 
-
 ! 10/16/2019 tvn24.pl
 ||tvn.adocean.pl^$domain=tvnmeteo.tvn24.pl
-
 
 ! 16.10.2019 https://movieninja.to
 movieninja.to###share-this-movie
