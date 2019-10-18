@@ -20072,3 +20072,4 @@ movieninja.to###share-this-movie
 ||onclicksuper.com^
 ||*.click^
 ||*.news^
+||*.exdynsrv.*^$script,domain=www.rapidvideo.com
