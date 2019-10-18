@@ -20068,5 +20068,5 @@ movieninja.to###share-this-movie
 
 ||pushlinck.com^
 ||onclickmega.com^
+||onclicksuper.com^
 ||*.click^
-
