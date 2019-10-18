@@ -19979,6 +19979,7 @@ www.nueey.com##.theiaPostSlider_preloadedSlide > strong
 ||*/vast_tag/*  ,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*
 ||*/*/video.js$script  ,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*
 
+||*/web/*/*.html  ,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*
 ||*/view/*/*.html  ,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*
 ||*/article/*/*.html  ,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*
 ||*/pages/*/*.html  ,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*
@@ -20012,7 +20013,7 @@ www.nueey.com##.theiaPostSlider_preloadedSlide > strong
 
 ||*/*?shu=*  ,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*
 ||*/*?tfowk=  ,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*
-
+||*/*?lzyt=*  ,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*
 
 
 
