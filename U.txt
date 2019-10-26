@@ -1222,7 +1222,14 @@ vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##
 
 
 gum.criteo.com,yesmovies.zone,openload.co,vidcloud.icu,streamingworld.xyz,entervideo.net,*.rapidvideo.*,*.9anime.*,onlystream.tv,hqq.tv,flenix.fun,vidsrc.me,*.xhamster.com,*.spankbang.com,dilruwha.net,prettyfast.to,iamcdn.net,*.hydrax.net,*.vev.*,*.gbtcdn.com,*.disk.ly,cloudvideo.tv,*.clipwatching.com,www.rapidvideo.com,clipwatching.com,www.urldelivery.com,www.bcloudhost.com,fmovie.*,*.spankbang.com,fmovies.*,gum.criteo.com,acdn.adnxs.com,titki.top,pornbimbo.com,anime-odcinki.pl,oladblock.me,openload.co,ojntbybxh.com,cobalten.com,vidlox.*,*.vidlox.*##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
-vidcloud.icu,streamingworld.xyz##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
+!vidcloud.icu,streamingworld.xyz##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
+vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
+vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
+vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
+vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
+vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
+vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
+
 
 !vidcloud.icu,
 gum.criteo.com,yesmovies.zone,streamingworld.xyz,entervideo.net,*.rapidvideo.*,*.9anime.*,onlystream.tv,hqq.tv,flenix.fun,vidsrc.me,*.xhamster.com,*.spankbang.com,dilruwha.net,prettyfast.to,iamcdn.net,*.hydrax.net,*.vev.*,*.gbtcdn.com,*.disk.ly,cloudvideo.tv,*.clipwatching.com,clipwatching.com,www.urldelivery.com,www.bcloudhost.com,fmovie.*,*.spankbang.com,fmovies.*,gum.criteo.com,acdn.adnxs.com,titki.top,pornbimbo.com,anime-odcinki.pl,oladblock.me,openload.co,ojntbybxh.com,cobalten.com,vidlox.*,*.vidlox.*##+js(setInterval-defuser.js, (), 500)
