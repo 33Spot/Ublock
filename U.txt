@@ -1285,7 +1285,7 @@ vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##
 
 !vidcloud.icu,
 !streamingworld.xyz,
-gum.criteo.com,yesmovies.zone,entervideo.net,*.rapidvideo.*,*.9anime.*,onlystream.tv,hqq.tv,flenix.fun,vidsrc.me,*.xhamster.com,*.spankbang.com,dilruwha.net,prettyfast.to,iamcdn.net,*.hydrax.net,*.vev.*,*.gbtcdn.com,*.disk.ly,cloudvideo.tv,*.clipwatching.com,clipwatching.com,fmovie.*,*.spankbang.com,gum.criteo.com,acdn.adnxs.com,titki.top,pornbimbo.com,anime-odcinki.pl,oladblock.me,openload.co,ojntbybxh.com,cobalten.com,vidlox.*,*.vidlox.*##+js(abort-current-inline-script.js, document.createElement, jsc.mgid.com)
+vidnode.net,gum.criteo.com,yesmovies.zone,entervideo.net,*.rapidvideo.*,*.9anime.*,onlystream.tv,hqq.tv,flenix.fun,vidsrc.me,*.xhamster.com,*.spankbang.com,dilruwha.net,prettyfast.to,iamcdn.net,*.hydrax.net,*.vev.*,*.gbtcdn.com,*.disk.ly,cloudvideo.tv,*.clipwatching.com,clipwatching.com,fmovie.*,*.spankbang.com,gum.criteo.com,acdn.adnxs.com,titki.top,pornbimbo.com,anime-odcinki.pl,oladblock.me,openload.co,ojntbybxh.com,cobalten.com,vidlox.*,*.vidlox.*##+js(abort-current-inline-script.js, document.createElement, jsc.mgid.com)
 
 !vidcloud.icu,
 !streamingworld.xyz,
