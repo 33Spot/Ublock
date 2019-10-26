@@ -1156,6 +1156,12 @@ anime-odcinki.pl##+js(abort-current-inline-script.js, Math, zfgloaded)
 
 !streamingworld.xyz,
 vidcloud.icu,*.xhamster.com,*.spankbang.com,dilruwha.net,iamcdn.net,*.hydrax.net,*.vev.*,*.gbtcdn.com,*.disk.ly,cloudvideo.tv,*.clipwatching.com,www.rapidvideo.com,clipwatching.com,fmovie.*,fuskator.com,*.metric.gstatic.com,tpc.googlesyndication.com,leporno.org##+js(abort-current-inline-script.js, atob, tabunder)
+vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-current-inline-script.js, atob, tabunder)
+vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-current-inline-script.js, atob, tabunder)
+vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-current-inline-script.js, atob, tabunder)
+vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-current-inline-script.js, atob, tabunder)
+vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-current-inline-script.js, atob, tabunder)
+vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-current-inline-script.js, atob, tabunder)
 
 !vidcloud.icu,
 streamingworld.xyz,entervideo.net,*.rapidvideo.*,*.9anime.*,onlystream.tv,hqq.tv,flenix.fun,vidsrc.me,vidsource.me,1fichier.com,freedisc.pl,*.spankbang.com,dilruwha.net,iamcdn.net,*.hydrax.net,*.vev.*,*.gbtcdn.com,*.disk.ly,*.clipwatching.com,www.rapidvideo.com,clipwatching.com,cloudvideo.tv,vev.io,stream*.cdncv.net,www.urldelivery.com,www.bcloudhost.com,serverf4.org,*.123movie.*,fmovie.*,verystream.com,generalpornmovies.com,vintporn.com,veehd.com,time-pick.com,123enjoy.net/watch/*.html,there.to,glauptan.net,ebd.cda.pl,putlockerr.is/embed/*,groucign.com,vidsource.me/v/*,t.co,businessnewsvideo.online,embed.iseek.to,prettyfast.to,hqq.tv/player/*,hqq.tv,viduplayer.com,flenix.fun,gomostream.com,thesandonesof.info,targaubs.com/*,ls.hit.gemius.pl,*.mcloud.to,ejoonsoo.net,jetload.net,acquistaresbdunklowflyknitoreo.info,media.cloudcdnvideo.com/r/*,*.cloudcdnvideo.com/embed/*,stream.123downloads.today/*,fmovie.info/watch-free/*,*.betterstream.co,fmovie.info,*.cloudcdnvideo.com,*.123downloads.today,*.playercdn.net,*.fmovies.to,*.jetload.net,database.gdriveplayer.us,*.putlocker.is,vidsrc.me,ojeergoy.com,api.123movie.cc,serverf4.org,gum.criteo.com,acdn.adnxs.com,*.spankbang.com,titki.top,fruithosts.net,streamango.com,tpc.googlesyndication.com,*.xhamster.com,mc.yandex.ru,its.porn,there.to,enoughts.info,ufpcdn.com,gounlimited.to,femdom-joi.com,pornbimbo.com,freedisc.pl/embed/video/*,gum.criteo.com,adk.zaq2.pl,anime-odcinki.pl,oladblock.me,openload.co,ojntbybxh.com,cobalten.com,vidlox.*,*.vidlox.*##script:contains(window.open)
@@ -1251,6 +1257,16 @@ gum.criteo.com,yesmovies.zone,streamingworld.xyz,entervideo.net,*.rapidvideo.*,*
 !vidcloud.icu,
 !streamingworld.xyz,
 gum.criteo.com,yesmovies.zone,entervideo.net,*.rapidvideo.*,*.9anime.*,onlystream.tv,hqq.tv,flenix.fun,vidsrc.me,*.xhamster.com,*.spankbang.com,dilruwha.net,prettyfast.to,iamcdn.net,*.hydrax.net,*.vev.*,*.gbtcdn.com,*.disk.ly,cloudvideo.tv,*.clipwatching.com,clipwatching.com,fmovie.*,*.spankbang.com,gum.criteo.com,acdn.adnxs.com,titki.top,pornbimbo.com,anime-odcinki.pl,oladblock.me,openload.co,ojntbybxh.com,cobalten.com,vidlox.*,*.vidlox.*##+js(abort-on-property-read.js, decodeURI)
+
+
+vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-on-property-read.js, decodeURI)
+vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-on-property-read.js, decodeURI)
+vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-on-property-read.js, decodeURI)
+vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-on-property-read.js, decodeURI)
+vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-on-property-read.js, decodeURI)
+vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-on-property-read.js, decodeURI)
+
+
 !vidcloud.icu,
 !streamingworld.xyz,
 gum.criteo.com,yesmovies.zone,entervideo.net,*.rapidvideo.*,*.9anime.*,onlystream.tv,hqq.tv,flenix.fun,vidsrc.me,*.xhamster.com,*.spankbang.com,dilruwha.net,prettyfast.to,iamcdn.net,*.hydrax.net,*.vev.*,*.gbtcdn.com,*.disk.ly,cloudvideo.tv,*.clipwatching.com,clipwatching.com,fmovie.*,*.spankbang.com,gum.criteo.com,acdn.adnxs.com,titki.top,pornbimbo.com,anime-odcinki.pl,oladblock.me,openload.co,ojntbybxh.com,cobalten.com,vidlox.*,*.vidlox.*##+js(abort-current-inline-script.js, document.createElement, jsc.mgid.com)
@@ -1258,8 +1274,22 @@ gum.criteo.com,yesmovies.zone,entervideo.net,*.rapidvideo.*,*.9anime.*,onlystrea
 !streamingworld.xyz,
 gum.criteo.com,yesmovies.zone,entervideo.net,*.rapidvideo.*,*.9anime.*,onlystream.tv,hqq.tv,flenix.fun,vidsrc.me,*.xhamster.com,*.spankbang.com,dilruwha.net,prettyfast.to,iamcdn.net,*.hydrax.net,*.vev.*,*.gbtcdn.com,*.disk.ly,cloudvideo.tv,*.clipwatching.com,www.rapidvideo.com,clipwatching.com,fmovie.*,*.spankbang.com,gum.criteo.com,acdn.adnxs.com,titki.top,pornbimbo.com,anime-odcinki.pl,oladblock.me,openload.co,ojntbybxh.com,cobalten.com,vidlox.*,*.vidlox.*##+js(set-constant.js, check_adblock, true)
 
+vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(set-constant.js, check_adblock, true)
+vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(set-constant.js, check_adblock, true)
+vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(set-constant.js, check_adblock, true)
+vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(set-constant.js, check_adblock, true)
+vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(set-constant.js, check_adblock, true)
+vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(set-constant.js, check_adblock, true)
+
 !vidcloud.icu,
 gum.criteo.com,yesmovies.zone,streamingworld.xyz,entervideo.net,*.rapidvideo.*,*.9anime.*,flenix.fun,vidsrc.me,*.xhamster.com,*.spankbang.com,dilruwha.net,prettyfast.to,iamcdn.net,*.hydrax.net,*.vev.*,*.gbtcdn.com,*.disk.ly,cloudvideo.tv,*.clipwatching.com,www.rapidvideo.com,clipwatching.com,fmovie.*,*.spankbang.com,gum.criteo.com,acdn.adnxs.com,titki.top,pornbimbo.com,anime-odcinki.pl,oladblock.me,openload.co,ojntbybxh.com,cobalten.com,vidlox.*,*.vidlox.*##[id*="ScriptRoot"]
+
+vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##[id*="ScriptRoot"]
+vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##[id*="ScriptRoot"]
+vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##[id*="ScriptRoot"]
+vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##[id*="ScriptRoot"]
+vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##[id*="ScriptRoot"]
+vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##[id*="ScriptRoot"]
 
 ||*.vev.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: freedisc.pl *.google.com *.gstatic.com *.widgetpack.com *.jwpcdn.com *.google-analytics.com *.povwideo.net *.clipwatching.com *.vshare.io *.rapidvideo.com *.fastplay.to *.facebook.com *.fbcdn.net *.hydrax.net 
 !vidcloud.*
