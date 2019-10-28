@@ -1433,7 +1433,9 @@ vidcloud.icu,streamingworld.xyz,entervideo.net##+js(abort-on-property-read.js, H
 vidcloud.icu,streamingworld.xyz,entervideo.net##+js(abort-on-property-read.js, HTMLScriptElement)
 vidcloud.icu,streamingworld.xyz,entervideo.net##+js(abort-on-property-read.js, HTMLScriptElement)
 
-!||vidnode.net^$csp=script-src 'self' 'unsafe-inline' data: *.google.com *.gstatic.com *.google-analytics.com
+!||vidnode.net^$csp=script-src 'self' 'unsafe-inline' data: *.google.com *.gstatic.com *.google-analytics.com *.googletagmanager.com
+!||vidnode.net^$csp=script-src 'self' 'unsafe-inline' data: *.googletagmanager.com
+||*.googletagmanager.com^,domain=vidnode.net
 
 
 
