@@ -1239,7 +1239,12 @@ vidnode.net##+js(window.open-defuser.js)
 vidnode.net##+js(window.open-defuser.js)
 vidnode.net##+js(window.open-defuser.js)
 vidnode.net##+js(window.open-defuser.js)
-
+yesmovies.zone,yesmoviesyes.com##+js(window.open-defuser.js)
+yesmovies.zone,yesmoviesyes.com##+js(window.open-defuser.js)
+yesmovies.zone,yesmoviesyes.com##+js(window.open-defuser.js)
+yesmovies.zone,yesmoviesyes.com##+js(window.open-defuser.js)
+yesmovies.zone,yesmoviesyes.com##+js(window.open-defuser.js)
+yesmovies.zone,yesmoviesyes.com##+js(window.open-defuser.js)
 
 !vidcloud.icu,
 yesmovies.zone,openload.co,vidcloud.icu,*.vev.*,vev.io,stream*.cdncv.net,www.urldelivery.com,www.bcloudhost.com,serverf4.org,*.123movie.*,fmovie.*,verystream.com,generalpornmovies.com,vintporn.com,veehd.com,time-pick.com,123enjoy.net/watch/*.html,there.to,glauptan.net,ebd.cda.pl,putlockerr.is/embed/*,groucign.com,vidsource.me/v/*,t.co,businessnewsvideo.online,embed.iseek.to,hqq.tv/player/*,hqq.tv,viduplayer.com,flenix.fun,gomostream.com,thesandonesof.info,targaubs.com/*,ls.hit.gemius.pl,*.mcloud.to,ejoonsoo.net,jetload.net,acquistaresbdunklowflyknitoreo.info,media.cloudcdnvideo.com/r/*,*.cloudcdnvideo.com/embed/*,stream.123downloads.today/*,fmovie.info/watch-free/**.betterstream.co,fmovie.info,*.cloudcdnvideo.com,*.123downloads.today,*.playercdn.net,*.fmovies.to,*.jetload.net,database.gdriveplayer.us,*.putlocker.is,vidsrc.me,ojeergoy.com,api.123movie.cc,serverf4.org,gum.criteo.com,acdn.adnxs.com,titki.top,fruithosts.net,streamango.com,mc.yandex.ru,its.porn,there.to,enoughts.info,ufpcdn.com,gounlimited.to,femdom-joi.com,pornbimbo.com,anime-odcinki.pl,oladblock.me,openload.co,ojntbybxh.com,cobalten.com,vidlox.*,*.vidlox.*##+js(abort-on-property-read.js, zfgloadedpopup)
@@ -1276,6 +1281,13 @@ vidnode.net,streamingworld.xyz##+js(setInterval-defuser.js, (), 500)
 vidnode.net,streamingworld.xyz##+js(setInterval-defuser.js, (), 500)
 vidnode.net,streamingworld.xyz##+js(setInterval-defuser.js, (), 500)
 vidnode.net,streamingworld.xyz##+js(setInterval-defuser.js, (), 500)
+yesmovies.zone,yesmoviesyes.com##+js(setInterval-defuser.js, (), 500)
+yesmovies.zone,yesmoviesyes.com##+js(setInterval-defuser.js, (), 500)
+yesmovies.zone,yesmoviesyes.com##+js(setInterval-defuser.js, (), 500)
+yesmovies.zone,yesmoviesyes.com##+js(setInterval-defuser.js, (), 500)
+yesmovies.zone,yesmoviesyes.com##+js(setInterval-defuser.js, (), 500)
+yesmovies.zone,yesmoviesyes.com##+js(setInterval-defuser.js, (), 500)
+
 
 !vidcloud.icu,
 !streamingworld.xyz,
@@ -1332,12 +1344,14 @@ vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##
 vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, =!0)
 vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, =!0)
 
+!yesmovies.zone,yesmoviesyes.com,
 vidnode.net##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, =!0)
-!vidnode.net##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, =!0)
-!vidnode.net##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, =!0)
+vidnode.net##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, =!0)
+vidnode.net##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, =!0)
+!yesmovies.zone,yesmoviesyes.com,
 vidnode.net##+js(set-constant.js, String.fromCharCode, noopFunc)
-!vidnode.net##+js(set-constant.js, String.fromCharCode, noopFunc)
-!vidnode.net##+js(set-constant.js, String.fromCharCode, noopFunc)
+vidnode.net##+js(set-constant.js, String.fromCharCode, noopFunc)
+vidnode.net##+js(set-constant.js, String.fromCharCode, noopFunc)
 
 vidnode.net##+js(setTimeout-defuser.js, r(), 500)
 vidnode.net##+js(setTimeout-defuser.js, r(), 500)
@@ -1378,8 +1392,8 @@ vidnode.net,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,ente
 vidnode.net,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(setInterval-defuser.js, text/css, 10)
 vidnode.net,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(setInterval-defuser.js, text/css, 10)
 
-vidnode.net##header
-vidnode.net##+js(abort-on-property-read.js, AaDetector)
+!vidnode.net##header
+!vidnode.net##+js(abort-on-property-read.js, AaDetector)
 vidnode.net##+js(setTimeout-defuser.js, _0x)
 vidnode.net###preroll
 vidnode.net##+js(abort-current-inline-script.js, parseInt, incrementClicks)
@@ -1419,7 +1433,7 @@ vidcloud.icu,streamingworld.xyz,entervideo.net##+js(abort-on-property-read.js, H
 vidcloud.icu,streamingworld.xyz,entervideo.net##+js(abort-on-property-read.js, HTMLScriptElement)
 vidcloud.icu,streamingworld.xyz,entervideo.net##+js(abort-on-property-read.js, HTMLScriptElement)
 
-||vidnode.net^$csp=script-src 'self' 'unsafe-inline' data: *.google.com *.gstatic.com *.google-analytics.com
+!||vidnode.net^$csp=script-src 'self' 'unsafe-inline' data: *.google.com *.gstatic.com *.google-analytics.com
 
 
 
