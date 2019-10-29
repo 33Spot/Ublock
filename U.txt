@@ -5982,8 +5982,8 @@ lolhentai.net##+js(window.open-defuser.js)
 ! ! adding sites using the same script
 ! https://www.reddit.com/r/uBlockOrigin/comments/a6bbib/this_website_seems_to_be_able_to_bypass_ublock/
 mangafreak.net##+js(abort-current-inline-script.js, String.fromCharCode, /\/\*[0-9a-f]{40}\*\//)
-||cdn.siteswithcontent.com/js/push/subscribe.js$script,important
-||cdn.contentsitesrv.com/js/push/subscribe.js$script,important
+!||cdn.siteswithcontent.com/js/push/subscribe.js$script,important
+!||cdn.contentsitesrv.com/js/push/subscribe.js$script,important
 mangafreak.net##[src^="/scripts/"]
 animenova.org,animeplus.tv,animetoon.org,animewow.org,goodanime.co,kiss-anime.*,mangareader.net,toonget.net,toonova.net##+js(set-constant.js, String.fromCharCode, trueFunc)
 memecenter.com##a[href$=".png"]
@@ -15639,7 +15639,7 @@ kisscartoon.xyz###spu-bg-98
 watchcartoonsonline.*###M411726ScriptRootC343643
 
 ! 4.04.2019 watchcartoonsonline.*
-||cdn.siteswithcontent.com^$script,domain=www8.watchcartoonsonline.*
+!||cdn.siteswithcontent.com^$script,domain=www8.watchcartoonsonline.*
 ||trck.bebi.com^$image,domain=www8.watchcartoonsonline.*
 ||servicer.mgid.com^$script,domain=www8.watchcartoonsonline.*
 ||c.mgid.com^$image,domain=www8.watchcartoonsonline.*
