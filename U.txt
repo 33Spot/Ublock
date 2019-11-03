@@ -1231,12 +1231,12 @@ vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##
 !streamingworld.xyz,
 !vidnode.net,
 entervideo.net,*.rapidvideo.*,*.9anime.*,prettyfast.to,onlystream.tv,hqq.tv,flenix.fun,vidsrc.me,vidsource.me,1fichier.com,freedisc.pl,*.vev.*,vev.io,stream*.cdncv.net,www.urldelivery.com,www.bcloudhost.com,serverf4.org,*.123movie.*,fmovie.*,verystream.com,generalpornmovies.com,vintporn.com,veehd.com,time-pick.com,123enjoy.net/watch/*.html,there.to,glauptan.net,ebd.cda.pl,putlockerr.is/embed/*,groucign.com,vidsource.me/v/*,t.co,businessnewsvideo.online,embed.iseek.to,hqq.tv/player/*,hqq.tv,viduplayer.com,flenix.fun,gomostream.com,thesandonesof.info,targaubs.com/*,ls.hit.gemius.pl,*.mcloud.to,ejoonsoo.net,jetload.net,acquistaresbdunklowflyknitoreo.info,media.cloudcdnvideo.com/r/*,*.cloudcdnvideo.com/embed/*,stream.123downloads.today/*,fmovie.info/watch-free/**.betterstream.co,fmovie.info,*.cloudcdnvideo.com,*.123downloads.today,*.playercdn.net,*.fmovies.to,*.jetload.net,database.gdriveplayer.us,*.putlocker.is,vidsrc.me,ojeergoy.com,api.123movie.cc,serverf4.org,gum.criteo.com,acdn.adnxs.com,titki.top,fruithosts.net,streamango.com,mc.yandex.ru,its.porn,there.to,enoughts.info,ufpcdn.com,gounlimited.to,femdom-joi.com,pornbimbo.com,freedisc.pl/embed/video/*,gum.criteo.com,adk.zaq2.pl,anime-odcinki.pl,oladblock.me,openload.co,ojntbybxh.com,cobalten.com,vidlox.*,*.vidlox.*##+js(window.open-defuser.js)
-vidnode.net##+js(window.open-defuser.js)
-vidnode.net##+js(window.open-defuser.js)
-vidnode.net##+js(window.open-defuser.js)
-vidnode.net##+js(window.open-defuser.js)
-vidnode.net##+js(window.open-defuser.js)
-vidnode.net##+js(window.open-defuser.js)
+streamingworld.xyz,vidnode.net##+js(window.open-defuser.js)
+streamingworld.xyz,vidnode.net##+js(window.open-defuser.js)
+streamingworld.xyz,vidnode.net##+js(window.open-defuser.js)
+streamingworld.xyz,vidnode.net##+js(window.open-defuser.js)
+streamingworld.xyz,vidnode.net##+js(window.open-defuser.js)
+streamingworld.xyz,vidnode.net##+js(window.open-defuser.js)
 !yesmovies.zone,yesmoviesyes.com##+js(window.open-defuser.js)
 !yesmovies.zone,yesmoviesyes.com##+js(window.open-defuser.js)
 !yesmovies.zone,yesmoviesyes.com##+js(window.open-defuser.js)
@@ -1302,8 +1302,11 @@ vidnode.net,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,ente
 !streamingworld.xyz,
 gum.criteo.com,yesmovies.zone,entervideo.net,*.rapidvideo.*,*.9anime.*,onlystream.tv,hqq.tv,flenix.fun,vidsrc.me,*.xhamster.com,*.spankbang.com,dilruwha.net,prettyfast.to,iamcdn.net,*.hydrax.net,*.vev.*,*.gbtcdn.com,*.disk.ly,cloudvideo.tv,*.clipwatching.com,clipwatching.com,fmovie.*,*.spankbang.com,gum.criteo.com,acdn.adnxs.com,titki.top,pornbimbo.com,anime-odcinki.pl,oladblock.me,openload.co,ojntbybxh.com,cobalten.com,vidlox.*,*.vidlox.*##+js(abort-current-inline-script.js, document.createElement, jsc.mgid.com)
 vidnode.net##+js(abort-current-inline-script.js, document.createElement, jsc.mgid.com)
-!vidnode.net##+js(abort-current-inline-script.js, document.createElement, jsc.mgid.com)
-!vidnode.net##+js(abort-current-inline-script.js, document.createElement, jsc.mgid.com)
+vidnode.net##+js(abort-current-inline-script.js, document.createElement, jsc.mgid.com)
+vidnode.net##+js(abort-current-inline-script.js, document.createElement, jsc.mgid.com)
+vidnode.net##+js(abort-current-inline-script.js, document.createElement, jsc.mgid.com)
+vidnode.net##+js(abort-current-inline-script.js, document.createElement, jsc.mgid.com)
+vidnode.net##+js(abort-current-inline-script.js, document.createElement, jsc.mgid.com)
 
 !vidcloud.icu,
 !streamingworld.xyz,
@@ -1318,7 +1321,7 @@ vidcloud.icu,streamingworld.xyz,vidnode.net,yesmovies.zone,yesmoviesyes.com,ente
 !vidcloud.icu,
 !vidnode.net,
 gum.criteo.com,yesmovies.zone,streamingworld.xyz,entervideo.net,*.rapidvideo.*,*.9anime.*,flenix.fun,vidsrc.me,*.xhamster.com,*.spankbang.com,dilruwha.net,prettyfast.to,iamcdn.net,*.hydrax.net,*.vev.*,*.gbtcdn.com,*.disk.ly,cloudvideo.tv,*.clipwatching.com,www.rapidvideo.com,clipwatching.com,fmovie.*,*.spankbang.com,gum.criteo.com,acdn.adnxs.com,titki.top,pornbimbo.com,anime-odcinki.pl,oladblock.me,openload.co,ojntbybxh.com,cobalten.com,vidlox.*,*.vidlox.*##[id*="ScriptRoot"]
-vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##[id*="ScriptRoot"]
+vidnode.net,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##[id*="ScriptRoot"]
 vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##[id*="ScriptRoot"]
 vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##[id*="ScriptRoot"]
 vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##[id*="ScriptRoot"]
@@ -1330,10 +1333,10 @@ vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##
 
 ! AdDefend
 !#if env_chromium
-vidnode.net,airliners.de,auszeit.bio,autorevue.at,bafoeg-aktuell.de,berliner-kurier.de,berliner-zeitung.de,bikerszene.de,boersennews.de,bonedo.de,chefkoch.de,computerbild.de,deine-tierwelt.de,desired.de,dhd24.com,digitalfernsehen.de,donnerwetter.de,e-hausaufgaben.de,express.de,fanfiktion.de,finya.de,formel1.de,frag-mutti.de,freenet.de,fremdwort.de,frustfrei-lernen.de,fussballdaten.de,gameswelt.*,gartendialog.de,gartenlexikon.de,gewinnspiele.tv,gut-erklaert.de,haus-garten-test.de,hifi-forum.de,iban-rechner.de,inside-handy.de,juraforum.de,kindergeld.org,ksta.de,liga3-online.de,lz.de,messen.de,moviejones.de,mt.de,musiker-board.de,mz-web.de,naumburger-tageblatt.de,news.de,newsbreak24.de,nickles.de,nw.de,oeffentlicher-dienst.info,onlinemarketing.de,prad.de,psychic.de,quoka.de,rheinische-anzeigenblaetter.de,rimondo.com,rundschau-online.de,spielen.de,spieletipps.de,spielfilm.de,tichyseinblick.de,torgranate.de,transfermarkt.*,truckscout24.*,tvinfo.de,unicum.de,wallstreet-online.de,weltfussball.at,weristdeinfreund.de,weser-kurier.de,wetter.com,wetteronline.at,wetteronline.ch,wieistmeineip.*,wize.life,ze.tt##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, =!0)
-kicker.de,kino.de,meinestadt.de,spieletipps.de##+js(set-constant.js, String.fromCharCode, noopFunc)
-clever-tanken.de,giga.de##+js(set-constant.js, Math.floor, noopFunc)
-lablue.*##+js(setTimeout-defuser.js, r(), 500)
+streamingworld.xyz,vidnode.net,airliners.de,auszeit.bio,autorevue.at,bafoeg-aktuell.de,berliner-kurier.de,berliner-zeitung.de,bikerszene.de,boersennews.de,bonedo.de,chefkoch.de,computerbild.de,deine-tierwelt.de,desired.de,dhd24.com,digitalfernsehen.de,donnerwetter.de,e-hausaufgaben.de,express.de,fanfiktion.de,finya.de,formel1.de,frag-mutti.de,freenet.de,fremdwort.de,frustfrei-lernen.de,fussballdaten.de,gameswelt.*,gartendialog.de,gartenlexikon.de,gewinnspiele.tv,gut-erklaert.de,haus-garten-test.de,hifi-forum.de,iban-rechner.de,inside-handy.de,juraforum.de,kindergeld.org,ksta.de,liga3-online.de,lz.de,messen.de,moviejones.de,mt.de,musiker-board.de,mz-web.de,naumburger-tageblatt.de,news.de,newsbreak24.de,nickles.de,nw.de,oeffentlicher-dienst.info,onlinemarketing.de,prad.de,psychic.de,quoka.de,rheinische-anzeigenblaetter.de,rimondo.com,rundschau-online.de,spielen.de,spieletipps.de,spielfilm.de,tichyseinblick.de,torgranate.de,transfermarkt.*,truckscout24.*,tvinfo.de,unicum.de,wallstreet-online.de,weltfussball.at,weristdeinfreund.de,weser-kurier.de,wetter.com,wetteronline.at,wetteronline.ch,wieistmeineip.*,wize.life,ze.tt##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, =!0)
+streamingworld.xyz,vidnode.net,kicker.de,kino.de,meinestadt.de,spieletipps.de##+js(set-constant.js, String.fromCharCode, noopFunc)
+streamingworld.xyz,vidnode.net,clever-tanken.de,giga.de##+js(set-constant.js, Math.floor, noopFunc)
+streamingworld.xyz,vidnode.net,lablue.*##+js(setTimeout-defuser.js, r(), 500)
 
 vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, =!0)
 vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, =!0)
@@ -1389,16 +1392,16 @@ vidnode.net,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,ente
 vidnode.net,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(setInterval-defuser.js, text/css, 10)
 vidnode.net,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(setInterval-defuser.js, text/css, 10)
 vidnode.net,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(setInterval-defuser.js, text/css, 10)
-
+!-----------------------------------------------------------------------------------------------
 !vidnode.net##header
 !vidnode.net##+js(abort-on-property-read.js, AaDetector)
-vidnode.net##+js(setTimeout-defuser.js, _0x)
-vidnode.net###preroll
-vidnode.net##+js(abort-current-inline-script.js, parseInt, incrementClicks)
-vidnode.net##+js(abort-current-inline-script.js, decodeURIComponent, atob)
-vidnode.net##+js(popads-dummy.js)
-vidnode.net##+js(abort-on-property-write.js, _pop)
-
+streamingworld.xyz,vidnode.net##+js(setTimeout-defuser.js, _0x)
+streamingworld.xyz,vidnode.net###preroll
+streamingworld.xyz,vidnode.net##+js(abort-current-inline-script.js, parseInt, incrementClicks)
+streamingworld.xyz,vidnode.net##+js(abort-current-inline-script.js, decodeURIComponent, atob)
+streamingworld.xyz,vidnode.net##+js(popads-dummy.js)
+streamingworld.xyz,vidnode.net##+js(abort-on-property-write.js, _pop)
+!-----------------------------------------------------------------------------------------------
 !vidcloud.icu,
 vidnode.net,streamingworld.xyz,entervideo.net,*.rapidvideo.*,*.9anime.*,prettyfast.to,4-liga.com,4fansites.de,4players.de,9monate.de,abendblatt.de,abendzeitung-muenchen.de,abseits-ka.de,ajaxshowtime.com,allgemeine-zeitung.de,allaboutphones.nl,antenne.de,arcor.de,areadvd.de,areamobile.de,ariva.de,astronews.com,aussenwirtschaftslupe.de,auto-motor-und-sport.de,auto-service.de,autobild.de,autoextrem.de,autopixx.de,baby-vornamen.de,bento.de,bigfm.de,bildderfrau.de,blackd.de,boerse-online.de,boerse.de,boersen.manager-magazin.de,braunschweiger-zeitung.de,brieffreunde.de,buerstaedter-zeitung.de,buffed.de,caravaning.de,cavallo.de,cinema.de,computerbild.de,computerhilfen.de,computerworld.nl,comunio.*,comunio-cl.com,connect.de,dbna.de,derwesten.de,dieblaue24.com,dnn.de,eatsmarter.de,echo-online.de,einfachschoen.me,elektrobike-online.com,e-mountainbike.com,epochtimes.de,extratipp.com,f1maximaal.nl,fettspielen.de,fid-gesundheitswissen.de,finanztreff.de,fitforfun.de,focus.de,football365.fr,fr.de,futurezone.de,gala.de,gamersglobal.de,gamesaktuell.de,gamestar.de,gameswelt.at,gameswelt.de,gamezone.de,geissblog.koeln,gelnhaeuser-tageblatt.de,general-anzeiger-bonn.de,genialetricks.de,geniale-tricks.com,gesundheit.de,gevestor.de,giessener-anzeiger.de,gifhorner-rundschau.de,gipfelbuch.ch,gmuender-tagespost.de,golem.de,gusto.at,gutfuerdich.co,hamburg.de,hardwareluxx.de,hartziv.org,harzkurier.de,hausgarten.net,haz.de,heftig.*,helmstedter-nachrichten.de,heilpraxisnet.de,heise.de,hftg.co,hochheimer-zeitung.de,hofheimer-zeitung.de,hoerzu.de,ikz-online.de,immobilienscout24.de,ingame.de,investor-verlag.de,jpgames.de,kabeleins.de,kamelle.de,kindergeld.info,klettern.de,klettern-magazin.de,kochbar.de,kreis-anzeiger.de,lablue.*,lachainemeteo.com,lampertheimer-zeitung.de,landwirt.com,laut.de,lauterbacher-anzeiger.de,leckerschmecker.me,lesfoodies.com,levif.be,lifeline.de,likemag.com,ln-online.de,lustaufsleben.at,lustich.de,lvz.de,main-spitze.de,mathepower.com,maz-online.de,medisite.fr,mehr-tanken.de,mein-kummerkasten.de,mein-mmo.de,mein-wahres-ich.de,menshealth.de,mercato365.com,metal-hammer.de,metalflirt.de,minecraft-serverlist.net,mittelbayerische.de,modhoster.de,mopo.de,morgenpost.de,motor-talk.de,motorbasar.de,motorradonline.de,motorsport-total.com,motortests.de,mountainbike-magazin.de,moviepilot.de,mtb-news.de,musikexpress.de,musikradar.de,netzwelt.de,neuepresse.de,neueroeffnung.info,news.at,news38.de,nicknight.de,nnn.de,notebookchat.com,notebookcheck.*,notebookcheck-tr.com,noz.de,noz-cdn.de,nrz.de,nwzonline.de,oberhessische-zeitung.de,onlinekosten.de,onvista.de,op-marburg.de,outdoor-magazin.com,outdoorchannel.de,paradisi.de,pc-magazin.de,pcgames.de,pcgameshardware.de,pcwelt.de,peiner-nachrichten.de,pcworld.pl,pferde.de,pietsmiet.de,pixelio.de,pkw-forum.de,planetsnow.de,playboy.de,playfront.de,pnn.de,pons.com,prignitzer.de,profil.at,promipool.de,promobil.de,prosiebenmaxx.de,ran.de,readmore.de,rechtslupe.de,reuters.com,rhein-main-presse.de,roadbike.de,roemische-zahlen.net,rollingstone.de,rot-blau.com,rp-online.de,rtl.de,rtv.de,rugby365.fr,runnersworld.de,safelist.eu,salzgitter-zeitung.de,sat1.de,sat1gold.de,schwaebische-post.de,serienjunkies.de,shz.de,sixx.de,skodacommunity.de,smart-wohnen.net,sn.at,spiegel.de,spielfilm.de,sport.de,sportal.de,sport365.fr,spox.com,svz.de,szene1.at,szene38.de,tagesspiegel.de,taschenhirn.de,techstage.de,testedich.*,the-voice-of-germany.de,thueringen24.de,tierfreund.co,tiervermittlung.de,trend.at,tv-media.at,tvdigital.de,tvspielfilm.de,tvtoday.de,unterhalt.net,usinger-anzeiger.de,usp-forum.de,videogameszone.de,vienna.at,vip.de,virtualnights.com,vox.de,waz.de,webfail.com,webwereld.nl,welt.de,weristdeinfreund.de,werkzeug-news.de,wetter.*,wetteronline.*,wiesbadener-kurier.de,wiesbadener-tagblatt.de,wintotal.de,winboard.org,windows-7-forum.net,wn.de,wohngeld.org,wolfenbuetteler-zeitung.de,wolfsburger-nachrichten.de,woman.at,womenshealth.de,wormser-zeitung.de,woxikon.de,wp.de,wr.de,yachtrevue.at##^script:has-text(Inject=!)
 vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##^script:has-text(Inject=!)
@@ -1844,6 +1847,7 @@ pornhub.com##+js(pornhub-sanitizer.js)
 
 ! https://github.com/gorhill/uBlock/issues/1591
 ||static.adzerk.net/ados.js$script,important,domain=serverfault.com|stackoverflow.com
+
 
 ! https://github.com/uBlockOrigin/uAssets/issues/35
 !||8s8.eu/fa.js$script,redirect=fuckadblock.js-3.2.0,domain=g9g.eu
@@ -2891,6 +2895,19 @@ kbb.com##+js(abort-on-property-read.js, KBB.DetectBlockerExtensions)
 movie-blog.*##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
 movie-blog.*##+js(abort-current-inline-script.js, puShown , /doOpen|popundr/)
 movie-blog.*##+js(popads-dummy.js)
+vidnode.net##+js(popads-dummy.js)
+vidnode.net##+js(popads-dummy.js)
+vidnode.net##+js(popads-dummy.js)
+vidnode.net##+js(popads-dummy.js)
+vidnode.net##+js(popads-dummy.js)
+vidnode.net##+js(popads-dummy.js)
+!vidnode.net##+js(abort-on-property-write.js, adBlockDetected)
+!vidnode.net##+js(bab-defuser.js)
+!vidnode.net##+js(setInterval-defuser.js, eval)
+!vidnode.net##+js(setTimeout-defuser.js, newBody)
+vidnode.net##+js(abort-current-inline-script.js, puShown , /doOpen|popundr/)
+!||vidnode.net$script,redirect=fuckadblock.js-3.2.0
+
 
 !====================================================================================================================================================================================================================================================================
 ! https://www.reddit.com/r/uBlockOrigin/comments/5yszvt/flashplayer_scam/
