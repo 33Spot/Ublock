@@ -20485,3 +20485,4 @@ yesmovies.zone,vidnode.net,streamingworld.xyz##[class^="dooplay_player"]:matches
 ||xml.popmonetizer.com
 ||dyamicadx.com
 ||pushlinck.com
+||vast.youview.io
