@@ -1368,20 +1368,20 @@ prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.
 prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, =!0)
 
 !yesmovies.zone,yesmoviesyes.com,
-prettyfast.to,fmovies.to,grooksom.com,vidnode.net##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, =!0)
-prettyfast.to,fmovies.to,grooksom.com,vidnode.net##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, =!0)
-prettyfast.to,fmovies.to,grooksom.com,vidnode.net##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, =!0)
+yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidnode.net##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, =!0)
+yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidnode.net##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, =!0)
+yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidnode.net##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, =!0)
 !yesmovies.zone,yesmoviesyes.com,
-prettyfast.to,fmovies.to,grooksom.com,vidnode.net##+js(set-constant.js, String.fromCharCode, noopFunc)
-prettyfast.to,fmovies.to,grooksom.com,vidnode.net##+js(set-constant.js, String.fromCharCode, noopFunc)
-prettyfast.to,fmovies.to,grooksom.com,vidnode.net##+js(set-constant.js, String.fromCharCode, noopFunc)
+yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidnode.net##+js(set-constant.js, String.fromCharCode, noopFunc)
+yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidnode.net##+js(set-constant.js, String.fromCharCode, noopFunc)
+yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidnode.net##+js(set-constant.js, String.fromCharCode, noopFunc)
 
-prettyfast.to,fmovies.to,grooksom.com,vidnode.net##+js(setTimeout-defuser.js, r(), 500)
-prettyfast.to,fmovies.to,grooksom.com,vidnode.net##+js(setTimeout-defuser.js, r(), 500)
-prettyfast.to,fmovies.to,grooksom.com,vidnode.net##+js(setTimeout-defuser.js, r(), 500)
-prettyfast.to,fmovies.to,grooksom.com,vidnode.net##+js(setTimeout-defuser.js, r(), 500)
-prettyfast.to,fmovies.to,grooksom.com,vidnode.net##+js(setTimeout-defuser.js, r(), 500)
-prettyfast.to,fmovies.to,grooksom.com,vidnode.net##+js(setTimeout-defuser.js, r(), 500)
+yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidnode.net##+js(setTimeout-defuser.js, r(), 500)
+yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidnode.net##+js(setTimeout-defuser.js, r(), 500)
+yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidnode.net##+js(setTimeout-defuser.js, r(), 500)
+yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidnode.net##+js(setTimeout-defuser.js, r(), 500)
+yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidnode.net##+js(setTimeout-defuser.js, r(), 500)
+yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidnode.net##+js(setTimeout-defuser.js, r(), 500)
 
 
 !#endif
@@ -1417,12 +1417,21 @@ prettyfast.to,fmovies.to,vidnode.net,vidcloud.icu,streamingworld.xyz,yesmovies.z
 !-----------------------------------------------------------------------------------------------
 !vidnode.net##header
 !vidnode.net##+js(abort-on-property-read.js, AaDetector)
-fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidnode.net##+js(setTimeout-defuser.js, _0x)
-fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidnode.net###preroll
-fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidnode.net##+js(abort-current-inline-script.js, parseInt, incrementClicks)
-fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidnode.net##+js(abort-current-inline-script.js, decodeURIComponent, atob)
-fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidnode.net##+js(popads-dummy.js)
-fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidnode.net##+js(abort-on-property-write.js, _pop)
+yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidnode.net##+js(setTimeout-defuser.js, _0x)
+yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidnode.net###preroll
+yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidnode.net##+js(abort-current-inline-script.js, parseInt, incrementClicks)
+yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidnode.net##+js(abort-current-inline-script.js, decodeURIComponent, atob)
+yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidnode.net##+js(popads-dummy.js)
+yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidnode.net##+js(abort-on-property-write.js, _pop)
+
+yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidnode.net##+js(noeval.js)
+yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidnode.net##+js(noeval.js)
+yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidnode.net##+js(noeval.js)
+yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidnode.net##+js(noeval.js)
+yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidnode.net##+js(noeval.js)
+yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidnode.net##+js(noeval.js)
+
+
 
 prettyfast.to,fmovies.to,streamingworld.xyz,vidnode.net##+js(setTimeout-defuser.js, _0x)
 prettyfast.to,fmovies.to,streamingworld.xyz,vidnode.net###preroll
@@ -2868,7 +2877,7 @@ worldfree4u.*##a[href="/ws.html"]
 !prettyfast.to,
 jionetflix.org,orkutfeed.com##+js(abort-current-inline-script.js, RegExp, zfgloaded)
 
-streamingworld.xyz,vidnode.net,fmovies.to,prettyfast.to,jionetflix.org,orkutfeed.com##+js(noeval.js)
+jionetflix.org,orkutfeed.com##+js(noeval.js)
 
 !prettyfast.to,
 jionetflix.org,orkutfeed.com##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
