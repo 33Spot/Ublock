@@ -11,29 +11,30 @@
 ! Expires: 2 days
 
 
-||cagelrib.net
-||pushedwebnews.com
-||naucaips.com
-||dilruwha.net
+||cagelrib.net^
+||pushedwebnews.com^
+||naucaips.com^
+||dilruwha.net^
 
 
-||dormitysature.info
-||wasshoneaningar.pro
-||trillianu.info
+||dormitysature.info^
+||wasshoneaningar.pro^
+||trillianu.info^
 
 
-||my.rtmark.net
-||xml.popmonetizer.com
-||dyamicadx.com
-||pushlinck.com
-||vast.youview.io
+||my.rtmark.net^
+||xml.popmonetizer.com^
+||dyamicadx.com^
+||pushlinck.com^
+||vast.youview.io^
 
 
-||s.w.org
-||c0.wp.com
-||i*.wp.com
-||fvs.io
-||gmpg.org
+||s.w.org^
+||c0.wp.com^
+||i*.wp.com^
+||fvs.io^
+||gmpg.org^
+
 
 
 toteraz.pl###msgLayer > div > div:nth-of-type(1)
