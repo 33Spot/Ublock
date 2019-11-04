@@ -20480,3 +20480,8 @@ yesmovies.zone,vidnode.net,streamingworld.xyz##[class^="dooplay_player"]:matches
 ||wasshoneaningar.pro
 ||trillianu.info
 
+
+||my.rtmark.net
+||xml.popmonetizer.com
+||dyamicadx.com
+||pushlinck.com
