@@ -1168,8 +1168,8 @@ grooksom.com,vidnode.net##+js(abort-current-inline-script.js, atob, tabunder)
 !vidnode.net,
 streamingworld.xyz,entervideo.net,*.rapidvideo.*,*.9anime.*,onlystream.tv,hqq.tv,flenix.fun,vidsrc.me,vidsource.me,1fichier.com,freedisc.pl,*.spankbang.com,dilruwha.net,iamcdn.net,*.hydrax.net,*.vev.*,*.gbtcdn.com,*.disk.ly,*.clipwatching.com,www.rapidvideo.com,clipwatching.com,cloudvideo.tv,vev.io,stream*.cdncv.net,www.urldelivery.com,www.bcloudhost.com,serverf4.org,*.123movie.*,fmovie.*,verystream.com,generalpornmovies.com,vintporn.com,veehd.com,time-pick.com,123enjoy.net/watch/*.html,there.to,glauptan.net,ebd.cda.pl,putlockerr.is/embed/*,groucign.com,vidsource.me/v/*,t.co,businessnewsvideo.online,embed.iseek.to,prettyfast.to,hqq.tv/player/*,hqq.tv,viduplayer.com,flenix.fun,gomostream.com,thesandonesof.info,targaubs.com/*,ls.hit.gemius.pl,*.mcloud.to,ejoonsoo.net,jetload.net,acquistaresbdunklowflyknitoreo.info,media.cloudcdnvideo.com/r/*,*.cloudcdnvideo.com/embed/*,stream.123downloads.today/*,fmovie.info/watch-free/*,*.betterstream.co,fmovie.info,*.cloudcdnvideo.com,*.123downloads.today,*.playercdn.net,*.fmovies.to,*.jetload.net,database.gdriveplayer.us,*.putlocker.is,vidsrc.me,ojeergoy.com,api.123movie.cc,serverf4.org,gum.criteo.com,acdn.adnxs.com,*.spankbang.com,titki.top,fruithosts.net,streamango.com,tpc.googlesyndication.com,*.xhamster.com,mc.yandex.ru,its.porn,there.to,enoughts.info,ufpcdn.com,gounlimited.to,femdom-joi.com,pornbimbo.com,freedisc.pl/embed/video/*,gum.criteo.com,adk.zaq2.pl,anime-odcinki.pl,oladblock.me,openload.co,ojntbybxh.com,cobalten.com,vidlox.*,*.vidlox.*##script:contains(window.open)
 grooksom.com,vidcloud.icu,streamingworld.xyz,entervideo.net,prettyfast.to##script:contains(window.open)
-grooksom.com,vidcloud.icu,streamingworld.xyz,entervideo.net##script:contains(window.open)
-grooksom.com,vidcloud.icu,streamingworld.xyz,entervideo.net##script:contains(window.open)
+grooksom.com,vidcloud.icu,streamingworld.xyz,entervideo.net,prettyfast.to##script:contains(window.open)
+grooksom.com,vidcloud.icu,streamingworld.xyz,entervideo.net,prettyfast.to##script:contains(window.open)
 grooksom.com,vidcloud.icu,streamingworld.xyz,entervideo.net##script:contains(window.open)
 grooksom.com,vidcloud.icu,streamingworld.xyz,entervideo.net##script:contains(window.open)
 grooksom.com,vidcloud.icu,streamingworld.xyz,entervideo.net##script:contains(window.open)
@@ -1395,12 +1395,12 @@ vidnode.net,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,ente
 !-----------------------------------------------------------------------------------------------
 !vidnode.net##header
 !vidnode.net##+js(abort-on-property-read.js, AaDetector)
-grooksom.com,streamingworld.xyz,vidnode.net##+js(setTimeout-defuser.js, _0x)
-grooksom.com,streamingworld.xyz,vidnode.net###preroll
-grooksom.com,streamingworld.xyz,vidnode.net##+js(abort-current-inline-script.js, parseInt, incrementClicks)
-grooksom.com,streamingworld.xyz,vidnode.net##+js(abort-current-inline-script.js, decodeURIComponent, atob)
-grooksom.com,streamingworld.xyz,vidnode.net##+js(popads-dummy.js)
-grooksom.com,streamingworld.xyz,vidnode.net##+js(abort-on-property-write.js, _pop)
+prettyfast.to,grooksom.com,streamingworld.xyz,vidnode.net##+js(setTimeout-defuser.js, _0x)
+prettyfast.to,grooksom.com,streamingworld.xyz,vidnode.net###preroll
+prettyfast.to,grooksom.com,streamingworld.xyz,vidnode.net##+js(abort-current-inline-script.js, parseInt, incrementClicks)
+prettyfast.to,grooksom.com,streamingworld.xyz,vidnode.net##+js(abort-current-inline-script.js, decodeURIComponent, atob)
+prettyfast.to,grooksom.com,streamingworld.xyz,vidnode.net##+js(popads-dummy.js)
+prettyfast.to,grooksom.com,streamingworld.xyz,vidnode.net##+js(abort-on-property-write.js, _pop)
 
 streamingworld.xyz,vidnode.net##+js(setTimeout-defuser.js, _0x)
 streamingworld.xyz,vidnode.net###preroll
@@ -1419,12 +1419,12 @@ streamingworld.xyz,vidnode.net##+js(abort-on-property-write.js, _pop)
 !-----------------------------------------------------------------------------------------------
 !vidcloud.icu,
 vidnode.net,streamingworld.xyz,entervideo.net,*.rapidvideo.*,*.9anime.*,prettyfast.to,4-liga.com,4fansites.de,4players.de,9monate.de,abendblatt.de,abendzeitung-muenchen.de,abseits-ka.de,ajaxshowtime.com,allgemeine-zeitung.de,allaboutphones.nl,antenne.de,arcor.de,areadvd.de,areamobile.de,ariva.de,astronews.com,aussenwirtschaftslupe.de,auto-motor-und-sport.de,auto-service.de,autobild.de,autoextrem.de,autopixx.de,baby-vornamen.de,bento.de,bigfm.de,bildderfrau.de,blackd.de,boerse-online.de,boerse.de,boersen.manager-magazin.de,braunschweiger-zeitung.de,brieffreunde.de,buerstaedter-zeitung.de,buffed.de,caravaning.de,cavallo.de,cinema.de,computerbild.de,computerhilfen.de,computerworld.nl,comunio.*,comunio-cl.com,connect.de,dbna.de,derwesten.de,dieblaue24.com,dnn.de,eatsmarter.de,echo-online.de,einfachschoen.me,elektrobike-online.com,e-mountainbike.com,epochtimes.de,extratipp.com,f1maximaal.nl,fettspielen.de,fid-gesundheitswissen.de,finanztreff.de,fitforfun.de,focus.de,football365.fr,fr.de,futurezone.de,gala.de,gamersglobal.de,gamesaktuell.de,gamestar.de,gameswelt.at,gameswelt.de,gamezone.de,geissblog.koeln,gelnhaeuser-tageblatt.de,general-anzeiger-bonn.de,genialetricks.de,geniale-tricks.com,gesundheit.de,gevestor.de,giessener-anzeiger.de,gifhorner-rundschau.de,gipfelbuch.ch,gmuender-tagespost.de,golem.de,gusto.at,gutfuerdich.co,hamburg.de,hardwareluxx.de,hartziv.org,harzkurier.de,hausgarten.net,haz.de,heftig.*,helmstedter-nachrichten.de,heilpraxisnet.de,heise.de,hftg.co,hochheimer-zeitung.de,hofheimer-zeitung.de,hoerzu.de,ikz-online.de,immobilienscout24.de,ingame.de,investor-verlag.de,jpgames.de,kabeleins.de,kamelle.de,kindergeld.info,klettern.de,klettern-magazin.de,kochbar.de,kreis-anzeiger.de,lablue.*,lachainemeteo.com,lampertheimer-zeitung.de,landwirt.com,laut.de,lauterbacher-anzeiger.de,leckerschmecker.me,lesfoodies.com,levif.be,lifeline.de,likemag.com,ln-online.de,lustaufsleben.at,lustich.de,lvz.de,main-spitze.de,mathepower.com,maz-online.de,medisite.fr,mehr-tanken.de,mein-kummerkasten.de,mein-mmo.de,mein-wahres-ich.de,menshealth.de,mercato365.com,metal-hammer.de,metalflirt.de,minecraft-serverlist.net,mittelbayerische.de,modhoster.de,mopo.de,morgenpost.de,motor-talk.de,motorbasar.de,motorradonline.de,motorsport-total.com,motortests.de,mountainbike-magazin.de,moviepilot.de,mtb-news.de,musikexpress.de,musikradar.de,netzwelt.de,neuepresse.de,neueroeffnung.info,news.at,news38.de,nicknight.de,nnn.de,notebookchat.com,notebookcheck.*,notebookcheck-tr.com,noz.de,noz-cdn.de,nrz.de,nwzonline.de,oberhessische-zeitung.de,onlinekosten.de,onvista.de,op-marburg.de,outdoor-magazin.com,outdoorchannel.de,paradisi.de,pc-magazin.de,pcgames.de,pcgameshardware.de,pcwelt.de,peiner-nachrichten.de,pcworld.pl,pferde.de,pietsmiet.de,pixelio.de,pkw-forum.de,planetsnow.de,playboy.de,playfront.de,pnn.de,pons.com,prignitzer.de,profil.at,promipool.de,promobil.de,prosiebenmaxx.de,ran.de,readmore.de,rechtslupe.de,reuters.com,rhein-main-presse.de,roadbike.de,roemische-zahlen.net,rollingstone.de,rot-blau.com,rp-online.de,rtl.de,rtv.de,rugby365.fr,runnersworld.de,safelist.eu,salzgitter-zeitung.de,sat1.de,sat1gold.de,schwaebische-post.de,serienjunkies.de,shz.de,sixx.de,skodacommunity.de,smart-wohnen.net,sn.at,spiegel.de,spielfilm.de,sport.de,sportal.de,sport365.fr,spox.com,svz.de,szene1.at,szene38.de,tagesspiegel.de,taschenhirn.de,techstage.de,testedich.*,the-voice-of-germany.de,thueringen24.de,tierfreund.co,tiervermittlung.de,trend.at,tv-media.at,tvdigital.de,tvspielfilm.de,tvtoday.de,unterhalt.net,usinger-anzeiger.de,usp-forum.de,videogameszone.de,vienna.at,vip.de,virtualnights.com,vox.de,waz.de,webfail.com,webwereld.nl,welt.de,weristdeinfreund.de,werkzeug-news.de,wetter.*,wetteronline.*,wiesbadener-kurier.de,wiesbadener-tagblatt.de,wintotal.de,winboard.org,windows-7-forum.net,wn.de,wohngeld.org,wolfenbuetteler-zeitung.de,wolfsburger-nachrichten.de,woman.at,womenshealth.de,wormser-zeitung.de,woxikon.de,wp.de,wr.de,yachtrevue.at##^script:has-text(Inject=!)
-vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##^script:has-text(Inject=!)
-vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##^script:has-text(Inject=!)
-vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##^script:has-text(Inject=!)
-vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##^script:has-text(Inject=!)
-vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##^script:has-text(Inject=!)
-vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##^script:has-text(Inject=!)
+prettyfast.to,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##^script:has-text(Inject=!)
+prettyfast.to,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##^script:has-text(Inject=!)
+prettyfast.to,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##^script:has-text(Inject=!)
+prettyfast.to,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##^script:has-text(Inject=!)
+prettyfast.to,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##^script:has-text(Inject=!)
+prettyfast.to,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##^script:has-text(Inject=!)
 
 ! Yavli ads
 ! https://www.reddit.com/r/uBlockOrigin/comments/7cgb7h/pjmediacom_has_a_right_sidebar_that_is_labeled/
@@ -20471,6 +20471,7 @@ yesmovies.zone,vidnode.net,streamingworld.xyz###dooplay_player:style(z-index:214
 
 yesmovies.zone,vidnode.net,streamingworld.xyz##[class^="dooplay_player"]:matches-css(z-index:2147483647)
 
+
 ||deloplen.com^
 
 ! 4.11.2019 yesmovies.zone
@@ -20493,5 +20494,6 @@ yesmovies.zone,vidnode.net,streamingworld.xyz##[class^="dooplay_player"]:matches
 ||i*.wp.com
 ||fvs.io
 ||gmpg.org
+
 
 
