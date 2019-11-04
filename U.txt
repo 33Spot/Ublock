@@ -30,8 +30,8 @@
 
 
 ||s.w.org^
-||c0.wp.com^
-||i*.wp.com^
+!||c0.wp.com^
+!||i*.wp.com^
 ||fvs.io^
 ||gmpg.org^
 
@@ -961,8 +961,8 @@ watchcartoonsonline.*##[id*="ScriptRoot"]
 !watchcartoonsonline.*##+js(abort-on-property-read.js, zfgloadedpopup)
 !watchcartoonsonline.*##.main-container-wrap > main-container
 
-||*.watchcartoonsonline.*/$image
-||*.watchcartoonsonline.*/*e$image
+!||*.watchcartoonsonline.*/$image
+!||*.watchcartoonsonline.*/*e$image
 
 ||mc.yandex.ru^$script,domain=www.fembed.com
 ||adqy6rzwcs.com^$script,domain=www.fembed.com
@@ -15681,9 +15681,9 @@ kisscartoon.xyz###spu-98
 kisscartoon.xyz###spu-bg-98
 
 ! 30.04.2019 watchcartoonsonline.*
-||watchcartoonsonline.*/wp-content/themes/magxp/js/customscript.js$script,domain=www8.watchcartoonsonline.*
+!||watchcartoonsonline.*/wp-content/themes/magxp/js/customscript.js$script,domain=www8.watchcartoonsonline.*
 ||waust.at/s.js$script,domain=watchcartoonsonline.*
-||watchcartoonsonline.*/wp-content/themes/magxp/js/jquery.prettyPhoto.js$script,first-party
+!||watchcartoonsonline.*/wp-content/themes/magxp/js/jquery.prettyPhoto.js$script,first-party
 
 ! 1.05.2019 https://watchcartoonsonline.*
 !watchcartoonsonline.*##body > div:nth-of-type(5)
@@ -16069,9 +16069,6 @@ pl.pornhub.com##.clearfix.xy9olv > div:nth-of-type(3)
 ! 14.06.2019 youtube.com
 @@||static.doubleclick.net/instream/ad_status.js$script,domain=www.youtube.com
 
-! 14.06.2019 watchcartoonsonline.la
-||my.rtmark.net^$image,domain=deloplen.com
-
 ! 14.06.2019 https://www1.9anime.nl
 !9anime.*###rn_ad_native_ykw39 > .mn-related-container
 !9anime.*###rn_ad_native_yo3vp > .mn-related-container
@@ -16082,7 +16079,7 @@ pl.pornhub.com##.clearfix.xy9olv > div:nth-of-type(3)
 ||cdn.runative-syndicate.com/sdk/v1/n.js$script
 
 ! 16.06.2019 watchcartoonsonline.la
-||cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js$script
+!||cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js$script
 ||g.jwpsrv.com^$subdocument
 ||whos.amung.us^$script
 
