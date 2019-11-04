@@ -2864,11 +2864,15 @@ worldfree4u.*##+js(popads-dummy.js)
 @@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.min.js$script,domain=worldfree4u.desi
 worldfree4u.*##a[href="/downlo.html"]
 worldfree4u.*##a[href="/ws.html"]
-prettyfast.to,jionetflix.org,orkutfeed.com##+js(abort-current-inline-script.js, RegExp, zfgloaded)
+!prettyfast.to,
+jionetflix.org,orkutfeed.com##+js(abort-current-inline-script.js, RegExp, zfgloaded)
 prettyfast.to,jionetflix.org,orkutfeed.com##+js(noeval.js)
-prettyfast.to,jionetflix.org,orkutfeed.com##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
-prettyfast.to,jionetflix.org,orkutfeed.com##+js(abort-on-property-read.js, decodeURIComponent)
-prettyfast.to,jionetflix.org,orkutfeed.com##+js(popads-dummy.js)
+!prettyfast.to,
+jionetflix.org,orkutfeed.com##+js(abort-current-inline-script.js, decodeURI, decodeURIComponent)
+!prettyfast.to,
+jionetflix.org,orkutfeed.com##+js(abort-on-property-read.js, decodeURIComponent)
+!prettyfast.to,
+jionetflix.org,orkutfeed.com##+js(popads-dummy.js)
 ||remtoaku.net^
 ||ptikeegno.com^
 ||woahizouty.com^
