@@ -20486,3 +20486,12 @@ yesmovies.zone,vidnode.net,streamingworld.xyz##[class^="dooplay_player"]:matches
 ||dyamicadx.com
 ||pushlinck.com
 ||vast.youview.io
+
+
+||s.w.org
+||c0.wp.com
+||i*.wp.com
+||fvs.io
+||gmpg.org
+
+
