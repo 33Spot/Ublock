@@ -10,29 +10,26 @@
 !
 ! Expires: 2 days
 
-||fmovies.to/film/supergirl-5.oxlx4
-
 ||cagelrib.net^
 ||pushedwebnews.com^
 ||naucaips.com^
 ||dilruwha.net^
 
 
-||dormitysature.info^
-||wasshoneaningar.pro^
-||trillianu.info^
-
-
-||my.rtmark.net^
-||xml.popmonetizer.com^
-||dynamicadx.com^
-||pushlinck.com^
-||vast.youview.io^
-||pushlinck.com^
-||native.propeller.com^
-||cdn.runative-sydicate.com^
-||native.propellerclick.com^
-
+##[href="https://dormitysature.info"]
+##[href="https://wasshoneaningar.pro*"]
+##[href="https://trillianu.info*"]
+##[href="https://my.rtmark.net*"]
+##[href="https://xml.popmonetizer.com*"]
+##[href="https://dynamicadx.com*"]
+##[src="//pushlinck.com*"]
+##[href="https://vast.youview.io*"]
+##[href="https://pushlinck.com*"]
+##[src="//native.propeller.com*"]
+##[href="cdn.runative-sydicate.com*"]
+##[href="native.propellerclick.com*"]
+##[src="//deloplen.com*"]
+##[href="http://gmpg.org*"]
 
 
 
@@ -41,6 +38,17 @@
 !||i*.wp.com^
 ||fvs.io^
 ||gmpg.org^
+
+prettyfast.to##+js(addEventListener-defuser.js, mousedown)
+||remtoaku.net^
+||ceeglagu.net^
+||stazumik.net^
+||deloplen.com^
+||dilruwha.net^
+
+
+
+
 
 
 
