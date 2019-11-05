@@ -15,17 +15,18 @@
 ||naucaips.com^
 ||dilruwha.net^
 
-
+!src="//ssl.p.jwpcdn.com/player/v/8.8.2/jwpsrv.js"
+##[src="*ssl.p.jwpcdn.com*"]
 ##[href="https://dormitysature.info"]
 ##[href="https://wasshoneaningar.pro*"]
 ##[href="https://trillianu.info*"]
-##[href="https://my.rtmark.net*"]
-##[src="https://my.rtmark.net*"]
+##[href="https://my.rtmark.net"]
+##[src="https://my.rtmark.net"]
 ##[href="https://xml.popmonetizer.com*"]
 ##[href="https://dynamicadx.com*"]
-##[src="//pushlinck.com*"]
+##[src="*pushlinck.com*"]
 ##[href="https://vast.youview.io*"]
-##[href="https://pushlinck.com*"]
+##[href="*pushlinck.com*"]
 ##[href="cdn.runative-sydicate.com*"]
 ||cdn.runative-syndicate.com
 ##[src="//native.propeller.com*"]
