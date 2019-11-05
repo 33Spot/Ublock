@@ -10,6 +10,7 @@
 !
 ! Expires: 2 days
 
+||fmovies.to/film/supergirl-5.oxlx4
 
 ||cagelrib.net^
 ||pushedwebnews.com^
@@ -24,9 +25,15 @@
 
 ||my.rtmark.net^
 ||xml.popmonetizer.com^
-||dyamicadx.com^
+||dynamicadx.com^
 ||pushlinck.com^
 ||vast.youview.io^
+||pushlinck.com^
+||native.propeller.com^
+||cdn.runative-sydicate.com^
+||native.propellerclick.com^
+
+
 
 
 ||s.w.org^
