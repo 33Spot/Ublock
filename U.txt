@@ -16,7 +16,7 @@
 ||dilruwha.net^
 
 !src="//ssl.p.jwpcdn.com/player/v/8.8.2/jwpsrv.js"
-##[src="*ssl.p.jwpcdn.com*"]
+!##[src="*ssl.p.jwpcdn.com*"]
 ##[href="https://dormitysature.info"]
 ##[href="https://wasshoneaningar.pro*"]
 ##[href="https://trillianu.info*"]
@@ -27,21 +27,20 @@
 ##[src="*pushlinck.com*"]
 ##[href="https://vast.youview.io*"]
 ##[href="*pushlinck.com*"]
+||pushlinck.com
 ##[href="cdn.runative-sydicate.com*"]
 ||cdn.runative-syndicate.com
 ##[src="//native.propeller.com*"]
 ##[href="native.propellerclick.com*"]
+||native.propeller.com
 ||native.propellerclick.com
 ##[src="//deloplen.com*"]
+
 ##[href="http://gmpg.org*"]
 ##[src="https://there.to*"]
 ##[src="https://stats.wp.com*"]
 ##[src="https://pixel.wp.com*"]
 ||https://mc.yandex.ru/metrika/tag.js
-
-
-
-
 ||s.w.org^
 !||c0.wp.com^
 !||i*.wp.com^
@@ -20317,6 +20316,8 @@ www.nueey.com##.theiaPostSlider_preloadedSlide > strong
 !||stootoat.com^
 
 
+
+
 ||*/*/compatibility.js$script,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,*.9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*,yesmovies.zone,yesmoviesyes.com,entervideo.net,vidcloud.icu​,vidnode.net,streamingworld.xyz,grooksom.com
 ||*/*/firefox.js$script,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,*.9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*,yesmovies.zone,yesmoviesyes.com,entervideo.net,vidcloud.icu​,vidnode.net,streamingworld.xyz,grooksom.com
 
@@ -20338,6 +20339,7 @@ www.nueey.com##.theiaPostSlider_preloadedSlide > strong
 ||*/image.png?*,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,*.9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*,yesmovies.zone,yesmoviesyes.com,entervideo.net,vidcloud.icu​,vidnode.net,streamingworld.xyz,grooksom.com
 ||*/error.png?*,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,*.9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*,yesmovies.zone,yesmoviesyes.com,entervideo.net,vidcloud.icu​,vidnode.net,streamingworld.xyz,grooksom.com
 ||*/favicon.png?*,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,*.9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*,yesmovies.zone,yesmoviesyes.com,entervideo.net,vidcloud.icu​,vidnode.net,streamingworld.xyz,grooksom.com
+!||*/*.png?a*,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,*.9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*,yesmovies.zone,yesmoviesyes.com,entervideo.net,vidcloud.icu​,vidnode.net,streamingworld.xyz,grooksom.com
 
 ||*/reset.css?*,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,*.9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*,yesmovies.zone,yesmoviesyes.com,entervideo.net,vidcloud.icu​,vidnode.net,streamingworld.xyz,grooksom.com
 ||*/index.css?*,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,*.9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*,yesmovies.zone,yesmoviesyes.com,entervideo.net,vidcloud.icu​,vidnode.net,streamingworld.xyz,grooksom.com
@@ -20346,6 +20348,8 @@ www.nueey.com##.theiaPostSlider_preloadedSlide > strong
 ||*/styles.css?*,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,*.9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*,yesmovies.zone,yesmoviesyes.com,entervideo.net,vidcloud.icu​,vidnode.net,streamingworld.xyz,grooksom.com
 !||*/style.css?*,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,*.9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*,yesmovies.zone,yesmoviesyes.com,entervideo.net,vidcloud.icu​,vidnode.net,streamingworld.xyz,grooksom.com
 ||*/jquery-ui.css?*,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,*.9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*,yesmovies.zone,yesmoviesyes.com,entervideo.net,vidcloud.icu​,vidnode.net,streamingworld.xyz,grooksom.com
+||*/bundle.css?*,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,*.9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*,yesmovies.zone,yesmoviesyes.com,entervideo.net,vidcloud.icu​,vidnode.net,streamingworld.xyz,grooksom.com
+
 
 ||*/*/browse.html,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,*.9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*,yesmovies.zone,yesmoviesyes.com,entervideo.net,vidcloud.icu​,vidnode.net,streamingworld.xyz,grooksom.com
 ||*/*/page.html,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,*.9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*,yesmovies.zone,yesmoviesyes.com,entervideo.net,vidcloud.icu​,vidnode.net,streamingworld.xyz,grooksom.com
@@ -20385,13 +20389,21 @@ www.nueey.com##.theiaPostSlider_preloadedSlide > strong
 ||*/vast.php?*,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,*.9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*,yesmovies.zone,yesmoviesyes.com,entervideo.net,vidcloud.icu​,vidnode.net,streamingworld.xyz,grooksom.com
 ||*/*/suurl.php?,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,*.9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*,yesmovies.zone,yesmoviesyes.com,entervideo.net,vidcloud.icu​,vidnode.net,streamingworld.xyz,grooksom.com
 ||*/cimp.php?data=,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,*.9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*,yesmovies.zone,yesmoviesyes.com,entervideo.net,vidcloud.icu​,vidnode.net,streamingworld.xyz,grooksom.com
+||*/dkevbvs.php,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,*.9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*,yesmovies.zone,yesmoviesyes.com,entervideo.net,vidcloud.icu​,vidnode.net,streamingworld.xyz,grooksom.com
+
+
+
+
+
 ||*/*.html?key=*&scr,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,*.9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*,yesmovies.zone,yesmoviesyes.com,entervideo.net,vidcloud.icu​,vidnode.net,streamingworld.xyz,grooksom.com
 ||*/?rb=*,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,*.9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*,yesmovies.zone,yesmoviesyes.com,entervideo.net,vidcloud.icu​,vidnode.net,streamingworld.xyz,grooksom.com
 ||*/zone?pub=*,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,*.9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*,yesmovies.zone,yesmoviesyes.com,entervideo.net,vidcloud.icu​,vidnode.net,streamingworld.xyz,grooksom.com
 
 ||*/script/*.html?frmt=0,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,*.9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*,yesmovies.zone,yesmoviesyes.com,entervideo.net,vidcloud.icu​,vidnode.net,streamingworld.xyz,grooksom.com
 !||*/script/compatibility.js,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,*.9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*,yesmovies.zone,yesmoviesyes.com,entervideo.net,vidcloud.icu​,vidnode.net,streamingworld.xyz,grooksom.com
-!||*/tag.min.js,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,*.9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*,yesmovies.zone,yesmoviesyes.com,entervideo.net,vidcloud.icu​,vidnode.net,streamingworld.xyz,grooksom.com
+
+||*/tag.min.js,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,*.9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*,yesmovies.zone,yesmoviesyes.com,entervideo.net,vidcloud.icu​,vidnode.net,streamingworld.xyz,grooksom.com
+
 ||*/va?action=,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,*.9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*,yesmovies.zone,yesmoviesyes.com,entervideo.net,vidcloud.icu​,vidnode.net,streamingworld.xyz,grooksom.com
 ||*/*.js?t= ,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,*.9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*,yesmovies.zone,yesmoviesyes.com,entervideo.net,vidcloud.icu​,vidnode.net,streamingworld.xyz,grooksom.com
 ||*/*.html?*==,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,*.9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*,yesmovies.zone,yesmoviesyes.com,entervideo.net,vidcloud.icu​,vidnode.net,streamingworld.xyz,grooksom.com
@@ -20445,6 +20457,15 @@ apg-clan.org###ad_global_below_navbar
 ||celeritascdn.com^$script,,domain=onlystream.tv,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,*.9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*,yesmovies.zone,yesmoviesyes.com,entervideo.net,vidcloud.icu​,streamingworld.xyz,grooksom.com
 ||viduplayer.com/js/pop.js$script,1p,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,*.9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*,yesmovies.zone,yesmoviesyes.com,entervideo.net,vidcloud.icu​,vidnode.net,streamingworld.xyz,grooksom.com
 ||onclicksuper.com^$,domain=onlystream.tv,domain=ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,*.9anime.*,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,*.9anime.*,yesmovies.zone,yesmoviesyes.com,entervideo.net,vidcloud.icu​,streamingworld.xyz,grooksom.com
+
+!*.9anime.*,grooksom.com
+!ffmovies.ru,fmovies.to,flenix.fun,putlockers.cx,prettyfast.to,vidsrc.me,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,investing-review.com,www.porngo.com,prettyfast.to,yesmovies.zone,yesmoviesyes.com,entervideo.net,vidcloud.icu​,streamingworld.xyz,grooksom.com###watchlist-popover.hidden
+
+ffmovies.ru,fmovies.to,prettyfast.to,onlystream.tv,hqq.tv,there.to,mcloud.to,openload.pw,movieninja.to,cloudvideo.tv,verystream.com,entervideo.net,vidcloud.icu​,streamingworld.xyz^$generichide
+
+
+
+
 
 
 ! ,yesmovies.zone,yesmoviesyes.com,entervideo.net,vidcloud.icu​,streamingworld.xyz
@@ -20503,7 +20524,7 @@ yesmovies.zone,vidnode.net,streamingworld.xyz##.fluidmedia > iframe > html > bod
 @@||streamingworld.xyz$elemhide
 @@||streamingworld.xyzimage
 
-||https://prettyfast.to/*/*.m3u8?h=*
+!||https://prettyfast.to/*/*.m3u8?h=*
 
 
 !yesmovies.zone,
