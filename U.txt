@@ -6,7 +6,7 @@
 !
 ! Link: https://raw.githubusercontent.com/33Spot/Ublock/master/U.txt
 !
-! Version: 20191021-8
+! Version: 20191105-1
 !
 ! Expires: 2 days
 
@@ -44,7 +44,7 @@
 ||fvs.io^
 ||gmpg.org^
 
-prettyfast.to##+js(addEventListener-defuser.js, mousedown)
+!prettyfast.to##+js(addEventListener-defuser.js, mousedown)
 ||remtoaku.net^
 ||ceeglagu.net^
 ||stazumik.net^
@@ -20498,6 +20498,9 @@ yesmovies.zone,vidnode.net,streamingworld.xyz##.fluidmedia > iframe > html > bod
 @@||vidnode.net$image
 @@||streamingworld.xyz$elemhide
 @@||streamingworld.xyzimage
+
+||https://prettyfast.to/*/*.m3u8?h=*
+
 
 !yesmovies.zone,
 !vidnode.net,
