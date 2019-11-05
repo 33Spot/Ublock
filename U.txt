@@ -30,6 +30,11 @@
 ##[href="native.propellerclick.com*"]
 ##[src="//deloplen.com*"]
 ##[href="http://gmpg.org*"]
+##[src="https://there.to*"]
+##[src="https://stats.wp.com*"]
+##[src="https://pixel.wp.com*"]
+||https://mc.yandex.ru/metrika/tag.js
+
 
 
 
