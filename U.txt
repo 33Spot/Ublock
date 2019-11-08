@@ -17,9 +17,14 @@
 
 !src="//ssl.p.jwpcdn.com/player/v/8.8.2/jwpsrv.js"
 !##[src="*ssl.p.jwpcdn.com*"]
-##[href="https://dormitysature.info"]
+##[href="https://dormitysature.info*"]
 ##[href="https://wasshoneaningar.pro*"]
 ##[href="https://trillianu.info*"]
+
+||https://dormitysature.info
+||https://wasshoneaningar.pro
+||https://trillianu.info
+
 ##[href="https://my.rtmark.net"]
 ##[src="https://my.rtmark.net"]
 ##[href="https://xml.popmonetizer.com*"]
