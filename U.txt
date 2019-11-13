@@ -14,17 +14,26 @@
 ||pushedwebnews.com^
 ||naucaips.com^
 ||dilruwha.net^
+||viatepigan
+
+##[src="//viatepigan.com"
+||viatepigan.com^
+||*/tag.min.js
+
+
+
 
 !src="//ssl.p.jwpcdn.com/player/v/8.8.2/jwpsrv.js"
 !##[src="*ssl.p.jwpcdn.com*"]
-##[href="https://dormitysature.info*"]
-##[href="https://wasshoneaningar.pro*"]
-##[href="https://trillianu.info*"]
+##[href="https://dormitysature.info"]
+##[href="https://wasshoneaningar.pro"]
+##[href="https://trillianu.info"]
 
 ||https://dormitysature.info
 ||https://wasshoneaningar.pro
 ||https://trillianu.info
 
+||https://my.rtmark.net
 ##[href="https://my.rtmark.net"]
 ##[src="https://my.rtmark.net"]
 ##[href="https://xml.popmonetizer.com*"]
@@ -59,6 +68,13 @@
 ||deloplen.com^
 ||dilruwha.net^
 
+
+     
+     
+!||https://xml.revrtb.com/redirect?feed=160466&auth=8G3XOs&pubid=83487
+||https://xml.revrtb.com
+||https://dynamicadx.com/183403/241'
+||https://exavz.mcloud.to/
 
 
 
@@ -1205,13 +1221,13 @@ anime-odcinki.pl##+js(abort-current-inline-script.js, Math, zfgloaded)
 !,vidnode.net
 !streamingworld.xyz,
 grooksom.com,fmovies.to,vidcloud.icu,*.xhamster.com,*.spankbang.com,dilruwha.net,iamcdn.net,*.hydrax.net,*.vev.*,*.gbtcdn.com,*.disk.ly,cloudvideo.tv,*.clipwatching.com,www.rapidvideo.com,clipwatching.com,fmovie.*,fuskator.com,*.metric.gstatic.com,tpc.googlesyndication.com,leporno.org##+js(abort-current-inline-script.js, atob, tabunder)
-fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net,prettyfast.to##+js(abort-current-inline-script.js, atob, tabunder)
-fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net,prettyfast.to##+js(abort-current-inline-script.js, atob, tabunder)
-fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net,prettyfast.to##+js(abort-current-inline-script.js, atob, tabunder)
-fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net,prettyfast.to##+js(abort-current-inline-script.js, atob, tabunder)
-fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net,prettyfast.to##+js(abort-current-inline-script.js, atob, tabunder)
-fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net,prettyfast.to##+js(abort-current-inline-script.js, atob, tabunder)
-fmovies.to,grooksom.com,vidnode.net##+js(abort-current-inline-script.js, atob, tabunder)
+9anime.*,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net,prettyfast.to##+js(abort-current-inline-script.js, atob, tabunder)
+9anime.*,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net,prettyfast.to##+js(abort-current-inline-script.js, atob, tabunder)
+9anime.*,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net,prettyfast.to##+js(abort-current-inline-script.js, atob, tabunder)
+9anime.*,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net,prettyfast.to##+js(abort-current-inline-script.js, atob, tabunder)
+9anime.*,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net,prettyfast.to##+js(abort-current-inline-script.js, atob, tabunder)
+9anime.*,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net,prettyfast.to##+js(abort-current-inline-script.js, atob, tabunder)
+9anime.*,fmovies.to,grooksom.com,vidnode.net##+js(abort-current-inline-script.js, atob, tabunder)
 
 !vidcloud.icu,
 !vidnode.net,
@@ -1236,43 +1252,43 @@ fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,entervideo.net##+js(wind
 
 
 gum.criteo.com,yesmovies.zone,openload.co,vidcloud.icu,streamingworld.xyz,entervideo.net,*.rapidvideo.*,*.spankbang.com,dilruwha.net,iamcdn.net,*.hydrax.net,*.vev.*,*.gbtcdn.com,*.disk.ly,*.clipwatching.com,clipwatching.com,cloudvideo.tv,vev.io,stream*.cdncv.net,www.urldelivery.com,www.bcloudhost.com,serverf4.org,*.123movie.*,fmovie.*,verystream.com,generalpornmovies.com,vintporn.com,veehd.com,time-pick.com,123enjoy.net/watch/*.html,there.to,glauptan.net,ebd.cda.pl,putlockerr.is/embed/*,groucign.com,vidsource.me/v/*,t.co,businessnewsvideo.online,embed.iseek.to,prettyfast.to,hqq.tv/player/*,hqq.tv,viduplayer.com,flenix.fun,gomostream.com,thesandonesof.info,targaubs.com/*,ls.hit.gemius.pl,*.mcloud.to,ejoonsoo.net,jetload.net,acquistaresbdunklowflyknitoreo.info,media.cloudcdnvideo.com/r/*,*.cloudcdnvideo.com/embed/*,stream.123downloads.today/*,fmovie.info/watch-free/**.betterstream.co,fmovie.info,*.cloudcdnvideo.com,*.123downloads.today,*.playercdn.net,*.fmovies.to,*.jetload.net,database.gdriveplayer.us,*.putlocker.is,vidsrc.me,ojeergoy.com,api.123movie.cc,serverf4.org,gum.criteo.com,acdn.adnxs.com,*.spankbang.com,titki.top,fruithosts.net,streamango.com,tpc.googlesyndication.com,*.xhamster.com,mc.yandex.ru,its.porn,there.to,enoughts.info,ufpcdn.com,gounlimited.to,femdom-joi.com,pornbimbo.com,anime-odcinki.pl,oladblock.me,openload.co,ojntbybxh.com,cobalten.com,vidlox.*,*.vidlox.*##+js(abort-on-property-read.js, zfgloadedpopup)
-fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net,prettyfast.to##+js(abort-on-property-read.js, zfgloadedpopup)
-fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net,prettyfast.to##+js(abort-on-property-read.js, zfgloadedpopup)
-fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net,prettyfast.to##+js(abort-on-property-read.js, zfgloadedpopup)
-fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net,prettyfast.to##+js(abort-on-property-read.js, zfgloadedpopup)
-fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net,prettyfast.to##+js(abort-on-property-read.js, zfgloadedpopup)
-fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net,prettyfast.to##+js(abort-on-property-read.js, zfgloadedpopup)
-fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net,prettyfast.to##+js(abort-on-property-read.js, zfgloadedpopup)
+9anime.*,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net,prettyfast.to##+js(abort-on-property-read.js, zfgloadedpopup)
+9anime.*,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net,prettyfast.to##+js(abort-on-property-read.js, zfgloadedpopup)
+9anime.*,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net,prettyfast.to##+js(abort-on-property-read.js, zfgloadedpopup)
+9anime.*,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net,prettyfast.to##+js(abort-on-property-read.js, zfgloadedpopup)
+9anime.*,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net,prettyfast.to##+js(abort-on-property-read.js, zfgloadedpopup)
+9anime.*,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net,prettyfast.to##+js(abort-on-property-read.js, zfgloadedpopup)
+9anime.*,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net,prettyfast.to##+js(abort-on-property-read.js, zfgloadedpopup)
 abort-on-property-read.js, zfgloadedpopup)
-vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-on-property-read.js, zfgloadedpopup)
-vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-on-property-read.js, zfgloadedpopup)
-vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-on-property-read.js, zfgloadedpopup)
-vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-on-property-read.js, zfgloadedpopup)
-vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-on-property-read.js, zfgloadedpopup)
-vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-on-property-read.js, zfgloadedpopup)
-vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-on-property-read.js, zfgloadedpopup)
+9anime.*,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-on-property-read.js, zfgloadedpopup)
+9anime.*,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-on-property-read.js, zfgloadedpopup)
+9anime.*,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-on-property-read.js, zfgloadedpopup)
+9anime.*,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-on-property-read.js, zfgloadedpopup)
+9anime.*,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-on-property-read.js, zfgloadedpopup)
+9anime.*,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-on-property-read.js, zfgloadedpopup)
+9anime.*,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-on-property-read.js, zfgloadedpopup)
 abort-on-property-read.js, zfgloadedpopup)
-vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-on-property-read.js, zfgloadedpopup)
-vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-on-property-read.js, zfgloadedpopup)
-vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-on-property-read.js, zfgloadedpopup)
-vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-on-property-read.js, zfgloadedpopup)
-vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-on-property-read.js, zfgloadedpopup)
-vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-on-property-read.js, zfgloadedpopup)
-vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-on-property-read.js, zfgloadedpopup)
-vidnode.net##+js(abort-on-property-read.js, zfgloadedpopup)
-vidnode.net##+js(abort-on-property-read.js, zfgloadedpopup)
-vidnode.net##+js(abort-on-property-read.js, zfgloadedpopup)
+9anime.*,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-on-property-read.js, zfgloadedpopup)
+9anime.*,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-on-property-read.js, zfgloadedpopup)
+9anime.*,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-on-property-read.js, zfgloadedpopup)
+9anime.*,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-on-property-read.js, zfgloadedpopup)
+9anime.*,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-on-property-read.js, zfgloadedpopup)
+9anime.*,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-on-property-read.js, zfgloadedpopup)
+9anime.*,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(abort-on-property-read.js, zfgloadedpopup)
+9anime.*,vidnode.net##+js(abort-on-property-read.js, zfgloadedpopup)
+9anime.*,vidnode.net##+js(abort-on-property-read.js, zfgloadedpopup)
+9anime.*,vidnode.net##+js(abort-on-property-read.js, zfgloadedpopup)
 
 
 
 !vidnode.net
 vidcloud.icu,streamingworld.xyz,entervideo.net,*.rapidvideo.*,*.9anime.*,prettyfast.to,onlystream.tv,hqq.tv,flenix.fun,vidsrc.me,vidsource.me,1fichier.com,freedisc.pl,*.vev.*,vev.io,stream*.cdncv.net,www.urldelivery.com,www.bcloudhost.com,serverf4.org,*.123movie.*,fmovie.*,verystream.com,generalpornmovies.com,vintporn.com,veehd.com,time-pick.com,123enjoy.net/watch/*.html,there.to,glauptan.net,ebd.cda.pl,putlockerr.is/embed/*,groucign.com,vidsource.me/v/*,t.co,businessnewsvideo.online,embed.iseek.to,hqq.tv/player/*,hqq.tv,viduplayer.com,flenix.fun,gomostream.com,thesandonesof.info,targaubs.com/*,ls.hit.gemius.pl,*.mcloud.to,ejoonsoo.net,jetload.net,acquistaresbdunklowflyknitoreo.info,media.cloudcdnvideo.com/r/*,*.cloudcdnvideo.com/embed/*,stream.123downloads.today/*,fmovie.info/watch-free/**.betterstream.co,fmovie.info,*.cloudcdnvideo.com,*.123downloads.today,*.playercdn.net,*.fmovies.to,*.jetload.net,database.gdriveplayer.us,*.putlocker.is,vidsrc.me,ojeergoy.com,api.123movie.cc,serverf4.org,gum.criteo.com,acdn.adnxs.com,titki.top,fruithosts.net,streamango.com,mc.yandex.ru,its.porn,there.to,enoughts.info,ufpcdn.com,gounlimited.to,femdom-joi.com,pornbimbo.com,freedisc.pl/embed/video/*,gum.criteo.com,adk.zaq2.pl,anime-odcinki.pl,oladblock.me,openload.co,ojntbybxh.com,cobalten.com,vidlox.*,*.vidlox.*##script:contains(window.open)
-prettyfast.to,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##script:contains(window.open)
-prettyfast.to,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##script:contains(window.open)
-prettyfast.to,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##script:contains(window.open)
-prettyfast.to,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##script:contains(window.open)
-prettyfast.to,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##script:contains(window.open)
-prettyfast.to,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##script:contains(window.open)
+9anime.*,prettyfast.to,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##script:contains(window.open)
+9anime.*,prettyfast.to,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##script:contains(window.open)
+9anime.*,prettyfast.to,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##script:contains(window.open)
+9anime.*,prettyfast.to,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##script:contains(window.open)
+9anime.*,prettyfast.to,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##script:contains(window.open)
+9anime.*,prettyfast.to,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##script:contains(window.open)
 
 
 
@@ -1300,24 +1316,24 @@ fmovies.to,prettyfast.to,yesmovies.zone,openload.co,vidcloud.icu,*.vev.*,vev.io,
 !streamingworld.xyz,
 !vidnode.net,
 vidcloud.icu,gum.criteo.com,yesmovies.zone,entervideo.net,*.rapidvideo.*,*.9anime.*,onlystream.tv,hqq.tv,flenix.fun,vidsrc.me,*.xhamster.com,*.spankbang.com,dilruwha.net,prettyfast.to,iamcdn.net,*.hydrax.net,*.vev.*,*.gbtcdn.com,*.disk.ly,cloudvideo.tv,*.clipwatching.com,www.rapidvideo.com,clipwatching.com,www.urldelivery.com,www.bcloudhost.com,fmovie.*,*.spankbang.com,fmovies.*,gum.criteo.com,acdn.adnxs.com,titki.top,pornbimbo.com,anime-odcinki.pl,oladblock.me,openload.co,ojntbybxh.com,cobalten.com,vidlox.*,*.vidlox.*##+js(disable-newtab-links.js)
-prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(disable-newtab-links.js)
-prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(disable-newtab-links.js)
-prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(disable-newtab-links.js)
-prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(disable-newtab-links.js)
-prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(disable-newtab-links.js)
-prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(disable-newtab-links.js)
+9anime.*,prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(disable-newtab-links.js)
+9anime.*,prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(disable-newtab-links.js)
+9anime.*,prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(disable-newtab-links.js)
+9anime.*,prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(disable-newtab-links.js)
+9anime.*,prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(disable-newtab-links.js)
+9anime.*,prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(disable-newtab-links.js)
 
 
 
 !vidnode.net,
 gum.criteo.com,yesmovies.zone,openload.co,vidcloud.icu,streamingworld.xyz,entervideo.net,*.rapidvideo.*,*.9anime.*,onlystream.tv,hqq.tv,flenix.fun,vidsrc.me,*.xhamster.com,*.spankbang.com,dilruwha.net,prettyfast.to,iamcdn.net,*.hydrax.net,*.vev.*,*.gbtcdn.com,*.disk.ly,cloudvideo.tv,*.clipwatching.com,www.rapidvideo.com,clipwatching.com,www.urldelivery.com,www.bcloudhost.com,fmovie.*,*.spankbang.com,fmovies.*,gum.criteo.com,acdn.adnxs.com,titki.top,pornbimbo.com,anime-odcinki.pl,oladblock.me,openload.co,ojntbybxh.com,cobalten.com,vidlox.*,*.vidlox.*##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 !vidcloud.icu,streamingworld.xyz##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
-prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
-prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
-prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
-prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
-prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
-prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
+9anime.*,prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
+9anime.*,prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
+9anime.*,prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
+9anime.*,prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
+9anime.*,prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
+9anime.*,prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, _0x)
 
 
 !vidcloud.icu,
@@ -1328,12 +1344,12 @@ prettyfast.to,fmovies.to,grooksom.com,vidnode.net,streamingworld.xyz##+js(setInt
 prettyfast.to,fmovies.to,grooksom.com,vidnode.net,streamingworld.xyz##+js(setInterval-defuser.js, (), 500)
 prettyfast.to,fmovies.to,grooksom.com,vidnode.net,streamingworld.xyz##+js(setInterval-defuser.js, (), 500)
 prettyfast.to,fmovies.to,grooksom.com,vidnode.net,streamingworld.xyz##+js(setInterval-defuser.js, (), 500)
-yesmovies.zone,yesmoviesyes.com##+js(setInterval-defuser.js, (), 500)
-yesmovies.zone,yesmoviesyes.com##+js(setInterval-defuser.js, (), 500)
-yesmovies.zone,yesmoviesyes.com##+js(setInterval-defuser.js, (), 500)
-yesmovies.zone,yesmoviesyes.com##+js(setInterval-defuser.js, (), 500)
-yesmovies.zone,yesmoviesyes.com##+js(setInterval-defuser.js, (), 500)
-yesmovies.zone,yesmoviesyes.com##+js(setInterval-defuser.js, (), 500)
+9anime.*,yesmovies.zone,yesmoviesyes.com##+js(setInterval-defuser.js, (), 500)
+9anime.*,yesmovies.zone,yesmoviesyes.com##+js(setInterval-defuser.js, (), 500)
+9anime.*,yesmovies.zone,yesmoviesyes.com##+js(setInterval-defuser.js, (), 500)
+9anime.*,yesmovies.zone,yesmoviesyes.com##+js(setInterval-defuser.js, (), 500)
+9anime.*,yesmovies.zone,yesmoviesyes.com##+js(setInterval-defuser.js, (), 500)
+9anime.*,yesmovies.zone,yesmoviesyes.com##+js(setInterval-defuser.js, (), 500)
 
 
 !vidcloud.icu,
@@ -1364,22 +1380,22 @@ prettyfast.to,fmovies.to,grooksom.com,vidnode.net##+js(abort-current-inline-scri
 !streamingworld.xyz,
 gum.criteo.com,yesmovies.zone,entervideo.net,*.rapidvideo.*,*.9anime.*,onlystream.tv,hqq.tv,flenix.fun,vidsrc.me,*.xhamster.com,*.spankbang.com,dilruwha.net,prettyfast.to,iamcdn.net,*.hydrax.net,*.vev.*,*.gbtcdn.com,*.disk.ly,cloudvideo.tv,*.clipwatching.com,www.rapidvideo.com,clipwatching.com,fmovie.*,*.spankbang.com,gum.criteo.com,acdn.adnxs.com,titki.top,pornbimbo.com,anime-odcinki.pl,oladblock.me,openload.co,ojntbybxh.com,cobalten.com,vidlox.*,*.vidlox.*##+js(set-constant.js, check_adblock, true)
 !fmovies.*,ffmovies.*,
-grooksom.com,vidcloud.icu,streamingworld.xyz,vidnode.net,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(set-constant.js, check_adblock, true)
-grooksom.com,vidcloud.icu,streamingworld.xyz,vidnode.net,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(set-constant.js, check_adblock, true)
-grooksom.com,vidcloud.icu,streamingworld.xyz,vidnode.net,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(set-constant.js, check_adblock, true)
-grooksom.com,vidcloud.icu,streamingworld.xyz,vidnode.net,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(set-constant.js, check_adblock, true)
-grooksom.com,vidcloud.icu,streamingworld.xyz,vidnode.net,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(set-constant.js, check_adblock, true)
-grooksom.com,vidcloud.icu,streamingworld.xyz,vidnode.net,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(set-constant.js, check_adblock, true)
+9anime.*,grooksom.com,vidcloud.icu,streamingworld.xyz,vidnode.net,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(set-constant.js, check_adblock, true)
+9anime.*,grooksom.com,vidcloud.icu,streamingworld.xyz,vidnode.net,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(set-constant.js, check_adblock, true)
+9anime.*,grooksom.com,vidcloud.icu,streamingworld.xyz,vidnode.net,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(set-constant.js, check_adblock, true)
+9anime.*,grooksom.com,vidcloud.icu,streamingworld.xyz,vidnode.net,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(set-constant.js, check_adblock, true)
+9anime.*,grooksom.com,vidcloud.icu,streamingworld.xyz,vidnode.net,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(set-constant.js, check_adblock, true)
+9anime.*,grooksom.com,vidcloud.icu,streamingworld.xyz,vidnode.net,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(set-constant.js, check_adblock, true)
 
 !vidcloud.icu,
 !vidnode.net,
 gum.criteo.com,yesmovies.zone,streamingworld.xyz,entervideo.net,*.rapidvideo.*,*.9anime.*,flenix.fun,vidsrc.me,*.xhamster.com,*.spankbang.com,dilruwha.net,prettyfast.to,iamcdn.net,*.hydrax.net,*.vev.*,*.gbtcdn.com,*.disk.ly,cloudvideo.tv,*.clipwatching.com,www.rapidvideo.com,clipwatching.com,fmovie.*,*.spankbang.com,gum.criteo.com,acdn.adnxs.com,titki.top,pornbimbo.com,anime-odcinki.pl,oladblock.me,openload.co,ojntbybxh.com,cobalten.com,vidlox.*,*.vidlox.*##[id*="ScriptRoot"]
 vidnode.net,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##[id*="ScriptRoot"]
-prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##[id*="ScriptRoot"]
-prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##[id*="ScriptRoot"]
-prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##[id*="ScriptRoot"]
-prettyfast.to,fmovies.to,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##[id*="ScriptRoot"]
-prettyfast.to,fmovies.to,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##[id*="ScriptRoot"]
+9anime.*,prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##[id*="ScriptRoot"]
+9anime.*,prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##[id*="ScriptRoot"]
+9anime.*,prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##[id*="ScriptRoot"]
+9anime.*,prettyfast.to,fmovies.to,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##[id*="ScriptRoot"]
+9anime.*,prettyfast.to,fmovies.to,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##[id*="ScriptRoot"]
 
 ||*.vev.*^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: freedisc.pl *.google.com *.gstatic.com *.widgetpack.com *.jwpcdn.com *.google-analytics.com *.povwideo.net *.clipwatching.com *.vshare.io *.rapidvideo.com *.fastplay.to *.facebook.com *.fbcdn.net *.hydrax.net vidnode.net fmovies.to
 !vidcloud.*
@@ -1387,32 +1403,32 @@ prettyfast.to,fmovies.to,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmovie
 ! AdDefend
 !#if env_chromium
 fmovies.*,ffmovies.*,prettyfast.to,fmovies.to,grooksom.com,streamingworld.xyz,vidnode.net,vidcloud.icu,yesmovies.zone,yesmoviesyes.com,airliners.de,auszeit.bio,autorevue.at,bafoeg-aktuell.de,berliner-kurier.de,berliner-zeitung.de,bikerszene.de,boersennews.de,bonedo.de,chefkoch.de,computerbild.de,deine-tierwelt.de,desired.de,dhd24.com,digitalfernsehen.de,donnerwetter.de,e-hausaufgaben.de,express.de,fanfiktion.de,finya.de,formel1.de,frag-mutti.de,freenet.de,fremdwort.de,frustfrei-lernen.de,fussballdaten.de,gameswelt.*,gartendialog.de,gartenlexikon.de,gewinnspiele.tv,gut-erklaert.de,haus-garten-test.de,hifi-forum.de,iban-rechner.de,inside-handy.de,juraforum.de,kindergeld.org,ksta.de,liga3-online.de,lz.de,messen.de,moviejones.de,mt.de,musiker-board.de,mz-web.de,naumburger-tageblatt.de,news.de,newsbreak24.de,nickles.de,nw.de,oeffentlicher-dienst.info,onlinemarketing.de,prad.de,psychic.de,quoka.de,rheinische-anzeigenblaetter.de,rimondo.com,rundschau-online.de,spielen.de,spieletipps.de,spielfilm.de,tichyseinblick.de,torgranate.de,transfermarkt.*,truckscout24.*,tvinfo.de,unicum.de,wallstreet-online.de,weltfussball.at,weristdeinfreund.de,weser-kurier.de,wetter.com,wetteronline.at,wetteronline.ch,wieistmeineip.*,wize.life,ze.tt##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, =!0)
-fmovies.*,ffmovies.*,prettyfast.to,fmovies.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net,yesmovies.zone,yesmoviesyes.com,kicker.de,kino.de,meinestadt.de,spieletipps.de##+js(set-constant.js, String.fromCharCode, noopFunc)
-fmovies.*,ffmovies.*,prettyfast.to,fmovies.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net,yesmovies.zone,yesmoviesyes.com,clever-tanken.de,giga.de##+js(set-constant.js, Math.floor, noopFunc)
-fmovies.*,ffmovies.*,prettyfast.to,fmovies.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net,yesmovies.zone,yesmoviesyes.com,lablue.*##+js(setTimeout-defuser.js, r(), 500)
+9anime.*,fmovies.*,ffmovies.*,prettyfast.to,fmovies.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net,yesmovies.zone,yesmoviesyes.com,kicker.de,kino.de,meinestadt.de,spieletipps.de##+js(set-constant.js, String.fromCharCode, noopFunc)
+9anime.*,fmovies.*,ffmovies.*,prettyfast.to,fmovies.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net,yesmovies.zone,yesmoviesyes.com,clever-tanken.de,giga.de##+js(set-constant.js, Math.floor, noopFunc)
+9anime.*,fmovies.*,ffmovies.*,prettyfast.to,fmovies.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net,yesmovies.zone,yesmoviesyes.com,lablue.*##+js(setTimeout-defuser.js, r(), 500)
 
-fmovies.*,ffmovies.*,prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,vidnode.net,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, =!0)
-fmovies.*,ffmovies.*,prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,vidnode.net,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, =!0)
-fmovies.*,ffmovies.*,prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,vidnode.net,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, =!0)
-fmovies.*,ffmovies.*,prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,vidnode.net,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, =!0)
-fmovies.*,ffmovies.*,prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,vidnode.net,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, =!0)
-fmovies.*,ffmovies.*,prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,vidnode.net,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, =!0)
+9anime.*,fmovies.*,ffmovies.*,prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,vidnode.net,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, =!0)
+9anime.*,fmovies.*,ffmovies.*,prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,vidnode.net,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, =!0)
+9anime.*,fmovies.*,ffmovies.*,prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,vidnode.net,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, =!0)
+9anime.*,fmovies.*,ffmovies.*,prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,vidnode.net,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, =!0)
+9anime.*,fmovies.*,ffmovies.*,prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,vidnode.net,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, =!0)
+9anime.*,fmovies.*,ffmovies.*,prettyfast.to,fmovies.to,grooksom.com,vidcloud.icu,vidnode.net,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, =!0)
 
 !yesmovies.zone,yesmoviesyes.com,
-fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, =!0)
-fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, =!0)
-fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, =!0)
+9anime.*,fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, =!0)
+9anime.*,fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, =!0)
+9anime.*,fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(addEventListener-defuser.js, /^(?:DOMContentLoaded|load)$/, =!0)
 !yesmovies.zone,yesmoviesyes.com,
-fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(set-constant.js, String.fromCharCode, noopFunc)
-fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(set-constant.js, String.fromCharCode, noopFunc)
-fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(set-constant.js, String.fromCharCode, noopFunc)
+9anime.*,fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(set-constant.js, String.fromCharCode, noopFunc)
+9anime.*,fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(set-constant.js, String.fromCharCode, noopFunc)
+9anime.*,fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(set-constant.js, String.fromCharCode, noopFunc)
 
-fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(setTimeout-defuser.js, r(), 500)
-fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(setTimeout-defuser.js, r(), 500)
-fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(setTimeout-defuser.js, r(), 500)
-fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(setTimeout-defuser.js, r(), 500)
-fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(setTimeout-defuser.js, r(), 500)
-fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(setTimeout-defuser.js, r(), 500)
+9anime.*,fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(setTimeout-defuser.js, r(), 500)
+9anime.*,fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(setTimeout-defuser.js, r(), 500)
+9anime.*,fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(setTimeout-defuser.js, r(), 500)
+9anime.*,fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(setTimeout-defuser.js, r(), 500)
+9anime.*,fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(setTimeout-defuser.js, r(), 500)
+9anime.*,fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(setTimeout-defuser.js, r(), 500)
 
 
 !#endif
@@ -1430,37 +1446,37 @@ vidnode.net##^script:has-text(.doesContentMatch)
 
 
 vidnode.net,vidcloud.icu,airliners.de,auszeit.bio,autorevue.at,bafoeg-aktuell.de,berliner-kurier.de,berliner-zeitung.de,bikerszene.de,boersennews.de,bonedo.de,chefkoch.de,clever-tanken.de,deine-tierwelt.de,desired.de,dhd24.com,digitalfernsehen.de,donnerwetter.de,e-hausaufgaben.de,express.de,fanfiktion.de,finya.de,formel1.de,frag-mutti.de,freenet.de,fremdwort.de,frustfrei-lernen.de,fussballdaten.de,gartendialog.de,gartenlexikon.de,gewinnspiele.tv,giga.de,gut-erklaert.de,hifi-forum.de,haus-garten-test.de,iban-rechner.de,inside-handy.de,juraforum.de,kicker.de,kindergeld.org,kino.de,ksta.de,lablue.*,liga3-online.de,lz.de,meinestadt.de,messen.de,moviejones.de,mt.de,musiker-board.de,mz-web.de,naumburger-tageblatt.de,news.de,newsbreak24.de,nickles.de,nw.de,oeffentlicher-dienst.info,onlinemarketing.de,pff.de,play3.de,prad.de,psychic.de,quoka.de,quotenmeter.de,rheinische-anzeigenblaetter.de,rimondo.com,rundschau-online.de,spielen.de,spieletipps.de,spielfilm.de,tichyseinblick.de,torgranate.de,transfermarkt.*,truckscout24.*,tvinfo.de,unicum.de,weltfussball.at,weristdeinfreund.de,weser-kurier.de,wetter.com,wetteronline.at,wetteronline.ch,wieistmeineip.*,wize.life,ze.tt##^script:has-text(overrideZoneFloor:)
-fmovies.*,ffmovies.*,fmovies.to,prettyfast.to,grooksom.com,vidnode.net,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##^script:has-text(overrideZoneFloor:)
-fmovies.*,ffmovies.*,fmovies.to,prettyfast.to,grooksom.com,vidnode.net,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##^script:has-text(overrideZoneFloor:)
-fmovies.*,ffmovies.*,fmovies.to,prettyfast.to,grooksom.com,vidnode.net,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##^script:has-text(overrideZoneFloor:)
-fmovies.*,ffmovies.*,fmovies.to,prettyfast.to,grooksom.com,vidnode.net,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##^script:has-text(overrideZoneFloor:)
-fmovies.*,ffmovies.*,fmovies.to,prettyfast.to,grooksom.com,vidnode.net,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##^script:has-text(overrideZoneFloor:)
-fmovies.*,ffmovies.*,fmovies.to,prettyfast.to,grooksom.com,vidnode.net,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##^script:has-text(overrideZoneFloor:)
+9anime.*,fmovies.*,ffmovies.*,fmovies.to,prettyfast.to,grooksom.com,vidnode.net,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##^script:has-text(overrideZoneFloor:)
+9anime.*,fmovies.*,ffmovies.*,fmovies.to,prettyfast.to,grooksom.com,vidnode.net,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##^script:has-text(overrideZoneFloor:)
+9anime.*,fmovies.*,ffmovies.*,fmovies.to,prettyfast.to,grooksom.com,vidnode.net,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##^script:has-text(overrideZoneFloor:)
+9anime.*,fmovies.*,ffmovies.*,fmovies.to,prettyfast.to,grooksom.com,vidnode.net,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##^script:has-text(overrideZoneFloor:)
+9anime.*,fmovies.*,ffmovies.*,fmovies.to,prettyfast.to,grooksom.com,vidnode.net,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##^script:has-text(overrideZoneFloor:)
+9anime.*,fmovies.*,ffmovies.*,fmovies.to,prettyfast.to,grooksom.com,vidnode.net,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##^script:has-text(overrideZoneFloor:)
 
 !vidcloud.icu,
 vidnode.net,streamingworld.xyz,entervideo.net,*.rapidvideo.*,*.9anime.*,prettyfast.to,4-liga.com,4fansites.de,4players.de,9monate.de,abendblatt.de,abendzeitung-muenchen.de,abseits-ka.de,ajaxshowtime.com,allgemeine-zeitung.de,allaboutphones.nl,antenne.de,arcor.de,areadvd.de,areamobile.de,ariva.de,astronews.com,aussenwirtschaftslupe.de,auto-motor-und-sport.de,auto-service.de,autobild.de,autoextrem.de,autopixx.de,baby-vornamen.de,bento.de,bigfm.de,bildderfrau.de,blackd.de,boerse-online.de,boerse.de,boersen.manager-magazin.de,braunschweiger-zeitung.de,brieffreunde.de,buerstaedter-zeitung.de,buffed.de,caravaning.de,cavallo.de,cinema.de,computerbild.de,computerhilfen.de,computerworld.nl,comunio.*,comunio-cl.com,connect.de,dbna.de,derwesten.de,dieblaue24.com,dnn.de,eatsmarter.de,echo-online.de,einfachschoen.me,elektrobike-online.com,e-mountainbike.com,epochtimes.de,extratipp.com,f1maximaal.nl,fettspielen.de,fid-gesundheitswissen.de,finanztreff.de,fitforfun.de,focus.de,football365.fr,fr.de,futurezone.de,gala.de,gamersglobal.de,gamesaktuell.de,gamestar.de,gameswelt.at,gameswelt.de,gamezone.de,geissblog.koeln,gelnhaeuser-tageblatt.de,general-anzeiger-bonn.de,genialetricks.de,geniale-tricks.com,gesundheit.de,gevestor.de,giessener-anzeiger.de,gifhorner-rundschau.de,gipfelbuch.ch,gmuender-tagespost.de,golem.de,gusto.at,gutfuerdich.co,hamburg.de,hardwareluxx.de,hartziv.org,harzkurier.de,hausgarten.net,haz.de,heftig.*,helmstedter-nachrichten.de,heilpraxisnet.de,heise.de,hftg.co,hochheimer-zeitung.de,hofheimer-zeitung.de,hoerzu.de,ikz-online.de,immobilienscout24.de,ingame.de,investor-verlag.de,jpgames.de,kabeleins.de,kamelle.de,kindergeld.info,klettern.de,klettern-magazin.de,kochbar.de,kreis-anzeiger.de,lachainemeteo.com,lampertheimer-zeitung.de,landwirt.com,laut.de,lauterbacher-anzeiger.de,leckerschmecker.me,lesfoodies.com,levif.be,lifeline.de,likemag.com,ln-online.de,lustaufsleben.at,lustich.de,lvz.de,main-spitze.de,mathepower.com,maz-online.de,medisite.fr,mehr-tanken.de,mein-kummerkasten.de,mein-mmo.de,mein-wahres-ich.de,menshealth.de,mercato365.com,metal-hammer.de,metalflirt.de,minecraft-serverlist.net,mittelbayerische.de,modhoster.de,mopo.de,morgenpost.de,motor-talk.de,motorbasar.de,motorradonline.de,motorsport-total.com,motortests.de,mountainbike-magazin.de,moviepilot.de,mtb-news.de,musikexpress.de,musikradar.de,netzwelt.de,neuepresse.de,neueroeffnung.info,news.at,news38.de,nicknight.de,nnn.de,notebookchat.com,notebookcheck.*,notebookcheck-tr.com,noz.de,noz-cdn.de,nrz.de,nwzonline.de,oberhessische-zeitung.de,onlinekosten.de,onvista.de,op-marburg.de,outdoor-magazin.com,outdoorchannel.de,paradisi.de,pc-magazin.de,pcgames.de,pcgameshardware.de,pcwelt.de,pcworld.pl,peiner-nachrichten.de,pferde.de,pietsmiet.de,pixelio.de,pkw-forum.de,planetsnow.de,playboy.de,playfront.de,pnn.de,pons.com,prignitzer.de,profil.at,promipool.de,promobil.de,prosiebenmaxx.de,ran.de,readmore.de,rechtslupe.de,reuters.com,rhein-main-presse.de,roadbike.de,roemische-zahlen.net,rollingstone.de,rot-blau.com,rp-online.de,rtl.de,rtv.de,rugby365.fr,runnersworld.de,safelist.eu,salzgitter-zeitung.de,sat1.de,sat1gold.de,schwaebische-post.de,serienjunkies.de,shz.de,sixx.de,skodacommunity.de,smart-wohnen.net,sn.at,spiegel.de,spielfilm.de,sport.de,sportal.de,sport365.fr,spox.com,svz.de,szene1.at,szene38.de,tagesspiegel.de,taschenhirn.de,techstage.de,testedich.*,the-voice-of-germany.de,thueringen24.de,tierfreund.co,tiervermittlung.de,trend.at,tv-media.at,tvdigital.de,tvspielfilm.de,tvtoday.de,unterhalt.net,usinger-anzeiger.de,usp-forum.de,videogameszone.de,vienna.at,vip.de,virtualnights.com,vox.de,wallstreet-online.de,waz.de,webfail.com,webwereld.nl,welt.de,weristdeinfreund.de,werkzeug-news.de,wetter.*,wetteronline.*,wiesbadener-kurier.de,wiesbadener-tagblatt.de,wintotal.de,winboard.org,windows-7-forum.net,wn.de,wohngeld.org,wolfenbuetteler-zeitung.de,wolfsburger-nachrichten.de,woman.at,womenshealth.de,wormser-zeitung.de,woxikon.de,wp.de,wr.de,yachtrevue.at##+js(setInterval-defuser.js, text/css, 10)
-fmovies.*,ffmovies.*,prettyfast.to,fmovies.to,vidnode.net,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(setInterval-defuser.js, text/css, 10)
-fmovies.*,ffmovies.*,prettyfast.to,fmovies.to,vidnode.net,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(setInterval-defuser.js, text/css, 10)
-fmovies.*,ffmovies.*,prettyfast.to,fmovies.to,vidnode.net,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(setInterval-defuser.js, text/css, 10)
-fmovies.*,ffmovies.*,prettyfast.to,fmovies.to,vidnode.net,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(setInterval-defuser.js, text/css, 10)
-fmovies.*,ffmovies.*,prettyfast.to,fmovies.to,vidnode.net,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(setInterval-defuser.js, text/css, 10)
-fmovies.*,ffmovies.*,prettyfast.to,fmovies.to,vidnode.net,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(setInterval-defuser.js, text/css, 10)
+9anime.*,fmovies.*,ffmovies.*,prettyfast.to,fmovies.to,vidnode.net,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(setInterval-defuser.js, text/css, 10)
+9anime.*,fmovies.*,ffmovies.*,prettyfast.to,fmovies.to,vidnode.net,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(setInterval-defuser.js, text/css, 10)
+9anime.*,fmovies.*,ffmovies.*,prettyfast.to,fmovies.to,vidnode.net,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(setInterval-defuser.js, text/css, 10)
+9anime.*,fmovies.*,ffmovies.*,prettyfast.to,fmovies.to,vidnode.net,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(setInterval-defuser.js, text/css, 10)
+9anime.*,fmovies.*,ffmovies.*,prettyfast.to,fmovies.to,vidnode.net,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(setInterval-defuser.js, text/css, 10)
+9anime.*,fmovies.*,ffmovies.*,prettyfast.to,fmovies.to,vidnode.net,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(setInterval-defuser.js, text/css, 10)
 !-----------------------------------------------------------------------------------------------
 !vidnode.net##header
 !vidnode.net##+js(abort-on-property-read.js, AaDetector)
-fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(setTimeout-defuser.js, _0x)
-fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net###preroll
-fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(abort-current-inline-script.js, parseInt, incrementClicks)
-fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(abort-current-inline-script.js, decodeURIComponent, atob)
-fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(popads-dummy.js)
-fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(abort-on-property-write.js, _pop)
+9anime.*,fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(setTimeout-defuser.js, _0x)
+9anime.*,fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net###preroll
+9anime.*,fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(abort-current-inline-script.js, parseInt, incrementClicks)
+9anime.*,fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(abort-current-inline-script.js, decodeURIComponent, atob)
+9anime.*,fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(popads-dummy.js)
+9anime.*,fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(abort-on-property-write.js, _pop)
 
-fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(noeval.js)
-fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(noeval.js)
-fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(noeval.js)
-fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(noeval.js)
-fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(noeval.js)
-fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(noeval.js)
+9anime.*,fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(noeval.js)
+9anime.*,fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(noeval.js)
+9anime.*,fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(noeval.js)
+9anime.*,fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(noeval.js)
+9anime.*,fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(noeval.js)
+9anime.*,fmovies.*,ffmovies.*,yesmovies.zone,fmovies.to,prettyfast.to,grooksom.com,streamingworld.xyz,vidcloud.icu,vidnode.net##+js(noeval.js)
 
 
 
@@ -1481,12 +1497,12 @@ fmovies.*,ffmovies.*,prettyfast.to,fmovies.to,streamingworld.xyz,vidnode.net##+j
 !-----------------------------------------------------------------------------------------------
 !vidcloud.icu,
 vidnode.net,streamingworld.xyz,entervideo.net,*.rapidvideo.*,*.9anime.*,prettyfast.to,4-liga.com,4fansites.de,4players.de,9monate.de,abendblatt.de,abendzeitung-muenchen.de,abseits-ka.de,ajaxshowtime.com,allgemeine-zeitung.de,allaboutphones.nl,antenne.de,arcor.de,areadvd.de,areamobile.de,ariva.de,astronews.com,aussenwirtschaftslupe.de,auto-motor-und-sport.de,auto-service.de,autobild.de,autoextrem.de,autopixx.de,baby-vornamen.de,bento.de,bigfm.de,bildderfrau.de,blackd.de,boerse-online.de,boerse.de,boersen.manager-magazin.de,braunschweiger-zeitung.de,brieffreunde.de,buerstaedter-zeitung.de,buffed.de,caravaning.de,cavallo.de,cinema.de,computerbild.de,computerhilfen.de,computerworld.nl,comunio.*,comunio-cl.com,connect.de,dbna.de,derwesten.de,dieblaue24.com,dnn.de,eatsmarter.de,echo-online.de,einfachschoen.me,elektrobike-online.com,e-mountainbike.com,epochtimes.de,extratipp.com,f1maximaal.nl,fettspielen.de,fid-gesundheitswissen.de,finanztreff.de,fitforfun.de,focus.de,football365.fr,fr.de,futurezone.de,gala.de,gamersglobal.de,gamesaktuell.de,gamestar.de,gameswelt.at,gameswelt.de,gamezone.de,geissblog.koeln,gelnhaeuser-tageblatt.de,general-anzeiger-bonn.de,genialetricks.de,geniale-tricks.com,gesundheit.de,gevestor.de,giessener-anzeiger.de,gifhorner-rundschau.de,gipfelbuch.ch,gmuender-tagespost.de,golem.de,gusto.at,gutfuerdich.co,hamburg.de,hardwareluxx.de,hartziv.org,harzkurier.de,hausgarten.net,haz.de,heftig.*,helmstedter-nachrichten.de,heilpraxisnet.de,heise.de,hftg.co,hochheimer-zeitung.de,hofheimer-zeitung.de,hoerzu.de,ikz-online.de,immobilienscout24.de,ingame.de,investor-verlag.de,jpgames.de,kabeleins.de,kamelle.de,kindergeld.info,klettern.de,klettern-magazin.de,kochbar.de,kreis-anzeiger.de,lablue.*,lachainemeteo.com,lampertheimer-zeitung.de,landwirt.com,laut.de,lauterbacher-anzeiger.de,leckerschmecker.me,lesfoodies.com,levif.be,lifeline.de,likemag.com,ln-online.de,lustaufsleben.at,lustich.de,lvz.de,main-spitze.de,mathepower.com,maz-online.de,medisite.fr,mehr-tanken.de,mein-kummerkasten.de,mein-mmo.de,mein-wahres-ich.de,menshealth.de,mercato365.com,metal-hammer.de,metalflirt.de,minecraft-serverlist.net,mittelbayerische.de,modhoster.de,mopo.de,morgenpost.de,motor-talk.de,motorbasar.de,motorradonline.de,motorsport-total.com,motortests.de,mountainbike-magazin.de,moviepilot.de,mtb-news.de,musikexpress.de,musikradar.de,netzwelt.de,neuepresse.de,neueroeffnung.info,news.at,news38.de,nicknight.de,nnn.de,notebookchat.com,notebookcheck.*,notebookcheck-tr.com,noz.de,noz-cdn.de,nrz.de,nwzonline.de,oberhessische-zeitung.de,onlinekosten.de,onvista.de,op-marburg.de,outdoor-magazin.com,outdoorchannel.de,paradisi.de,pc-magazin.de,pcgames.de,pcgameshardware.de,pcwelt.de,peiner-nachrichten.de,pcworld.pl,pferde.de,pietsmiet.de,pixelio.de,pkw-forum.de,planetsnow.de,playboy.de,playfront.de,pnn.de,pons.com,prignitzer.de,profil.at,promipool.de,promobil.de,prosiebenmaxx.de,ran.de,readmore.de,rechtslupe.de,reuters.com,rhein-main-presse.de,roadbike.de,roemische-zahlen.net,rollingstone.de,rot-blau.com,rp-online.de,rtl.de,rtv.de,rugby365.fr,runnersworld.de,safelist.eu,salzgitter-zeitung.de,sat1.de,sat1gold.de,schwaebische-post.de,serienjunkies.de,shz.de,sixx.de,skodacommunity.de,smart-wohnen.net,sn.at,spiegel.de,spielfilm.de,sport.de,sportal.de,sport365.fr,spox.com,svz.de,szene1.at,szene38.de,tagesspiegel.de,taschenhirn.de,techstage.de,testedich.*,the-voice-of-germany.de,thueringen24.de,tierfreund.co,tiervermittlung.de,trend.at,tv-media.at,tvdigital.de,tvspielfilm.de,tvtoday.de,unterhalt.net,usinger-anzeiger.de,usp-forum.de,videogameszone.de,vienna.at,vip.de,virtualnights.com,vox.de,waz.de,webfail.com,webwereld.nl,welt.de,weristdeinfreund.de,werkzeug-news.de,wetter.*,wetteronline.*,wiesbadener-kurier.de,wiesbadener-tagblatt.de,wintotal.de,winboard.org,windows-7-forum.net,wn.de,wohngeld.org,wolfenbuetteler-zeitung.de,wolfsburger-nachrichten.de,woman.at,womenshealth.de,wormser-zeitung.de,woxikon.de,wp.de,wr.de,yachtrevue.at##^script:has-text(Inject=!)
-fmovies.*,ffmovies.*,fmovies.to,prettyfast.to,vidcloud.icu,vidnode.net,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##^script:has-text(Inject=!)
-fmovies.*,ffmovies.*,fmovies.to,prettyfast.to,vidcloud.icu,vidnode.net,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##^script:has-text(Inject=!)
-fmovies.*,ffmovies.*,fmovies.to,prettyfast.to,vidcloud.icu,vidnode.net,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##^script:has-text(Inject=!)
-fmovies.*,ffmovies.*,fmovies.to,prettyfast.to,vidcloud.icu,vidnode.net,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##^script:has-text(Inject=!)
-fmovies.*,ffmovies.*,fmovies.to,prettyfast.to,vidcloud.icu,vidnode.net,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##^script:has-text(Inject=!)
-fmovies.*,ffmovies.*,fmovies.to,prettyfast.to,vidcloud.icu,vidnode.net,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##^script:has-text(Inject=!)
+9anime.*,fmovies.*,ffmovies.*,fmovies.to,prettyfast.to,vidcloud.icu,vidnode.net,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##^script:has-text(Inject=!)
+9anime.*,fmovies.*,ffmovies.*,fmovies.to,prettyfast.to,vidcloud.icu,vidnode.net,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##^script:has-text(Inject=!)
+9anime.*,fmovies.*,ffmovies.*,fmovies.to,prettyfast.to,vidcloud.icu,vidnode.net,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##^script:has-text(Inject=!)
+9anime.*,fmovies.*,ffmovies.*,fmovies.to,prettyfast.to,vidcloud.icu,vidnode.net,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##^script:has-text(Inject=!)
+9anime.*,fmovies.*,ffmovies.*,fmovies.to,prettyfast.to,vidcloud.icu,vidnode.net,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##^script:has-text(Inject=!)
+9anime.*,fmovies.*,ffmovies.*,fmovies.to,prettyfast.to,vidcloud.icu,vidnode.net,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net##^script:has-text(Inject=!)
 
 ! Yavli ads
 ! https://www.reddit.com/r/uBlockOrigin/comments/7cgb7h/pjmediacom_has_a_right_sidebar_that_is_labeled/
@@ -20574,3 +20590,10 @@ yesmovies.zone,vidnode.net,streamingworld.xyz##[class^="dooplay_player"]:matches
 
 ! 4.11.2019 yesmovies.zone
 ||grooksom.com^$xhr,domain=vidnode.net
+
+! 10.11.2019 https://showup.tv
+showup.tv##.flex-video__overlay
+
+! 12.11.2019 mozilla.org
+||addons.mozilla.org^$csp_report,domain=addons.mozilla.org
+||*.cdn.mozilla.net/amo*.*,domain=addons.mozilla.org
