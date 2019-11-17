@@ -22,7 +22,7 @@
 
 
 
-||ssl.p.jwpcdn.com/player/v/8.8.2/jwpsrv.js$script,domain=prettyfast.to
+||ssl.p.jwpcdn.com/player/v/8.8.2/jwpsrv.js$script,domain=prettyfast.to,streamingworld.xyz,vidnode.net
 
 
 
