@@ -20,9 +20,17 @@
 ||viatepigan.com^
 ||*/tag.min.js
 
-
-
-||ssl.p.jwpcdn.com/player/v/8.8.2/jwpsrv.js$script,domain=prettyfast.to,streamingworld.xyz,vidnode.net
+||*/fac.php,domain=prettyfast.to,streamingworld.xyz,vidnode.net,grooksom.com
+||*/pup.php,domain=prettyfast.to,streamingworld.xyz,vidnode.net,grooksom.com
+||*/ntf.php,domain=prettyfast.to,streamingworld.xyz,vidnode.net,grooksom.com
+!||deloplen.com/tag.min.js,domain=prettyfast.to,streamingworld.xyz,vidnode.net,grooksom.com
+||*/tag.min.js,domain=prettyfast.to,streamingworld.xyz,vidnode.net,grooksom.com
+!||ssl.p.jwpcdn.com/player/v/8.8.2/jwpsrv.js$script,domain=prettyfast.to,streamingworld.xyz,vidnode.net,grooksom.com
+!||ssl.p.jwpcdn.com/player/v/8.8.2/*.js$script,domain=prettyfast.to,streamingworld.xyz,vidnode.net,grooksom.com
+||*.jwpcdn.com/player/v/*/*.js$script,domain=prettyfast.to,streamingworld.xyz,vidnode.net,grooksom.com
+!##[src="//g.jwpsrv.com/g/gcid-0.1.2.html?notrack"]
+||*.jwpsrv.com,domain=prettyfast.to,streamingworld.xyz,vidnode.net,grooksom.com
+##[src="//g.jwpsrv.com"]
 
 
 
