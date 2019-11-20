@@ -20629,7 +20629,7 @@ showup.tv##.flex-video__overlay
 ||eu-u.openx.net^$subdocument,domain=ksiazki.wp.pl
 ||eus.rubiconproject.com^$subdocument,domain=ksiazki.wp.pl
 ||wirtualn-d.openx.net^$xhr,domain=ksiazki.wp.pl
-||static.criteo.net^$script,domain=ksiazki.wp.pl
+!||static.criteo.net^$script,domain=ksiazki.wp.pl
 ||*.*.criteo.com^$xhr,domain=gum.criteo.com
 ||ib.adnxs.com^$xhr,domain=ksiazki.wp.pl
 ||adx.adform.net^$xhr,domain=ksiazki.wp.pl
@@ -20644,7 +20644,7 @@ showup.tv##.flex-video__overlay
 ||cdn.adnxs.com^$script,domain=ksiazki.wp.pl
 ||c.amazon-adsystem.com^$script,domain=ksiazki.wp.pl
 ||v.wpimg.pl^$script,domain=ksiazki.wp.pl
-||v.wpimg.pl^$image,domain=ksiazki.wp.pl
+!||v.wpimg.pl^$image,domain=ksiazki.wp.pl
 ||ib.adnxs.com^$script,domain=acdn.adnxs.com
 ||global.ib-ibi.com^$image,domain=acdn.adnxs.com
 ||pixel.everesttech.net^$image,domain=acdn.adnxs.com
@@ -20655,7 +20655,7 @@ showup.tv##.flex-video__overlay
 ||mpp.vindicosuite.com^$image,domain=acdn.adnxs.com
 ||id5-sync.com^$image,domain=acdn.adnxs.com
 ||ib.adnxs.com^$image,domain=acdn.adnxs.com
-!||redirect.frontend.weborama.fr^$image,domain=acdn.adnxs.com
+||redirect.frontend.weborama.fr^$image,domain=acdn.adnxs.com
 
 ! 17.11.2019 wp.pl
 ||secure.adnxs.com^$image,domain=acdn.adnxs.com
@@ -20668,7 +20668,7 @@ showup.tv##.flex-video__overlay
 ||tg.socdm.com^$image,domain=acdn.adnxs.com
 ||match.sync.ad.cpe.dotomi.com^$image,domain=acdn.adnxs.com
 ||router.infolinks.com^$image,domain=acdn.adnxs.com
-!||*.meetrics.net^$image,domain=ksiazki.wp.pl
+||*.meetrics.net^$image,domain=ksiazki.wp.pl
 
 ! 17.11.2019 fmovies.to
 !||ssl.p.jwpcdn.com/player/v/8.7.1/jwpsrv.js$script,domain=mcloud.to
@@ -20680,3 +20680,32 @@ showup.tv##.flex-video__overlay
 !||*/*.php$xhr,domain=prettyfast.to
 !||*/*/*/*/*.html$subdocument,domain=prettyfast.to
 !||*/*/*.html$subdocument,domain=prettyfast.to
+
+! 20.11.2019 tvp.pl
+||ocdn.eu^$media,domain=cyfrowa.tvp.pl
+
+! 20.11.2019 spankbang.com
+||pl.spankbang.com/static_desktop/JS/default/ero_loader.v3.js$xhr,domain=pl.spankbang.com
+
+! 20.11.2019 wp.pl
+!||ksiazki.wp.pl/static/3.7.174/0.0.js$script,domain=ksiazki.wp.pl
+!||ksiazki.wp.pl/static/3.7.174/1.1.js$script,domain=ksiazki.wp.pl
+
+! 20.11.2019 player.pl
+||tvn2.adocean.pl/files/js/ado.js$script,domain=player.pl
+||tools.services.tvn.pl/_ads/advert.js$script,domain=player.pl
+||tvn.adocean.pl/*/*/ad.js$script,domain=player.pl
+||tvn.adocean.pl/ad.xml$xhr,domain=player.pl
+||tvn.adocean.pl/*/ad.xml$xhr,domain=player.pl
+
+fmovies.to##div.icnisi
+prettyfast.to##div.icnisi
+streamingworld.xyz##div.icnisi
+##div:matches-css(z-index: /9\d\d+/)
+##body:style(overflow:auto!important;)
+!##[style*="z-index: 2147483647"]
+##[style*="z-index: 999999"]
+
+! 20.11.2019 fmovies.to
+||widgets.amung.us^$image,domain=fmovies.to,9anime.to
+||whos.amung.us/swidget/*$image,domain=fmovies.to,9anime.to
