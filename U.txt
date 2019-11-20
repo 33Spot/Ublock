@@ -18,7 +18,7 @@
 
 ##[src="//viatepigan.com"
 ||viatepigan.com^
-||*/tag.min.js
+!||*/tag.min.js
 
 ||*/fac.php,domain=prettyfast.to,streamingworld.xyz,vidnode.net,grooksom.com
 ||*/pup.php,domain=prettyfast.to,streamingworld.xyz,vidnode.net,grooksom.com
