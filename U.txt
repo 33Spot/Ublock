@@ -20712,3 +20712,7 @@ streamingworld.xyz##div.icnisi
 
 ! 27.11.2019 animalsexporntube.com
 ||exomonyf.com/pfh.mor.js$script,domain=animalsexporntube.com
+
+! 27.11.2019 fmovies.to
+||*/*.php?zoneid=,domain=prettyfast.to
+
