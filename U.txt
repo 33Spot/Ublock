@@ -1230,16 +1230,17 @@ anime-odcinki.pl##+js(abort-current-inline-script.js, Math, zfgloaded)
 
 
 
+
 !,vidnode.net
 !streamingworld.xyz,
 grooksom.com,fmovies.to,vidcloud.icu,*.xhamster.com,*.spankbang.com,dilruwha.net,iamcdn.net,*.hydrax.net,*.vev.*,*.gbtcdn.com,*.disk.ly,cloudvideo.tv,*.clipwatching.com,www.rapidvideo.com,clipwatching.com,fmovie.*,fuskator.com,*.metric.gstatic.com,tpc.googlesyndication.com,leporno.org##+js(abort-current-inline-script.js, atob, tabunder)
-*.jwpsrv.com,ssl.p.jwpcdn.com,anime-odcinki.pl,vidlox.me,clipwatching.com,9anime.*,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net,prettyfast.to##+js(abort-current-inline-script.js, atob, tabunder)
-*.jwpsrv.com,ssl.p.jwpcdn.com,anime-odcinki.pl,vidlox.me,clipwatching.com,9anime.*,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net,prettyfast.to##+js(abort-current-inline-script.js, atob, tabunder)
-*.jwpsrv.com,ssl.p.jwpcdn.com,anime-odcinki.pl,vidlox.me,clipwatching.com,9anime.*,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net,prettyfast.to##+js(abort-current-inline-script.js, atob, tabunder)
-*.jwpsrv.com,ssl.p.jwpcdn.com,anime-odcinki.pl,vidlox.me,clipwatching.com,9anime.*,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net,prettyfast.to##+js(abort-current-inline-script.js, atob, tabunder)
-*.jwpsrv.com,ssl.p.jwpcdn.com,anime-odcinki.pl,vidlox.me,clipwatching.com,9anime.*,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net,prettyfast.to##+js(abort-current-inline-script.js, atob, tabunder)
-*.jwpsrv.com,ssl.p.jwpcdn.com,anime-odcinki.pl,vidlox.me,clipwatching.com,9anime.*,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net,prettyfast.to##+js(abort-current-inline-script.js, atob, tabunder)
-*.jwpsrv.com,ssl.p.jwpcdn.com,anime-odcinki.pl,vidlox.me,clipwatching.com,9anime.*,fmovies.to,grooksom.com,vidnode.net##+js(abort-current-inline-script.js, atob, tabunder)
+fmovies.to,*.jwpsrv.com,ssl.p.jwpcdn.com,fmovies.to,streamingworld.xyz,*.jwpsrv.com,ssl.p.jwpcdn.com,anime-odcinki.pl,vidlox.me,clipwatching.com,9anime.*,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net,prettyfast.to##+js(abort-current-inline-script.js, atob, tabunder)
+fmovies.to,*.jwpsrv.com,ssl.p.jwpcdn.com,fmovies.to,streamingworld.xyz,*.jwpsrv.com,ssl.p.jwpcdn.com,anime-odcinki.pl,vidlox.me,clipwatching.com,9anime.*,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net,prettyfast.to##+js(abort-current-inline-script.js, atob, tabunder)
+fmovies.to,*.jwpsrv.com,ssl.p.jwpcdn.com,fmovies.to,streamingworld.xyz,*.jwpsrv.com,ssl.p.jwpcdn.com,anime-odcinki.pl,vidlox.me,clipwatching.com,9anime.*,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net,prettyfast.to##+js(abort-current-inline-script.js, atob, tabunder)
+fmovies.to,*.jwpsrv.com,ssl.p.jwpcdn.com,fmovies.to,streamingworld.xyz,*.jwpsrv.com,ssl.p.jwpcdn.com,anime-odcinki.pl,vidlox.me,clipwatching.com,9anime.*,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net,prettyfast.to##+js(abort-current-inline-script.js, atob, tabunder)
+fmovies.to,*.jwpsrv.com,ssl.p.jwpcdn.com,fmovies.to,streamingworld.xyz,*.jwpsrv.com,ssl.p.jwpcdn.com,anime-odcinki.pl,vidlox.me,clipwatching.com,9anime.*,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net,prettyfast.to##+js(abort-current-inline-script.js, atob, tabunder)
+fmovies.to,*.jwpsrv.com,ssl.p.jwpcdn.com,fmovies.to,streamingworld.xyz,*.jwpsrv.com,ssl.p.jwpcdn.com,anime-odcinki.pl,vidlox.me,clipwatching.com,9anime.*,fmovies.to,grooksom.com,vidcloud.icu,streamingworld.xyz,yesmovies.zone,yesmoviesyes.com,entervideo.net,prettyfast.to##+js(abort-current-inline-script.js, atob, tabunder)
+fmovies.to,*.jwpsrv.com,ssl.p.jwpcdn.com,fmovies.to,streamingworld.xyz,*.jwpsrv.com,ssl.p.jwpcdn.com,anime-odcinki.pl,vidlox.me,clipwatching.com,9anime.*,fmovies.to,grooksom.com,vidnode.net##+js(abort-current-inline-script.js, atob, tabunder)
 
 !vidcloud.icu,
 !vidnode.net,
@@ -20715,4 +20716,3 @@ streamingworld.xyz##div.icnisi
 
 ! 27.11.2019 fmovies.to
 ||*/*.php?zoneid=,domain=prettyfast.to
-
