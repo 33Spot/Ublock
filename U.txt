@@ -32,7 +32,7 @@
 !##[src="//g.jwpsrv.com/g/gcid-0.1.2.html?notrack"]
 ||*.jwpsrv.com,domain=fmovies.to,9anime.to,prettyfast.to,streamingworld.xyz,vidnode.net,grooksom.com
 ##[src="//g.jwpsrv.com"]
-
+||prettyfast.to/log/m5l6k?random$xhr,1p
 
 
 !src="//ssl.p.jwpcdn.com/player/v/8.8.2/jwpsrv.js"
@@ -20716,3 +20716,33 @@ streamingworld.xyz##div.icnisi
 
 ! 27.11.2019 fmovies.to
 ||*/*.php?zoneid=,domain=prettyfast.to
+
+||pl.movie-pass.live
+###div.dooplay_player
+||s.w.org
+
+! 29.11.2019 yesmovies.zone
+!||yesmovies.zone/wp-content/themes/dooplay/assets/img/download.png$image,1p
+!||yesmovies.zone/wp-content/themes/dooplay/assets/img/stream.png$image,1p
+!||https://yesmovies.zone/wp-content/themes/dooplay/assets/img/*.png
+!||yesmovies.zone/wp-content/themes/dooplay/assets/js/lib/starstruck.js$script,1p
+!||yesmovies.zone/wp-content/themes/dooplay/assets/js/lib/starstruck.raty.js$script,1p
+
+! 29.11.2019 yesmovies.zone
+!||yesmovies.zone/wp-content/themes/dooplay/assets/css/front.*.css$stylesheet,1p
+!||tmdb.org
+
+!##.hbox
+!##.fbox
+!##script:contains( rel="nofollow")
+!##script:contains(adBlockDetected)
+!##script:contains(fuckAdBlock)
+!||yesmovies.zone^$csp=style-src *
+!$inline-script
+!||deloplen.com
+!##.pframe
+
+! 2.12.2019 https://jakdojade.pl
+jakdojade.pl##.cn-box-advert-top
+
+
