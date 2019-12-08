@@ -37,6 +37,9 @@
 
 !src="//ssl.p.jwpcdn.com/player/v/8.8.2/jwpsrv.js"
 !##[src="*ssl.p.jwpcdn.com*"]
+||*$subdocument,domain=prettyfast.to
+
+
 ##[href="https://dormitysature.info"]
 ##[href="https://wasshoneaningar.pro"]
 ##[href="https://trillianu.info"]
