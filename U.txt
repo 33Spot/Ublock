@@ -20749,3 +20749,7 @@ streamingworld.xyz##div.icnisi
 jakdojade.pl##.cn-box-advert-top
 
 
+! 10.12.2019 cda.pl
+||g.cda.pl^$xhr,domain=www.cda.pl
+
+
