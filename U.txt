@@ -53,6 +53,7 @@
 ##[src="https://my.rtmark.net"]
 ##[href="https://xml.popmonetizer.com*"]
 ##[href="https://dynamicadx.com*"]
+##[href="https://xml.zeusadx.com"]
 ##[src="*pushlinck.com*"]
 ##[href="https://vast.youview.io*"]
 ##[href="*pushlinck.com*"]
@@ -20752,4 +20753,6 @@ jakdojade.pl##.cn-box-advert-top
 ! 10.12.2019 cda.pl
 ||g.cda.pl^$xhr,domain=www.cda.pl
 
+
+||pushwoosh.com
 
