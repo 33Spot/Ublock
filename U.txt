@@ -6,7 +6,7 @@
 !
 ! Link: https://raw.githubusercontent.com/33Spot/Ublock/master/U.txt
 !
-! Version: 20191105-2
+! Version: 20200320-1
 !
 ! Expires: 2 days
 
@@ -4301,6 +4301,39 @@ grooksom.com,fmovies.to,streamingworld.xyz,vidcloud.icu,vidnode.net,prettyfast.t
 grooksom.com,fmovies.to,streamingworld.xyz,vidcloud.icu,vidnode.net,prettyfast.to,reevown.com##+js(bab-defuser.js)
 grooksom.com,fmovies.to,streamingworld.xyz,vidcloud.icu,vidnode.net,prettyfast.to,reevown.com##+js(setInterval-defuser.js, eval)
 grooksom.com,fmovies.to,streamingworld.xyz,vidcloud.icu,vidnode.net,prettyfast.to,reevown.com##+js(setTimeout-defuser.js, newBody)
+grooksom.com,fmovies.to,streamingworld.xyz,vidcloud.icu,vidnode.net,prettyfast.to,reevown.com##+js(abort-on-property-write.js, adBlockDetected)
+grooksom.com,fmovies.to,streamingworld.xyz,vidcloud.icu,vidnode.net,prettyfast.to,reevown.com##+js(bab-defuser.js)
+grooksom.com,fmovies.to,streamingworld.xyz,vidcloud.icu,vidnode.net,prettyfast.to,reevown.com##+js(setInterval-defuser.js, eval)
+grooksom.com,fmovies.to,streamingworld.xyz,vidcloud.icu,vidnode.net,prettyfast.to,reevown.com##+js(setTimeout-defuser.js, newBody)
+grooksom.com,fmovies.to,streamingworld.xyz,vidcloud.icu,vidnode.net,prettyfast.to,reevown.com##+js(abort-on-property-write.js, adBlockDetected)
+grooksom.com,fmovies.to,streamingworld.xyz,vidcloud.icu,vidnode.net,prettyfast.to,reevown.com##+js(bab-defuser.js)
+grooksom.com,fmovies.to,streamingworld.xyz,vidcloud.icu,vidnode.net,prettyfast.to,reevown.com##+js(setInterval-defuser.js, eval)
+grooksom.com,fmovies.to,streamingworld.xyz,vidcloud.icu,vidnode.net,prettyfast.to,reevown.com##+js(setTimeout-defuser.js, newBody)
+grooksom.com,fmovies.to,streamingworld.xyz,vidcloud.icu,vidnode.net,prettyfast.to,reevown.com##+js(abort-on-property-write.js, adBlockDetected)
+grooksom.com,fmovies.to,streamingworld.xyz,vidcloud.icu,vidnode.net,prettyfast.to,reevown.com##+js(bab-defuser.js)
+grooksom.com,fmovies.to,streamingworld.xyz,vidcloud.icu,vidnode.net,prettyfast.to,reevown.com##+js(setInterval-defuser.js, eval)
+grooksom.com,fmovies.to,streamingworld.xyz,vidcloud.icu,vidnode.net,prettyfast.to,reevown.com##+js(setTimeout-defuser.js, newBody)
+grooksom.com,fmovies.to,streamingworld.xyz,vidcloud.icu,vidnode.net,prettyfast.to,reevown.com##+js(abort-on-property-write.js, adBlockDetected)
+grooksom.com,fmovies.to,streamingworld.xyz,vidcloud.icu,vidnode.net,prettyfast.to,reevown.com##+js(bab-defuser.js)
+grooksom.com,fmovies.to,streamingworld.xyz,vidcloud.icu,vidnode.net,prettyfast.to,reevown.com##+js(setInterval-defuser.js, eval)
+grooksom.com,fmovies.to,streamingworld.xyz,vidcloud.icu,vidnode.net,prettyfast.to,reevown.com##+js(setTimeout-defuser.js, newBody)
+grooksom.com,fmovies.to,streamingworld.xyz,vidcloud.icu,vidnode.net,prettyfast.to,reevown.com##+js(abort-on-property-write.js, adBlockDetected)
+grooksom.com,fmovies.to,streamingworld.xyz,vidcloud.icu,vidnode.net,prettyfast.to,reevown.com##+js(bab-defuser.js)
+grooksom.com,fmovies.to,streamingworld.xyz,vidcloud.icu,vidnode.net,prettyfast.to,reevown.com##+js(setInterval-defuser.js, eval)
+grooksom.com,fmovies.to,streamingworld.xyz,vidcloud.icu,vidnode.net,prettyfast.to,reevown.com##+js(setTimeout-defuser.js, newBody)
+grooksom.com,fmovies.to,streamingworld.xyz,vidcloud.icu,vidnode.net,prettyfast.to,reevown.com##+js(abort-on-property-write.js, adBlockDetected)
+grooksom.com,fmovies.to,streamingworld.xyz,vidcloud.icu,vidnode.net,prettyfast.to,reevown.com##+js(bab-defuser.js)
+grooksom.com,fmovies.to,streamingworld.xyz,vidcloud.icu,vidnode.net,prettyfast.to,reevown.com##+js(setInterval-defuser.js, eval)
+grooksom.com,fmovies.to,streamingworld.xyz,vidcloud.icu,vidnode.net,prettyfast.to,reevown.com##+js(setTimeout-defuser.js, newBody)
+grooksom.com,fmovies.to,streamingworld.xyz,vidcloud.icu,vidnode.net,prettyfast.to,reevown.com##+js(abort-on-property-write.js, adBlockDetected)
+grooksom.com,fmovies.to,streamingworld.xyz,vidcloud.icu,vidnode.net,prettyfast.to,reevown.com##+js(bab-defuser.js)
+grooksom.com,fmovies.to,streamingworld.xyz,vidcloud.icu,vidnode.net,prettyfast.to,reevown.com##+js(setInterval-defuser.js, eval)
+grooksom.com,fmovies.to,streamingworld.xyz,vidcloud.icu,vidnode.net,prettyfast.to,reevown.com##+js(setTimeout-defuser.js, newBody)
+grooksom.com,fmovies.to,streamingworld.xyz,vidcloud.icu,vidnode.net,prettyfast.to,reevown.com##+js(abort-on-property-write.js, adBlockDetected)
+grooksom.com,fmovies.to,streamingworld.xyz,vidcloud.icu,vidnode.net,prettyfast.to,reevown.com##+js(bab-defuser.js)
+grooksom.com,fmovies.to,streamingworld.xyz,vidcloud.icu,vidnode.net,prettyfast.to,reevown.com##+js(setInterval-defuser.js, eval)
+grooksom.com,fmovies.to,streamingworld.xyz,vidcloud.icu,vidnode.net,prettyfast.to,reevown.com##+js(setTimeout-defuser.js, newBody)
+
 @@||reevown.com^$generichide
 @@||reevown.com^$script,xmlhttprequest,first-party
 ||pagead2.googlesyndication.com^$script,redirect=noopjs,domain=reevown.com
