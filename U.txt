@@ -1396,12 +1396,12 @@ prettyfast.to,fmovies.to,grooksom.com,vidnode.net##+js(abort-current-inline-scri
 !streamingworld.xyz,
 gum.criteo.com,yesmovies.zone,entervideo.net,*.rapidvideo.*,*.9anime.*,onlystream.tv,hqq.tv,flenix.fun,vidsrc.me,*.xhamster.com,*.spankbang.com,dilruwha.net,prettyfast.to,iamcdn.net,*.hydrax.net,*.vev.*,*.gbtcdn.com,*.disk.ly,cloudvideo.tv,*.clipwatching.com,www.rapidvideo.com,clipwatching.com,fmovie.*,*.spankbang.com,gum.criteo.com,acdn.adnxs.com,titki.top,pornbimbo.com,anime-odcinki.pl,oladblock.me,openload.co,ojntbybxh.com,cobalten.com,vidlox.*,*.vidlox.*##+js(set-constant.js, check_adblock, true)
 !fmovies.*,ffmovies.*,
-fmovies.to,anime-odcinki.pl,vidlox.me,clipwatching.com,9anime.*,grooksom.com,vidcloud.icu,streamingworld.xyz,vidnode.net,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(set-constant.js, check_adblock, true)
-fmovies.to,anime-odcinki.pl,vidlox.me,clipwatching.com,9anime.*,grooksom.com,vidcloud.icu,streamingworld.xyz,vidnode.net,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(set-constant.js, check_adblock, true)
-fmovies.to,anime-odcinki.pl,vidlox.me,clipwatching.com,9anime.*,grooksom.com,vidcloud.icu,streamingworld.xyz,vidnode.net,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(set-constant.js, check_adblock, true)
-fmovies.to,anime-odcinki.pl,vidlox.me,clipwatching.com,9anime.*,grooksom.com,vidcloud.icu,streamingworld.xyz,vidnode.net,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(set-constant.js, check_adblock, true)
-fmovies.to,anime-odcinki.pl,vidlox.me,clipwatching.com,9anime.*,grooksom.com,vidcloud.icu,streamingworld.xyz,vidnode.net,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(set-constant.js, check_adblock, true)
-fmovies.to,anime-odcinki.pl,vidlox.me,clipwatching.com,9anime.*,grooksom.com,vidcloud.icu,streamingworld.xyz,vidnode.net,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(set-constant.js, check_adblock, true)
+mcloud.to,fmovies.to,anime-odcinki.pl,vidlox.me,clipwatching.com,9anime.*,grooksom.com,vidcloud.icu,streamingworld.xyz,vidnode.net,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(set-constant.js, check_adblock, true)
+mcloud.to,fmovies.to,anime-odcinki.pl,vidlox.me,clipwatching.com,9anime.*,grooksom.com,vidcloud.icu,streamingworld.xyz,vidnode.net,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(set-constant.js, check_adblock, true)
+mcloud.to,fmovies.to,anime-odcinki.pl,vidlox.me,clipwatching.com,9anime.*,grooksom.com,vidcloud.icu,streamingworld.xyz,vidnode.net,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(set-constant.js, check_adblock, true)
+mcloud.to,fmovies.to,anime-odcinki.pl,vidlox.me,clipwatching.com,9anime.*,grooksom.com,vidcloud.icu,streamingworld.xyz,vidnode.net,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(set-constant.js, check_adblock, true)
+mcloud.to,fmovies.to,anime-odcinki.pl,vidlox.me,clipwatching.com,9anime.*,grooksom.com,vidcloud.icu,streamingworld.xyz,vidnode.net,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(set-constant.js, check_adblock, true)
+mcloud.to,fmovies.to,anime-odcinki.pl,vidlox.me,clipwatching.com,9anime.*,grooksom.com,vidcloud.icu,streamingworld.xyz,vidnode.net,yesmovies.zone,yesmoviesyes.com,entervideo.net##+js(set-constant.js, check_adblock, true)
 
 !vidcloud.icu,
 !vidnode.net,
