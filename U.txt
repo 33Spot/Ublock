@@ -20893,3 +20893,6 @@ www.google.pl###ed_5 > .AUiS2
 ! 22.03.2020 https://www22.watchcartoonsonline.la
 www22.watchcartoonsonline.la###spu-98
 www22.watchcartoonsonline.la###spu-bg-98
+
+||iamcdn.net/players/jwplayer/*.*.*/jwpsrv.js$script,domain=hydrax.net
+
