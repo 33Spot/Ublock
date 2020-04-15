@@ -20894,5 +20894,5 @@ www.google.pl###ed_5 > .AUiS2
 www22.watchcartoonsonline.la###spu-98
 www22.watchcartoonsonline.la###spu-bg-98
 
-!||iamcdn.net/players/jwplayer/*.*.*/jwpsrv.js$script,domain=hydrax.net
+||iamcdn.net/players/jwplayer/*.*.*/jwpsrv.js$script,domain=hydrax.net
 
