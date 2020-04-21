@@ -92,7 +92,7 @@
 ||https://exavz.mcloud.to/
 
 
-
+||https://staticf.akacdn.ru/f/assets/favicons/manifest.json
 
 
 
