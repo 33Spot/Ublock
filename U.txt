@@ -6,7 +6,7 @@
 !
 ! Link: https://raw.githubusercontent.com/33Spot/Ublock/master/U.txt
 !
-! Version: 20200324-1
+! Version: 20200428-1
 !
 ! Expires: 2 days
 
@@ -20895,4 +20895,5 @@ www22.watchcartoonsonline.la###spu-98
 www22.watchcartoonsonline.la###spu-bg-98
 
 ||iamcdn.net/players/jwplayer/*.*.*/jwpsrv.js$script,domain=hydrax.net
+||api.cda.pl^$xhr,domain=ebd.cda.pl
 
