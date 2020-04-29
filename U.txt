@@ -92,16 +92,20 @@
 ||https://exavz.mcloud.to/
 
 
-||https://staticf.akacdn.ru/f/assets/favicons/manifest.json
-||https://staticf.akacdn.ru/f/assets/favicons/favicon.ico
-||https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js
-||https://staticf.akacdn.ru/f/assets/min/public/all.js?*
-||/cdn-cgi/bm/cv/2172558837/api.js
+||iamcdn.net/players/jwplayer/*.*.*/jwpsrv.js$script,domain=hydrax.net
+!||https://staticf.akacdn.ru/f/assets/favicons/manifest.json
+!||https://staticf.akacdn.ru/f/assets/favicons/favicon.ico
+!||https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js
+!||https://staticf.akacdn.ru/f/assets/min/public/all.js?*
+!||/cdn-cgi/bm/cv/2172558837/api.js
 ||native.propellerclick.com/*
 ||cdn.runative-syndicate.com/sdk/v1/n.js
 ||xr8wv50k1daj.com/6e/58/28/6e5828d18e012dd07bbb2aa3e87b6150.js
 ||xr8wv50k1daj.com
 ||pushlinck.com/ntfc.php?p=*
+||s7.addthis.com/js/300/addthis_widget.js
+!||inpagepush.com
+||pushlinck.com/ntfc.php?*
 
 
 
