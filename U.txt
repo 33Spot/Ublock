@@ -96,6 +96,9 @@
 ||https://staticf.akacdn.ru/f/assets/favicons/favicon.ico
 ||https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js
 ||https://staticf.akacdn.ru/f/assets/min/public/all.js?*
+||/cdn-cgi/bm/cv/2172558837/api.js
+||native.propellerclick.com/*
+
 
 
 
