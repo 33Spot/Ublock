@@ -95,7 +95,7 @@
 ||https://staticf.akacdn.ru/f/assets/favicons/manifest.json
 ||https://staticf.akacdn.ru/f/assets/favicons/favicon.ico
 ||https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js
-
+||https://staticf.akacdn.ru/f/assets/min/public/all.js?*
 
 
 
