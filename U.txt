@@ -107,6 +107,7 @@
 !||s7.addthis.com/js/300/addthis_widget.js
 ||inpagepush.com
 ||pushlinck.com/ntfc.php?*
+||ssl.p.jwpcdn.com/player/v/*.*.*/jwpsrv.js$script,domain=mcloud2.to
 
 
 
