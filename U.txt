@@ -104,7 +104,7 @@
 ||xr8wv50k1daj.com
 ||pushlinck.com/ntfc.php?p=*
 !||s7.addthis.com/js/300/addthis_widget.js
-!||inpagepush.com
+||inpagepush.com
 ||pushlinck.com/ntfc.php?*
 
 
