@@ -1578,6 +1578,49 @@ mcloud.to,mcloud*.to,vidcloud.icu,streamingworld.xyz,entervideo.net##+js(abort-o
 !||*.googletagmanager.com^,domain=vidnode.net,prettyfast.to,streamingworld.xyz
 
 
+mcloud.to,mcloud*.to,fruitstreams.com,fruithosts.net,streamango.com##+js(abort-current-inline-script.js, isSandboxed, fruitadblock)
+mcloud.to,mcloud*.to,fruitstreams.com,fruithosts.net,streamango.com##+js(abort-current-inline-script.js, isSandboxed, fruitadblock)
+mcloud.to,mcloud*.to,fruitstreams.com,fruithosts.net,streamango.com##+js(abort-current-inline-script.js, isSandboxed, fruitadblock)
+mcloud.to,mcloud*.to,fruitstreams.com,fruithosts.net,streamango.com##+js(abort-current-inline-script.js, isSandboxed, fruitadblock)
+mcloud.to,mcloud*.to,fruitstreams.com,fruithosts.net,streamango.com##+js(abort-current-inline-script.js, isSandboxed, fruitadblock)
+mcloud.to,mcloud*.to,fruitstreams.com,fruithosts.net,streamango.com##+js(abort-current-inline-script.js, isSandboxed, fruitadblock)
+mcloud.to,mcloud*.to,fruitstreams.com,fruithosts.net,streamango.com##+js(abort-current-inline-script.js, isSandboxed, fruitadblock)
+mcloud.to,mcloud*.to,fruitstreams.com,fruithosts.net,streamango.com##+js(abort-current-inline-script.js, isSandboxed, fruitadblock)
+mcloud.to,mcloud*.to,fruitstreams.com,fruithosts.net,streamango.com##+js(abort-current-inline-script.js, isSandboxed, fruitadblock)
+mcloud.to,mcloud*.to,fruitstreams.com,fruithosts.net,streamango.com##+js(abort-current-inline-script.js, isSandboxed, fruitadblock)
+mcloud.to,mcloud*.to,fruitstreams.com,fruithosts.net,streamango.com##+js(abort-current-inline-script.js, isSandboxed, fruitadblock)
+mcloud.to,mcloud*.to,fruitstreams.com,fruithosts.net,streamango.com##+js(abort-current-inline-script.js, isSandboxed, fruitadblock)
+mcloud.to,mcloud*.to,fruitstreams.com,fruithosts.net,streamango.com##+js(abort-current-inline-script.js, isSandboxed, fruitadblock)
+mcloud.to,mcloud*.to,fruitstreams.com,fruithosts.net,streamango.com##+js(abort-current-inline-script.js, isSandboxed, fruitadblock)
+mcloud.to,mcloud*.to,fruitstreams.com,fruithosts.net,streamango.com##+js(abort-current-inline-script.js, isSandboxed, fruitadblock)
+mcloud.to,mcloud*.to,fruitstreams.com,fruithosts.net,streamango.com##+js(abort-current-inline-script.js, isSandboxed, fruitadblock)
+mcloud.to,mcloud*.to,fruitstreams.com,fruithosts.net,streamango.com##+js(abort-current-inline-script.js, isSandboxed, fruitadblock)
+mcloud.to,mcloud*.to,fruitstreams.com,fruithosts.net,streamango.com##+js(abort-current-inline-script.js, isSandboxed, fruitadblock)
+mcloud.to,mcloud*.to,fruitstreams.com,fruithosts.net,streamango.com##+js(abort-current-inline-script.js, isSandboxed, fruitadblock)
+mcloud.to,mcloud*.to,fruitstreams.com,fruithosts.net,streamango.com##+js(abort-current-inline-script.js, isSandboxed, fruitadblock)
+mcloud.to,mcloud*.to,fruitstreams.com,fruithosts.net,streamango.com##+js(abort-current-inline-script.js, isSandboxed, fruitadblock)
+mcloud.to,mcloud*.to,fruitstreams.com,fruithosts.net,streamango.com##+js(abort-current-inline-script.js, isSandboxed, fruitadblock)
+mcloud.to,mcloud*.to,fruitstreams.com,fruithosts.net,streamango.com##+js(abort-current-inline-script.js, isSandboxed, fruitadblock)
+mcloud.to,mcloud*.to,fruitstreams.com,fruithosts.net,streamango.com##+js(abort-current-inline-script.js, isSandboxed, fruitadblock)
+mcloud.to,mcloud*.to,fruitstreams.com,fruithosts.net,streamango.com##+js(abort-current-inline-script.js, isSandboxed, fruitadblock)
+mcloud.to,mcloud*.to,fruithosts.net,streamango.com##+js(abort-on-property-read.js, BetterJsPop)
+mcloud.to,mcloud*.to,fruithosts.net,streamango.com##+js(abort-on-property-read.js, BetterJsPop)
+mcloud.to,mcloud*.to,fruithosts.net,streamango.com##+js(abort-on-property-read.js, BetterJsPop)
+mcloud.to,mcloud*.to,fruithosts.net,streamango.com##+js(abort-on-property-read.js, BetterJsPop)
+mcloud.to,mcloud*.to,fruithosts.net,streamango.com##+js(abort-on-property-read.js, BetterJsPop)
+mcloud.to,mcloud*.to,fruithosts.net,streamango.com##+js(abort-on-property-read.js, BetterJsPop)
+mcloud.to,mcloud*.to,fruithosts.net,streamango.com##+js(abort-on-property-read.js, BetterJsPop)
+mcloud.to,mcloud*.to,fruithosts.net,streamango.com##+js(abort-on-property-read.js, BetterJsPop)
+mcloud.to,mcloud*.to,fruithosts.net,streamango.com##+js(abort-on-property-read.js, BetterJsPop)
+mcloud.to,mcloud*.to,fruithosts.net,streamango.com##+js(abort-on-property-read.js, BetterJsPop)
+mcloud.to,mcloud*.to,fruithosts.net,streamango.com##+js(abort-on-property-read.js, BetterJsPop)
+mcloud.to,mcloud*.to,fruithosts.net,streamango.com##+js(abort-on-property-read.js, BetterJsPop)
+mcloud.to,mcloud*.to,fruithosts.net,streamango.com##+js(abort-on-property-read.js, BetterJsPop)
+mcloud.to,mcloud*.to,fruithosts.net,streamango.com##+js(abort-on-property-read.js, BetterJsPop)
+mcloud.to,mcloud*.to,fruithosts.net,streamango.com##+js(abort-on-property-read.js, BetterJsPop)
+mcloud.to,mcloud*.to,fruithosts.net,streamango.com##+js(abort-on-property-read.js, BetterJsPop)
+mcloud.to,mcloud*.to,fruithosts.net,streamango.com##+js(abort-on-property-read.js, BetterJsPop)
+
 
 
 ! 24.05.2019 kissanime.ai
@@ -2010,13 +2053,13 @@ chip.de##.video-wrapper > video[style]:style(display:block!important;padding-top
 ! https://github.com/uBlockOrigin/uAssets/issues/1284
 ! https://github.com/jspenguin2017/uBlockProtector/issues/870
 ! https://github.com/uBlockOrigin/uAssets/issues/1722
-oload.site##+js(nano-setInterval-booster.js)
-fruitadblock.net,fruithosts.net,fruitstreams.com,oload.*,oladblock.*,openload.*,streamango.com##+js(openload.co.js)
-fruitadblock.net,fruithosts.net,fruitstreams.com,oload.*,oladblock.*,openload.*##+js(window.open-defuser.js)
-fruitstreams.com,fruithosts.net,streamango.com##+js(abort-current-inline-script.js, isSandboxed, fruitadblock)
-fruithosts.net,streamango.com##+js(abort-on-property-read.js, BetterJsPop)
-fruithosts.net,streamango.com##+js(abort-on-property-write.js, _0xd959)
-fruithosts.net,streamango.com##+js(window.open-defuser.js)
+mcloud.to,mcloud*.to,oload.site##+js(nano-setInterval-booster.js)
+mcloud.to,mcloud*.to,fruitadblock.net,fruithosts.net,fruitstreams.com,oload.*,oladblock.*,openload.*,streamango.com##+js(openload.co.js)
+mcloud.to,mcloud*.to,fruitadblock.net,fruithosts.net,fruitstreams.com,oload.*,oladblock.*,openload.*##+js(window.open-defuser.js)
+mcloud.to,mcloud*.to,fruitstreams.com,fruithosts.net,streamango.com##+js(abort-current-inline-script.js, isSandboxed, fruitadblock)
+mcloud.to,mcloud*.to,fruithosts.net,streamango.com##+js(abort-on-property-read.js, BetterJsPop)
+mcloud.to,mcloud*.to,fruithosts.net,streamango.com##+js(abort-on-property-write.js, _0xd959)
+mcloud.to,mcloud*.to,fruithosts.net,streamango.com##+js(window.open-defuser.js)
 ! https://forums.lanik.us/viewtopic.php?f=64&p=132254
 @@||oloadcdn.net/subtitle/*$xmlhttprequest,domain=openload.co
 @@||openload.co^$popup,first-party
@@ -2036,11 +2079,11 @@ openloed.co##+js(abort-on-property-read.js, AaDetector)
 ! https://github.com/uBlockOrigin/uAssets/issues/2704
 ! https://github.com/uBlockOrigin/uAssets/issues/2719
 ! https://github.com/NanoMeow/QuickReports/issues/777
-kissanime.ru##+js(abort-current-inline-script.js, $, AdBlock)
-kissanime.ru##+js(abort-current-inline-script.js, parseInt, incrementClicks)
-kissanime.pro##+js(abort-current-inline-script.js, RegExp, zfgloaded)
-kissanime.*##+js(kissanime-defuser.js)
-kissanime.*##+js(set-constant.js, check_adblock, true)
+mcloud.to,mcloud*.to,kissanime.ru##+js(abort-current-inline-script.js, $, AdBlock)
+mcloud.to,mcloud*.to,kissanime.ru##+js(abort-current-inline-script.js, parseInt, incrementClicks)
+mcloud.to,mcloud*.to,kissanime.pro##+js(abort-current-inline-script.js, RegExp, zfgloaded)
+mcloud.to,mcloud*.to,kissanime.*##+js(kissanime-defuser.js)
+mcloud.to,mcloud*.to,kissanime.*##+js(set-constant.js, check_adblock, true)
 ||kissanime.ru^$subdocument,first-party
 @@||kissanime.ru/ads/*$subdocument,first-party
 @@||static.animecdn.stream/themes/vast/videojs.ads.min.js$script,domain=kissanime.ac
@@ -2051,10 +2094,10 @@ kissanime.*##+js(set-constant.js, check_adblock, true)
 ! https://github.com/uBlockOrigin/uAssets/issues/241
 ! https://www.reddit.com/r/uBlockOrigin/comments/8aug3p/how_to_block_kisscartoonac_ads
 ! https://github.com/uBlockOrigin/uAssets/issues/1919
-kisscartoon.*##+js(addEventListener-defuser.js, mousedown, clientX)
-kisscartoon.*##+js(abort-on-property-write.js, Fingerprint2)
-kisscartoon.*##+js(noeval.js)
-kisscartoon.*##+js(setInterval-defuser.js, (), 500)
+mcloud.to,mcloud*.to,kisscartoon.*##+js(addEventListener-defuser.js, mousedown, clientX)
+mcloud.to,mcloud*.to,kisscartoon.*##+js(abort-on-property-write.js, Fingerprint2)
+mcloud.to,mcloud*.to,kisscartoon.*##+js(noeval.js)
+mcloud.to,mcloud*.to,kisscartoon.*##+js(setInterval-defuser.js, (), 500)
 ! https://forums.lanik.us/viewtopic.php?p=119974#p119974
 ! https://github.com/uBlockOrigin/uAssets/issues/2840
 @@||kisscartoon.*^$script,first-party
@@ -2663,11 +2706,11 @@ beta.imagefap.com##.ad_placeholder
 
 ! https://forums.lanik.us/viewtopic.php?f=62&t=30370
 ! https://github.com/uBlockOrigin/uAssets/issues/1347
-motherless.com##+js(abort-current-inline-script.js, setTimeout, PopSettings)
-motherless.com##+js(abort-on-property-read.js, _ml_ads_ns)
-motherless.com##.view-right:has(table > tbody > tr > td > script[src^="https://ads.exoclick.com/"])
-motherless.com###main > div:has(:scope > div > script[src^="https://ads.exoclick.com/"])
-motherless.com##[href^="https://syndication.dynsrvwer.com/splash.php"]
+mcloud.to,mcloud*.motherless.com##+js(abort-current-inline-script.js, setTimeout, PopSettings)
+mcloud.to,mcloud*.motherless.com##+js(abort-on-property-read.js, _ml_ads_ns)
+mcloud.to,mcloud*.motherless.com##.view-right:has(table > tbody > tr > td > script[src^="https://ads.exoclick.com/"])
+mcloud.to,mcloud*.motherless.com###main > div:has(:scope > div > script[src^="https://ads.exoclick.com/"])
+mcloud.to,mcloud*.motherless.com##[href^="https://syndication.dynsrvwer.com/splash.php"]
 
 ! https://forums.lanik.us/viewtopic.php?f=62&t=32339
 bangaloremirror.com###blwrapper
@@ -2699,7 +2742,7 @@ kat.sx,kickass.cd##+js(window.open-defuser.js)
 @@||upload*.usersfiles.com^$inline-script
 
 ! https://forums.lanik.us/viewtopic.php?f=62&t=31235
-planetsuzy.org##div[style]:has(:scope > script[src*="ads.exoclick.com/"])
+mcloud.to,mcloud*.planetsuzy.org##div[style]:has(:scope > script[src*="ads.exoclick.com/"])
 
 ! https://github.com/reek/anti-adblock-killer/issues/1839
 minecrafthousedesign.com##+js(bab-defuser.js)
@@ -2717,12 +2760,12 @@ startlr.com##+js(bab-defuser.js)
 mmorpg.org.pl##+js(fuckadblock.js-3.2.0)
 
 ! https://forums.lanik.us/viewtopic.php?f=62&t=32878
-freethesaurus.com,thefreedictionary.com##div:has(:scope > a:not([href*="/"]) > img:not([src*="/"]))
-freethesaurus.com,thefreedictionary.com##+js(setTimeout-defuser.js, warn)
+mcloud.to,mcloud*.freethesaurus.com,thefreedictionary.com##div:has(:scope > a:not([href*="/"]) > img:not([src*="/"]))
+mcloud.to,mcloud*.freethesaurus.com,thefreedictionary.com##+js(setTimeout-defuser.js, warn)
 ! https://github.com/uBlockOrigin/uAssets/issues/1896
-freethesaurus.com,thefreedictionary.com##+js(abort-on-property-read.js, adc)
-freethesaurus.com,thefreedictionary.com##div[class][id]:not(.logo):if-not(*):has-text(/^$/)
-freethesaurus.com,thefreedictionary.com###sidebar > .widget:not([id]):has(>.holder > a[href])
+mcloud.to,mcloud*.freethesaurus.com,thefreedictionary.com##+js(abort-on-property-read.js, adc)
+mcloud.to,mcloud*.freethesaurus.com,thefreedictionary.com##div[class][id]:not(.logo):if-not(*):has-text(/^$/)
+mcloud.to,mcloud*.freethesaurus.com,thefreedictionary.com###sidebar > .widget:not([id]):has(>.holder > a[href])
 ! To counter exception filters
 ||pagead2.googlesyndication.com^$script,important,domain=thefreedictionary.com
 
