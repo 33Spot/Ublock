@@ -118,6 +118,7 @@
 ||fmovies.to/ajax/film/update-views$xhr,1p
 !||static.akacdn.ru^$image,domain=fmovies.to
 ||https://staticf.akacdn.ru/f/assets/favicons/*icon*
+||mcloud*.to/resources/player/jwplayer-*.*.*/polyfills.webvtt.js$script,1p
 
 
 
