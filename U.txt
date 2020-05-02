@@ -114,8 +114,8 @@
 ||www.google.com/favicon.ico$popup,domain=mcloud2.to
 ||mcloud2.to/log/*$xhr,1p
 ||fmovies.to/ajax/film/update-views$xhr,1p
-||static.akacdn.ru^$image,domain=fmovies.to
-!||https://staticf.akacdn.ru/f/assets/favicons/*icon*
+!||static.akacdn.ru^$image,domain=fmovies.to
+||https://staticf.akacdn.ru/f/assets/favicons/*icon*
 
 
 
