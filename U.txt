@@ -6,7 +6,7 @@
 !
 ! Link: https://raw.githubusercontent.com/33Spot/Ublock/master/U.txt
 !
-! Version: 20200428-1
+! Version: 20200502-1
 !
 ! Expires: 2 days
 
@@ -96,8 +96,10 @@
 
 !||https://staticf.akacdn.ru/f/assets/favicons/manifest.json
 !||https://staticf.akacdn.ru/f/assets/favicons/favicon.ico
-||https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js
-||https://staticf.akacdn.ru/f/assets/min/public/all.js?*
+
+!||https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js
+!||https://staticf.akacdn.ru/f/assets/min/public/all.js?*
+
 !||/cdn-cgi/bm/cv/2172558837/api.js
 ||native.propellerclick.com/*
 ||cdn.runative-syndicate.com/sdk/v1/n.js
@@ -20919,6 +20921,3 @@ www22.watchcartoonsonline.la###spu-bg-98
 
 ||iamcdn.net/players/jwplayer/*.*.*/jwpsrv.js$script,domain=hydrax.net
 ||api.cda.pl^$xhr,domain=ebd.cda.pl
-
-
-
