@@ -115,7 +115,7 @@
 ||mcloud2.to/log/*$xhr,1p
 ||fmovies.to/ajax/film/update-views$xhr,1p
 ||static.akacdn.ru^$image,domain=fmovies.to
-||https://staticf.akacdn.ru/f/assets/favicons/*icon*
+!||https://staticf.akacdn.ru/f/assets/favicons/*icon*
 
 
 
