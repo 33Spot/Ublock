@@ -123,6 +123,10 @@
 ||https://www.googletagmanager.com/gtag/js?id=*
 ||ssl.p.jwpcdn.com/player/v/*.*.*/jwpsrv.js
 ||g.jwpsrv.com/g/gcid-*.*.*.html?notrack*
+||https://zap.buzz/
+||https://raupsica.net/
+||pushlinck.com
+||blob:https://mcloud2.to/*
 
 
 
