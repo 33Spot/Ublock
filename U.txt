@@ -120,6 +120,10 @@
 ||https://staticf.akacdn.ru/f/assets/favicons/*icon*
 !||mcloud*.to/resources/player/jwplayer-*.*.*/polyfills.webvtt.js$script,1p
 ||fmovies.to/*/*/*/*/api.js$script,1p
+||https://www.googletagmanager.com/gtag/js?id=*
+||ssl.p.jwpcdn.com/player/v/*.*.*/jwpsrv.js
+||g.jwpsrv.com/g/gcid-*.*.*.html?notrack*
+
 
 
 
