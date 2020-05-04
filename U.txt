@@ -135,7 +135,7 @@
 ||pushlinck.com
 ||blob:https://mcloud2.to/*
 !fmovies.to##body > div > div:widget
-fmovies.to##body > div > div > div > div > div:widget
+fmovies.to##body > div > div > div > div > div:widget:script
 fmovies.to##body > div > div > div:pop_report
 fmovies.to###fb-root
 fmovies.to##.jw-media.jw-reset
@@ -143,7 +143,10 @@ fmovies.to##.jw-media.jw-reset
 ||raupsica.net
 ||https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js
 ||connect.facebook.net/en_US/sdk.js
-
+fmovies.to##div(class^=jw-media )
+fmovies.to##div(class^=jw-overlays )
+fmovies.to###jw_jwpsrv
+fmovies.to###jw
 
 
 
