@@ -138,6 +138,12 @@
 fmovies.to##body > div > div > div > div > div:widget
 fmovies.to##body > div > div > div:pop_report
 fmovies.to###fb-root
+fmovies.to##.jw-media.jw-reset
+||contehos.com/tag.min.js
+||raupsica.net
+||https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js
+||connect.facebook.net/en_US/sdk.js
+
 
 
 
