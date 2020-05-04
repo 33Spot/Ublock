@@ -145,8 +145,11 @@ fmovies.to##.jw-media.jw-reset
 ||connect.facebook.net/en_US/sdk.js
 fmovies.to##div(class^=jw-media )
 fmovies.to##div(class^=jw-overlays )
+fmovies.to##div(class^=jw-nextup-)
 fmovies.to###jw_jwpsrv
 fmovies.to###jw
+fmovies.to##.embed
+
 
 
 
