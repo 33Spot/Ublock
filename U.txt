@@ -10,6 +10,8 @@
 !
 ! Expires: 2 days
 
+
+
 !<div id=
 !address###id
 !<div class=
@@ -135,24 +137,28 @@
 ||pushlinck.com
 ||blob:https://mcloud2.to/*
 !fmovies.to##body > div > div:widget
-fmovies.to##body > div > div > div > div > div:widget:script
-fmovies.to##body > div > div > div:pop_report
-fmovies.to###fb-root
-fmovies.to##.jw-media.jw-reset
+mcloud*.to,fmovies.to##body > div > div > div > div > div:widget:script
+mcloud*.to,fmovies.to##body > div > div > div:pop_report
+mcloud*.to,fmovies.to###fb-root
+mcloud*.to,fmovies.to##.jw-media.jw-reset
 ||contehos.com/tag.min.js
 ||raupsica.net
 ||https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js
 ||connect.facebook.net/en_US/sdk.js
-fmovies.to##div(class^=jw-media )
-fmovies.to##div(class^=jw-overlays )
-fmovies.to##div(class^=jw-overlay )
-fmovies.to##div(class^=jw-nextup-)
-fmovies.to###jw_jwpsrv
-fmovies.to###jw
-fmovies.to##.embed
-fmovies.to##body > div > div > div > div > div > iframe > embed > > div > div > div > div > div > div > div > div:jw-overlay.jw-reset
+mcloud*.to,fmovies.to##div(class^=jw-media )
+mcloud*.to,fmovies.to##div(class^=jw-overlays )
+mcloud*.to,fmovies.to##div(class^=jw-icon )
+mcloud*.to,fmovies.to##div(class^=jw-overlay )
+mcloud*.to,fmovies.to##div(class^=jw-nextup-)
+mcloud*.to,fmovies.to###jw_jwpsrv
+mcloud*.to,fmovies.to##.jw-reset
+mcloud*.to,fmovies.to###jw
+mcloud*.to,fmovies.to##.embed
+mcloud*.to,fmovies.to##body > div > div > div > div > div > iframe > embed > > div > div > div > div > div > div > div > div:jw-overlay.jw-reset
+
 ||content.jwplatform.com/libraries/*
 ||cdn.jwplayer.com^$xmlhttprequest
+
 
 
 
