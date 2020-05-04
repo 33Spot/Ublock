@@ -134,7 +134,10 @@
 ||https://raupsica.net/
 ||pushlinck.com
 ||blob:https://mcloud2.to/*
-fmovies.to##body > div > div:widget
+!fmovies.to##body > div > div:widget
+fmovies.to##body > div > div > div > div > div:widget
+fmovies.to##body > div > div > div:pop_report
+fmovies.to###fb-root
 
 
 
