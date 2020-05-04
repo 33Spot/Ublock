@@ -145,11 +145,15 @@ fmovies.to##.jw-media.jw-reset
 ||connect.facebook.net/en_US/sdk.js
 fmovies.to##div(class^=jw-media )
 fmovies.to##div(class^=jw-overlays )
+fmovies.to##div(class^=jw-overlay )
 fmovies.to##div(class^=jw-nextup-)
-fmovies.to##div(class^=jw-nextup-container )
 fmovies.to###jw_jwpsrv
 fmovies.to###jw
 fmovies.to##.embed
+fmovies.to##body > div > div > div > div > div > iframe > embed > > div > div > div > div > div > div > div > div:jw-overlay.jw-reset
+||content.jwplatform.com/libraries/*
+||cdn.jwplayer.com^$xmlhttprequest
+
 
 
 
