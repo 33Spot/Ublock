@@ -146,6 +146,7 @@ fmovies.to##.jw-media.jw-reset
 fmovies.to##div(class^=jw-media )
 fmovies.to##div(class^=jw-overlays )
 fmovies.to##div(class^=jw-nextup-)
+fmovies.to##div(class^=jw-nextup-container )
 fmovies.to###jw_jwpsrv
 fmovies.to###jw
 fmovies.to##.embed
