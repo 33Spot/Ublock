@@ -21059,17 +21059,18 @@ fmovies.is##.ads
 ||fadsanz.com$script,redirect-rule=noopjs,domain=hydrax.net
 hydrax.net##+js(aopr, AaDetector)
 hydrax.net##+js(nostif, debugger)
-@@||jquery.com^$script,domain=mp4upload.com
-||mp4upload.com/vjs/videojs-contrib-ads.js
-*$script,third-party,domain=mp4upload.com
-||googletagmanager.com^
-||direct.apus.tech
-||gadspms.com^
-||clksite.com^
-mp4upload.com##+js(popads-dummy)
-mp4upload.com##+js(acis, decodeURI, decodeURIComponent)
-mp4upload.com##+js(aeld, /^(?:click|mousedown|mousemove|touchstart|touchend|touchmove)$/, system.popunder)
-mp4upload.com###overlay
+
+!@@||jquery.com^$script,domain=mp4upload.com
+!||mp4upload.com/vjs/videojs-contrib-ads.js
+!*$script,third-party,domain=mp4upload.com
+!||googletagmanager.com^
+!||direct.apus.tech
+!||gadspms.com^
+!||clksite.com^
+!mp4upload.com##+js(popads-dummy)
+!mp4upload.com##+js(acis, decodeURI, decodeURIComponent)
+!mp4upload.com##+js(aeld, /^(?:click|mousedown|mousemove|touchstart|touchend|touchmove)$/, system.popunder)
+!mp4upload.com###overlay
 
 ||zap.buzz^
 ||24vunvrv.com^
