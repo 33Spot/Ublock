@@ -21125,3 +21125,4 @@ tubepornclassic.com##script:contains(videodb.tubecup.com)
 !youtube.com##.style-scope\ ytd-rich-shelf-renderer
 !youtube.com###content
 www.youtube.com###content > .ytd-rich-section-renderer.style-scope
+||www.googletagmanager.com/ns.html
