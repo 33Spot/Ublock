@@ -21094,6 +21094,31 @@ github.com##.watch_started > .body > .py-3.border-gray-light.border-bottom.flex-
 github.com##.create > .body > .py-3.border-gray-light.border-bottom.flex-items-baseline.d-flex > .width-full.flex-column.d-flex > .my-2.p-3.rounded-1.border
 github.com##.public > .body > .py-3.border-gray-light.border-bottom.flex-items-baseline.d-flex > .width-full.flex-column.d-flex > .my-2.p-3.rounded-1.border
 
-tubepornclassic.com##+js(aopr, RegExp.prototype.toString)
+!tubepornclassic.com##+js(aopr, RegExp.prototype.toString)
 ||tubepornclassic.com/js/vendor.js$script,1p
 ||tubepornclassic.com/assets/bundle.*.min.js$script,1p
+
+! 6.05.2020 https://tubepornclassic.com
+tubepornclassic.com##.notResize-wrapper.underplayer-container2
+!tubepornclassic.com##.jw-spacer.jw-reset
+||static1.tubepornclassic.com/contents/videos_sources/143000/143439/screenshots/2.jpg$image
+||https://tubepornclassic.com/manifest.json
+||https://tubepornclassic.com/assets/bundle.95e4d7a6b749af2265fe.min.css
+||https://0.dvl.tubepornclassic.com/api/input.php
+||https://tubepornclassic.com/sn4diyux.php
+||https://0.dvl.tubepornclassic.com
+||https://tubepornclassic.com/js/jquery.tmpl.js
+||https://tubepornclassic.com/player/timelines.php
+||https://syndication.exosrv.com
+||https://tubepornclassic.com/assets/ageVerification.js
+||https://clickadilla.com
+||videodb.tubecup.com
+||adver.ua.is
+tubepornclassic.com##script:contains(_0x40e2)
+tubepornclassic.com##script:contains(adver.waitPlayer)
+tubepornclassic.com##script:contains(adver.ua.is)
+tubepornclassic.com##script:contains(.sponsor)
+tubepornclassic.com##script:contains(adver.detect)
+tubepornclassic.com##script:contains(videodb.tubecup.com)
+!tubepornclassic.com##script:contains(timelines.php?)
+||tubepornclassic.com#$inline-script
