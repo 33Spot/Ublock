@@ -21122,3 +21122,6 @@ tubepornclassic.com##script:contains(adver.detect)
 tubepornclassic.com##script:contains(videodb.tubecup.com)
 !tubepornclassic.com##script:contains(timelines.php?)
 ||tubepornclassic.com#$inline-script
+!youtube.com##.style-scope\ ytd-rich-shelf-renderer
+!youtube.com###content
+www.youtube.com###content > .ytd-rich-section-renderer.style-scope
