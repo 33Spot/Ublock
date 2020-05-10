@@ -21126,3 +21126,14 @@ tubepornclassic.com##script:contains(videodb.tubecup.com)
 !youtube.com###content
 www.youtube.com###content > .ytd-rich-section-renderer.style-scope
 ||www.googletagmanager.com/ns.html
+
+
+! 8.05.2020 https://roswell.fandom.com
+roswell.fandom.com##.lightbox-beforejs-blackout
+
+||s.tvp.pl/files/vod.tvp.pl/js/app/smartbanner.js$script,domain=vod.tvp.pl
+||s.tvp.pl/files/vod.tvp.pl/js/app/jquery.ba-throttle-debounce.min.js$script,domain=vod.tvp.pl
+||s.tvp.pl/files/vod.tvp.pl/js/app/dotdotdot/src/jquery.dotdotdot.min.js$script,domain=vod.tvp.pl
+||s.tvp.pl/files/vod.tvp.pl/js/app/jquery.lazyload.js$script,domain=vod.tvp.pl
+||s.tvp.pl/files/vod.tvp.pl/js/app/owl.carousel.min.js$script,domain=vod.tvp.pl
+vod.tvp.pl##.ads-container
