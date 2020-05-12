@@ -21138,3 +21138,6 @@ roswell.fandom.com##.lightbox-beforejs-blackout
 ||s.tvp.pl/files/vod.tvp.pl/js/app/jquery.lazyload.js$script,domain=vod.tvp.pl
 ||s.tvp.pl/files/vod.tvp.pl/js/app/owl.carousel.min.js$script,domain=vod.tvp.pl
 vod.tvp.pl##.ads-container
+
+||syndication.exosrv.com
+
