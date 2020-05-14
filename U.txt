@@ -21140,4 +21140,4 @@ roswell.fandom.com##.lightbox-beforejs-blackout
 vod.tvp.pl##.ads-container
 
 ||syndication.exosrv.com
-
+cyfrowa.tvp.pl##.ads-screening.ads-container
