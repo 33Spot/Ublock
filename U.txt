@@ -21143,3 +21143,7 @@ vod.tvp.pl##.ads-container
 cyfrowa.tvp.pl##.ads-screening.ads-container
 cyfrowa.tvp.pl##.rek-branding-changed
 ||tvpgapl.hit.gemius.pl^$script,domain=cyfrowa.tvp.pl
+
+pl.xhamster.com##.no-popunder.wih-spot-container.wih-player
+pl.xhamster.com##.wih-spa.no-popunder.wih-spb
+
