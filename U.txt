@@ -21146,4 +21146,4 @@ cyfrowa.tvp.pl##.rek-branding-changed
 
 pl.xhamster.com##.no-popunder.wih-spot-container.wih-player
 pl.xhamster.com##.wih-spa.no-popunder.wih-spb
-
+pl.xhamster.com##.wih-spot-container.no-popunder.bottom-widget-section
