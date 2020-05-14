@@ -21141,3 +21141,4 @@ vod.tvp.pl##.ads-container
 
 ||syndication.exosrv.com
 cyfrowa.tvp.pl##.ads-screening.ads-container
+cyfrowa.tvp.pl##.rek-branding-changed
