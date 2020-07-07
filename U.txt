@@ -410,7 +410,7 @@ googlevideo.com * noop
 ||www.youtube.com/service_ajax$xmlhttprequest
 !||www.google.com/js/*$script
 ||www.youtube.com/yts/jsbin/www-searchbox-vflM-c75f/*$script
-||www.youtube.com/youtubei/*$xmlhttprequest
+!||www.youtube.com/youtubei/*$xmlhttprequest
 ||www.youtube.com/api/stats/qoe$other
 @@||www.youtube.com/yts/jsbin/web-animations-next-lite.min-vflluX5aW/web-animations-next-lite.min.js$script
 @@||tpc.googlesyndication.com/sodar/5k7CCto5.html$subdocument,domain=www.youtube.com
