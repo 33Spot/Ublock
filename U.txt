@@ -21156,3 +21156,7 @@ pl.xhamster.com##.wih-spot-container.no-popunder.bottom-widget-section
 ||g.jwpsrv.com
 
 theffmovies.com##.pop-block
+
+! 8.07.2020 https://www.youtube.com
+www.youtube.com###scroll-container
+www.youtube.com###title
