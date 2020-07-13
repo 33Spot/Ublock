@@ -21157,6 +21157,10 @@ pl.xhamster.com##.wih-spot-container.no-popunder.bottom-widget-section
 
 theffmovies.com##.pop-block
 
+
 ! 8.07.2020 https://www.youtube.com
 www.youtube.com###scroll-container
 www.youtube.com###title
+
+! 13.07.2020 https://docs.google.com
+docs.google.com##.jfk-butterBar-info.jfk-butterBar-shown.jfk-butterBar
