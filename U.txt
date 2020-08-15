@@ -21327,3 +21327,6 @@ www.youtube.com###title
 
 ! 13.07.2020 https://docs.google.com
 docs.google.com##.jfk-butterBar-info.jfk-butterBar-shown.jfk-butterBar
+
+www.youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(1)
+
