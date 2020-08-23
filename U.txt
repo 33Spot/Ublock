@@ -21330,3 +21330,8 @@ docs.google.com##.jfk-butterBar-info.jfk-butterBar-shown.jfk-butterBar
 
 www.youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(1)
 
+! 23.08.2020 fmovies.to
+||wurtoosy.com^$subdocument,domain=www11.fmovies.to
+!||www11.fmovies.to/ajax/*$xhr,domain=www11.fmovies.to
+!||graizoah.com/tag.min.js$script,domain=www11.fmovies.to
+
