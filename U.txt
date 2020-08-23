@@ -21335,3 +21335,8 @@ www.youtube.com##ytd-rich-item-renderer.ytd-rich-grid-renderer.style-scope:nth-o
 !||www11.fmovies.to/ajax/*$xhr,domain=www11.fmovies.to
 !||graizoah.com/tag.min.js$script,domain=www11.fmovies.to
 
+
+! 23.08.2020 fmovies.to
+!||triflelatch.com^$domain=mcloud.to
+||*.com/pixel/*$domain=mcloud.to
+
