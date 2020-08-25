@@ -2705,10 +2705,10 @@ mail.yahoo.com###shellcontent:style(right: 0px !important;)
 !xnxx.com,xvideos.com##+js(xvideos.com.js)
 !xvideos.com###content > [id]:has(:scope > img:first-of-type + img:last-of-type)
 !xvideos.com###page > [id]:has(:scope > img:only-of-type)
-xvideos.com###main > [id]:has(a[href^="https://main.trafficfactory.biz/"])
+!xvideos.com###main > [id]:has(a[href^="https://main.trafficfactory.biz/"])
 ! video pages
-xvideos.com###page.video-page > [id]:has(a[href^="https://main.trafficfactory.biz/"])
-xvideos.com##.sponsor_popup
+!xvideos.com###page.video-page > [id]:has(a[href^="https://main.trafficfactory.biz/"])
+!xvideos.com##.sponsor_popup
 
 ! https://forums.lanik.us/viewtopic.php?f=62&t=32165
 watch8x.com##+js(noeval.js)
@@ -3792,8 +3792,8 @@ videos.porndig.com##.pop_parent
 ! https://github.com/uBlockOrigin/uAssets/issues/1183
 xxvids.net##a[href^="https://t.frtyi.com/"]
 ||imglnka.com^
-xvideos.com##+js(window.open-defuser.js)
-xvideos.com##+js(nowebrtc.js)
+!xvideos.com##+js(window.open-defuser.js)
+!xvideos.com##+js(nowebrtc.js)
 ||xxvids.net^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.google.com *.gstatic.com *.googletagmanager.com
 xxvids.net##[href*="offer_id"]
 xxvids.net##[href^="http://rabbits.webcam/"]
@@ -7805,7 +7805,7 @@ videoszoofiliahd.com##+js(abort-on-property-read.js, open)
 videoszoofiliahd.com##+js(addEventListener-defuser.js, /^(?:click|mousedown)$/, popunder)
 asiananimaltube.org,zoosex.pink##+js(window.open-defuser.js)
 videoszoofiliahd.com##[href^="https://redirect.ero-advertising.com/"]
-allbestiality.com,beastwomans.com,beastzoo.org,bestialitysexvideos.com,bestialitytaboo.tv,bestialityworld.org,bestialporn.net,bestialzoo.*,fakingszoo.com,hispajotes.com,portalzoo.com,videosbizarre.com,zoofiliak9.com,zoofilianet.com,zoofiliataboo.com,zookings.com,zoosexnet.com,zoosexsite.com,zootubex.tv,zootubex.us##[href^="https://www.skypeis"]
+!allbestiality.com,beastwomans.com,beastzoo.org,bestialitysexvideos.com,bestialitytaboo.tv,bestialityworld.org,bestialporn.net,bestialzoo.*,fakingszoo.com,hispajotes.com,portalzoo.com,videosbizarre.com,zoofiliak9.com,zoofilianet.com,zoofiliataboo.com,zookings.com,zoosexnet.com,zoosexsite.com,zootubex.tv,zootubex.us##[href^="https://www.skypeis"]
 ! https://github.com/uBlockOrigin/uAssets/issues/2364#issuecomment-393353226
 pornfay.com,pornscum.com,pornspark.com,porntopic.com##+js(abort-on-property-read.js, loadTool)
 pornspark.com##+js(abort-on-property-read.js, _cpp)
