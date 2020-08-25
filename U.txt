@@ -3790,13 +3790,13 @@ videos.porndig.com##.pop_parent
 ||mamahd.*/hd.php$subdocument
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1183
-xxvids.net##a[href^="https://t.frtyi.com/"]
+!xxvids.net##a[href^="https://t.frtyi.com/"]
 ||imglnka.com^
 !xvideos.com##+js(window.open-defuser.js)
 !xvideos.com##+js(nowebrtc.js)
 ||xxvids.net^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.google.com *.gstatic.com *.googletagmanager.com
-xxvids.net##[href*="offer_id"]
-xxvids.net##[href^="http://rabbits.webcam/"]
+!xxvids.net##[href*="offer_id"]
+!xxvids.net##[href^="http://rabbits.webcam/"]
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1185
 perfectgirls.*,perfektdamen.*##+js(abort-current-inline-script.js, ExoLoader)
