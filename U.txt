@@ -23,7 +23,11 @@
 ||pushedwebnews.com^
 ||naucaips.com^
 ||dilruwha.net^
-||viatepigan
+||viatepigan.com
+||www.avinci.uno
+||grooksom.com
+||wurtoosy.com
+
 
 ##[src="//viatepigan.com"
 ||viatepigan.com^
