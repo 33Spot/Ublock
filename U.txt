@@ -829,7 +829,7 @@ www.vporn.com##.adholder
 ||th-us2.vporn.com/js/piwik.js$script
 ||danzhallfes.com^$image
 ||12007250.pix-cdn.org^$subdocument
-!||rpc-php.trafficfactory.biz^$xmlhttprequest
+!@!||rpc-php.trafficfactory.biz^$xmlhttprequest
 ||ca.clcknads.pro^$xmlhttprequest
 ||acrmbjkk6qc5utby.pro^$xmlhttprequest
 ||acrmbjkk6qc5utby.pro^$image
