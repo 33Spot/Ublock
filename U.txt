@@ -2702,7 +2702,7 @@ mail.yahoo.com###shellcontent:style(right: 0px !important;)
 
 ! https://forums.lanik.us/viewtopic.php?f=62&t=32070
 ! https://forums.lanik.us/viewtopic.php?f=62&t=32255
-xnxx.com,xvideos.com##+js(xvideos.com.js)
+!xnxx.com,xvideos.com##+js(xvideos.com.js)
 !xvideos.com###content > [id]:has(:scope > img:first-of-type + img:last-of-type)
 !xvideos.com###page > [id]:has(:scope > img:only-of-type)
 xvideos.com###main > [id]:has(a[href^="https://main.trafficfactory.biz/"])
