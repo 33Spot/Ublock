@@ -21358,3 +21358,6 @@ amateurbestiality.fun##.vast-blocker
 
 ! 25.08.2020 https://www.xvideos.com
 www.xvideos.com###video-ad
+
+! 26.08.2020 fmovies.to
+||cdnjs.cloudflare.com/ajax/libs/lazysizes/*.*.*/lazysizes.min.js$script,domain=*.fmovies.*
