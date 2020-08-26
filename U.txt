@@ -21361,3 +21361,29 @@ www.xvideos.com###video-ad
 
 ! 26.08.2020 fmovies.to
 ||cdnjs.cloudflare.com/ajax/libs/lazysizes/*.*.*/lazysizes.min.js$script,domain=*.fmovies.*
+||mc.yandex.ru/metrika/*$script,domain=streamtape.com
+||streamtape.com/ad.js$script,1p
+||*.cloudfront.net/jquery.dynatable.min.js$script,domain=streamtape.com
+||cdn4ads.com^$script,domain=streamtape.com
+||www.*.com/dgds.js$script,domain=streamtape.com
+||*.net/tag.min.js$script,domain=mcloud.to
+||zerolullaby.com^$script,domain=www11.fmovies.to
+||*.com/iv.asp$script,domain=streamtape.com
+||*.com/*.htm?_=*https$script,domain=streamtape.com
+||*.rsc.cdn77.org^$script,domain=streamtape.com
+||www.*.com/p.js$script,domain=streamtape.com
+||www-googletagmanager.*.google.com^$script,domain=www11.fmovies.to
+
+! 26.08.2020 behind-the-scene
+||*.com/*.css?*=$xhr
+
+! 26.08.2020 fmovies.to
+||sheechoa.com/*/view/*.html$subdocument,domain=mcloud.to
+||bokrelri.com/*/*/*/*.html$subdocument,domain=mcloud.to
+||*.com/*/*/*/*.html$subdocument,domain=mcloud.to
+||www.google.com/recaptcha/api2/anchor?ar=*=invisible*$subdocument,domain=streamtape.com
+||*.com/*.css?*=$stylesheet,domain=mcloud.to
+!||streamtape.com/*/*/?subtitle_json=*$subdocument,domain=www11.fmovies.to
+
+! 26.08.2020 fmovies.to
+||*.com/*.html?_=*$script,domain=streamtape.com
