@@ -21374,6 +21374,9 @@ www.xvideos.com###video-ad
 ||www.*.com/p.js$script,domain=streamtape.com
 ||www-googletagmanager.*.google.com^$script,domain=www11.fmovies.to
 
+! 26.08.2020 fmovies.to
+||*.com/*.html?_=*$script,domain=streamtape.com
+
 ! 26.08.2020 behind-the-scene
 ||*.com/*.css?*=$xhr
 
@@ -21387,3 +21390,36 @@ www.xvideos.com###video-ad
 
 ! 26.08.2020 fmovies.to
 ||*.com/*.html?_=*$script,domain=streamtape.com
+||*.com/ad.js$script,1p
+||graizoah.com^$image,domain=streamtape.com
+!||mc.yandex.ru/metrika/tag.js$script,domain=streamtape.com
+!||gstaticadssl.l.google.com^$domain=www.google.com
+
+! 26.08.2020 behind-the-scene
+||www.gstatic.com/recaptcha/releases/*/styles__ltr.css$xhr
+
+! 26.08.2020 fmovies.to
+||www.google.com/recaptcha/api2/webworker.js?*$script,domain=www.google.com
+||streamtape.com/e/*/&format=streamtape$xhr,1p
+||bokrelri.com^$domain=mcloud.to
+||sheechoa.com^$domain=mcloud.to
+||www.google.com/recaptcha/api.js?render=*$script,domain=streamtape.com
+||www11.fmovies.to/ajax/episode/info?id=*$xhr,domain=*.fmovies.*
+!||streamtape.com/player.svg$other,1p
+
+! 26.08.2020 fmovies.to
+||*.fmovies.*/ajax/film/servers?id=*&_=*$xhr,domain=*.fmovies.*
+||mcloud.to/embed/*?key=*$subdocument,domain=*.fmovies.*
+||widgets.amung.us/*/*/*.png$image,domain=*.fmovies.*
+||widgets.amung.us/*/?w=*=$image,domain=*.fmovies.*
+||www11.fmovies.to/ajax/episode/info?id=*&_=*$xhr,domain=*.fmovies.*
+||*.tapecontent.net/thumb/*/*.jpg$image,domain=streamtape.com
+||www.*.com/*.js$script,domain=streamtape.com
+
+! 26.08.2020 exoclick.com
+||*.ab1n.net^$image,domain=syndication.exoclick.com
+
+! 26.08.2020 fmovies.to
+||*.pro/*/3/*/*/*-*$popup,domain=streamtape.com
+||syndication.exoclick.com
+||*.fmovies.*/clear.gif$image,domain=*.fmovies.*
