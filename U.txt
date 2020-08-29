@@ -21429,3 +21429,6 @@ www.xvideos.com###video-ad
 ! 27.08.2020 fmovies.to
 !||mcloud.to/info/*?key=*$xhr,1p
 ||www.googletagmanager.com/gtag/js?id=*$script,domain=*.fmovies.*
+
+! 29.08.2020 https://ffmovies.to
+ffmovies.to##.hidden-xs.alert-warning.alert
