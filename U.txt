@@ -28,6 +28,7 @@
 ||grooksom.com
 ||wurtoosy.com
 
+|https://$subdocument,3p,domain=mcloud.to
 
 ##[src="//viatepigan.com"
 ||viatepigan.com^
