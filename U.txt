@@ -21418,6 +21418,9 @@ www.xvideos.com###video-ad
 ||*.fmovies.*/ajax/episode/info?id=*&_=*$xhr,domain=*.fmovies.*
 ||*.tapecontent.net/thumb/*/*.jpg$image,domain=streamtape.com
 ||www.*.com/*.js$script,domain=streamtape.com
+||*.*.*/*.php?*$script,domain=www11.fmovies.to
+||*.l.google.com^$script
+
 
 ! 26.08.2020 exoclick.com
 ||*.ab1n.net^$image,domain=syndication.exoclick.com
