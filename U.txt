@@ -21436,3 +21436,11 @@ www.xvideos.com###video-ad
 
 ! 29.08.2020 https://ffmovies.to
 ffmovies.to##.hidden-xs.alert-warning.alert
+
+! 11.09.2020 oukreesy.net
+!||propeller-tracking.com^
+
+||rpc-php.trafficfactory.biz,domain=*.xnxx.com
+
+! 20.09.2020 https://www.xnxx.com
+www.xnxx.com##.no-rotate.thumb-nat-ad.thumb-ad.thumb-block
