@@ -21529,4 +21529,7 @@ tubepornclassic.com##.fiioed
 
 ! 2020-11-10 player.pl
 ||nuvi2.cdntvn.pl/*.*.*/static/advert.js$xhr,domain=player.pl
-
+||track-eu.adformnet.akadns.net^$xhr,domain=player.pl
+||adx.adform.net^$xhr,domain=player.pl
+||prg.smartadserver.com^$xhr,domain=player.pl
+||rtb.adpone.com^$xhr,domain=player.pl
