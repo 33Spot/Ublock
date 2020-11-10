@@ -21444,3 +21444,89 @@ ffmovies.to##.hidden-xs.alert-warning.alert
 
 ! 20.09.2020 https://www.xnxx.com
 www.xnxx.com##.no-rotate.thumb-nat-ad.thumb-ad.thumb-block
+
+! 21.09.2020 https://www.makeuseof.com
+www.makeuseof.com##.light.as-oil
+
+! 23.09.2020 https://www.emurom.net
+www.emurom.net##[src="https://crrepo.com/extban/195422220/creatives/23010066/0c33769933117187ebf544087fac4b39_2370.jpeg"]
+www.emurom.net###ni-ad
+www.emurom.net###ni-ad-row
+www.emurom.net###ni-wrapper
+www.emurom.net###ni-background
+
+! 8.05.2020 https://roswell.fandom.com
+roswell.fandom.com##.lightbox-beforejs-blackout
+
+||s.tvp.pl/files/vod.tvp.pl/js/app/smartbanner.js$script,domain=vod.tvp.pl
+||s.tvp.pl/files/vod.tvp.pl/js/app/jquery.ba-throttle-debounce.min.js$script,domain=vod.tvp.pl
+||s.tvp.pl/files/vod.tvp.pl/js/app/dotdotdot/src/jquery.dotdotdot.min.js$script,domain=vod.tvp.pl
+||s.tvp.pl/files/vod.tvp.pl/js/app/jquery.lazyload.js$script,domain=vod.tvp.pl
+||s.tvp.pl/files/vod.tvp.pl/js/app/owl.carousel.min.js$script,domain=vod.tvp.pl
+vod.tvp.pl##.ads-container
+
+||syndication.exosrv.com
+cyfrowa.tvp.pl##.ads-screening.ads-container
+cyfrowa.tvp.pl##.rek-branding-changed
+||tvpgapl.hit.gemius.pl^$script,domain=cyfrowa.tvp.pl
+
+pl.xhamster.com##.no-popunder.wih-spot-container.wih-player
+pl.xhamster.com##.wih-spa.no-popunder.wih-spb
+pl.xhamster.com##.wih-spot-container.no-popunder.bottom-widget-section
+
+
+||monsterclash.com
+||*.com/*.*?landing*
+||ie8eampus.com
+||streammp4.net
+||g.jwpsrv.com
+
+theffmovies.com##.pop-block
+
+! 24.06.2020 https://mshares.co
+mshares.co##.in.fade.modal
+mshares.co##.in.fade.modal-backdrop
+
+! 25.06.2020 twistednuts.com
+||parkurl.com/vast-im.js$script,domain=twistednuts.com
+
+! 25.06.2020 moviesand.com
+||www.moviesand.com/ma39054/ma.js$script,domain=www.moviesand.com
+
+! 1.07.2020 https://2conv.com
+2conv.com##.push-offer
+
+! 5.07.2020 https://www.google.pl
+www.google.pl###eob_11 > .AUiS2
+
+! 6.07.2020 https://pl.pornhub.com
+pl.pornhub.com##.sectionWrapper > .sectionWrapper
+pl.pornhub.com##.slimScrollDiv
+
+! 7.07.2020 https://www.ballbustingtube.com
+!www.ballbustingtube.com##.modal-content
+!www.ballbustingtube.com###ageCheck
+
+! 8.07.2020 https://www.youtube.com
+www.youtube.com###scroll-container
+www.youtube.com###title
+
+! 2020-10-12 https://1001miejsc.pl
+1001miejsc.pl##.cli-modal-content.cli-bar-popup
+1001miejsc.pl##.cli-show.cli-popupbar-overlay.cli-fade.cli-modal-backdrop
+
+! 2020-10-13 https://www.ebay.com
+www.ebay.com##div.gh-module-with-target
+
+! 2020-10-30 obejrze.se
+||www-googletagmanager.l.google.com^$domain=www.obejrze.se
+
+! 2020-11-02 https://pl.xhamster.com
+pl.xhamster.com##.traffic-stars
+
+! 2020-11-10 https://tubepornclassic.com
+tubepornclassic.com##.fiioed
+
+! 2020-11-10 player.pl
+||nuvi2.cdntvn.pl/*.*.*/static/advert.js$xhr,domain=player.pl
+
