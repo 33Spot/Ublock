@@ -21533,3 +21533,9 @@ tubepornclassic.com##.fiioed
 ||adx.adform.net^$xhr,domain=player.pl
 ||prg.smartadserver.com^$xhr,domain=player.pl
 ||rtb.adpone.com^$xhr,domain=player.pl
+
+! 2020-11-15 movies7.to
+||www-googletagmanager.*.google.com^$script,domain=movies7.to
+||my.rtmark.net^$domain=streamtape.com
+||in-page-push.com^$script,domain=streamtape.com
+
