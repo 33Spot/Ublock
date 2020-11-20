@@ -21539,3 +21539,7 @@ tubepornclassic.com##.fiioed
 ||my.rtmark.net^$domain=streamtape.com
 ||in-page-push.com^$script,domain=streamtape.com
 
+! 2020-11-20 https://as.2020mustang.com
+||code.jquery.com/jquery-2.1.3.min.js$script,domain=as.2020mustang.com
+||as.2020mustang.com
+
