@@ -750,8 +750,8 @@ pl.spankbang.com###ts_ad_native_zjgyn
 ||cdn.tsyndicate.com/sdk/v1/n.js$script,domain=pl.spankbang.com
 ||www.gstatic.com/cv/js/*$script,domain=pl.spankbang.com
 
-||assets.allegrostatic.com/opbox/*$image,domain=allegro.pl
-@@||allegroimg.com^$image,domain=allegro.pl
+!||assets.allegrostatic.com/opbox/*$image,domain=allegro.pl
+!@@||allegroimg.com^$image,domain=allegro.pl
 
 ! 26.03.2019 https://www.o2.pl
 www.o2.pl##._1s2sv > div > ._3lkzs
