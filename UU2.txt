@@ -1,5 +1,5 @@
 [Adblock Plus 3.6]
-! Title: Cybo's Hosts
+! Title: Cybo's Hosts - rearmed
 ! Description: A multilingual blocklist of ads, trackers, anti-adblock, malware, IP grabbers and tracking cookies.
 ! Homepage: https://github.com/Cybo1927/Hosts
 ! Expires: 8 hours
