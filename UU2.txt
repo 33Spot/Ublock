@@ -11502,7 +11502,7 @@ about:blank$third-party
 ||0sntp7dnrr.com^
 ||*-dynatrace.allstate.com^
 ||*-ring.msedge.net^
-||*-analytics.com^
+!||*-analytics.com^
 ||2013download.com^
 ||4dsply.com^
 ||adclear.net^
