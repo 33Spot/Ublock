@@ -3708,7 +3708,7 @@ about:blank$third-party
 ||a.ns.igcdn.com^
 ||api-read.facebook.com^
 ||media6degrees.com^
-||alb.reddit.com^
+!||alb.reddit.com^
 ||ad-score.com^
 ||adtrack.king.com^
 ||agkn.com^
@@ -4579,7 +4579,7 @@ about:blank$third-party
 ||blaaaa12.googlecode.com^
 ||blogergadgets.googlecode.com^
 ||bot.googlecustomservice.com^
-||buttons.reddit.com^
+!||buttons.reddit.com^
 ||breezeads.com^
 ||buysell.com^
 ||bidtheatre.com^
@@ -6062,7 +6062,7 @@ about:blank$third-party
 ||explorads.com^
 ||spotscenered.info^
 ||firstimpression.io^
-||e.reddit.com^
+!||e.reddit.com^
 ||events.redditmedia.com^
 ||nexac.com^
 ||external-veil-1.xx.fbcdn.net^
