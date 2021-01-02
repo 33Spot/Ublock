@@ -29,6 +29,7 @@
 ||wurtoosy.com
 
 |https://$subdocument,3p,domain=mcloud.to
+|https://$subdocument,3p,domain=vidstream.pro
 
 ##[src="//viatepigan.com"
 ||viatepigan.com^
