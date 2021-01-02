@@ -128,7 +128,7 @@
 ||fmovies.to/user/ajax/*$xhr,1p
 !||fmovies.to/clear.gif$image,1p
 
-||ssl.p.jwpcdn.com/player/v/*.*.*/jwpsrv.js$script,domain=mcloud2.to
+||ssl.p.jwpcdn.com/player/v/*.*.*/jwpsrv.js$script,domain=mcloud2.to,vidstream.pro
 !||static.akacdn.ru/files/images/*$image,domain=fmovies.to
 ||www.google.com/favicon.ico$popup,domain=mcloud2.to
 ||mcloud2.to/log/*$xhr,1p
