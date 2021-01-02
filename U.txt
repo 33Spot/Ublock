@@ -28,9 +28,6 @@
 ||grooksom.com
 ||wurtoosy.com
 
-|https://$subdocument,3p,domain=mcloud.to
-|https://$subdocument,3p,domain=vidstream.pro
-
 ##[src="//viatepigan.com"
 ||viatepigan.com^
 !||*/tag.min.js
@@ -129,6 +126,9 @@
 !||fmovies.to/clear.gif$image,1p
 
 ||ssl.p.jwpcdn.com/player/v/*.*.*/jwpsrv.js$script,domain=mcloud2.to,vidstream.pro
+|https://$subdocument,3p,domain=mcloud.to,vidstream.pro
+||leukemiatwinklesagacious.com
+
 !||static.akacdn.ru/files/images/*$image,domain=fmovies.to
 ||www.google.com/favicon.ico$popup,domain=mcloud2.to
 ||mcloud2.to/log/*$xhr,1p
