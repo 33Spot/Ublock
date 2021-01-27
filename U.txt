@@ -31,6 +31,7 @@
 ##[src="//viatepigan.com"
 ||viatepigan.com^
 !||*/tag.min.js
+||sl.bunnycdn.ru
 
 ||*/fac.php,domain=*.fmovies.*,fmovies.*,9anime.to,prettyfast.to,streamingworld.xyz,vidnode.net,grooksom.com
 ||*/pup.php,domain=*.fmovies.*,fmovies.*,9anime.to,prettyfast.to,streamingworld.xyz,vidnode.net,grooksom.com
@@ -169,7 +170,10 @@ mcloud*.to,fmovies.to##body > div > div > div > div > div > iframe > embed > > d
 ||content.jwplatform.com/libraries/*
 ||cdn.jwplayer.com^$xmlhttprequest
 
-
+mcloud.to##+js(acis, Math, XMLHttpRequest)
+mcloud.to,mcloud2.to##+js(nosiif, break)
+mcloud.to##+js(aopr, open)
+@@||mcloud.to^$ghide
 
 
 
