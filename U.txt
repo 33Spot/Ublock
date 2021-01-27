@@ -38,11 +38,11 @@
 !||deloplen.com/tag.min.js,domain=prettyfast.to,streamingworld.xyz,vidnode.net,grooksom.com
 ||*/tag.min.js,domain=*.fmovies.*,fmovies.*,9anime.to,prettyfast.to,streamingworld.xyz,vidnode.net,grooksom.com
 
-||ssl.p.jwpcdn.com/player/v/*.*.*/jwpsrv.js$script,domain=*.fmovies.*,fmovies.*,9anime.to,prettyfast.to,streamingworld.xyz,vidnode.net,grooksom.com
-||ssl.p.jwpcdn.com/player/v/*.*.*/*.js$script,domain=*.fmovies.*,fmovies.*,9anime.to,prettyfast.to,streamingworld.xyz,vidnode.net,grooksom.com
-||*.jwpcdn.com/player/v/*/*.js$script,domain=*.fmovies.*,fmovies.*,9anime.to,prettyfast.to,streamingworld.xyz,vidnode.net,grooksom.com
+||ssl.p.jwpcdn.com/player/v/*.*.*/jwpsrv.js$script,domain=*.fmovies.*,fmovies.*,9anime.to,prettyfast.to,streamingworld.xyz,vidnode.net,grooksom.com,movies7.to
+||ssl.p.jwpcdn.com/player/v/*.*.*/*.js$script,domain=*.fmovies.*,fmovies.*,9anime.to,prettyfast.to,streamingworld.xyz,vidnode.net,grooksom.com,movies7.to
+||*.jwpcdn.com/player/v/*/*.js$script,domain=*.fmovies.*,fmovies.*,9anime.to,prettyfast.to,streamingworld.xyz,vidnode.net,grooksom.com,movies7.to
 !##[src="//g.jwpsrv.com/g/gcid-0.1.2.html?notrack"]
-||*.jwpsrv.com,domain=*.fmovies.*,fmovies.*,9anime.to,prettyfast.to,streamingworld.xyz,vidnode.net,grooksom.com
+||*.jwpsrv.com,domain=*.fmovies.*,fmovies.*,9anime.to,prettyfast.to,streamingworld.xyz,vidnode.net,grooksom.com,movies7.to
 ##[src="//g.jwpsrv.com"]
 ||prettyfast.to/log/m5l6k?random$xhr,1p
 
