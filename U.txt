@@ -126,7 +126,7 @@
 !||fmovies.to/clear.gif$image,1p
 
 ||ssl.p.jwpcdn.com/player/v/*.*.*/jwpsrv.js$script,domain=mcloud2.to,vidstream.pro
-|https://$subdocument,3p,domain=mcloud.to,vidstream.pro
+|https://$subdocument,3p,domain=mcloud.to,vidstream.pro,movies7.to
 ||leukemiatwinklesagacious.com
 
 !||static.akacdn.ru/files/images/*$image,domain=fmovies.to
