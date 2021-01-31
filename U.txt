@@ -48,7 +48,7 @@
 ||prettyfast.to/log/m5l6k?random$xhr,1p
 
 
-||redirector.redefine.pl$xhr,1p
+!||redirector.redefine.pl$xhr,1p
 
 
 !src="//ssl.p.jwpcdn.com/player/v/8.8.2/jwpsrv.js"
