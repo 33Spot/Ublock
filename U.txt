@@ -48,7 +48,10 @@
 ||prettyfast.to/log/m5l6k?random$xhr,1p
 
 
-!||redirector.redefine.pl$xhr,1p
+!||redirector.redefine.pl$xhr,3p
+! 2021-01-31 https://www.ipla.tv
+www.ipla.tv##app-rodo-accept-rules-reminder
+
 
 
 !src="//ssl.p.jwpcdn.com/player/v/8.8.2/jwpsrv.js"
