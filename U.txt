@@ -97,7 +97,12 @@
 ||deloplen.com^
 ||dilruwha.net^
 
-
+||jwpcdn.com
+!ssl.p.jwpcdn.com
+||jwpltx.com
+!prd.jwpltx.com
+||jwpsrv.com
+!g.jwpsrv.com
      
      
 !||https://xml.revrtb.com/redirect?feed=160466&auth=8G3XOs&pubid=83487
