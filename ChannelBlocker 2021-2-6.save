@@ -622,10 +622,40 @@
     "Dankify": 53,
     "KJEBAB GAMES": 53,
     "Braxy": 53,
-    "no name LOL": 53
+    "no name LOL": 53,
+    "League of Legends": 53,
+    "League of Legends: Wild Rift": 53,
+    "League of Legends - Polska": 53,
+    "Protatomonster": 53,
+    "Necrit": 53,
+    "Koka Beats": 53,
+    "boxingnewspl": 53,
+    "Chorzowskie Centrum Kultury": 53,
+    "Glamrock TV": 53,
+    "Odwyk.com": 53,
+    "Ciekawe Linki": 53,
+    "new atheism tapes": 53,
+    "Metal Blade Records": 53,
+    "Behemoth": 53,
+    "Szypol": 53,
+    "Szary Człowiek": 53,
+    "Piotr Skurzyński": 53,
+    "Jesus.net": 53
   },
   "1": {
-    "*fortnite*": 1
+    "LEAGUE OF LEGENDS": 0,
+    "FORTNITE": 0,
+    "OVERWATCH": 0,
+    "ŚMIEM WĄTPIĆ": 0,
+    "ROKSANA WĘGIEL": 0,
+    "ROCKET LEAGUE": 0,
+    "KOXY": 0,
+    "PIŁKAR": 0
+  },
+  "2": {
+    "LEAGUE OF LEGENDS": 0,
+    "FORTNITE": 0,
+    "OVERWATCH": 0
   },
   "content_ui": {
     "0": true,
