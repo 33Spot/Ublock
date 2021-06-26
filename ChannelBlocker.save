@@ -1066,7 +1066,10 @@
     "Global Motors": 53,
     "SOBI SHOTY": 53,
     "Kobik": 53,
-    "miedzinsky": 53
+    "miedzinsky": 53,
+    "SFGaming": 53,
+    "Kanał Kryminalny": 53,
+    "Reporter Na Tropie": 53
   },
   "1": {
     "LEAGUE OF LEGENDS": 0,
@@ -1144,7 +1147,8 @@
     "OVERWATCH": 0,
     "KęKę": 0,
     "YOUNG LEOSIA": 0,
-    "ELLE": 0
+    "ELLE": 0,
+    "Julia Pośnik": 0
   },
   "content_ui": {
     "0": true,
