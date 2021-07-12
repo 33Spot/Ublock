@@ -39,4 +39,3 @@ https://raw.githubusercontent.com/hXR16F/uBlock-Origin-Lists/master/MessengerBlo
 https://raw.githubusercontent.com/OmniMir/WebMonkey/master/uBlock.txt
 https://raw.githubusercontent.com/JanJastrow/blocked_domains/master/bigcompany.txt
 https://raw.githubusercontent.com/JanJastrow/blocked_domains/master/ublock_elements
-https://raw.githubusercontent.com/Larvit4r/Blocklists/master/TLD-Blacklist.txt
