@@ -37,3 +37,6 @@ https://raw.githubusercontent.com/medavox/uor/master/rules.txt
 https://raw.githubusercontent.com/austinhuang0131/0131-block-list/master/list.txt
 https://raw.githubusercontent.com/hXR16F/uBlock-Origin-Lists/master/MessengerBlockSeenStatus.txt
 https://raw.githubusercontent.com/OmniMir/WebMonkey/master/uBlock.txt
+https://raw.githubusercontent.com/JanJastrow/blocked_domains/master/bigcompany.txt
+https://raw.githubusercontent.com/JanJastrow/blocked_domains/master/ublock_elements
+https://raw.githubusercontent.com/Larvit4r/Blocklists/master/TLD-Blacklist.txt
