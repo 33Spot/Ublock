@@ -31,3 +31,4 @@ https://raw.githubusercontent.com/dumbusernameidk/ublock-filters/master/Filters.
 https://std.wpcdn.pl/wpjslib/wp-whitelist.txt
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock_ublock.txt
 https://easylist-downloads.adblockplus.org/easyprivacy.txt
+https://raw.githubusercontent.com/nimasaj/uBOPa/master/uBOPa.txt
