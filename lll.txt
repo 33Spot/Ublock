@@ -39,3 +39,7 @@ https://raw.githubusercontent.com/hXR16F/uBlock-Origin-Lists/master/MessengerBlo
 https://raw.githubusercontent.com/OmniMir/WebMonkey/master/uBlock.txt
 https://raw.githubusercontent.com/JanJastrow/blocked_domains/master/bigcompany.txt
 https://raw.githubusercontent.com/JanJastrow/blocked_domains/master/ublock_elements
+https://raw.githubusercontent.com/Maxi9090/Adblock-files/master/Filter.txt
+https://filters.adavoid.org/ultimate-ad-filter.txt
+https://filters.adavoid.org/ultimate-privacy-filter.txt
+https://filters.adavoid.org/ultimate-security-filter.txt
