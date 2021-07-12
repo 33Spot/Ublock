@@ -33,3 +33,4 @@ https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adbloc
 https://easylist-downloads.adblockplus.org/easyprivacy.txt
 https://raw.githubusercontent.com/nimasaj/uBOPa/master/uBOPa.txt
 https://raw.githubusercontent.com/UnluckyLuke/BlockUnderRadarJunk/master/blockunderradarjunk-list.txt
+https://raw.githubusercontent.com/medavox/uor/master/rules.txt
