@@ -29,3 +29,4 @@ https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/propellerads-
 https://raw.githubusercontent.com/Hackerboi69420/Ublock-anime/main/uAnime.txt
 https://raw.githubusercontent.com/dumbusernameidk/ublock-filters/master/Filters.txt
 https://std.wpcdn.pl/wpjslib/wp-whitelist.txt
+https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock_ublock.txt
