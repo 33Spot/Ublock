@@ -35,3 +35,4 @@ https://raw.githubusercontent.com/nimasaj/uBOPa/master/uBOPa.txt
 https://raw.githubusercontent.com/UnluckyLuke/BlockUnderRadarJunk/master/blockunderradarjunk-list.txt
 https://raw.githubusercontent.com/medavox/uor/master/rules.txt
 https://raw.githubusercontent.com/austinhuang0131/0131-block-list/master/list.txt
+https://raw.githubusercontent.com/hXR16F/uBlock-Origin-Lists/master/MessengerBlockSeenStatus.txt
