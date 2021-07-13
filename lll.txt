@@ -43,3 +43,4 @@ https://raw.githubusercontent.com/Maxi9090/Adblock-files/master/Filter.txt
 https://filters.adavoid.org/ultimate-ad-filter.txt
 https://filters.adavoid.org/ultimate-privacy-filter.txt
 https://filters.adavoid.org/ultimate-security-filter.txt
+https://raw.githubusercontent.com/AlexVallat/uBlockOrigin/master/assets/thirdparties/easylist-downloads.adblockplus.org/easyprivacy.txt
