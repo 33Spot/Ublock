@@ -7,14 +7,12 @@ https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/cdn-filter-li
 https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
 https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/filterlist/imageboard/GelboLube.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
-https://raw.githubusercontent.com/33Spot/Ublock/master/U.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/hilltopads-domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/istripper-domains.txt
 https://raw.githubusercontent.com/czaczar/karachan-filters/master/filters.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/kitty-domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/macupload-domains.txt
 https://raw.githubusercontent.com/medavox/uor/master/rules.txt
-https://github.com/kowith337/PersonalFilterListCollection/raw/master/filterlist/other/MiscAnnoyance.txt
 https://raw.githubusercontent.com/mrmenndev/filters/master/filter/annoyances.txt
 https://gitcdn.xyz/repo/NanoAdblocker/NanoFilters/master/NanoMirror/NanoDefender.txt
 https://cdn.rawgit.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoBase.txt
