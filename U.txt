@@ -109,6 +109,67 @@ www.ipla.tv##app-rodo-accept-rules-reminder
 !prd.jwpltx.com
 ||jwpsrv.com
 !g.jwpsrv.com
+
+||ssl.p.jwpcdn.com
+||prd.jwpltx.com
+||g.jwpsrv.com
+
+! 2021-02-02 https://entomologytoday.org
+entomologytoday.org##.sgpb-popup-overlay.sgpb-popup-overlay-11669.sgpb-theme-1-overlay
+entomologytoday.org##.sg-popup-content.sgpb-theme-1-content.sgpb-content-11669.sgpb-content
+
+! 2021-06-13 https://www.invidiou.site
+www.invidiou.site##div.h-box:nth-of-type(2)
+www.invidiou.site##h3
+www.invidiou.site##div.h-box:nth-of-type(2)
+
+||*/pmsr.js$script,1p
+||*/assets/js/app.js$script,1p
+||*/zpm.js$script,1p
+||*/icons/icons.ttf?*$font,1p
+
+! 2021-07-13 https://www.medonet.pl
+www.medonet.pl##div:nth-of-type(4)
+
+medonet.pl##BODY.withFPU:before
+medonet.pl##BODY.withFPU::before
+medonet.pl#$#BODY.withFPU::before { display: none !important; content: "" !important; }
+
+! 2021-07-13 https://pulsembed.eu
+||pmi.flowplayer.com^$domain=pulsembed.eu
+
+
+! 2021-07-13 https://pulsembed.eu
+||ocdn.eu/video-scripts/*/*/bundle-*.*.*.js$script
+
+||static.medonet.pl/widget.js$script,domain=www.medonet.pl
+www.medonet.pl##.medonet__healthcare__open
+www.medonet.pl##.medonet__healthcare_content_animation
+
+www.medonet.pl##.fc-item__container:has-text(Trump)
+www.medonet.pl##.medonet__healthcare:has-text(medonet)
+www.medonet.pl##.medonet__healthcare:has-text(halodoctor)
+
+medonet.pl##.medonet__healthcare__body
+medonet.pl###medonet__healthcare__header
+medonet.pl##.medonet__healthcare__open
+www.medonet.pl##div:nth-of-type(4)
+||www.medonet.pl^$xhr,domain=www.medonet.pl
+
+! 2021-07-13 https://www.medonet.pl
+||www.medonet.pl^$xhr
+
+! 2021-07-13 https://pulsembed.eu
+||pulsembed.eu/providers.*?v=*.*.*$script,1p
+
+! 2021-07-13 https://www.medonet.pl
+||www.medonet.pl^$script,domain=www.medonet.pl
+||healthform-medonet.infermedica.com
+||*infermedica.com^$script
+
+! 2021-07-14 https://pl.spankbang.com
+pl.spankbang.com###interstitial_div
+
      
      
 !||https://xml.revrtb.com/redirect?feed=160466&auth=8G3XOs&pubid=83487
