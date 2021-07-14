@@ -57,3 +57,4 @@ https://raw.githubusercontent.com/PolishFiltersTeam/PolishAnnoyanceFilters/maste
 https://raw.githubusercontent.com/PolishFiltersTeam/PolishAnnoyanceFilters/master/PAF_scrolling_videos.txt
 https://raw.githubusercontent.com/PolishFiltersTeam/PolishAnnoyanceFilters/master/PAF_push.txt
 https://raw.githubusercontent.com/uBlock-user/uBO-Personal-Filters/master/uPF.txt
+https://raw.githubusercontent.com/IDKwhattoputhere/uBlock-Filters-Plus/master/uBlock-Filters-Plus.txt
