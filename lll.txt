@@ -58,6 +58,5 @@ https://raw.githubusercontent.com/PolishFiltersTeam/PolishAnnoyanceFilters/maste
 https://raw.githubusercontent.com/PolishFiltersTeam/PolishAnnoyanceFilters/master/PAF_push.txt
 https://raw.githubusercontent.com/uBlock-user/uBO-Personal-Filters/master/uPF.txt
 https://raw.githubusercontent.com/IDKwhattoputhere/uBlock-Filters-Plus/master/uBlock-Filters-Plus.txt
-https://raw.githubusercontent.com/uBlock-LLC/uBlock/master/assets/ublock/mirror-candidates.txt
 https://raw.githubusercontent.com/uBlock-LLC/uBlock/master/assets/ublock/privacy.txt
 https://raw.githubusercontent.com/uBlock-LLC/uBlock/master/assets/ublock/filters.txt
