@@ -58,4 +58,8 @@ https://raw.githubusercontent.com/IDKwhattoputhere/uBlock-Filters-Plus/master/uB
 https://raw.githubusercontent.com/uBlock-LLC/uBlock/master/assets/ublock/privacy.txt
 https://raw.githubusercontent.com/uBlock-LLC/uBlock/master/assets/ublock/filters.txt
 https://raw.githubusercontent.com/azet12/KAD/master/KAD.txt
-
+https://raw.githubusercontent.com/LanikSJ/ubo-filters/master/filters/adback-domains.txt
+https://raw.githubusercontent.com/LanikSJ/ubo-filters/master/filters/adkeeper-domains.txt
+https://raw.githubusercontent.com/LanikSJ/ubo-filters/master/filters/admaven-domains.txt
+https://raw.githubusercontent.com/LanikSJ/ubo-filters/master/filters/admeasures-domains.txt
+https://raw.githubusercontent.com/LanikSJ/ubo-filters/master/filters/bt-contentza-domains.txt
