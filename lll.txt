@@ -57,7 +57,5 @@ https://raw.githubusercontent.com/PolishFiltersTeam/PolishAnnoyanceFilters/maste
 https://raw.githubusercontent.com/IDKwhattoputhere/uBlock-Filters-Plus/master/uBlock-Filters-Plus.txt
 https://raw.githubusercontent.com/uBlock-LLC/uBlock/master/assets/ublock/privacy.txt
 https://raw.githubusercontent.com/uBlock-LLC/uBlock/master/assets/ublock/filters.txt
-https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/domainlist.txt
 https://raw.githubusercontent.com/azet12/KAD/master/KAD.txt
 
