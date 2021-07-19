@@ -36,7 +36,6 @@ https://raw.githubusercontent.com/OmniMir/WebMonkey/master/uBlock.txt
 https://filters.adavoid.org/ultimate-ad-filter.txt
 https://filters.adavoid.org/ultimate-privacy-filter.txt
 https://filters.adavoid.org/ultimate-security-filter.txt
-https://raw.githubusercontent.com/AlexVallat/uBlockOrigin/master/assets/thirdparties/easylist-downloads.adblockplus.org/easyprivacy.txt
 https://raw.githubusercontent.com/Rpsl/adblock-leadgenerator-list/master/list/list.txt
 https://raw.githubusercontent.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/master/polish_rss_filters.txt
 https://raw.githubusercontent.com/PolishFiltersTeam/PolishAnnoyanceFilters/master/PAF_tagged_internal_links.txt
