@@ -19,7 +19,6 @@ https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-online.txt
 https://raw.githubusercontent.com/Yuki2718/adblock/master/no_gen_cosm/phhider.txt
 https://raw.githubusercontent.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/master/polish_rss_filters.txt
 https://raw.githubusercontent.com/PolishFiltersTeam/PolishAnnoyanceFilters/master/PPB.txt
-https://raw.githubusercontent.com/PolishFiltersTeam/PolishAnnoyanceFilters/master/PAF_tagged_internal_links.txt
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/adblock_social_filters/adblock_social_list.txt
 https://raw.github.com/liamja/Prebake/master/obtrusive.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/propellerads-domains.txt
@@ -38,16 +37,6 @@ https://filters.adavoid.org/ultimate-privacy-filter.txt
 https://filters.adavoid.org/ultimate-security-filter.txt
 https://raw.githubusercontent.com/Rpsl/adblock-leadgenerator-list/master/list/list.txt
 https://raw.githubusercontent.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/master/polish_rss_filters.txt
-https://raw.githubusercontent.com/PolishFiltersTeam/PolishAnnoyanceFilters/master/PAF_tagged_internal_links.txt
-https://raw.githubusercontent.com/PolishFiltersTeam/PolishAnnoyanceFilters/master/PAF_backgrounds_self-advertising.txt
-https://raw.githubusercontent.com/PolishFiltersTeam/PolishAnnoyanceFilters/master/PAF_comeback_titles.txt
-https://raw.githubusercontent.com/PolishFiltersTeam/PolishAnnoyanceFilters/master/PAF_contact_feedback_widgets.txt
-https://raw.githubusercontent.com/PolishFiltersTeam/PolishAnnoyanceFilters/master/PAF_e_newspaper.txt
-https://raw.githubusercontent.com/PolishFiltersTeam/PolishAnnoyanceFilters/master/PAF_newsletters.txt
-https://raw.githubusercontent.com/PolishFiltersTeam/PolishAnnoyanceFilters/master/PAF_other_widgets.txt
-https://raw.githubusercontent.com/PolishFiltersTeam/PolishAnnoyanceFilters/master/PAF_pop-ups.txt
-https://raw.githubusercontent.com/PolishFiltersTeam/PolishAnnoyanceFilters/master/PAF_scrolling_videos.txt
-https://raw.githubusercontent.com/PolishFiltersTeam/PolishAnnoyanceFilters/master/PAF_push.txt
 https://raw.githubusercontent.com/IDKwhattoputhere/uBlock-Filters-Plus/master/uBlock-Filters-Plus.txt
 https://raw.githubusercontent.com/azet12/KAD/master/KAD.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/master/filters/adback-domains.txt
