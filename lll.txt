@@ -44,3 +44,4 @@ https://raw.githubusercontent.com/LanikSJ/ubo-filters/master/filters/adkeeper-do
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/master/filters/admaven-domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/master/filters/admeasures-domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/master/filters/bt-contentza-domains.txt
+https://raw.githubusercontent.com/adblockpolska/Adblock_PL_List/master/adblock_polska.txt
