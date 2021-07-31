@@ -45,5 +45,3 @@ https://raw.githubusercontent.com/LanikSJ/ubo-filters/master/filters/admaven-dom
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/master/filters/admeasures-domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/master/filters/bt-contentza-domains.txt
 https://raw.githubusercontent.com/adblockpolska/Adblock_PL_List/master/adblock_polska.txt
-https://raw.githubusercontent.com/91ajames/ublock-filters-ulist-youtube/main/per-device-youtube-googlevideo-ad-block.txt
-https://gist.githubusercontent.com/SEAPUNK/296c37e794125dc8ca62a46c066e57b5/raw/eb91bbf0d8c529a242834f8f8c494f34389626f7/ublock.txt
