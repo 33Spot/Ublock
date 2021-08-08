@@ -45,4 +45,7 @@ https://raw.githubusercontent.com/LanikSJ/ubo-filters/master/filters/admaven-dom
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/master/filters/admeasures-domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/master/filters/bt-contentza-domains.txt
 https://raw.githubusercontent.com/adblockpolska/Adblock_PL_List/master/adblock_polska.txt
-https://abp.oisd.nl/
+https://abp.oisd.nl/basic/
+https://dbl.oisd.nl/basic/
+https://dnsmasq.oisd.nl/basic/
+https://rpz.oisd.nl/basic/
