@@ -49,5 +49,3 @@ https://abp.oisd.nl/basic/
 https://dbl.oisd.nl/basic/
 https://dnsmasq.oisd.nl/basic/
 https://rpz.oisd.nl/basic/
-https://dbl.oisd.nl/basic/
-https://hosts.oisd.nl/basic/
