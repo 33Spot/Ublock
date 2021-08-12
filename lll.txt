@@ -48,4 +48,3 @@ https://raw.githubusercontent.com/adblockpolska/Adblock_PL_List/master/adblock_p
 https://abp.oisd.nl/basic/
 https://dbl.oisd.nl/basic/
 https://dnsmasq.oisd.nl/basic/
-https://rpz.oisd.nl/basic/
