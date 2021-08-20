@@ -32,8 +32,6 @@ https://raw.githubusercontent.com/UnluckyLuke/BlockUnderRadarJunk/master/blockun
 https://raw.githubusercontent.com/medavox/uor/master/rules.txt
 https://raw.githubusercontent.com/austinhuang0131/0131-block-list/master/list.txt
 https://raw.githubusercontent.com/OmniMir/WebMonkey/master/uBlock.txt
-https://filters.adavoid.org/ultimate-ad-filter.txt
-https://filters.adavoid.org/ultimate-privacy-filter.txt
 https://filters.adavoid.org/ultimate-security-filter.txt
 https://raw.githubusercontent.com/Rpsl/adblock-leadgenerator-list/master/list/list.txt
 https://raw.githubusercontent.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/master/polish_rss_filters.txt
@@ -45,6 +43,4 @@ https://raw.githubusercontent.com/LanikSJ/ubo-filters/master/filters/admaven-dom
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/master/filters/admeasures-domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/master/filters/bt-contentza-domains.txt
 https://raw.githubusercontent.com/adblockpolska/Adblock_PL_List/master/adblock_polska.txt
-https://abp.oisd.nl/basic/
-https://dbl.oisd.nl/basic/
-https://dnsmasq.oisd.nl/basic/
+
