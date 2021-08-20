@@ -13,3 +13,5 @@
 
 ! 2021-08-20 https://vod.tvp.pl
 vod.tvp.pl##.vod-branding-changed
+! 2021-07-26 https://pl.spankbang.com
+pl.spankbang.com###interstitial_div
