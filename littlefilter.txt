@@ -10,6 +10,23 @@
 !
 ! Expires: 2 days
 
+||ssl.p.jwpcdn.com
+||prd.jwpltx.com
+||g.jwpsrv.com
+
+! 2021-02-02 https://entomologytoday.org
+entomologytoday.org##.sgpb-popup-overlay.sgpb-popup-overlay-11669.sgpb-theme-1-overlay
+entomologytoday.org##.sg-popup-content.sgpb-theme-1-content.sgpb-content-11669.sgpb-content
+
+! 2021-06-13 https://www.invidiou.site
+www.invidiou.site##div.h-box:nth-of-type(2)
+www.invidiou.site##h3
+www.invidiou.site##div.h-box:nth-of-type(2)
+
+||*/pmsr.js$script,1p
+||*/assets/js/app.js$script,1p
+||*/zpm.js$script,1p
+||*/icons/icons.ttf?*$font,1p
 
 ! 2021-08-20 https://vod.tvp.pl
 vod.tvp.pl##.vod-branding-changed
