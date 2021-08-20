@@ -15,3 +15,5 @@
 vod.tvp.pl##.vod-branding-changed
 ! 2021-07-26 https://pl.spankbang.com
 pl.spankbang.com###interstitial_div
+! 2021-08-20 https://movies7.to
+movies7.to##.idc0_332.rdduypsu > iframe
