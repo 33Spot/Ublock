@@ -1,0 +1,15 @@
+!Title: Little Filter
+!
+! Description: just little filter
+!
+! Homepage:
+!
+! Link: https://raw.githubusercontent.com/33Spot/Ublock/master/littlefilter.txt
+!
+! Version: 20210802-1
+!
+! Expires: 2 days
+
+
+! 2021-08-20 https://vod.tvp.pl
+vod.tvp.pl##.vod-branding-changed
