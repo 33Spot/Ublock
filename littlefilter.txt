@@ -34,3 +34,4 @@ vod.tvp.pl##.vod-branding-changed
 pl.spankbang.com###interstitial_div
 ! 2021-08-20 https://movies7.to
 movies7.to##.idc0_332.rdduypsu > iframe
+*##body,html:matches-css(overflow: hidden):style(overflow:auto !important)
