@@ -10,9 +10,9 @@
 !
 ! Expires: 2 days
 
-||ssl.p.jwpcdn.com
-||prd.jwpltx.com
-||g.jwpsrv.com
+!||ssl.p.jwpcdn.com
+!||prd.jwpltx.com
+!||g.jwpsrv.com
 
 ! 2021-02-02 https://entomologytoday.org
 entomologytoday.org##.sgpb-popup-overlay.sgpb-popup-overlay-11669.sgpb-theme-1-overlay
