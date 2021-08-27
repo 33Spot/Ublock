@@ -46,3 +46,4 @@ https://raw.githubusercontent.com/adblockpolska/Adblock_PL_List/master/adblock_p
 https://raw.githubusercontent.com/33Spot/Ublock/master/littlefilter.txt
 https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
