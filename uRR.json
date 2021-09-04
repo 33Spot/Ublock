@@ -1,1 +1,137 @@
-
+{
+  "version": "1.0",
+  "rules": [
+    {
+      "description": "",
+      "origin": "9anime.is",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "9anime.to",
+      "example": "",
+      "enable": true,
+      "process": null,
+      "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "fmovies.se",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "fmovies.to",
+      "example": "",
+      "enable": true,
+      "process": null,
+      "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "www6.fmoviesfree.net",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "ffmovies.ru/",
+      "example": "https://www6.fmoviesfree.net/season/stargate-origins-season-1/",
+      "enable": false,
+      "process": null,
+      "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "watchcartoonsonline.be",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "watchcartoonsonline.la",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "9anime.nl",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "9anime.to",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "fmovies.to solar",
+      "origin": "ffmovies.solar",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "ffmovies.to",
+      "example": "ffmovies.solar",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "youtube redirector 1",
+      "origin": "www.youtube.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "inv.riverside.rocks",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "youtube redirector 2",
+      "origin": "inv.riverside.rocks",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "ytb.trom.tf",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "youtube redirector 3",
+      "origin": "ytb.trom.tf",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "ytprivate.com",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "youtube redirector 4",
+      "origin": "ytprivate.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "yewtu.be",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "youtube redirector 5",
+      "origin": "yewtu.be",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "y.com.cm",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    }
+  ]
+}
