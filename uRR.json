@@ -132,6 +132,54 @@
       "enable": true,
       "process": "",
       "_originRe": {}
+    },
+    {
+      "description": "youtube redirector 6",
+      "origin": "vid.puffyan.us",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "y.com.cm",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "youtube redirector 7",
+      "origin": "x",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "y",
+      "example": "",
+      "enable": false,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "youtube redirector 8",
+      "origin": "x",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "y",
+      "example": "",
+      "enable": false,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "youtube redirector 9",
+      "origin": "x",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "y",
+      "example": "",
+      "enable": false,
+      "process": "",
+      "_originRe": {}
     }
   ]
 }
