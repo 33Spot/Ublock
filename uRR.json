@@ -147,11 +147,11 @@
     },
     {
       "description": "youtube redirector 7",
-      "origin": "x",
+      "origin": "y.com.cm",
       "exclude": "",
       "methods": [],
       "types": [],
-      "target": "y",
+      "target": "yewtu.be",
       "example": "",
       "enable": false,
       "process": "",
