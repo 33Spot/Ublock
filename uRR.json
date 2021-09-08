@@ -164,7 +164,7 @@
       "methods": [],
       "types": [],
       "target": "invidious.kavin.rocks",
-      "example": "",
+      "example": "yt.didw.to",
       "enable": true,
       "process": "",
       "_originRe": {}
@@ -183,7 +183,7 @@
     },
     {
       "description": "youtube redirector 10",
-      "origin": "invidious.kavin.rocks",
+      "origin": "yewtu.be",
       "exclude": "",
       "methods": [],
       "types": [],
