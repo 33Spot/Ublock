@@ -171,13 +171,13 @@
     },
     {
       "description": "youtube redirector 9",
-      "origin": "x",
+      "origin": "invidious.kavin.rocks",
       "exclude": "",
       "methods": [],
       "types": [],
-      "target": "y",
+      "target": "yewtu.be",
       "example": "",
-      "enable": false,
+      "enable": true,
       "process": "",
       "_originRe": {}
     }
