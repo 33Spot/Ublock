@@ -80,7 +80,7 @@
       "methods": [],
       "types": [],
       "target": "inv.riverside.rocks",
-      "example": "",
+      "example": "www.youtube.com",
       "enable": true,
       "process": "",
       "_originRe": {}
@@ -159,13 +159,13 @@
     },
     {
       "description": "youtube redirector 8",
-      "origin": "x",
+      "origin": "yt.didw.to",
       "exclude": "",
       "methods": [],
       "types": [],
-      "target": "y",
+      "target": "invidious.kavin.rocks",
       "example": "",
-      "enable": false,
+      "enable": true,
       "process": "",
       "_originRe": {}
     },
