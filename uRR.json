@@ -180,6 +180,18 @@
       "enable": true,
       "process": "",
       "_originRe": {}
+    },
+    {
+      "description": "",
+      "origin": "invidious.kavin.rocks",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "vid.mint.lgbt",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
     }
   ]
 }
