@@ -165,7 +165,7 @@
       "types": [],
       "target": "vid.mint.lgbt",
       "example": "",
-      "enable": true,
+      "enable": false,
       "process": "",
       "_originRe": {}
     },
@@ -177,7 +177,7 @@
       "types": [],
       "target": "y.com.cm",
       "example": "",
-      "enable": true,
+      "enable": false,
       "process": "",
       "_originRe": {}
     }
