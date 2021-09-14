@@ -171,13 +171,13 @@
     },
     {
       "description": "youtube redirector 9",
-      "origin": "x",
+      "origin": "vid.mint.lgbt",
       "exclude": "",
       "methods": [],
       "types": [],
-      "target": "y",
+      "target": "invidious.kavin.rocks",
       "example": "",
-      "enable": false,
+      "enable": true,
       "process": "",
       "_originRe": {}
     }
