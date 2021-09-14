@@ -180,6 +180,18 @@
       "enable": true,
       "process": "",
       "_originRe": {}
+    },
+    {
+      "description": "youtube redirector 10",
+      "origin": "invidious-us.kavin.rocks",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "yewtu.be",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
     }
   ]
 }
