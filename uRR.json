@@ -31,10 +31,10 @@
       "exclude": "",
       "methods": [],
       "types": [],
-      "target": "ffmovies.ru/",
+      "target": "ffmovies.ru",
       "example": "https://www6.fmoviesfree.net/season/stargate-origins-season-1/",
       "enable": false,
-      "process": null,
+      "process": "",
       "_originRe": {}
     },
     {
