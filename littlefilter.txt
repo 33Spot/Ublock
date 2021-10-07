@@ -35,3 +35,12 @@ pl.spankbang.com###interstitial_div
 ! 2021-08-20 https://movies7.to
 movies7.to##.idc0_332.rdduypsu > iframe
 *##body,html:matches-css(overflow: hidden):style(overflow:auto !important)
+
+! 2021-09-24 https://www.google.pl
+www.google.pl###taw
+www.google.pl###bottomads
+www.google.pl###tvcap
+
+! 2021-10-06 https://www.google.pl
+www.google.pl###tvcap
+
