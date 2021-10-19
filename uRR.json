@@ -204,6 +204,18 @@
       "enable": true,
       "process": "",
       "_originRe": {}
+    },
+    {
+      "description": "youtube redirector 12",
+      "origin": "yt.artemislena.eu",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "vid.puffyan.us",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
     }
   ]
 }
