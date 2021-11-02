@@ -201,7 +201,7 @@
       "types": [],
       "target": "yt.artemislena.eu",
       "example": "",
-      "enable": true,
+      "enable": false,
       "process": "",
       "_originRe": {}
     },
@@ -213,7 +213,7 @@
       "types": [],
       "target": "vid.puffyan.us",
       "example": "",
-      "enable": true,
+      "enable": false,
       "process": "",
       "_originRe": {}
     }
