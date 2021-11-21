@@ -44,3 +44,9 @@ www.google.pl###tvcap
 ! 2021-10-06 https://www.google.pl
 www.google.pl###tvcap
 
+! 2021-09-26 https://pl.xhamster.com
+pl.xhamster.com##.lang-geo-picker.vpn-geo-picker
+
+! 2021-11-21 https://pl.xhamster.com
+||tsyndicate.com^$xhr,domain=pl.xhamster.com
+
