@@ -17,9 +17,9 @@ https://gitcdn.xyz/repo/NanoAdblocker/NanoFilters/master/NanoMirror/NanoDefender
 https://cdn.rawgit.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoBase.txt
 https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-online.txt
 https://raw.githubusercontent.com/Yuki2718/adblock/master/no_gen_cosm/phhider.txt
-https://raw.githubusercontent.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/master/polish_rss_filters.txt
-https://raw.githubusercontent.com/PolishFiltersTeam/PolishAnnoyanceFilters/master/PPB.txt
-https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/adblock_social_filters/adblock_social_list.txt
+https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/raw/master/polish_rss_filters.txt
+https://github.com/FiltersHeroes/PolishAnnoyanceFilters/raw/master/PPB.txt
+https://github.com/MajkiIT/polish-ads-filter/raw/master/adblock_social_filters/adblock_social_list.txt
 https://raw.github.com/liamja/Prebake/master/obtrusive.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/propellerads-domains.txt
 https://raw.githubusercontent.com/Hackerboi69420/Ublock-anime/main/uAnime.txt
