@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/atfreddy/adblock/master/atf-custom-easylist.txt
+https://codeberg.org/atfr74/digitalfreedom/raw/branch/main/atf-custom-easylist.txt
 https://raw.github.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
 https://raw.githubusercontent.com/kbinani/adblock-youtube-ads/master/signed.txt
 https://alleblock.pl/alleblock/alleblock.txt
