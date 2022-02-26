@@ -9,7 +9,7 @@
       "types": [],
       "target": "9anime.to",
       "example": "",
-      "enable": false,
+      "enable": true,
       "process": null,
       "_originRe": {}
     },
@@ -127,9 +127,9 @@
       "exclude": "",
       "methods": [],
       "types": [],
-      "target": "y.com.cm",
+      "target": "invidious.snopyta.org",
       "example": "",
-      "enable": false,
+      "enable": true,
       "process": "",
       "_originRe": {}
     },
@@ -189,7 +189,7 @@
       "types": [],
       "target": "yewtu.be",
       "example": "",
-      "enable": true,
+      "enable": false,
       "process": "",
       "_originRe": {}
     },
@@ -213,7 +213,7 @@
       "types": [],
       "target": "vid.puffyan.us",
       "example": "",
-      "enable": false,
+      "enable": true,
       "process": "",
       "_originRe": {}
     }
