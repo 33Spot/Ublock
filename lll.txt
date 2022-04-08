@@ -1,4 +1,5 @@
 https://codeberg.org/x2effe/digitalfreedom/raw/branch/main/atf-custom-easylist.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/quick-fixes.txt
 https://raw.github.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
 https://raw.githubusercontent.com/kbinani/adblock-youtube-ads/master/signed.txt
 https://alleblock.pl/alleblock/alleblock.txt
