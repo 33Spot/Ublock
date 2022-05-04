@@ -29,9 +29,7 @@ https://std.wpcdn.pl/wpjslib/wp-whitelist.txt
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock_ublock.txt
 https://easylist-downloads.adblockplus.org/easyprivacy.txt
 https://raw.githubusercontent.com/nimasaj/uBOPa/master/uBOPa.txt
-
 https://raw.githubusercontent.com/UnluckyLuke/BlockUnderRadarJunk/master/blockunderradarjunk-list.txt
-
 https://raw.githubusercontent.com/medavox/uor/master/rules.txt
 https://raw.githubusercontent.com/austinhuang0131/0131-block-list/master/list.txt
 https://raw.githubusercontent.com/OmniMir/WebMonkey/master/uBlock.txt
@@ -47,9 +45,7 @@ https://raw.githubusercontent.com/LanikSJ/ubo-filters/master/filters/admeasures-
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/master/filters/bt-contentza-domains.txt
 https://raw.githubusercontent.com/adblockpolska/Adblock_PL_List/master/adblock_polska.txt
 https://raw.githubusercontent.com/33Spot/Ublock/master/littlefilter.txt
-
 https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
-
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
 https://github.com/Sappurit/uBlock-Filters/raw/master/Sappurit%20-%20Clean%20Up%20SiamBit
