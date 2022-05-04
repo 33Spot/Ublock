@@ -48,3 +48,9 @@ https://raw.githubusercontent.com/33Spot/Ublock/master/littlefilter.txt
 https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
+https://github.com/Sappurit/uBlock-Filters/raw/master/Sappurit%20-%20Clean%20Up%20SiamBit
+https://github.com/Sappurit/uBlock-Filters/raw/master/Sappurit%20-%20Hide%20Facebook%20Annoyances
+https://github.com/Sappurit/uBlock-Filters/raw/master/Sappurit%20-%20Hide%20Facebook%20Annoyances%20(New%20Layout)
+https://github.com/Sappurit/uBlock-Filters/raw/master/Sappurit%20-%20Hide%20Facebook%20Sponsored
+https://github.com/Sappurit/uBlock-Filters/raw/master/Sappurit%20-%20Hide%20Facebook%20Sponsored%20(New%20Layout)
+https://github.com/Sappurit/uBlock-Filters/raw/master/Sappurit%20-%20Personal%20Filters
