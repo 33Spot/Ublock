@@ -47,7 +47,9 @@ https://raw.githubusercontent.com/LanikSJ/ubo-filters/master/filters/admeasures-
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/master/filters/bt-contentza-domains.txt
 https://raw.githubusercontent.com/adblockpolska/Adblock_PL_List/master/adblock_polska.txt
 https://raw.githubusercontent.com/33Spot/Ublock/master/littlefilter.txt
-X https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
+
+https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
+
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
 https://github.com/Sappurit/uBlock-Filters/raw/master/Sappurit%20-%20Clean%20Up%20SiamBit
