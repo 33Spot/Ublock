@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/UnluckyLuke/BlockUnderRadarJunk/master/blockun
 https://raw.githubusercontent.com/medavox/uor/master/rules.txt
 https://raw.githubusercontent.com/austinhuang0131/0131-block-list/master/list.txt
 https://raw.githubusercontent.com/OmniMir/WebMonkey/master/uBlock.txt
-https://filters.adavoid.org/ultimate-security-filter.txt
+X https://filters.adavoid.org/ultimate-security-filter.txt
 https://raw.githubusercontent.com/Rpsl/adblock-leadgenerator-list/master/list/list.txt
 https://raw.githubusercontent.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/master/polish_rss_filters.txt
 https://raw.githubusercontent.com/IDKwhattoputhere/uBlock-Filters-Plus/master/uBlock-Filters-Plus.txt
@@ -45,7 +45,7 @@ https://raw.githubusercontent.com/LanikSJ/ubo-filters/master/filters/admeasures-
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/master/filters/bt-contentza-domains.txt
 https://raw.githubusercontent.com/adblockpolska/Adblock_PL_List/master/adblock_polska.txt
 https://raw.githubusercontent.com/33Spot/Ublock/master/littlefilter.txt
-https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
+X https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
 https://github.com/Sappurit/uBlock-Filters/raw/master/Sappurit%20-%20Clean%20Up%20SiamBit
