@@ -56,6 +56,8 @@ https://github.com/Sappurit/uBlock-Filters/raw/master/Sappurit%20-%20Hide%20Face
 https://github.com/Sappurit/uBlock-Filters/raw/master/Sappurit%20-%20Personal%20Filters
 https://gitlab.com/Sorrow-San/9anime-adblock-filters/raw/master/9Anime filter list
 https://easylist-msie.adblockplus.org/abp-filters-anti-cv.txt
+https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/english.txt
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock.txt
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock_ublock.txt
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock_adguard.txt
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Adblock-uBlock-Polish-Filters.txt
