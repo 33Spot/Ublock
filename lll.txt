@@ -87,7 +87,7 @@ https://raw.githubusercontent.com/Hubird-au/Adversity/master/Adversity.txt
 
 
 
-
+X https://raw.githubusercontent.com/twcau/AdblockRules/master/CytroxList
 X https://tgc.cloud/downloads/hosts.txt
 X https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/filterlist/other/SurvivedTrackingLinkWarning.txt
 X https://raw.githubusercontent.com/examplecode/ad-rules-for-xbrowser/master/core-rule-cn.txt
