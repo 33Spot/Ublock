@@ -73,7 +73,8 @@ https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/antimalware.txt
 https://curben.gitlab.io/malware-filter/phishing-filter.txt
 https://raw.githubusercontent.com/mistalaba/popover-blocklist/master/blocklist.txt
-
+https://raw.githubusercontent.com/Hunter-Github/the-best-stack-overflow/master/se_filters.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
 
 
 
