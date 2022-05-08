@@ -59,6 +59,7 @@ https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/english
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock_adguard.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/lan-block.txt
 https://easylist-downloads.adblockplus.org/easylistpolish-minified.txt
+https://tgc.cloud/downloads/hosts.txt
 
 X https://filters.adavoid.org/ultimate-security-filter.txt
 X https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock.txt
