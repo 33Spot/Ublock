@@ -81,6 +81,7 @@ https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdRemovalListFor
 https://raw.githubusercontent.com/NeeEoo/AdBlockNeeEoo/master/List.txt
 https://raw.githubusercontent.com/kano1/I/master/badway.txt
 https://raw.githubusercontent.com/Hubird-au/Adversity/master/Adversity.txt
+https://raw.githubusercontent.com/endolith/clickbait/master/clickbait.txt
 
 
 
