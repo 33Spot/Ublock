@@ -57,6 +57,7 @@ https://gitlab.com/Sorrow-San/9anime-adblock-filters/raw/master/9Anime filter li
 https://easylist-msie.adblockplus.org/abp-filters-anti-cv.txt
 https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/english.txt
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock_adguard.txt
+
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/lan-block.txt
 https://easylist-downloads.adblockplus.org/easylistpolish-minified.txt
 https://tgc.cloud/downloads/hosts.txt
