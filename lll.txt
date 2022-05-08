@@ -77,6 +77,7 @@ https://raw.githubusercontent.com/Hunter-Github/the-best-stack-overflow/master/s
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
 https://raw.githubusercontent.com/byaka/ublock-antiskimming-list/master/build/data.txt
 https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt
+https://raw.githubusercontent.com/troysjanda/MyBlockLists/master/UBOXPI
 
 
 
