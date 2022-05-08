@@ -60,7 +60,6 @@ https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adbloc
 
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/lan-block.txt
 https://easylist-downloads.adblockplus.org/easylistpolish-minified.txt
-https://tgc.cloud/downloads/hosts.txt
 https://hg.adblockplus.org/antiadblockfilters/raw-file/tip/antiadblockfilters/antiadblock_english.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AntiBadCapitalismList.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AntiNonNewsList.txt
@@ -81,7 +80,7 @@ https://raw.githubusercontent.com/troysjanda/MyBlockLists/master/UBOXPI
 
 
 
-
+X https://tgc.cloud/downloads/hosts.txt
 X https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/filterlist/other/SurvivedTrackingLinkWarning.txt
 X https://raw.githubusercontent.com/examplecode/ad-rules-for-xbrowser/master/core-rule-cn.txt
 X https://filters.adavoid.org/ultimate-security-filter.txt
@@ -89,5 +88,6 @@ X https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adbl
 X https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock_ublock.txt
 X https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Adblock-uBlock-Polish-Filters.txt
 X https://raw.githubusercontent.com/hit3shjain/Andromeda-ublock-list/master/hosts.txt
+
 
 
