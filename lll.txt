@@ -60,6 +60,8 @@ https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adbloc
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/lan-block.txt
 https://easylist-downloads.adblockplus.org/easylistpolish-minified.txt
 https://tgc.cloud/downloads/hosts.txt
+https://hg.adblockplus.org/antiadblockfilters/raw-file/tip/antiadblockfilters/antiadblock_english.txt
+
 
 X https://filters.adavoid.org/ultimate-security-filter.txt
 X https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock.txt
