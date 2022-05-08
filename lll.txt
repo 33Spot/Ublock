@@ -75,6 +75,8 @@ https://curben.gitlab.io/malware-filter/phishing-filter.txt
 https://raw.githubusercontent.com/mistalaba/popover-blocklist/master/blocklist.txt
 https://raw.githubusercontent.com/Hunter-Github/the-best-stack-overflow/master/se_filters.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
+https://raw.githubusercontent.com/byaka/ublock-antiskimming-list/master/build/data.txt
+
 
 
 
