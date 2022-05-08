@@ -61,6 +61,7 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/lan-block.
 https://easylist-downloads.adblockplus.org/easylistpolish-minified.txt
 https://tgc.cloud/downloads/hosts.txt
 https://hg.adblockplus.org/antiadblockfilters/raw-file/tip/antiadblockfilters/antiadblock_english.txt
+https://raw.githubusercontent.com/examplecode/ad-rules-for-xbrowser/master/core-rule-cn.txt
 
 
 X https://filters.adavoid.org/ultimate-security-filter.txt
