@@ -63,7 +63,7 @@ https://tgc.cloud/downloads/hosts.txt
 https://hg.adblockplus.org/antiadblockfilters/raw-file/tip/antiadblockfilters/antiadblock_english.txt
 https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/filterlist/other/SurvivedTrackingLinkWarning.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AntiBadCapitalismList.txt
-
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AntiNonNewsList.txt
 
 
 
