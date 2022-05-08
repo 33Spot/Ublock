@@ -71,6 +71,7 @@ https://raw.githubusercontent.com/infinitytec/blocklists/master/adfilters.txt
 https://github.com/infinitytec/blocklists/raw/master/medicalpseudoscience.txt
 https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/filterlist/other/MiscAnnoyance.txt
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/antimalware.txt
+https://curben.gitlab.io/malware-filter/phishing-filter.txt
 
 
 
