@@ -82,3 +82,6 @@ X https://filters.adavoid.org/ultimate-security-filter.txt
 X https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock.txt
 X https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock_ublock.txt
 X https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Adblock-uBlock-Polish-Filters.txt
+X https://raw.githubusercontent.com/hit3shjain/Andromeda-ublock-list/master/hosts.txt
+
+
