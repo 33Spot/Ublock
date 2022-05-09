@@ -64,7 +64,6 @@ https://hg.adblockplus.org/antiadblockfilters/raw-file/tip/antiadblockfilters/an
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AntiBadCapitalismList.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AntiNonNewsList.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt
-https://raw.githubusercontent.com/VernonStow/Filterlist/master/Filterlist.txt
 https://github.com/infinitytec/blocklists/raw/master/annoyances.txt
 https://raw.githubusercontent.com/infinitytec/blocklists/master/adfilters.txt
 https://github.com/infinitytec/blocklists/raw/master/medicalpseudoscience.txt
@@ -91,7 +90,7 @@ https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hexxiumt
 
 
 
-
+X https://raw.githubusercontent.com/VernonStow/Filterlist/master/Filterlist.txt
 X https://raw.githubusercontent.com/twcau/AdblockRules/master/CytroxList
 X https://tgc.cloud/downloads/hosts.txt
 X https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/filterlist/other/SurvivedTrackingLinkWarning.txt
