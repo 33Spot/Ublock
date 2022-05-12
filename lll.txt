@@ -77,14 +77,14 @@ https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt
 https://raw.githubusercontent.com/troysjanda/MyBlockLists/master/UBOXPI
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdRemovalListForUnusualAds.txt
 https://raw.githubusercontent.com/NeeEoo/AdBlockNeeEoo/master/List.txt
-https://raw.githubusercontent.com/kano1/I/master/badway.txt
+
 https://raw.githubusercontent.com/endolith/clickbait/master/clickbait.txt
 https://raw.githubusercontent.com/caffeinewriter/DontPushMe/master/filterlist.txt
 https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hexxiumthreatlist.txt
 https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
 
 
-
+X https://raw.githubusercontent.com/kano1/I/master/badway.txt
 X https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
 X https://raw.githubusercontent.com/Hubird-au/Adversity/master/Adversity.txt
 X https://raw.githubusercontent.com/Hackerboi69420/Ublock-anime/main/uAnime.txt
