@@ -83,7 +83,6 @@ https://raw.githubusercontent.com/caffeinewriter/DontPushMe/master/filterlist.tx
 https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hexxiumthreatlist.txt
 https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
 
-https://raw.githubusercontent.com/kano1/I/master/badway.txt
 https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
 
 https://gitcdn.xyz/repo/NanoAdblocker/NanoFilters/master/NanoMirror/NanoDefender.txt
@@ -97,7 +96,7 @@ https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 
 
 X https://raw.github.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
-
+X https://raw.githubusercontent.com/kano1/I/master/badway.txt
 X https://raw.githubusercontent.com/Hubird-au/Adversity/master/Adversity.txt
 X https://raw.githubusercontent.com/Hackerboi69420/Ublock-anime/main/uAnime.txt
 X https://raw.githubusercontent.com/VernonStow/Filterlist/master/Filterlist.txt
