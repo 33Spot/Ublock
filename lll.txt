@@ -84,6 +84,9 @@ https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hexxiumt
 https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
 
 
+
+
+
 X https://raw.githubusercontent.com/kano1/I/master/badway.txt
 X https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
 X https://raw.githubusercontent.com/Hubird-au/Adversity/master/Adversity.txt
