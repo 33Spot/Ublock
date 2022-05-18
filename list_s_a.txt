@@ -47,3 +47,13 @@ https://addons.mozilla.org/pl/firefox/addon/new-tab-override/
 https://addons.mozilla.org/en-US/firefox/addon/open-alternative-redirector/
 https://addons.mozilla.org/en-US/firefox/addon/urlredirector/
 
+https://addons.mozilla.org/pl/firefox/addon/css-exfil-protection/
+https://addons.mozilla.org/pl/firefox/addon/privacy-possum/
+
+
+
+
+
+
+
+
