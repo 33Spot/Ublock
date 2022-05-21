@@ -17,6 +17,7 @@ https://raw.githubusercontent.com/mrmenndev/filters/master/filter/annoyances.txt
 
 https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoMirror/NanoDefender.txt
 https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoBase.txt
+https://winhelp2002.mvps.org/hosts.txt
 
 https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-online.txt
 https://raw.githubusercontent.com/Yuki2718/adblock/master/no_gen_cosm/phhider.txt
