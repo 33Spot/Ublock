@@ -14,8 +14,8 @@ https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/kitty-domains
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/macupload-domains.txt
 https://raw.githubusercontent.com/medavox/uor/master/rules.txt
 https://raw.githubusercontent.com/mrmenndev/filters/master/filter/annoyances.txt
-https://gitcdn.xyz/repo/NanoAdblocker/NanoFilters/master/NanoMirror/NanoDefender.txt
 
+https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoMirror/NanoDefender.txt
 https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoBase.txt
 
 https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-online.txt
