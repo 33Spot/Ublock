@@ -1,4 +1,4 @@
-https://codeberg.org/x2effe/digitalfreedom/raw/branch/main/atf-custom-easylist.txt
+
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/quick-fixes.txt
 
 https://raw.githubusercontent.com/kbinani/adblock-youtube-ads/master/signed.txt
@@ -62,8 +62,6 @@ https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adbloc
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/lan-block.txt
 https://easylist-downloads.adblockplus.org/easylistpolish-minified.txt
 https://hg.adblockplus.org/antiadblockfilters/raw-file/tip/antiadblockfilters/antiadblock_english.txt
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AntiBadCapitalismList.txt
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AntiNonNewsList.txt
 
 https://github.com/infinitytec/blocklists/raw/master/annoyances.txt
 https://raw.githubusercontent.com/infinitytec/blocklists/master/adfilters.txt
@@ -81,7 +79,7 @@ https://raw.githubusercontent.com/byaka/ublock-antiskimming-list/master/build/da
 https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt
 
 https://raw.githubusercontent.com/troysjanda/MyBlockLists/master/UBOXPI
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdRemovalListForUnusualAds.txt
+
 https://raw.githubusercontent.com/NeeEoo/AdBlockNeeEoo/master/List.txt
 
 https://raw.githubusercontent.com/endolith/clickbait/master/clickbait.txt
@@ -101,7 +99,10 @@ https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adbloc
 
 
 
-
+X https://codeberg.org/x2effe/digitalfreedom/raw/branch/main/atf-custom-easylist.txt
+X https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AntiBadCapitalismList.txt
+X https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AntiNonNewsList.txt
+X https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdRemovalListForUnusualAds.txt
 
 X https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt
 X https://winhelp2002.mvps.org/hosts.txt
