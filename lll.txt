@@ -64,7 +64,7 @@ https://easylist-downloads.adblockplus.org/easylistpolish-minified.txt
 https://hg.adblockplus.org/antiadblockfilters/raw-file/tip/antiadblockfilters/antiadblock_english.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AntiBadCapitalismList.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AntiNonNewsList.txt
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt
+
 https://github.com/infinitytec/blocklists/raw/master/annoyances.txt
 https://raw.githubusercontent.com/infinitytec/blocklists/master/adfilters.txt
 https://github.com/infinitytec/blocklists/raw/master/medicalpseudoscience.txt
@@ -98,7 +98,7 @@ https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adbloc
 
 
 
-
+X https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt
 X https://winhelp2002.mvps.org/hosts.txt
 X https://raw.github.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
 X https://raw.githubusercontent.com/kano1/I/master/badway.txt
