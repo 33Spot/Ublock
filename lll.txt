@@ -98,6 +98,11 @@ https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adbloc
 
 
 
+
+
+
+
+
 X https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt
 X https://winhelp2002.mvps.org/hosts.txt
 X https://raw.github.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
