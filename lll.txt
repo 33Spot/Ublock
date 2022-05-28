@@ -94,6 +94,9 @@ https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adbloc
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock_ublock.txt
 
 https://raw.githubusercontent.com/examplecode/ad-rules-for-xbrowser/master/core-rule-cn.txt
+https://gnuzilla.gnu.org/filters/blacklist.txt
+http://abpvn.com/android/abpvn.txt
+https://v.firebog.net/hosts/static/w3kbl.txt
 
 
 
