@@ -76,7 +76,7 @@ https://raw.githubusercontent.com/Hunter-Github/the-best-stack-overflow/master/s
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
 https://raw.githubusercontent.com/byaka/ublock-antiskimming-list/master/build/data.txt
 
-https://raw.githubusercontent.com/troysjanda/MyBlockLists/master/UBOXPI
+
 
 https://raw.githubusercontent.com/NeeEoo/AdBlockNeeEoo/master/List.txt
 
@@ -104,7 +104,7 @@ https://v.firebog.net/hosts/static/w3kbl.txt
 
 
 
-
+X https://raw.githubusercontent.com/troysjanda/MyBlockLists/master/UBOXPI
 X https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt
 X https://raw.githubusercontent.com/examplecode/ad-rules-for-xbrowser/master/core-rule-cn.txt
 X https://codeberg.org/x2effe/digitalfreedom/raw/branch/main/atf-custom-easylist.txt
