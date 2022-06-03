@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/istripper-dom
 https://raw.githubusercontent.com/czaczar/karachan-filters/master/filters.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/kitty-domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/macupload-domains.txt
-https://raw.githubusercontent.com/medavox/uor/master/rules.txt
+
 https://raw.githubusercontent.com/mrmenndev/filters/master/filter/annoyances.txt
 
 https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoMirror/NanoDefender.txt
@@ -105,15 +105,12 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances
 
 
 
-
+X https://raw.githubusercontent.com/medavox/uor/master/rules.txt
 X https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
-
 X https://raw.githubusercontent.com/mistalaba/popover-blocklist/master/blocklist.txt
-
 X http://abpvn.com/android/abpvn.txt
 X https://v.firebog.net/hosts/static/w3kbl.txt
 X https://raw.githubusercontent.com/Hunter-Github/the-best-stack-overflow/master/se_filters.txt
-
 X https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt
 X https://raw.githubusercontent.com/examplecode/ad-rules-for-xbrowser/master/core-rule-cn.txt
 X https://codeberg.org/x2effe/digitalfreedom/raw/branch/main/atf-custom-easylist.txt
