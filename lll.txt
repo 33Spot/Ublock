@@ -90,6 +90,8 @@ https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adbloc
 https://gnuzilla.gnu.org/filters/blacklist.txt
 https://raw.githubusercontent.com/troysjanda/MyBlockLists/master/UBOXPI
 
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
 
 
 
