@@ -83,8 +83,6 @@ https://raw.githubusercontent.com/caffeinewriter/DontPushMe/master/filterlist.tx
 https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hexxiumthreatlist.txt
 https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
 
-https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
-
 https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock.txt
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock_ublock.txt
@@ -102,7 +100,7 @@ https://raw.githubusercontent.com/troysjanda/MyBlockLists/master/UBOXPI
 
 
 
-
+X https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
 
 X https://raw.githubusercontent.com/mistalaba/popover-blocklist/master/blocklist.txt?0.1431170137183687=0.7738454115684772
 
