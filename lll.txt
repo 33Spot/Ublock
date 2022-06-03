@@ -100,6 +100,12 @@ https://raw.githubusercontent.com/troysjanda/MyBlockLists/master/UBOXPI
 
 
 
+
+
+
+
+X https://raw.githubusercontent.com/mistalaba/popover-blocklist/master/blocklist.txt?0.1431170137183687=0.7738454115684772
+
 X http://abpvn.com/android/abpvn.txt
 X https://v.firebog.net/hosts/static/w3kbl.txt
 X https://raw.githubusercontent.com/Hunter-Github/the-best-stack-overflow/master/se_filters.txt
