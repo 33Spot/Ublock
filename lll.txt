@@ -97,6 +97,7 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-20
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2022.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
 
+https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
 
 
 
@@ -106,7 +107,7 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances
 
 
 X https://raw.githubusercontent.com/medavox/uor/master/rules.txt
-X https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
+
 X https://raw.githubusercontent.com/mistalaba/popover-blocklist/master/blocklist.txt
 X http://abpvn.com/android/abpvn.txt
 X https://v.firebog.net/hosts/static/w3kbl.txt
