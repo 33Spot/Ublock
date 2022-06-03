@@ -108,7 +108,7 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances
 
 X https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
 
-X https://raw.githubusercontent.com/mistalaba/popover-blocklist/master/blocklist.txt?0.1431170137183687=0.7738454115684772
+X https://raw.githubusercontent.com/mistalaba/popover-blocklist/master/blocklist.txt
 
 X http://abpvn.com/android/abpvn.txt
 X https://v.firebog.net/hosts/static/w3kbl.txt
