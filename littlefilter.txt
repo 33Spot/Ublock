@@ -190,4 +190,6 @@ pl.spankbang.com##.advrt
 pl.spankbang.com###ts_ad_native_zjgyn
 ||cdn.tsyndicate.com/sdk/v1/n.js$script,domain=pl.spankbang.com
 ||www.gstatic.com/cv/js/*$script,domain=pl.spankbang.com
+! 2022-06-03 https://freedisc.pl
+freedisc.pl###embed_hover_header > div
 
