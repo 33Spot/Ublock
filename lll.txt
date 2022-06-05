@@ -106,6 +106,22 @@ https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralis
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X https://raw.githubusercontent.com/33Spot/Ublock/master/U.txt
 X https://raw.githubusercontent.com/medavox/uor/master/rules.txt
 
 X https://raw.githubusercontent.com/mistalaba/popover-blocklist/master/blocklist.txt
