@@ -87,7 +87,6 @@ https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock.txt
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock_ublock.txt
 
-https://gnuzilla.gnu.org/filters/blacklist.txt
 https://raw.githubusercontent.com/troysjanda/MyBlockLists/master/UBOXPI
 
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt
@@ -120,7 +119,7 @@ https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralis
 
 
 
-
+X https://gnuzilla.gnu.org/filters/blacklist.txt
 X https://raw.githubusercontent.com/33Spot/Ublock/master/U.txt
 X https://raw.githubusercontent.com/medavox/uor/master/rules.txt
 
