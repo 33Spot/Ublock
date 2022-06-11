@@ -193,3 +193,10 @@ pl.spankbang.com###ts_ad_native_zjgyn
 ! 2022-06-03 https://freedisc.pl
 freedisc.pl###embed_hover_header > div
 
+! 2022-06-11 https://gamebanana.com
+||cdn.*playwire.com/*$subdocument
+||cdn.playwire.com/bolt4/js/zeus/releases/4.5.6/frame/frame.html$subdocument
+gamebanana.com###zIframe_tyche_trendi_video
+gamebanana.com###tyche_trendi_video
+gamebanana.com##.pw-pos-bottom-right.is-docked
+
