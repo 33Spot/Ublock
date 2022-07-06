@@ -4,7 +4,7 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/quick-fixe
 https://raw.githubusercontent.com/kbinani/adblock-youtube-ads/master/signed.txt
 https://alleblock.pl/alleblock/alleblock.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/cdn-filter-list.txt
-https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
+
 https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/filterlist/imageboard/GelboLube.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/hilltopads-domains.txt
@@ -122,6 +122,7 @@ https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralis
 X https://gnuzilla.gnu.org/filters/blacklist.txt
 X https://raw.githubusercontent.com/33Spot/Ublock/master/U.txt
 X https://raw.githubusercontent.com/medavox/uor/master/rules.txt
+X https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
 
 X https://raw.githubusercontent.com/mistalaba/popover-blocklist/master/blocklist.txt
 X http://abpvn.com/android/abpvn.txt
