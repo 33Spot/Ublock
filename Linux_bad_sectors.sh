@@ -9,3 +9,4 @@ sudo e2fsck -l bad_sectors.txt /dev/sda1
 # For other file systems (such as FAT32), you can use fsck.
 sudo fsck -l bad_sectors.txt /dev/sda1
 
+
