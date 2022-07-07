@@ -1,5 +1,6 @@
 # identify the disk partition which you want to scan for bad sectors
 sudo lsblk -o name,mountpoint,label,size,uuid
+sudo fdisk -l
 # Scan for Bad Sectors
 sudo badblocks -v /dev/sda1 > ~/bad_sectors.txt
 # Repair Bad Sectors (For ext2, ext3, and ext4 file systems, you can use e2fsck utility)
