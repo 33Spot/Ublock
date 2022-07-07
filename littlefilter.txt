@@ -200,3 +200,6 @@ gamebanana.com###zIframe_tyche_trendi_video
 gamebanana.com###tyche_trendi_video
 gamebanana.com##.pw-pos-bottom-right.is-docked
 
+! 7.07.2022 cdromance.com
+||platform.twitter.com/widgets.js$script,domain=cdromance.com
+
