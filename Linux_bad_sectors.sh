@@ -112,6 +112,8 @@ IFS=$'\n' read -d '' -ra lines < <(lsblk --nodeps -no name,serial,size | grep "s
 
 
 
+https://www.gnome-look.org/p/1000146
+
 
 
 
