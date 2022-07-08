@@ -2,7 +2,7 @@
 sudo lsblk -o name,mountpoint,label,size,uuid
 sudo fdisk -l
 # Scan for Bad Sectors
-sudo badblocks -v /dev/sda1 > ~/bad_sectors.txt
+sudo badblocks -nsv /dev/sda1 > ~/bad_sectors.txt
 # Repair Bad Sectors (For ext2, ext3, and ext4 file systems, you can use e2fsck utility)
 sudo e2fsck -cfpv /dev/sda1
 # You can also specify the bad_sectors.txt file created in the earlier steps as well to force e2fsck to repair those
