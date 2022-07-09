@@ -231,4 +231,6 @@ ffmoviesto.*##+js(nowoif)
 ! https://github.com/uBlockOrigin/uAssets/issues/10832
 fffmoviesto.*##+js(acis, JSON.parse, break;case $.)
 
+! 2022-07-08 https://lookmovie2.to
+lookmovie2.to##.notifyjs-prem_notify-error.notifyjs-prem_notify-base
 
