@@ -203,3 +203,32 @@ gamebanana.com##.pw-pos-bottom-right.is-docked
 ! 7.07.2022 cdromance.com
 ||platform.twitter.com/widgets.js$script,domain=cdromance.com
 
+! https://github.com/uBlockOrigin/uAssets/issues/6738
+fmoviesto.*##+js(acis, parseInt, break;case $.)
+fmoviesto.*##^script:has-text(break;case $.)
+fmoviesto.*##+js(nowoif)
+||fmoviesto.*/sw.js
+fmoviesto.*##+js(set, console.clear, undefined)
+! fmovies.ps popup
+fmoviesto.*###modalshare
+fmoviesto.*##.modal-backdrop
+fmoviesto.*##body.modal-open:style(overflow: auto!important)
+fmoviesto.*###gift-middle
+fmoviesto.*###gift-top
+*$script,redirect-rule=noopjs,domain=playhydrax.com
+
+! thefmovies . me popups
+! https://github.com/uBlockOrigin/uAssets/issues/5926
+thefmoviesto.*##+js(aost, Math, inlineScript)
+thefmoviesto.*##+js(nostif, '0x)
+thefmoviesto.*##+js(nowoif)
+thefmoviesto.*##.mobile-btn
+
+! https://forums.lanik.us/viewtopic.php?p=150260#p150260
+ffmoviesto.*##+js(acis, String.fromCharCode, break;)
+ffmoviesto.*##+js(nowoif)
+
+! https://github.com/uBlockOrigin/uAssets/issues/10832
+fffmoviesto.*##+js(acis, JSON.parse, break;case $.)
+
+
