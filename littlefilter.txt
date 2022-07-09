@@ -234,3 +234,12 @@ fffmoviesto.*##+js(acis, JSON.parse, break;case $.)
 ! 2022-07-08 https://lookmovie2.to
 lookmovie2.to##.notifyjs-prem_notify-error.notifyjs-prem_notify-base
 
+! 2022-07-09 https://getcomics.info
+getcomics.info##.page-sidebar
+getcomics.info##.getco-before-content
+
+! 2022-07-09 https://movies2watch.cc
+movies2watch.cc##.show.premodal-share.premodal.modal
+movies2watch.cc##.show.modal-backdrop
+||cdnjs.cloudflare.com/ajax/libs/popper.js/1.15.0/umd/popper.min.js$script,domain=movies2watch.cc
+
