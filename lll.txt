@@ -97,7 +97,7 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-20
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
 
 https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
-
+https://raw.githubusercontent.com/austinhuang0131/0131-block-list/master/list.txt
 
 
 
