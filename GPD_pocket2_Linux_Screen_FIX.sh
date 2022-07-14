@@ -14,3 +14,4 @@ xrandr -o right
 
 xinput set-prop 15 'Coordinate Transformation Matrix' 0 1 0 -1 0 1 0 0 1
 
+# https://www.ndhfilms.com/other/gpdpocket2#rotatedisplayandtouchscreen
