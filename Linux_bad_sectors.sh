@@ -10,7 +10,9 @@ sudo e2fsck -l bad_sectors.txt /dev/sda1
 # For other file systems (such as FAT32), you can use fsck.
 sudo fsck -l bad_sectors.txt /dev/sda1
 
-readarray -t lines < <(lsblk --nodeps -no name,serial,size | grep "sd")
+#readarray -t lines < <(lsblk --nodeps -no name,serial,size | grep "sd")
+#readarray -t lines < <(lsblk -S --list --nodeps --fs -n --output model,type,serial,size,fstype,fsavail,mountpoint)
+IFS=$'\n' read -d '' -ra lines < <(lsblk -S --list --nodeps --fs -n --output model,type,serial,size,fstype,fsavail,mountpoint)
 
 
 # Prompt the user to select one of the lines.
