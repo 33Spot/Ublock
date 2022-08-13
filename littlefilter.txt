@@ -243,3 +243,40 @@ movies2watch.cc##.show.premodal-share.premodal.modal
 movies2watch.cc##.show.modal-backdrop
 ||cdnjs.cloudflare.com/ajax/libs/popper.js/1.15.0/umd/popper.min.js$script,domain=movies2watch.cc
 
+! 2022-05-04 https://m4uhd.tv
+m4uhd.tv###AdskeeperComposite1182264_10711 > div
+
+! 2022-05-08 https://fmovies.to
+fmovies.to###md-share > .modal-dialog-centered.modal-dialog > .modal-content
+
+! 2022-05-24 https://my.zerotier.com
+my.zerotier.com##.bg-light-yellow
+my.zerotier.com##.center.pa4.mw7
+
+! 2022-07-08 https://lookmovie2.to
+lookmovie2.to##.notifyjs-prem_notify-error.notifyjs-prem_notify-base
+
+! 2022-07-09 https://getcomics.info
+getcomics.info##.page-sidebar
+getcomics.info##.getco-before-content
+
+! 2022-07-09 https://movies2watch.cc
+movies2watch.cc##.show.premodal-share.premodal.modal
+movies2watch.cc##.show.modal-backdrop
+||cdnjs.cloudflare.com/ajax/libs/popper.js/1.15.0/umd/popper.min.js$script,domain=movies2watch.cc
+
+! 2022-07-13 https://www.creativebloq.com
+www.creativebloq.com##.exit-intent__background.exit-intent
+
+! 2022-07-13 https://winraid.level1techs.com
+winraid.level1techs.com###d-splash
+
+! 2022-08-12 https://9anime.id
+9anime.id##.sidebar > .adx
+
+! 2022-08-13 https://9anime.id
+9anime.id##.sidebar > .adx
+9anime.id##.main > .adx
+||servicer.adskeeper.com^$script,domain=9anime.id
+||jsc.adskeeper.com^$script,domain=9anime.id
+
