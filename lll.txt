@@ -99,7 +99,7 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances
 https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
 https://raw.githubusercontent.com/austinhuang0131/0131-block-list/master/list.txt
 
-
+https://codeberg.org/x2effe/digitalfreedom/raw/branch/main/atf-custom-easylist.txt
 
 
 
