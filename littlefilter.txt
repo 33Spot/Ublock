@@ -280,3 +280,5 @@ winraid.level1techs.com###d-splash
 ||servicer.adskeeper.com^$script,domain=9anime.id
 ||jsc.adskeeper.com^$script,domain=9anime.id
 
+! 17.10.2022 https://wiadomosci.wp.pl
+wiadomosci.wp.pl##.wal7zea
