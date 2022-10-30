@@ -100,7 +100,7 @@ https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralis
 https://raw.githubusercontent.com/austinhuang0131/0131-block-list/master/list.txt
 
 https://codeberg.org/x2effe/digitalfreedom/raw/branch/main/atf-custom-easylist.txt
-
+https://abp.oisd.nl/
 
 
 
