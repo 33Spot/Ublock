@@ -102,7 +102,7 @@ https://raw.githubusercontent.com/austinhuang0131/0131-block-list/master/list.tx
 https://codeberg.org/x2effe/digitalfreedom/raw/branch/main/atf-custom-easylist.txt
 
 https://github.com/sjhgvr/oisd/raw/main/abp_full.txt
-
+https://raw.githubusercontent.com/Yuki2718/adblock2/main/medium_mode/dynamic-rules.txt
 
 
 
@@ -111,7 +111,6 @@ CANNOT BE USED IN WATERFOX
 [
 https://dl.nrd-list.com/1/nrd-list-7-days.txt
 https://dl.threat-list.com/1/domains.txt
-https://raw.githubusercontent.com/Yuki2718/adblock2/main/medium_mode/dynamic-rules.txt
 ]
 
 
