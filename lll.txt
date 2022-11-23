@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoMirror/Na
 https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoBase.txt
 
 https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-online.txt
-https://raw.githubusercontent.com/Yuki2718/adblock/master/no_gen_cosm/phhider.txt
+
 https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/raw/master/polish_rss_filters.txt
 https://github.com/FiltersHeroes/PolishAnnoyanceFilters/raw/master/PPB.txt
 https://github.com/MajkiIT/polish-ads-filter/raw/master/adblock_social_filters/adblock_social_list.txt
@@ -103,6 +103,8 @@ https://codeberg.org/x2effe/digitalfreedom/raw/branch/main/atf-custom-easylist.t
 
 https://github.com/sjhgvr/oisd/raw/main/abp_full.txt
 
+https://raw.githubusercontent.com/Yuki2718/adblock2/main/medium_mode/dynamic-rules.txt
+
 
 ONLY FOR FIREFOX
 CANNOT BE USED IN WATERFOX
@@ -126,7 +128,7 @@ https://dl.threat-list.com/1/domains.txt
 
 
 
-
+X https://raw.githubusercontent.com/Yuki2718/adblock2/main/medium_mode/dynamic-rules.txt
 X https://gnuzilla.gnu.org/filters/blacklist.txt
 X https://raw.githubusercontent.com/33Spot/Ublock/master/U.txt
 X https://raw.githubusercontent.com/medavox/uor/master/rules.txt
