@@ -282,3 +282,6 @@ winraid.level1techs.com###d-splash
 
 ! 17.10.2022 https://wiadomosci.wp.pl
 wiadomosci.wp.pl##.wal7zea
+
+www.google.com##.cu-container.DUkiH
+
