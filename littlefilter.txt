@@ -285,6 +285,11 @@ wiadomosci.wp.pl##.wal7zea
 
 www.google.com##.cu-container.DUkiH
 
+! 2023-03-01 https://fmovies.to
+fmovies.to##.text-center.mb-4
+
+
+
 
 ! 2023-02-14 https://fmovies.to
 fmovies.to##.justify-content-center.d-flex
