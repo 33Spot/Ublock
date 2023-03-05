@@ -107,6 +107,7 @@ https://raw.githubusercontent.com/Yuki2718/adblock2/main/medium_mode/dynamic-rul
 
 https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt
 
+https://raw.githubusercontent.com/hant0508/uBlock-filters/master/filters.txt
 
 
 ONLY FOR FIREFOX
