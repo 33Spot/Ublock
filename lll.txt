@@ -53,6 +53,7 @@ https://github.com/Sappurit/uBlock-Filters/raw/master/Sappurit%20-%20Clean%20Up%
 https://github.com/Sappurit/uBlock-Filters/raw/master/Sappurit%20-%20Hide%20Facebook%20Annoyances.txt
 https://github.com/Sappurit/uBlock-Filters/raw/master/Sappurit%20-%20Hide%20Facebook%20Sponsored.txt
 https://github.com/Sappurit/uBlock-Filters/raw/master/Sappurit%20-%20Personal%20Filters.txt
+
 https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 
 https://gitlab.com/Sorrow-San/9anime-adblock-filters/raw/master/9Anime filter list
@@ -108,6 +109,11 @@ https://raw.githubusercontent.com/Yuki2718/adblock2/main/medium_mode/dynamic-rul
 https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt
 
 https://raw.githubusercontent.com/hant0508/uBlock-filters/master/filters.txt
+
+
+
+
+
 
 
 ONLY FOR FIREFOX
