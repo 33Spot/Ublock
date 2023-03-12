@@ -112,7 +112,10 @@ https://raw.githubusercontent.com/hant0508/uBlock-filters/master/filters.txt
 
 https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hexxiumthreatlist.txt
 https://raw.githubusercontent.com/marcusminus/Orthrus-BlockList/master/blocklist.txt
+
+
 https://phishing.army/download/phishing_army_blocklist_extended.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 
 
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt
@@ -147,7 +150,7 @@ https://dl.threat-list.com/1/domains.txt
 
 
 
-X https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
+
 X https://raw.githubusercontent.com/Yuki2718/adblock2/main/medium_mode/dynamic-rules.txt
 X https://gnuzilla.gnu.org/filters/blacklist.txt
 X https://raw.githubusercontent.com/33Spot/Ublock/master/U.txt
