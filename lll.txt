@@ -110,8 +110,19 @@ https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt
 
 https://raw.githubusercontent.com/hant0508/uBlock-filters/master/filters.txt
 
+https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hexxiumthreatlist.txt
+https://raw.githubusercontent.com/marcusminus/Orthrus-BlockList/master/blocklist.txt
+https://phishing.army/download/phishing_army_blocklist_extended.txt
 
 
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt
+https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+https://v.firebog.net/hosts/Prigent-Malware.txt
+
+https://someonewhocares.org/hosts/zero/hosts
+https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
+
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt
 
 
 
