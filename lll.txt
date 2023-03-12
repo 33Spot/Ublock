@@ -122,6 +122,8 @@ https://someonewhocares.org/hosts/zero/hosts
 
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt
 
+https://v.firebog.net/hosts/static/w3kbl.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 
 
 
