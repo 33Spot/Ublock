@@ -123,7 +123,6 @@ https://someonewhocares.org/hosts/zero/hosts
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt
 
 https://v.firebog.net/hosts/static/w3kbl.txt
-https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 
 
 
@@ -148,7 +147,7 @@ https://dl.threat-list.com/1/domains.txt
 
 
 
-
+X https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 X https://raw.githubusercontent.com/Yuki2718/adblock2/main/medium_mode/dynamic-rules.txt
 X https://gnuzilla.gnu.org/filters/blacklist.txt
 X https://raw.githubusercontent.com/33Spot/Ublock/master/U.txt
