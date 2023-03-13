@@ -296,4 +296,7 @@ fmovies.to##.container-2bbafd68a71394d216de8f4e42791b7d58742
 ! 2023-02-14 https://fmovies.to
 fmovies.to##.justify-content-center.d-flex
 
-fmovies.to,flixtor.video,0123movie.onl,yesmovies.at,hdtoday.ru,watchmovieshd.ru,swatchseries.ru,bflix.ru,web.myflixer.ru,flixtor.video,movies7.to,hurawatch.at,fbox.to,flixhq.ru##iframe[class^=".container-2bbafd68a713*"]
+!fmovies.to,flixtor.video,0123movie.onl,yesmovies.at,hdtoday.ru,watchmovieshd.ru,swatchseries.ru,bflix.ru,web.myflixer.ru,flixtor.video,movies7.to,hurawatch.at,fbox.to,flixhq.ru##iframe[class^=".container-2bbafd68a713*"]
+##div[class^="container-2bbafd68a713"]
+##iframe[class^="container-2bbafd68a713"]
+
