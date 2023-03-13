@@ -296,3 +296,4 @@ fmovies.to##.container-2bbafd68a71394d216de8f4e42791b7d58742
 ! 2023-02-14 https://fmovies.to
 fmovies.to##.justify-content-center.d-flex
 
+fmovies.to,flixtor.video##iframe[class^=".container-2bbafd68a713*"]
