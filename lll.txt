@@ -129,6 +129,17 @@ https://v.firebog.net/hosts/static/w3kbl.txt
 
 https://github.com/r4vi/block-the-eu-cookie-shit-list/raw/master/filterlist.txt
 
+https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/google/global.txt
+https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/duckduckgo/global.txt
+https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/all_search_engines/global.txt
+
+https://raw.githubusercontent.com/Yuki2718/adblock2/main/medium_mode/dynamic-rules.txt
+https://raw.githubusercontent.com/Yuki2718/adblock2/main/medium_mode/dynamic-rules-mob.txt
+
+
+
+
+
 
 
 
