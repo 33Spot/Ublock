@@ -127,6 +127,7 @@ https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Dandelion%20Spro
 
 https://v.firebog.net/hosts/static/w3kbl.txt
 
+https://github.com/r4vi/block-the-eu-cookie-shit-list/raw/master/filterlist.txt
 
 
 
