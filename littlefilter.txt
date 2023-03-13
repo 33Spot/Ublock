@@ -299,36 +299,3 @@ fmovies.to##.justify-content-center.d-flex
 !fmovies.to,flixtor.video,0123movie.onl,yesmovies.at,hdtoday.ru,watchmovieshd.ru,swatchseries.ru,bflix.ru,web.myflixer.ru,flixtor.video,movies7.to,hurawatch.at,fbox.to,flixhq.ru##iframe[class^=".container-2bbafd68a713*"]
 ##div[class^="container-2bbafd68a713"]
 ##iframe[class^="container-2bbafd68a713"]
-
-! Removes border radius on the search bar
-!drive.google.com###gb form[role="search"], #gb .a-WErN3d-OEtP0:style(border-radius: 0px !important)
-
-! Removes border radius for the New button
-!drive.google.com##.brbsPe:style(border-radius: 0px !important)
-
-! Removes border radius for any context menu i.e right click
-!drive.google.com##.a-w, .a-mb-w:style(border-radius: 0px !important)
-
-! Removes border radius for the highlight of the current section in the navigation on the left
-!drive.google.com##.a-U-J:style(border-radius: 0px !important)
-
-! Removes border radius for the hover highlight of another section in the navigation on the left
-!drive.google.com##.a-U-J:active::before, .a-U-J:focus::before, .a-U-J:hover::before, .a-U-J-W::before:style(border-radius: 0px !important)
-
-! Removes border radius for the thumbnail box for recently used google files
-drive.google.com##.L202Xe:style(border-radius: 0px !important)
-
-! Removes border radius for the preview of the google file in the recently used files list
-drive.google.com##.Ccie2c:not(:focus) .pMw0s .g5SSAf .ta-gc-np-Nd:style(border-radius: 0px !important)
-
-! Removes border radius for the preview of a video file preview in the recently used files list
-drive.google.com##.l-u-Ab-zb:style(border-radius: 0px !important)
-
-! Removes border radius for the 30 day notification in the Trash
-drive.google.com##.XzbSje:style(border-radius: 0px !important)
-
-! Removes border radius for the hover of the Empty Trash button AND get more storage button
-drive.google.com##.xFWpbf:style(border-radius: 0px !important)
-
-! Removes border radius for the filter by Name and filter by Last modified in the list of files
-drive.google.com##.Sos6ae > .I2rTXb:style(border-radius: 0px !important)
