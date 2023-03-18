@@ -101,8 +101,6 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances
 https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
 https://raw.githubusercontent.com/austinhuang0131/0131-block-list/master/list.txt
 
-https://codeberg.org/x2effe/digitalfreedom/raw/branch/main/atf-custom-easylist.txt
-
 https://github.com/sjhgvr/oisd/raw/main/abp_full.txt
 https://raw.githubusercontent.com/Yuki2718/adblock2/main/medium_mode/dynamic-rules.txt
 
@@ -138,6 +136,7 @@ https://raw.githubusercontent.com/Yuki2718/adblock2/main/medium_mode/dynamic-rul
 
 https://easylist.to/easylist/easyprivacy.txt
 
+https://codeberg.org/x2effe/digitalfreedom/raw/branch/main/ublock_custom.txt
 
 
 
@@ -187,6 +186,7 @@ X https://v.firebog.net/hosts/static/w3kbl.txt
 X https://raw.githubusercontent.com/Hunter-Github/the-best-stack-overflow/master/se_filters.txt
 X https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt
 X https://raw.githubusercontent.com/examplecode/ad-rules-for-xbrowser/master/core-rule-cn.txt
+X https://codeberg.org/x2effe/digitalfreedom/raw/branch/main/atf-custom-easylist.txt
 X https://codeberg.org/x2effe/digitalfreedom/raw/branch/main/atf-custom-easylist.txt
 X https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AntiBadCapitalismList.txt
 X https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AntiNonNewsList.txt
