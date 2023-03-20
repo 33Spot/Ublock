@@ -117,7 +117,7 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 
 
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt
-https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+
 https://v.firebog.net/hosts/Prigent-Malware.txt
 https://someonewhocares.org/hosts/zero/hosts
 
@@ -173,7 +173,7 @@ https://dl.threat-list.com/1/domains.txt
 
 
 
-
+X https://vod.tvp.pl/seriale,18/w-labiryncie-odcinki,280747
 X https://raw.githubusercontent.com/Yuki2718/adblock2/main/medium_mode/dynamic-rules.txt
 X https://gnuzilla.gnu.org/filters/blacklist.txt
 X https://raw.githubusercontent.com/33Spot/Ublock/master/U.txt
