@@ -173,7 +173,6 @@ https://dl.threat-list.com/1/domains.txt
 
 
 
-X https://vod.tvp.pl/seriale,18/w-labiryncie-odcinki,280747
 X https://raw.githubusercontent.com/Yuki2718/adblock2/main/medium_mode/dynamic-rules.txt
 X https://gnuzilla.gnu.org/filters/blacklist.txt
 X https://raw.githubusercontent.com/33Spot/Ublock/master/U.txt
