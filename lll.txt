@@ -170,8 +170,9 @@ https://dl.threat-list.com/1/domains.txt
 
 
 
-
-
+X https://dl.threat-list.com/1/domains.txt 
+X https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+X https://raw.githubusercontent.com/dumbusernameidk/ublock-filters/master/Filters.txt
 
 X https://raw.githubusercontent.com/Yuki2718/adblock2/main/medium_mode/dynamic-rules.txt
 X https://gnuzilla.gnu.org/filters/blacklist.txt
