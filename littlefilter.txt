@@ -300,6 +300,7 @@ fmovies.to##.container-2bbafd68a71394d216de8f4e42791b7d58742
 fmovies.to##.justify-content-center.d-flex
 
 
+0123movie.onl,yesmovies.at,hdtoday.ru,watchmovieshd.ru,swatchseries.ru,bflix.ru,myflixer.ru,flixtor.video,movies7.to,hurawatch.at,fbox.to,flixhq.ru,m4umv.org,m4uhd.tv,ww1.streamm4u.com,sflix.pro#$#abort-current-inline-script document.dispatchEvent myEl; abort-on-property-read aNB; abort-on-property-read BetterJsPop; abort-on-property-read ExLdr.serve; abort-on-property-read exoDocumentProtocol; abort-on-property-read ExoLoader; abort-on-property-read ExoLoader.addZone; abort-on-property-read ExoLoader.serve; abort-on-property-read exoNoExternalUI38djdkjDDJsio96; abort-on-property-read ExoooLoooader; abort-on-property-read getexoloader; abort-on-property-read popit
 
 !=======================================================================================================================================================
 !fmovies.to,flixtor.video,0123movie.onl,yesmovies.at,hdtoday.ru,watchmovieshd.ru,swatchseries.ru,bflix.ru,web.myflixer.ru,flixtor.video,movies7.to,hurawatch.at,fbox.to,flixhq.ru##iframe[class^=".container-2bbafd68a713*"]
