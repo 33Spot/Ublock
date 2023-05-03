@@ -49,11 +49,6 @@ https://raw.githubusercontent.com/33Spot/Ublock/master/littlefilter.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
 
-https://github.com/Sappurit/uBlock-Filters/raw/master/Sappurit%20-%20Clean%20Up%20SiamBit.txt
-https://github.com/Sappurit/uBlock-Filters/raw/master/Sappurit%20-%20Hide%20Facebook%20Annoyances.txt
-https://github.com/Sappurit/uBlock-Filters/raw/master/Sappurit%20-%20Hide%20Facebook%20Sponsored.txt
-https://github.com/Sappurit/uBlock-Filters/raw/master/Sappurit%20-%20Personal%20Filters.txt
-
 https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 
 https://gitlab.com/Sorrow-San/9anime-adblock-filters/raw/master/9Anime filter list
@@ -101,7 +96,6 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances
 https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
 https://raw.githubusercontent.com/austinhuang0131/0131-block-list/master/list.txt
 
-https://github.com/sjhgvr/oisd/raw/main/abp_full.txt
 https://raw.githubusercontent.com/Yuki2718/adblock2/main/medium_mode/dynamic-rules.txt
 
 https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt
@@ -207,5 +201,9 @@ X https://filters.adavoid.org/ultimate-security-filter.txt
 X https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Adblock-uBlock-Polish-Filters.txt
 X https://raw.githubusercontent.com/hit3shjain/Andromeda-ublock-list/master/hosts.txt
 
-
+X https://github.com/Sappurit/uBlock-Filters/raw/master/Sappurit%20-%20Clean%20Up%20SiamBit.txt
+X https://github.com/Sappurit/uBlock-Filters/raw/master/Sappurit%20-%20Hide%20Facebook%20Annoyances.txt
+X https://github.com/Sappurit/uBlock-Filters/raw/master/Sappurit%20-%20Hide%20Facebook%20Sponsored.txt
+X https://github.com/Sappurit/uBlock-Filters/raw/master/Sappurit%20-%20Personal%20Filters.txt
+X https://github.com/sjhgvr/oisd/raw/main/abp_full.txt
 
