@@ -396,3 +396,6 @@ vidnode.net,vidcloud.icu,0123movie.onl,yesmovies.at,hdtoday.ru,watchmovieshd.ru,
 0123movie.onl,yesmovies.at,hdtoday.ru,watchmovieshd.ru,swatchseries.ru,bflix.ru,myflixer.ru,flixtor.video,movies7.to,resetoff.pl,hurawatch.at,fbox.to,flixhq.ru,m4umv.org,m4uhd.tv,ww1.streamm4u.com,sflix.pro,fruithosts.net,streamango.com##+js(abort-on-property-read.js, BetterJsPop)
 0123movie.onl,yesmovies.at,hdtoday.ru,watchmovieshd.ru,swatchseries.ru,bflix.ru,myflixer.ru,flixtor.video,movies7.to,resetoff.pl,hurawatch.at,fbox.to,flixhq.ru,m4umv.org,m4uhd.tv,ww1.streamm4u.com,sflix.pro,fruithosts.net,streamango.com##+js(abort-on-property-read.js, BetterJsPop)
 
+||cloudcdn.monster^$xhr,domain=behind-the-scene
+
+
