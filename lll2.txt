@@ -103,7 +103,7 @@ https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt
 https://raw.githubusercontent.com/hant0508/uBlock-filters/master/filters.txt
 
 https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hexxiumthreatlist.txt
-https://raw.githubusercontent.com/marcusminus/Orthrus-BlockList/master/blocklist.txt
+
 
 
 https://phishing.army/download/phishing_army_blocklist_extended.txt
@@ -206,4 +206,4 @@ X https://github.com/Sappurit/uBlock-Filters/raw/master/Sappurit%20-%20Hide%20Fa
 X https://github.com/Sappurit/uBlock-Filters/raw/master/Sappurit%20-%20Hide%20Facebook%20Sponsored.txt
 X https://github.com/Sappurit/uBlock-Filters/raw/master/Sappurit%20-%20Personal%20Filters.txt
 X https://github.com/sjhgvr/oisd/raw/main/abp_full.txt
-
+X https://raw.githubusercontent.com/marcusminus/Orthrus-BlockList/master/blocklist.txt
