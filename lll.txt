@@ -132,6 +132,9 @@ https://easylist.to/easylist/easyprivacy.txt
 
 https://codeberg.org/x2effe/digitalfreedom/raw/branch/main/ublock_custom.txt
 
+https://raw.githubusercontent.com/FiltersHeroes/PolishAnnoyanceFilters/master/PAF_push.txt
+https://raw.githubusercontent.com/FiltersHeroes/PolishAnnoyanceFilters/master/PAF_pop-ups.txt
+https://raw.githubusercontent.com/FiltersHeroes/PolishAnnoyanceFilters/master/PAF_tagged_internal_links.txt
 
 
 
