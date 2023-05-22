@@ -129,7 +129,7 @@ https://raw.githubusercontent.com/Yuki2718/adblock2/main/medium_mode/dynamic-rul
 https://easylist.to/easylist/easyprivacy.txt
 
 https://codeberg.org/x2effe/digitalfreedom/raw/branch/main/ublock_custom.txt
-
+https://abp.oisd.nl/
 
 
 
