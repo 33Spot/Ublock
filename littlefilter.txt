@@ -399,5 +399,5 @@ vidnode.net,vidcloud.icu,0123movie.onl,yesmovies.at,hdtoday.ru,watchmovieshd.ru,
 ||cloudcdn.monster^$xhr,domain=behind-the-scene
 franspay.monster##.native-ad-wrapper
 
-
+obscho.monster##.notifyjs-prem_notify-error.notifyjs-prem_notify-base
 
