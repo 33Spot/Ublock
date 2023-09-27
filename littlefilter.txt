@@ -399,3 +399,4 @@ franspay.monster##.native-ad-wrapper
 obscho.monster##.notifyjs-prem_notify-error.notifyjs-prem_notify-base
 
 ||bezzobowiazan.com
+^bezzobowiazan.com
