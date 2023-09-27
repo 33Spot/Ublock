@@ -418,3 +418,5 @@ obscho.monster##.notifyjs-prem_notify-error.notifyjs-prem_notify-base
 ||datemyage.com
 ||Bongacams.com
 ||czatujmy.pl
+||idates.com
+||mydates.com
