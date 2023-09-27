@@ -417,4 +417,4 @@ obscho.monster##.notifyjs-prem_notify-error.notifyjs-prem_notify-base
 ||zendate.com
 ||datemyage.com
 ||Bongacams.com
-
+||czatujmy.pl
