@@ -134,7 +134,7 @@ https://abp.oisd.nl/
 https://raw.githubusercontent.com/FiltersHeroes/PolishAnnoyanceFilters/master/PPB.txt
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/cookies_filters/adblock_cookies.txt
 
-
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2023.txt
 
 
 
