@@ -144,7 +144,6 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-20
 
 
 
-
 ONLY FOR FIREFOX
 CANNOT BE USED IN WATERFOX
 [
@@ -214,3 +213,5 @@ X https://raw.githubusercontent.com/nimasaj/uBOPa/master/uBOPa.txt
 X https://raw.githubusercontent.com/marcusminus/Orthrus-BlockList/master/blocklist.txt
 X https://raw.githubusercontent.com/dumbusernameidk/ublock-filters/master/Filters.txt
 X https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt
+X https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
+
