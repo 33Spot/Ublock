@@ -138,7 +138,7 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-20
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2024.txt
 
 X https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Special%20security%20lists/IDNHomographProtection-USLatinTLDsOnly.txt
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Special%20security%20lists/IDNHomographProtectionTotal.txt
+X https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Special%20security%20lists/IDNHomographProtectionTotal.txt
 
 
 
