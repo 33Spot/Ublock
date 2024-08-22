@@ -221,3 +221,8 @@ X https://raw.githubusercontent.com/dumbusernameidk/ublock-filters/master/Filter
 X https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt
 X https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
 
+X https://github.com/Sappurit/uBlock-Filters/raw/master/Sappurit_Clean_Up_BearBit.txt
+X https://github.com/Sappurit/uBlock-Filters/raw/master/Sappurit_Hide_Facebook_Annoyances.txt
+X https://github.com/Sappurit/uBlock-Filters/raw/master/Sappurit_Hide_Facebook_Sponsored.txt
+X https://github.com/Sappurit/uBlock-Filters/raw/master/Sappurit_Mobile_Filters.txt
+X https://github.com/Sappurit/uBlock-Filters/raw/master/Sappurit_Personal_Filters.txt
