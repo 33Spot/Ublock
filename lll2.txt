@@ -126,19 +126,15 @@ https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/all
 https://raw.githubusercontent.com/Yuki2718/adblock2/main/medium_mode/dynamic-rules.txt
 https://raw.githubusercontent.com/Yuki2718/adblock2/main/medium_mode/dynamic-rules-mob.txt
 
-X https://easylist.to/easylist/easyprivacy.txt
 
 https://codeberg.org/x2effe/digitalfreedom/raw/branch/main/ublock_custom.txt
-X https://abp.oisd.nl/
+
 
 https://raw.githubusercontent.com/FiltersHeroes/PolishAnnoyanceFilters/master/PPB.txt
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/cookies_filters/adblock_cookies.txt
 
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2023.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2024.txt
-
-X https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Special%20security%20lists/IDNHomographProtection-USLatinTLDsOnly.txt
-X https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Special%20security%20lists/IDNHomographProtectionTotal.txt
 
 
 
@@ -226,3 +222,9 @@ X https://github.com/Sappurit/uBlock-Filters/raw/master/Sappurit_Hide_Facebook_A
 X https://github.com/Sappurit/uBlock-Filters/raw/master/Sappurit_Hide_Facebook_Sponsored.txt
 X https://github.com/Sappurit/uBlock-Filters/raw/master/Sappurit_Mobile_Filters.txt
 X https://github.com/Sappurit/uBlock-Filters/raw/master/Sappurit_Personal_Filters.txt
+
+X https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Special%20security%20lists/IDNHomographProtection-USLatinTLDsOnly.txt
+X https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Special%20security%20lists/IDNHomographProtectionTotal.txt
+
+X https://easylist.to/easylist/easyprivacy.txt
+X https://abp.oisd.nl/
