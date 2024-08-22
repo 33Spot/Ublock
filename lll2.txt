@@ -135,8 +135,7 @@ https://raw.githubusercontent.com/FiltersHeroes/PolishAnnoyanceFilters/master/PP
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/cookies_filters/adblock_cookies.txt
 
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2023.txt
-
-
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2024.txt
 
 
 
@@ -206,6 +205,12 @@ X https://github.com/Sappurit/uBlock-Filters/raw/master/Sappurit%20-%20Hide%20Fa
 X https://github.com/Sappurit/uBlock-Filters/raw/master/Sappurit%20-%20Hide%20Facebook%20Sponsored.txt
 X https://github.com/Sappurit/uBlock-Filters/raw/master/Sappurit%20-%20Personal%20Filters.txt
 X https://github.com/sjhgvr/oisd/raw/main/abp_full.txt
+
+X https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.mini.txt
+X https://github.com/uBlockOrigin/uAssets/blob/master/filters/filters.txt
+X https://github.com/uBlockOrigin/uAssets/blob/master/filters/resource-abuse.txt
+X https://raw.githubusercontent.com/nimasaj/uBOPa/master/uBOPa.txt
+
 X https://raw.githubusercontent.com/marcusminus/Orthrus-BlockList/master/blocklist.txt
 X https://raw.githubusercontent.com/dumbusernameidk/ublock-filters/master/Filters.txt
 X https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt
