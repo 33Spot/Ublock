@@ -126,10 +126,10 @@ https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/all
 https://raw.githubusercontent.com/Yuki2718/adblock2/main/medium_mode/dynamic-rules.txt
 https://raw.githubusercontent.com/Yuki2718/adblock2/main/medium_mode/dynamic-rules-mob.txt
 
-https://easylist.to/easylist/easyprivacy.txt
+X https://easylist.to/easylist/easyprivacy.txt
 
 https://codeberg.org/x2effe/digitalfreedom/raw/branch/main/ublock_custom.txt
-https://abp.oisd.nl/
+X https://abp.oisd.nl/
 
 https://raw.githubusercontent.com/FiltersHeroes/PolishAnnoyanceFilters/master/PPB.txt
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/cookies_filters/adblock_cookies.txt
