@@ -420,3 +420,117 @@ obscho.monster##.notifyjs-prem_notify-error.notifyjs-prem_notify-base
 ||czatujmy.pl
 ||idates.com
 ||mydates.com
+
+! 2023-12-22 https://www.majtkomat.pl
+www.majtkomat.pl##.labels.ui
+www.majtkomat.pl##div.ng-scope:nth-of-type(3)
+www.majtkomat.pl##div.ng-scope:nth-of-type(5)
+www.majtkomat.pl##div.ng-scope:nth-of-type(7)
+www.majtkomat.pl##div.ng-scope:nth-of-type(9)
+||https://eggperry.click/
+||https://freesoftwareapps.com/
+
+! 2024-01-08 https://voidpoint.io
+voidpoint.io##.header-logged-out > .container-fluid
+||lightshot.en.uptodown.com
+
+! 2024-01-26 https://zamunda.se
+zamunda.se##.magla
+
+! 2024-01-26 https://zamunda.se
+zamunda.se##.blocker-form
+
+! 2024-01-27 http://www.pornfd.com
+www.pornfd.com##.fp-ui
+
+! 2024-02-15 https://fmovieszfree.org
+!fmovieszfree.org##.idc0_343.fbodxkok.idc0_350.czzmcbnbkm
+
+! 2024-02-15 https://fmovieszfree.org
+||mhxpwknw.xyz^$xhr,domain=fmovieszfree.org
+
+! 2024-03-03 https://eon.pl
+eon.pl##.upload-avatar-form.ajax.cta-edit-form
+eon.pl##.form-container-edit
+
+! 2024-04-19 https://pdfgoes.com
+pdfgoes.com##.in.fade.modal.reader-modal
+pdfgoes.com##.in.fade.modal-backdrop
+
+!www.jibjab.com/view/make-preview*##.MuiDialog-root
+www.jibjab.com##.MuiDialog-root.MuiModal-root.css-126xj0f
+!www.jibjab.com##div[role^="presentation"]
+!www.jibjab.com##div[class^="MuiDialog-container"
+
+! 23 maj 2024 https://www.google.com
+www.google.com###taw
+
+! 1 cze 2024 https://pl.im9.eu
+pl.im9.eu###p13354
+
+! 5 cze 2024 https://pornsticky.com
+pornsticky.com##div.wrapper:nth-of-type(5)
+
+! 8 cze 2024 https://www.camshowsrecorded.com
+www.camshowsrecorded.com###overlay
+
+! 16 cze 2024 https://movies7.to
+movies7.to##.container-293e1f9b3e2e3f7323a7e9d29813d44058104
+
+! 21 cze 2024 https://www.izaberime.com
+www.izaberime.com##.age-gate-wrapper
+
+! 13 lip 2024 https://pl.wizcase.com
+pl.wizcase.com##.organic-page-bioep
+
+! 17 lip 2024 https://diag.pl
+diag.pl##.css-negwcm.MuiDialog-scrollPaper.MuiDialog-container
+diag.pl##.css-919eu4.MuiModal-backdrop.MuiBackdrop-root
+
+! 3 sie 2024 https://pytania.abczdrowie.pl
+pytania.abczdrowie.pl##.ddsy4kn
+
+! 7 sie 2024 https://docs.google.com
+docs.google.com##.docs-abuse-abusive-file-warning-banner-container.docs-abuse-warning-banner-container
+
+! 8 sie 2024 https://kimcartoon.li
+!kimcartoon.li###msg
+!kimcartoon.li###qGx8s
+
+!kimcartoon.li##:xpath(//span[text()="Please disable AdBlock"])
+!https://oaphoace.net/401/5021804
+!kimcartoon.li##div>a:has-text(/AdBlock/)
+!kimcartoon.*##+js(set, fuckUB, noopFunc)
+!^https://imgur.com/wndsVf7
+||https://img3.whatsnew247.net/ads2/adpopup.js
+||https://kimcartoon.li/Scripts/oran.min.js
+||https://eu.jeelmuyusa.com/r7P5Zpiq9Sf/10790
+||kimcartoon.li^$popup
+! thefmovies . me popups
+! https://github.com/uBlockOrigin/uAssets/issues/5926
+vidmoly.me##+js(aost, Math, inlineScript)
+vidmoly.me##+js(nostif, '0x)
+vidmoly.me##+js(nowoif)
+vidmoly.me##.mobile-btn
+||vidmoly.me^$popup
+||https://21wiz.com/s.js
+||https://kimcartoon.li/Ads/bid300a.aspx^
+||https://kimcartoon.li/Ads/clickadu300.aspx^
+||https://platform.bidgear.com/pubbidgear-ad.js^
+||https://endowmentoverhangutmost.com/lv/esnk/2004850/code.js^
+videomoly.me##+js(abort-on-property-read.js, BetterJsPop)
+videomoly.me##+js(adblockDetector.js, BetterJsPop)
+adblockDetector.js
+https://img3.whatsnew247.net/ads2/adpopup.js
+vidmoly.me,vidmoly.net,vidmoly.to,abyss.to#@#.AdsBox
+vidmoly.me,vidmoly.net,vidmoly.to,abyss.to###adsblock
+vidmoly.me,vidmoly.net,vidmoly.to,abyss.to##body > div[style*="opacity:"][style*="position: fixed; width:"][style*="z-index:"]
+vidmoly.me,vidmoly.net,vidmoly.to,abyss.to##+js(set-constant, adsbygoogle, {})
+vidmoly.me,vidmoly.net,vidmoly.to,abyss.to##+js(no-fetch-if, pagead2.googlesyndication.com)
+vidmoly.me,vidmoly.net,vidmoly.to,abyss.to##+js(addEventListener-defuser, DOMContentLoaded, /_0x|adsBlocked/)
+$script,redirect-rule=noop.js,domain=vidmoly.me|vidmoly.net|vidmoly.to|abyss.to
+vidmoly.me,vidmoly.net,vidmoly.to,abyss.to##+js(window.open-defuser)
+kmo.to##+js(nowoif, !abyss.to, 1)
+cablegratis.online,filmypur.*,kmo.to,nuroflix.*,onifile.com,oxanime.com,pelis28.*,pelisplusgo.*,pelisplusxd.*,pewgame.com,piraproxy.app,repelisgoo.*,repelisgooo.*,repelisgt.*,repelisxd.*,severeporn.com,sexphimhd.net,theproxy.*,tvply.*,updatesmovie.xyz,vidlox.*,voirseries.io,watchfree.*##+js(aost, Math.random, /\st\.[a-zA-Z]*\s/)
+
+
