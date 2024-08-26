@@ -98,7 +98,7 @@ https://raw.githubusercontent.com/austinhuang0131/0131-block-list/master/list.tx
 
 https://raw.githubusercontent.com/Yuki2718/adblock2/main/medium_mode/dynamic-rules.txt
 
-https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt
+
 
 https://raw.githubusercontent.com/hant0508/uBlock-filters/master/filters.txt
 
@@ -113,7 +113,7 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt
 
 https://v.firebog.net/hosts/Prigent-Malware.txt
-https://someonewhocares.org/hosts/zero/hosts
+
 
 https://v.firebog.net/hosts/static/w3kbl.txt
 
@@ -140,6 +140,8 @@ https://filters.adtidy.org/extension/ublock/filters/3.txt
 https://filters.adtidy.org/extension/ublock/filters/2.txt
 https://filters.adtidy.org/extension/ublock/filters/1.txt
 
+X https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt
+X https://someonewhocares.org/hosts/zero/hosts
 
 
 
