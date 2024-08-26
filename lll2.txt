@@ -28,8 +28,9 @@ https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/propellerads-
 
 https://std.wpcdn.pl/wpjslib/wp-whitelist.txt
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock_ublock.txt
+
 https://easylist-downloads.adblockplus.org/easyprivacy.txt
-https://raw.githubusercontent.com/nimasaj/uBOPa/master/uBOPa.txt
+
 https://raw.githubusercontent.com/UnluckyLuke/BlockUnderRadarJunk/master/blockunderradarjunk-list.txt
 https://raw.githubusercontent.com/medavox/uor/master/rules.txt
 https://raw.githubusercontent.com/austinhuang0131/0131-block-list/master/list.txt
@@ -137,7 +138,8 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-20
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2024.txt
 
 
-
+https://raw.githubusercontent.com/yokoffing/filterlists/main/click2load.txt
+https://raw.githubusercontent.com/yokoffing/filterlists/main/adult_annoyance_list.txt
 
 
 
@@ -227,4 +229,5 @@ X https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Special%20secu
 X https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Special%20security%20lists/IDNHomographProtectionTotal.txt
 
 X https://easylist.to/easylist/easyprivacy.txt
+
 X https://abp.oisd.nl/
