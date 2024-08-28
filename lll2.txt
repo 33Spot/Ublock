@@ -137,7 +137,6 @@ https://raw.githubusercontent.com/yokoffing/filterlists/main/click2load.txt
 https://raw.githubusercontent.com/yokoffing/filterlists/main/adult_annoyance_list.txt
 
 https://filters.adtidy.org/extension/ublock/filters/3.txt
-https://filters.adtidy.org/extension/ublock/filters/2.txt
 https://filters.adtidy.org/extension/ublock/filters/1.txt
 
 
@@ -265,4 +264,5 @@ X https://raw.githubusercontent.com/troysjanda/MyBlockLists/master/UBOXPI
 X https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt
 X https://someonewhocares.org/hosts/zero/hosts
 
+X https://filters.adtidy.org/extension/ublock/filters/2.txt
 
