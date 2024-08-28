@@ -140,8 +140,14 @@ https://filters.adtidy.org/extension/ublock/filters/3.txt
 https://filters.adtidy.org/extension/ublock/filters/2.txt
 https://filters.adtidy.org/extension/ublock/filters/1.txt
 
-X https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt
-X https://someonewhocares.org/hosts/zero/hosts
+
+
+https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/cookies_filters/adblock_cookies.txt
+https://raw.githubusercontent.com/FiltersHeroes/PolishAnnoyanceFilters/master/PPB.txt
+https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
+https://www.i-dont-care-about-cookies.eu/abp/
+
+
 
 
 
@@ -255,3 +261,8 @@ X https://easylist.to/easylist/easyprivacy.txt
 X https://abp.oisd.nl/
 X https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/filterlist/other/MiscAnnoyance.txt
 X https://raw.githubusercontent.com/troysjanda/MyBlockLists/master/UBOXPI
+
+X https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt
+X https://someonewhocares.org/hosts/zero/hosts
+
+
