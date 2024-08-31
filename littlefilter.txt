@@ -533,4 +533,7 @@ vidmoly.me,vidmoly.net,vidmoly.to,abyss.to##+js(window.open-defuser)
 kmo.to##+js(nowoif, !abyss.to, 1)
 cablegratis.online,filmypur.*,kmo.to,nuroflix.*,onifile.com,oxanime.com,pelis28.*,pelisplusgo.*,pelisplusxd.*,pewgame.com,piraproxy.app,repelisgoo.*,repelisgooo.*,repelisgt.*,repelisxd.*,severeporn.com,sexphimhd.net,theproxy.*,tvply.*,updatesmovie.xyz,vidlox.*,voirseries.io,watchfree.*##+js(aost, Math.random, /\st\.[a-zA-Z]*\s/)
 
+! 31 sie 2024 https://sflix.to
+sflix.to##.show.premodal-share.premodal.modal
+sflix.to##.show.modal-backdrop
 
