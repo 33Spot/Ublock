@@ -33,6 +33,7 @@ https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 https://raw.githubusercontent.com/UnluckyLuke/BlockUnderRadarJunk/master/blockunderradarjunk-list.txt
 https://raw.githubusercontent.com/medavox/uor/master/rules.txt
+
 https://raw.githubusercontent.com/austinhuang0131/0131-block-list/master/list.txt
 https://raw.githubusercontent.com/OmniMir/WebMonkey/master/uBlock.txt
 https://raw.githubusercontent.com/Rpsl/adblock-leadgenerator-list/master/list/list.txt
