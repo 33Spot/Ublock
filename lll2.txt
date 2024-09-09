@@ -132,7 +132,7 @@ https://raw.githubusercontent.com/FiltersHeroes/PolishAnnoyanceFilters/master/PP
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/cookies_filters/adblock_cookies.txt
 
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2023.txt
-https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2024.txt
+
 
 
 https://raw.githubusercontent.com/yokoffing/filterlists/main/click2load.txt
@@ -267,4 +267,6 @@ X https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt
 X https://someonewhocares.org/hosts/zero/hosts
 
 X https://filters.adtidy.org/extension/ublock/filters/2.txt
+
+X https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2024.txt
 
