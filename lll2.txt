@@ -148,7 +148,7 @@ https://raw.githubusercontent.com/FiltersHeroes/PolishAnnoyanceFilters/master/PP
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
 https://www.i-dont-care-about-cookies.eu/abp/
 
-
+https://raw.githubusercontent.com/rokibhasansagar/AAK-Cont-fork/master/dist/aak-cont-list-ubo.txt
 
 
 
