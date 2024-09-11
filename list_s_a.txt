@@ -23,19 +23,15 @@ https://greasyfork.org/en/scripts/29326-reddit-default-theme
 https://greasyfork.org/en/scripts/8140-redirect-r-subreddit-to-r-subreddit
 
 https://greasyfork.org/en/scripts/454538-anti-deblocker-ad-blockers-detector-defeater
-
+https://gist.github.com/aneizal/5aa0c7cc7068612773dcffb09399e120/raw/f1af68c6e6ce60eed588aac01036f98239eb40be/aak_grease.user.js
 https://greasyfork.org/en/scripts/456855-anti-anti-adblock-v1-all-sites
-https://gitlab.com/xuhaiyang1234/AAK-Cont/raw/master/dist/aak-cont-script-ubo.user.js
-
-X https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer.user.js
-
-https://greasyfork.org/en/scripts/397070-anti-adblocker-off/code
+https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer.user.js
 https://adsbypasser.github.io/releases/adsbypasser.full.es7.user.js
 
 
 
 
-
+X https://greasyfork.org/en/scripts/397070-anti-adblocker-off/code
 
 
 
