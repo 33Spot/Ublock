@@ -151,7 +151,7 @@ https://www.i-dont-care-about-cookies.eu/abp/
 https://raw.githubusercontent.com/rokibhasansagar/AAK-Cont-fork/master/dist/aak-cont-list-ubo.txt
 
 
-https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2024.txt
+
 
 
 
@@ -272,5 +272,6 @@ X https://someonewhocares.org/hosts/zero/hosts
 
 X https://filters.adtidy.org/extension/ublock/filters/2.txt
 
+X https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2024.txt
 
 
