@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adbloc
 https://easylist-downloads.adblockplus.org/easyprivacy.txt
 
 https://raw.githubusercontent.com/UnluckyLuke/BlockUnderRadarJunk/master/blockunderradarjunk-list.txt
-https://raw.githubusercontent.com/medavox/uor/master/rules.txt
+
 
 https://raw.githubusercontent.com/austinhuang0131/0131-block-list/master/list.txt
 https://raw.githubusercontent.com/OmniMir/WebMonkey/master/uBlock.txt
@@ -203,6 +203,8 @@ X https://raw.githubusercontent.com/Yuki2718/adblock2/main/medium_mode/dynamic-r
 X https://gnuzilla.gnu.org/filters/blacklist.txt
 X https://raw.githubusercontent.com/33Spot/Ublock/master/U.txt
 X https://raw.githubusercontent.com/medavox/uor/master/rules.txt
+
+
 X https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
 
 X https://raw.githubusercontent.com/mistalaba/popover-blocklist/master/blocklist.txt
