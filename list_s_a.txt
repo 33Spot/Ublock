@@ -29,6 +29,11 @@ https://adsbypasser.github.io/releases/adsbypasser.full.es7.user.js
 
 
 
+
+
+
+
+
 X https://gist.github.com/aneizal/5aa0c7cc7068612773dcffb09399e120/raw/f1af68c6e6ce60eed588aac01036f98239eb40be/aak_grease.user.js
 X https://greasyfork.org/en/scripts/397070-anti-adblocker-off/code
 
