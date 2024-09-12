@@ -537,3 +537,72 @@ cablegratis.online,filmypur.*,kmo.to,nuroflix.*,onifile.com,oxanime.com,pelis28.
 sflix.to##.show.premodal-share.premodal.modal
 sflix.to##.show.modal-backdrop
 
+||https://stream-cloud.org/^
+||https://coflix.pro/^
+
+
+! 5 wrz 2024 https://www.topcartoons.tv
+||www.topcartoons.tv/wp-includes/js/mediaelement/mejs-controls.svg$image
+
+! 5 wrz 2024 https://databasegdriveplayer.xyz
+databasegdriveplayer.xyz##.VPY_from_APL1.jw-reset.jw-video
+databasegdriveplayer.xyz##.jw-reset.jw-media
+databasegdriveplayer.xyz##.jw-reset.jw-wrapper > .jw-reset.jw-aspect
+
+||https://public-assets.envato-static.com/assets/generated_sprites/common-5af54247f3a645893af51456ee4c483f6530608e9c15ca4a8ac5a6e994d9a340.png
+||https://public-assets.envato-static.com/assets/generated_sprites/logos-20f56d7ae7a08da2c6698db678490c591ce302aedb1fcd05d3ad1e1484d3caf9.png
+||https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+||https://deblocker.merkulov.design
+||https://deblocker.merkulov.design/wp-includes/js/jquery/jquery-migrate.min.js
+
+! 9 wrz 2024 https://deblocker.merkulov.design
+deblocker.merkulov.design##.bfddebf37-wrapper
+deblocker.merkulov.design##.active.bfddebf37-blackout
+!||deblocker.merkulov.design/wp-content/themes/deblocker/img/browser-top.jpg$image
+!https://deblocker.merkulov.design##
+!deblocker.merkulov.design##body:has-text(-blur):style:has-text(-blackout)
+!example.com##body:has-text(Example)
+!deblocker.merkulov.design##style:has-text(bfddebf37)
+!deblocker.merkulov.design##body>style:has-text(bfddebf37)
+!##body>style:has-text(bfddebf37)
+deblocker.merkulov.design##html > body > style:has-text(/blackout/)
+deblocker.merkulov.design##html > body > style:has-text(/wrapper/)
+deblocker.merkulov.design##html > body > .bfddebf37
+deblocker.merkulov.design##html > body > 
+
+deblocker.merkulov.design##body:style(visibility: visible !important)
+
+!||https://radio.garden/api/geo
+
+! 11 wrz 2024 https://kobieta.wp.pl
+kobieta.wp.pl##.JNd1
+
+! 11 wrz 2024 https://pl.xhamster.com
+pl.xhamster.com##.exp_a.BAn-KWhdpremium-n-overlay
+
+! 11 wrz 2024 https://www.aznude.com
+www.aznude.com##.aznlive-banner
+www.aznude.com##.aznlive-horizontal
+
+
+/pagead.js$domain=d3ward.github.io
+
+! 9 wrz 2024 https://preview.codecanyon.net
+
+!#if !env_firefox
+www.google.com##[href^="https://policies.google.com/privacy"]:upward([aria-label][aria-modal="true"][role="dialog"])
+!#endif
+!#if env_firefox
+www.google.com##^[href^="https://policies.google.com/privacy"]:upward([aria-label][aria-modal="true"][role="dialog"])
+!#endif
+
+! 11 wrz 2024 https://wyborcza.pl
+wyborcza.pl##.grid--bordered.grid--r > .is-initialized
+
+! 11 wrz 2024 https://poznan.wyborcza.pl
+poznan.wyborcza.pl##.nw_2021_padlock
+
+! 12 wrz 2024 https://cdn.privacy-mgmt.com
+cdn.privacy-mgmt.com##.message-overlay
+cdn.privacy-mgmt.com##.global-font.message-container
+
