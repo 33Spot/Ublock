@@ -17,6 +17,8 @@ https://greasyfork.org/en/scripts/408925-reddit-video-downloader
 
 X https://greasyfork.org/pl/scripts/4336-ts-citrus-gfork
 
+https://greasyfork.org/en/scripts/3511-enable-right-click-reek/code
+
 https://greasyfork.org/en/scripts/44669-bring-back-old-reddit
 https://greasyfork.org/en/scripts/414906-multi-downloader
 https://greasyfork.org/en/scripts/370915-reddit-expand-media-and-comments
