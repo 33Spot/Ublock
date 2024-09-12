@@ -65,6 +65,8 @@ https://addons.mozilla.org/en-US/firefox/addon/urlredirector/
 https://addons.mozilla.org/pl/firefox/addon/css-exfil-protection/
 https://addons.mozilla.org/pl/firefox/addon/privacy-possum/
 
+https://addons.mozilla.org/pl/firefox/addon/anti-adblock-blocker/
+
 
 
 
