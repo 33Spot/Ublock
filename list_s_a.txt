@@ -24,6 +24,8 @@ https://greasyfork.org/en/scripts/12327-hide-self-serve-advertising-link-on-redd
 https://greasyfork.org/en/scripts/29326-reddit-default-theme
 https://greasyfork.org/en/scripts/8140-redirect-r-subreddit-to-r-subreddit
 
+https://greasyfork.org/pl/scripts/393562-shinden-pl-bypass
+
 https://greasyfork.org/en/scripts/454538-anti-deblocker-ad-blockers-detector-defeater
 https://greasyfork.org/en/scripts/456855-anti-anti-adblock-v1-all-sites
 https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer.user.js
