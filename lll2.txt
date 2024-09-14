@@ -274,4 +274,39 @@ X https://filters.adtidy.org/extension/ublock/filters/2.txt
 
 X https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2024.txt
 
+X https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+X https://github.com/tek967/adlist/raw/main/youtubeAd.txt
+X https://raw.githubusercontent.com/tek967/adlist/main/annoyances.txt
+X https://github.com/tek967/adlist/raw/main/badware.txt
+X https://github.com/tek967/adlist/raw/main/filters-2020.txt
+X https://raw.githubusercontent.com/tek967/adlist/main/privacy.txt
+X https://github.com/craiu/mobiletrackers/raw/master/list.txt
+X https://github.com/bmyjacks/adlists/raw/master/adlists/AdAway.txt
+X https://raw.githubusercontent.com/bmyjacks/adlists/master/adlists/EasyList.txt
+X https://raw.githubusercontent.com/bmyjacks/adlists/master/adlists/Fanboy-Annoyance-List.txt
+X https://github.com/bmyjacks/adlists/raw/master/adlists/anti-AD-for-Pi-Hole.txt
+X https://github.com/ADsecu/black-domains/raw/master/domain_hosts.txt
+X https://github.com/daylamtayari/Pi-Hole-Blocklist/blob/master/Pi-Hole-Blocklist.txt?raw=true
+X https://github.com/jerryn70/GoodbyeAds/raw/master/Hosts/GoodbyeAds.txt
+X https://github.com/jerryn70/GoodbyeAds/raw/master/Hosts/GoodbyeAds-Ultra.txt
+X https://hostfiles.frogeye.fr/firstparty-trackers.txt
+X https://hostfiles.frogeye.fr/multiparty-only-trackers.txt
+X https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/cryptomine.txt
+X https://raw.githubusercontent.com/cbuijs/shallalist/master/redirector/urls
+X https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
+X https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level1.netset
+X https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level2.netset
+X https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level3.netset
+X https://raw.githubusercontent.com/hell-sh/Evil-Domains/master/evil-domains.txt
+X https://raw.githubusercontent.com/marktron/fakenews/master/fakenews
+X https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list
+X https://raw.githubusercontent.com/pirat28/IHateTracker/master/iHateTracker.txt
+X https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Android%20Scum%20Class%20%E2%80%94%20Fake%20notification%20counters.txt
+X https://raw.githubusercontent.com/llacb47/miscfilters/master/antipaywall.txt
+X https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
+X https://www.i-dont-care-about-cookies.eu/abp/
+X https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
+X https://github.com/Amdromeda/Blocklist-Pi-Hole/raw/master/Porn%20pages.txt
+X https://github.com/Amdromeda/Blocklist-Pi-Hole/raw/master/Ads%20and%20trackers.txt
+
 
