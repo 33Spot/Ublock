@@ -41,6 +41,11 @@ https://greasyfork.org/en/scripts/493726-vidload
 
 
 
+https://greasyfork.org/en/scripts/491686-youtube-to-invidious
+https://greasyfork.org/en/scripts/492022-video-downloader-interface
+
+
+https://greasyfork.org/en/scripts/492029-anilink-episode-link-extractor
 
 
 
