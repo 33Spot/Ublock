@@ -573,6 +573,34 @@ deblocker.merkulov.design##html > body >
 
 deblocker.merkulov.design##body:style(visibility: visible !important)
 
+|http://$script,domain=fmovies.to,third-party
+/?zoneid=$popup
+&zoneid=*&ad_$popup
+$websocket,domain=fmovies.to|
+|blob:$domain=fmovies.to|fmovies.me
+|http://$script,third-party,domain=fmovies.to|fmovies.me
+|https://$script,third-party,domain=fmovies.to|fmovies.me
+@@||ajax.googleapis.com/ajax/libs/$script,domain=fmovies.me
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=fmovies.me
+fmovies.to##a[target="_blank"] > img
+##.share_social
+?auction_id=*&zoneid=$popup
+$websocket,domain=fmovies.se|fmovies.to
+|http://$xmlhttprequest,script,stylesheet,third-party,domain=fmovies.se|fmovies.to
+|https://$xmlhttprequest,script,stylesheet,third-party,domain=fmovies.se|fmovies.to
+@@||ajax.googleapis.com/ajax/libs/$script,domain=fmovies.se|fmovies.to
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=fmovies.se|fmovies.to
+/?zoneid=$popup
+||fmovies.is/*adblock
+$websocket,domain=fmovies.is
+bmovies.to##script:inject(noeval.js)
+@@||bmovies.to^$generichide
+bmovies.to##script:inject(nowebrtc.js)
+bmovies.to##script:inject(abort-current-inline-script.js, parseInt, tabunder)
+bmovies.to##.ToI63pmE
+
+
+
 !||https://radio.garden/api/geo
 
 ! 11 wrz 2024 https://kobieta.wp.pl
