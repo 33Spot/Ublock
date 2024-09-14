@@ -420,6 +420,7 @@ obscho.monster##.notifyjs-prem_notify-error.notifyjs-prem_notify-base
 ||czatujmy.pl
 ||idates.com
 ||mydates.com
+||pukaczu.pl
 
 ! 2023-12-22 https://www.majtkomat.pl
 www.majtkomat.pl##.labels.ui
