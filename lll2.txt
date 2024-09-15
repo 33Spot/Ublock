@@ -154,7 +154,7 @@ https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoFilters/N
 
 https://raw.githubusercontent.com/yokoffing/filterlists/main/antipaywall_filters_without_element_hiding.txt
 
-
+https://raw.githubusercontent.com/yokoffing/filterlists/main/enhanced_site_protection.txt
 
 
 
