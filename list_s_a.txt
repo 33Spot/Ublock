@@ -36,6 +36,7 @@ https://greasyfork.org/en/scripts/397070-anti-adblocker-off
 https://greasyfork.org/pl/scripts/500265-fc-ab-blocker
 https://userscripts.adtidy.org/release/adguard-extra/1.0/adguard-extra.user.js
 
+https://github.com/TheRealJoelmatic/RemoveAdblockThing/raw/main/Youtube-Ad-blocker-Reminder-Remover.user.js
 
 
 
