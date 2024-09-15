@@ -16,7 +16,6 @@ https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/macupload-dom
 https://raw.githubusercontent.com/mrmenndev/filters/master/filter/annoyances.txt
 
 https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoMirror/NanoDefender.txt
-https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoBase.txt
 
 https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-online.txt
 
@@ -308,5 +307,5 @@ X https://www.i-dont-care-about-cookies.eu/abp/
 X https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
 X https://github.com/Amdromeda/Blocklist-Pi-Hole/raw/master/Porn%20pages.txt
 X https://github.com/Amdromeda/Blocklist-Pi-Hole/raw/master/Ads%20and%20trackers.txt
-
+X https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoBase.txt
 
