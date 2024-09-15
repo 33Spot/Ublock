@@ -152,6 +152,7 @@ https://raw.githubusercontent.com/yokoffing/filterlists/main/antipaywall_filters
 
 https://raw.githubusercontent.com/yokoffing/filterlists/main/enhanced_site_protection.txt
 
+https://raw.githubusercontent.com/dinosw/dinofied-filters/master/Filters/streaming.txt
 
 
 
