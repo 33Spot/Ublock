@@ -147,6 +147,7 @@ https://www.i-dont-care-about-cookies.eu/abp/
 https://raw.githubusercontent.com/rokibhasansagar/AAK-Cont-fork/master/dist/aak-cont-list-ubo.txt
 https://raw.githubusercontent.com/yokoffing/filterlists/main/antipaywall_filters_without_element_hiding.txt
 https://raw.githubusercontent.com/yokoffing/filterlists/main/enhanced_site_protection.txt
+https://raw.githubusercontent.com/yokoffing/filterlists/main/adult_annoyance_list.txt
 
 https://raw.githubusercontent.com/dinosw/dinofied-filters/master/Filters/streaming.txt
 
