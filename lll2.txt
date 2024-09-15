@@ -148,10 +148,6 @@ https://www.i-dont-care-about-cookies.eu/abp/
 
 https://raw.githubusercontent.com/rokibhasansagar/AAK-Cont-fork/master/dist/aak-cont-list-ubo.txt
 
-https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoBase.txt
-https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoWhitelist.txt
-https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoAnnoyance.txt
-
 https://raw.githubusercontent.com/yokoffing/filterlists/main/antipaywall_filters_without_element_hiding.txt
 
 https://raw.githubusercontent.com/yokoffing/filterlists/main/enhanced_site_protection.txt
@@ -311,6 +307,9 @@ X https://github.com/Amdromeda/Blocklist-Pi-Hole/raw/master/Porn%20pages.txt
 X https://github.com/Amdromeda/Blocklist-Pi-Hole/raw/master/Ads%20and%20trackers.txt
 X https://raw.githubusercontent.com/yokoffing/filterlists/main/click2load.txt
 X https://raw.githubusercontent.com/yokoffing/filterlists/main/youtube_clear_view.txt
+X https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoBase.txt
+X https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoWhitelist.txt
+X https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoAnnoyance.txt
 
 
 
