@@ -38,6 +38,7 @@ https://userscripts.adtidy.org/release/adguard-extra/1.0/adguard-extra.user.js
 
 https://github.com/TheRealJoelmatic/RemoveAdblockThing/raw/main/Youtube-Ad-blocker-Reminder-Remover.user.js
 
+https://greasyfork.org/en/scripts/387447-youtube-fix/code
 
 
 
