@@ -1,2 +1,4 @@
-userResourcesLocation https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoResources.txt https://raw.githubusercontent.com/uBlock-user/uBO-Scriptlets/master/scriptlets.js
+userResourcesLocation https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoResources.txt
+https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoMirror/uBlockResources.txt
+https://raw.githubusercontent.com/uBlock-user/uBO-Scriptlets/master/scriptlets.js
 allowGenericProceduralFilters true
