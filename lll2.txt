@@ -134,7 +134,6 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-20
 
 
 
-https://raw.githubusercontent.com/yokoffing/filterlists/main/click2load.txt
 https://raw.githubusercontent.com/yokoffing/filterlists/main/adult_annoyance_list.txt
 
 https://filters.adtidy.org/extension/ublock/filters/3.txt
@@ -149,6 +148,9 @@ https://www.i-dont-care-about-cookies.eu/abp/
 
 https://raw.githubusercontent.com/rokibhasansagar/AAK-Cont-fork/master/dist/aak-cont-list-ubo.txt
 
+https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoBase.txt
+https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoWhitelist.txt
+https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoAnnoyance.txt
 
 
 
@@ -307,5 +309,10 @@ X https://www.i-dont-care-about-cookies.eu/abp/
 X https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
 X https://github.com/Amdromeda/Blocklist-Pi-Hole/raw/master/Porn%20pages.txt
 X https://github.com/Amdromeda/Blocklist-Pi-Hole/raw/master/Ads%20and%20trackers.txt
-X https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoBase.txt
+X https://raw.githubusercontent.com/yokoffing/filterlists/main/click2load.txt
+X https://raw.githubusercontent.com/yokoffing/filterlists/main/youtube_clear_view.txt
+
+
+
+
 
