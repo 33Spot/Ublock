@@ -26,8 +26,6 @@ https://greasyfork.org/en/scripts/12327-hide-self-serve-advertising-link-on-redd
 https://greasyfork.org/en/scripts/29326-reddit-default-theme
 https://greasyfork.org/en/scripts/8140-redirect-r-subreddit-to-r-subreddit
 
-https://greasyfork.org/pl/scripts/393562-shinden-pl-bypass
-
 https://greasyfork.org/en/scripts/454538-anti-deblocker-ad-blockers-detector-defeater
 https://greasyfork.org/en/scripts/456855-anti-anti-adblock-v1-all-sites
 https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer.user.js
@@ -36,7 +34,6 @@ https://gist.githubusercontent.com/Firepup6500/5936e3ac3e021f0a57562baa2f093d5b/
 https://greasyfork.org/en/scripts/397070-anti-adblocker-off
 
 https://greasyfork.org/pl/scripts/500265-fc-ab-blocker
-
 https://userscripts.adtidy.org/release/adguard-extra/1.0/adguard-extra.user.js
 
 
@@ -59,22 +56,13 @@ https://userscripts.adtidy.org/release/adguard-extra/1.0/adguard-extra.user.js
 
 
 
-
-https://greasyfork.org/en/scripts/497057-dramalink-episode-link-extractor
-https://greasyfork.org/en/scripts/493726-vidload
-
-
-
-
-
-
-
-https://greasyfork.org/en/scripts/477230-xiaohongshu-download-images-and-record-links
-https://greasyfork.org/en/scripts/491686-youtube-to-invidious
-https://greasyfork.org/en/scripts/492022-video-downloader-interface
-
-
-https://greasyfork.org/en/scripts/492029-anilink-episode-link-extractor
+O https://greasyfork.org/pl/scripts/393562-shinden-pl-bypass
+O https://greasyfork.org/en/scripts/497057-dramalink-episode-link-extractor
+O https://greasyfork.org/en/scripts/493726-vidload
+O https://greasyfork.org/en/scripts/477230-xiaohongshu-download-images-and-record-links
+O https://greasyfork.org/en/scripts/491686-youtube-to-invidious
+O https://greasyfork.org/en/scripts/492022-video-downloader-interface
+O https://greasyfork.org/en/scripts/492029-anilink-episode-link-extractor
 
 
 
