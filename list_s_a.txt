@@ -35,6 +35,30 @@ https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-k
 https://gist.githubusercontent.com/Firepup6500/5936e3ac3e021f0a57562baa2f093d5b/raw/4e53484d3c25d2e26b760c15977d61c6b4002d8a/mf-adblock.js
 https://greasyfork.org/en/scripts/397070-anti-adblocker-off
 
+https://greasyfork.org/pl/scripts/500265-fc-ab-blocker
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 https://greasyfork.org/en/scripts/497057-dramalink-episode-link-extractor
 https://greasyfork.org/en/scripts/493726-vidload
 
