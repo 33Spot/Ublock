@@ -139,21 +139,19 @@ https://raw.githubusercontent.com/yokoffing/filterlists/main/adult_annoyance_lis
 https://filters.adtidy.org/extension/ublock/filters/3.txt
 https://filters.adtidy.org/extension/ublock/filters/1.txt
 
-
-
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/cookies_filters/adblock_cookies.txt
 https://raw.githubusercontent.com/FiltersHeroes/PolishAnnoyanceFilters/master/PPB.txt
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
 https://www.i-dont-care-about-cookies.eu/abp/
 
 https://raw.githubusercontent.com/rokibhasansagar/AAK-Cont-fork/master/dist/aak-cont-list-ubo.txt
-
 https://raw.githubusercontent.com/yokoffing/filterlists/main/antipaywall_filters_without_element_hiding.txt
-
 https://raw.githubusercontent.com/yokoffing/filterlists/main/enhanced_site_protection.txt
 
 https://raw.githubusercontent.com/dinosw/dinofied-filters/master/Filters/streaming.txt
 
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt
+https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 
 
 
