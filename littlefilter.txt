@@ -534,6 +534,24 @@ vidmoly.me,vidmoly.net,vidmoly.to,abyss.to##+js(window.open-defuser)
 kmo.to##+js(nowoif, !abyss.to, 1)
 cablegratis.online,filmypur.*,kmo.to,nuroflix.*,onifile.com,oxanime.com,pelis28.*,pelisplusgo.*,pelisplusxd.*,pewgame.com,piraproxy.app,repelisgoo.*,repelisgooo.*,repelisgt.*,repelisxd.*,severeporn.com,sexphimhd.net,theproxy.*,tvply.*,updatesmovie.xyz,vidlox.*,voirseries.io,watchfree.*##+js(aost, Math.random, /\st\.[a-zA-Z]*\s/)
 
+! 14 wrz 2024 https://www.wco.tv
+www.wco.tv##.saklasanabunu
+
+! 15 wrz 2024 https://videosection.com
+videosection.com##.live-models
+
+||https://deploy.mopinion.com/js/pastease.js
+||https://cdn.iubenda.com/iubenda.js
+
+! 15 wrz 2024 https://canyoublockit.com
+canyoublockit.com###interads-cnt
+canyoublockit.com###interads
+
+#https://canyoublockit.com/wp-content/plugins/ultimate-popunder/assets/ultimate-popunder.js?ver=1.2.6
+#https://canyoublockit.com/wp-content/plugins/ultimate-popunder/assets/lanund.js?ver=1.2.6
+/plugins/ultimate-popunder/*$~stylesheet
+
+
 ! 31 sie 2024 https://sflix.to
 sflix.to##.show.premodal-share.premodal.modal
 sflix.to##.show.modal-backdrop
