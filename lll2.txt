@@ -152,7 +152,7 @@ https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoFilters/N
 https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoWhitelist.txt
 https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoAnnoyance.txt
 
-
+https://raw.githubusercontent.com/yokoffing/filterlists/main/antipaywall_filters_without_element_hiding.txt
 
 
 
