@@ -40,10 +40,6 @@ https://userscripts.adtidy.org/release/adguard-extra/1.0/adguard-extra.user.js
 https://adsbypasser.github.io/releases/adsbypasser.full.es7.user.js
 https://github.com/TheRealJoelmatic/RemoveAdblockThing/raw/main/Youtube-Ad-blocker-Reminder-Remover.user.js
 
-
-
-
-https://greasyfork.org/en/scripts/387447-youtube-fix/code
 https://cytu.be/js/cytube-google-drive.user.js
 
 
@@ -64,7 +60,7 @@ https://cytu.be/js/cytube-google-drive.user.js
 
 
 
-
+X https://greasyfork.org/en/scripts/387447-youtube-fix/code
 O https://greasyfork.org/pl/scripts/393562-shinden-pl-bypass
 O https://greasyfork.org/en/scripts/497057-dramalink-episode-link-extractor
 O https://greasyfork.org/en/scripts/493726-vidload
