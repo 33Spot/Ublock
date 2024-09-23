@@ -15,8 +15,6 @@ https://raw.githubusercontent.com/pcgeek86/tampermonkey-youtubequality/main/yout
 
 https://greasyfork.org/en/scripts/408925-reddit-video-downloader
 
-X https://greasyfork.org/pl/scripts/4336-ts-citrus-gfork
-
 https://greasyfork.org/en/scripts/3511-enable-right-click-reek/code
 
 https://greasyfork.org/en/scripts/44669-bring-back-old-reddit
@@ -80,6 +78,8 @@ X https://gitlab.com/xuhaiyang1234/AAK-Cont/raw/master/dist/aak-cont-script-ubo.
 
 X https://gist.github.com/aneizal/5aa0c7cc7068612773dcffb09399e120/raw/f1af68c6e6ce60eed588aac01036f98239eb40be/aak_grease.user.js
 X https://greasyfork.org/en/scripts/397070-anti-adblocker-off/code
+X https://greasyfork.org/pl/scripts/4336-ts-citrus-gfork
+
 
 
 
