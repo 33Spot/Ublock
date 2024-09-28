@@ -659,6 +659,10 @@ www.xxxhub123.com###acipp_content
 ! 19 wrz 2024 https://www.youtube.com
 www.youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope > .ytd-popup-container.style-scope
 
+! 28 wrz 2024 https://showup.tv
+showup.tv###new-regulations-and-privacy-modal
+showup.tv###new-regulations-and-privacy-modal-background
+
 
 
 
