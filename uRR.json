@@ -1,221 +1,87 @@
-{
-  "version": "1.0",
-  "rules": [
-    {
-      "description": "",
-      "origin": "9anime.is",
-      "exclude": "",
-      "methods": [],
-      "types": [],
-      "target": "9anime.to",
-      "example": "",
-      "enable": true,
-      "process": null,
-      "_originRe": {}
-    },
-    {
-      "description": "",
-      "origin": "fmovies.se",
-      "exclude": "",
-      "methods": [],
-      "types": [],
-      "target": "fmovies.to",
-      "example": "",
-      "enable": false,
-      "process": null,
-      "_originRe": {}
-    },
-    {
-      "description": "",
-      "origin": "www6.fmoviesfree.net",
-      "exclude": "",
-      "methods": [],
-      "types": [],
-      "target": "ffmovies.ru",
-      "example": "https://www6.fmoviesfree.net/season/stargate-origins-season-1/",
-      "enable": false,
-      "process": "",
-      "_originRe": {}
-    },
-    {
-      "description": "",
-      "origin": "watchcartoonsonline.be",
-      "exclude": "",
-      "methods": [],
-      "types": [],
-      "target": "watchcartoonsonline.la",
-      "example": "",
-      "enable": false,
-      "process": "",
-      "_originRe": {}
-    },
-    {
-      "description": "",
-      "origin": "9anime.nl",
-      "exclude": "",
-      "methods": [],
-      "types": [],
-      "target": "9anime.to",
-      "example": "",
-      "enable": false,
-      "process": "",
-      "_originRe": {}
-    },
-    {
-      "description": "fmovies.to solar",
-      "origin": "ffmovies.solar",
-      "exclude": "",
-      "methods": [],
-      "types": [],
-      "target": "ffmovies.to",
-      "example": "ffmovies.solar",
-      "enable": false,
-      "process": "",
-      "_originRe": {}
-    },
-    {
-      "description": "youtube redirector 1",
-      "origin": "www.youtube.com",
-      "exclude": "",
-      "methods": [],
-      "types": [],
-      "target": "inv.riverside.rocks",
-      "example": "www.youtube.com",
-      "enable": true,
-      "process": "",
-      "_originRe": {}
-    },
-    {
-      "description": "youtube redirector 2",
-      "origin": "inv.riverside.rocks",
-      "exclude": "",
-      "methods": [],
-      "types": [],
-      "target": "ytb.trom.tf",
-      "example": "",
-      "enable": true,
-      "process": "",
-      "_originRe": {}
-    },
-    {
-      "description": "youtube redirector 3",
-      "origin": "ytb.trom.tf",
-      "exclude": "",
-      "methods": [],
-      "types": [],
-      "target": "ytprivate.com",
-      "example": "",
-      "enable": true,
-      "process": "",
-      "_originRe": {}
-    },
-    {
-      "description": "youtube redirector 4",
-      "origin": "ytprivate.com",
-      "exclude": "",
-      "methods": [],
-      "types": [],
-      "target": "yewtu.be",
-      "example": "",
-      "enable": true,
-      "process": "",
-      "_originRe": {}
-    },
-    {
-      "description": "youtube redirector 5",
-      "origin": "yewtu.be",
-      "exclude": "",
-      "methods": [],
-      "types": [],
-      "target": "invidious.snopyta.org",
-      "example": "",
-      "enable": true,
-      "process": "",
-      "_originRe": {}
-    },
-    {
-      "description": "youtube redirector 6",
-      "origin": "vid.puffyan.us",
-      "exclude": "",
-      "methods": [],
-      "types": [],
-      "target": "y.com.cm",
-      "example": "",
-      "enable": false,
-      "process": "",
-      "_originRe": {}
-    },
-    {
-      "description": "youtube redirector 7",
-      "origin": "y.com.cm",
-      "exclude": "",
-      "methods": [],
-      "types": [],
-      "target": "yt.didw.to",
-      "example": "",
-      "enable": false,
-      "process": "",
-      "_originRe": {}
-    },
-    {
-      "description": "youtube redirector 8",
-      "origin": "yt.didw.to",
-      "exclude": "",
-      "methods": [],
-      "types": [],
-      "target": "vid.mint.lgbt",
-      "example": "",
-      "enable": false,
-      "process": "",
-      "_originRe": {}
-    },
-    {
-      "description": "youtube redirector 9",
-      "origin": "vid.mint.lgbt",
-      "exclude": "",
-      "methods": [],
-      "types": [],
-      "target": "invidious-us.kavin.rocks",
-      "example": "",
-      "enable": false,
-      "process": "",
-      "_originRe": {}
-    },
-    {
-      "description": "youtube redirector 10",
-      "origin": "invidious-us.kavin.rocks",
-      "exclude": "",
-      "methods": [],
-      "types": [],
-      "target": "yewtu.be",
-      "example": "",
-      "enable": false,
-      "process": "",
-      "_originRe": {}
-    },
-    {
-      "description": "youtube redirector 11",
-      "origin": "yewtu.be",
-      "exclude": "",
-      "methods": [],
-      "types": [],
-      "target": "yt.artemislena.eu",
-      "example": "",
-      "enable": false,
-      "process": "",
-      "_originRe": {}
-    },
-    {
-      "description": "youtube redirector 12",
-      "origin": "yt.artemislena.eu",
-      "exclude": "",
-      "methods": [],
-      "types": [],
-      "target": "vid.puffyan.us",
-      "example": "",
-      "enable": true,
-      "process": "",
-      "_originRe": {}
-    }
-  ]
-}
+ewogICJ2ZXJzaW9uIjogIjEuMCIsCiAgInJ1bGVzIjogWwogICAgewogICAgICAiZGVzY3JpcHRp
+b24iOiAiIiwKICAgICAgIm9yaWdpbiI6ICI5YW5pbWUuaXMiLAogICAgICAiZXhjbHVkZSI6ICIi
+LAogICAgICAibWV0aG9kcyI6IFtdLAogICAgICAidHlwZXMiOiBbXSwKICAgICAgInRhcmdldCI6
+ICI5YW5pbWUudG8iLAogICAgICAiZXhhbXBsZSI6ICIiLAogICAgICAiZW5hYmxlIjogdHJ1ZSwK
+ICAgICAgInByb2Nlc3MiOiBudWxsLAogICAgICAiX29yaWdpblJlIjoge30KICAgIH0sCiAgICB7
+CiAgICAgICJkZXNjcmlwdGlvbiI6ICIiLAogICAgICAib3JpZ2luIjogImZtb3ZpZXMuc2UiLAog
+ICAgICAiZXhjbHVkZSI6ICIiLAogICAgICAibWV0aG9kcyI6IFtdLAogICAgICAidHlwZXMiOiBb
+XSwKICAgICAgInRhcmdldCI6ICJmbW92aWVzLnRvIiwKICAgICAgImV4YW1wbGUiOiAiIiwKICAg
+ICAgImVuYWJsZSI6IGZhbHNlLAogICAgICAicHJvY2VzcyI6IG51bGwsCiAgICAgICJfb3JpZ2lu
+UmUiOiB7fQogICAgfSwKICAgIHsKICAgICAgImRlc2NyaXB0aW9uIjogIiIsCiAgICAgICJvcmln
+aW4iOiAid3d3Ni5mbW92aWVzZnJlZS5uZXQiLAogICAgICAiZXhjbHVkZSI6ICIiLAogICAgICAi
+bWV0aG9kcyI6IFtdLAogICAgICAidHlwZXMiOiBbXSwKICAgICAgInRhcmdldCI6ICJmZm1vdmll
+cy5ydSIsCiAgICAgICJleGFtcGxlIjogImh0dHBzOi8vd3d3Ni5mbW92aWVzZnJlZS5uZXQvc2Vh
+c29uL3N0YXJnYXRlLW9yaWdpbnMtc2Vhc29uLTEvIiwKICAgICAgImVuYWJsZSI6IGZhbHNlLAog
+ICAgICAicHJvY2VzcyI6ICIiLAogICAgICAiX29yaWdpblJlIjoge30KICAgIH0sCiAgICB7CiAg
+ICAgICJkZXNjcmlwdGlvbiI6ICIiLAogICAgICAib3JpZ2luIjogIndhdGNoY2FydG9vbnNvbmxp
+bmUuYmUiLAogICAgICAiZXhjbHVkZSI6ICIiLAogICAgICAibWV0aG9kcyI6IFtdLAogICAgICAi
+dHlwZXMiOiBbXSwKICAgICAgInRhcmdldCI6ICJ3YXRjaGNhcnRvb25zb25saW5lLmxhIiwKICAg
+ICAgImV4YW1wbGUiOiAiIiwKICAgICAgImVuYWJsZSI6IGZhbHNlLAogICAgICAicHJvY2VzcyI6
+ICIiLAogICAgICAiX29yaWdpblJlIjoge30KICAgIH0sCiAgICB7CiAgICAgICJkZXNjcmlwdGlv
+biI6ICIiLAogICAgICAib3JpZ2luIjogIjlhbmltZS5ubCIsCiAgICAgICJleGNsdWRlIjogIiIs
+CiAgICAgICJtZXRob2RzIjogW10sCiAgICAgICJ0eXBlcyI6IFtdLAogICAgICAidGFyZ2V0Ijog
+IjlhbmltZS50byIsCiAgICAgICJleGFtcGxlIjogIiIsCiAgICAgICJlbmFibGUiOiBmYWxzZSwK
+ICAgICAgInByb2Nlc3MiOiAiIiwKICAgICAgIl9vcmlnaW5SZSI6IHt9CiAgICB9LAogICAgewog
+ICAgICAiZGVzY3JpcHRpb24iOiAiZm1vdmllcy50byBzb2xhciIsCiAgICAgICJvcmlnaW4iOiAi
+ZmZtb3ZpZXMuc29sYXIiLAogICAgICAiZXhjbHVkZSI6ICIiLAogICAgICAibWV0aG9kcyI6IFtd
+LAogICAgICAidHlwZXMiOiBbXSwKICAgICAgInRhcmdldCI6ICJmZm1vdmllcy50byIsCiAgICAg
+ICJleGFtcGxlIjogImZmbW92aWVzLnNvbGFyIiwKICAgICAgImVuYWJsZSI6IGZhbHNlLAogICAg
+ICAicHJvY2VzcyI6ICIiLAogICAgICAiX29yaWdpblJlIjoge30KICAgIH0sCiAgICB7CiAgICAg
+ICJkZXNjcmlwdGlvbiI6ICJ5b3V0dWJlIHJlZGlyZWN0b3IgMSIsCiAgICAgICJvcmlnaW4iOiAi
+d3d3LnlvdXR1YmUuY29tIiwKICAgICAgImV4Y2x1ZGUiOiAiIiwKICAgICAgIm1ldGhvZHMiOiBb
+XSwKICAgICAgInR5cGVzIjogW10sCiAgICAgICJ0YXJnZXQiOiAiaW52LnJpdmVyc2lkZS5yb2Nr
+cyIsCiAgICAgICJleGFtcGxlIjogInd3dy55b3V0dWJlLmNvbSIsCiAgICAgICJlbmFibGUiOiB0
+cnVlLAogICAgICAicHJvY2VzcyI6ICIiLAogICAgICAiX29yaWdpblJlIjoge30KICAgIH0sCiAg
+ICB7CiAgICAgICJkZXNjcmlwdGlvbiI6ICJ5b3V0dWJlIHJlZGlyZWN0b3IgMiIsCiAgICAgICJv
+cmlnaW4iOiAiaW52LnJpdmVyc2lkZS5yb2NrcyIsCiAgICAgICJleGNsdWRlIjogIiIsCiAgICAg
+ICJtZXRob2RzIjogW10sCiAgICAgICJ0eXBlcyI6IFtdLAogICAgICAidGFyZ2V0IjogInl0Yi50
+cm9tLnRmIiwKICAgICAgImV4YW1wbGUiOiAiIiwKICAgICAgImVuYWJsZSI6IHRydWUsCiAgICAg
+ICJwcm9jZXNzIjogIiIsCiAgICAgICJfb3JpZ2luUmUiOiB7fQogICAgfSwKICAgIHsKICAgICAg
+ImRlc2NyaXB0aW9uIjogInlvdXR1YmUgcmVkaXJlY3RvciAzIiwKICAgICAgIm9yaWdpbiI6ICJ5
+dGIudHJvbS50ZiIsCiAgICAgICJleGNsdWRlIjogIiIsCiAgICAgICJtZXRob2RzIjogW10sCiAg
+ICAgICJ0eXBlcyI6IFtdLAogICAgICAidGFyZ2V0IjogInl0cHJpdmF0ZS5jb20iLAogICAgICAi
+ZXhhbXBsZSI6ICIiLAogICAgICAiZW5hYmxlIjogdHJ1ZSwKICAgICAgInByb2Nlc3MiOiAiIiwK
+ICAgICAgIl9vcmlnaW5SZSI6IHt9CiAgICB9LAogICAgewogICAgICAiZGVzY3JpcHRpb24iOiAi
+eW91dHViZSByZWRpcmVjdG9yIDQiLAogICAgICAib3JpZ2luIjogInl0cHJpdmF0ZS5jb20iLAog
+ICAgICAiZXhjbHVkZSI6ICIiLAogICAgICAibWV0aG9kcyI6IFtdLAogICAgICAidHlwZXMiOiBb
+XSwKICAgICAgInRhcmdldCI6ICJ5ZXd0dS5iZSIsCiAgICAgICJleGFtcGxlIjogIiIsCiAgICAg
+ICJlbmFibGUiOiB0cnVlLAogICAgICAicHJvY2VzcyI6ICIiLAogICAgICAiX29yaWdpblJlIjog
+e30KICAgIH0sCiAgICB7CiAgICAgICJkZXNjcmlwdGlvbiI6ICJ5b3V0dWJlIHJlZGlyZWN0b3Ig
+NSIsCiAgICAgICJvcmlnaW4iOiAieWV3dHUuYmUiLAogICAgICAiZXhjbHVkZSI6ICIiLAogICAg
+ICAibWV0aG9kcyI6IFtdLAogICAgICAidHlwZXMiOiBbXSwKICAgICAgInRhcmdldCI6ICJpbnZp
+ZGlvdXMuc25vcHl0YS5vcmciLAogICAgICAiZXhhbXBsZSI6ICIiLAogICAgICAiZW5hYmxlIjog
+dHJ1ZSwKICAgICAgInByb2Nlc3MiOiAiIiwKICAgICAgIl9vcmlnaW5SZSI6IHt9CiAgICB9LAog
+ICAgewogICAgICAiZGVzY3JpcHRpb24iOiAieW91dHViZSByZWRpcmVjdG9yIDYiLAogICAgICAi
+b3JpZ2luIjogInZpZC5wdWZmeWFuLnVzIiwKICAgICAgImV4Y2x1ZGUiOiAiIiwKICAgICAgIm1l
+dGhvZHMiOiBbXSwKICAgICAgInR5cGVzIjogW10sCiAgICAgICJ0YXJnZXQiOiAieS5jb20uY20i
+LAogICAgICAiZXhhbXBsZSI6ICIiLAogICAgICAiZW5hYmxlIjogZmFsc2UsCiAgICAgICJwcm9j
+ZXNzIjogIiIsCiAgICAgICJfb3JpZ2luUmUiOiB7fQogICAgfSwKICAgIHsKICAgICAgImRlc2Ny
+aXB0aW9uIjogInlvdXR1YmUgcmVkaXJlY3RvciA3IiwKICAgICAgIm9yaWdpbiI6ICJ5LmNvbS5j
+bSIsCiAgICAgICJleGNsdWRlIjogIiIsCiAgICAgICJtZXRob2RzIjogW10sCiAgICAgICJ0eXBl
+cyI6IFtdLAogICAgICAidGFyZ2V0IjogInl0LmRpZHcudG8iLAogICAgICAiZXhhbXBsZSI6ICIi
+LAogICAgICAiZW5hYmxlIjogZmFsc2UsCiAgICAgICJwcm9jZXNzIjogIiIsCiAgICAgICJfb3Jp
+Z2luUmUiOiB7fQogICAgfSwKICAgIHsKICAgICAgImRlc2NyaXB0aW9uIjogInlvdXR1YmUgcmVk
+aXJlY3RvciA4IiwKICAgICAgIm9yaWdpbiI6ICJ5dC5kaWR3LnRvIiwKICAgICAgImV4Y2x1ZGUi
+OiAiIiwKICAgICAgIm1ldGhvZHMiOiBbXSwKICAgICAgInR5cGVzIjogW10sCiAgICAgICJ0YXJn
+ZXQiOiAidmlkLm1pbnQubGdidCIsCiAgICAgICJleGFtcGxlIjogIiIsCiAgICAgICJlbmFibGUi
+OiBmYWxzZSwKICAgICAgInByb2Nlc3MiOiAiIiwKICAgICAgIl9vcmlnaW5SZSI6IHt9CiAgICB9
+LAogICAgewogICAgICAiZGVzY3JpcHRpb24iOiAieW91dHViZSByZWRpcmVjdG9yIDkiLAogICAg
+ICAib3JpZ2luIjogInZpZC5taW50LmxnYnQiLAogICAgICAiZXhjbHVkZSI6ICIiLAogICAgICAi
+bWV0aG9kcyI6IFtdLAogICAgICAidHlwZXMiOiBbXSwKICAgICAgInRhcmdldCI6ICJpbnZpZGlv
+dXMtdXMua2F2aW4ucm9ja3MiLAogICAgICAiZXhhbXBsZSI6ICIiLAogICAgICAiZW5hYmxlIjog
+ZmFsc2UsCiAgICAgICJwcm9jZXNzIjogIiIsCiAgICAgICJfb3JpZ2luUmUiOiB7fQogICAgfSwK
+ICAgIHsKICAgICAgImRlc2NyaXB0aW9uIjogInlvdXR1YmUgcmVkaXJlY3RvciAxMCIsCiAgICAg
+ICJvcmlnaW4iOiAiaW52aWRpb3VzLXVzLmthdmluLnJvY2tzIiwKICAgICAgImV4Y2x1ZGUiOiAi
+IiwKICAgICAgIm1ldGhvZHMiOiBbXSwKICAgICAgInR5cGVzIjogW10sCiAgICAgICJ0YXJnZXQi
+OiAieWV3dHUuYmUiLAogICAgICAiZXhhbXBsZSI6ICIiLAogICAgICAiZW5hYmxlIjogZmFsc2Us
+CiAgICAgICJwcm9jZXNzIjogIiIsCiAgICAgICJfb3JpZ2luUmUiOiB7fQogICAgfSwKICAgIHsK
+ICAgICAgImRlc2NyaXB0aW9uIjogInlvdXR1YmUgcmVkaXJlY3RvciAxMSIsCiAgICAgICJvcmln
+aW4iOiAieWV3dHUuYmUiLAogICAgICAiZXhjbHVkZSI6ICIiLAogICAgICAibWV0aG9kcyI6IFtd
+LAogICAgICAidHlwZXMiOiBbXSwKICAgICAgInRhcmdldCI6ICJ5dC5hcnRlbWlzbGVuYS5ldSIs
+CiAgICAgICJleGFtcGxlIjogIiIsCiAgICAgICJlbmFibGUiOiBmYWxzZSwKICAgICAgInByb2Nl
+c3MiOiAiIiwKICAgICAgIl9vcmlnaW5SZSI6IHt9CiAgICB9LAogICAgewogICAgICAiZGVzY3Jp
+cHRpb24iOiAieW91dHViZSByZWRpcmVjdG9yIDEyIiwKICAgICAgIm9yaWdpbiI6ICJ5dC5hcnRl
+bWlzbGVuYS5ldSIsCiAgICAgICJleGNsdWRlIjogIiIsCiAgICAgICJtZXRob2RzIjogW10sCiAg
+ICAgICJ0eXBlcyI6IFtdLAogICAgICAidGFyZ2V0IjogInZpZC5wdWZmeWFuLnVzIiwKICAgICAg
+ImV4YW1wbGUiOiAiIiwKICAgICAgImVuYWJsZSI6IHRydWUsCiAgICAgICJwcm9jZXNzIjogIiIs
+CiAgICAgICJfb3JpZ2luUmUiOiB7fQogICAgfQogIF0KfQo=
