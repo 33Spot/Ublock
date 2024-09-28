@@ -653,3 +653,12 @@ poznan.wyborcza.pl##.nw_2021_padlock
 cdn.privacy-mgmt.com##.message-overlay
 cdn.privacy-mgmt.com##.global-font.message-container
 
+! 16 wrz 2024 http://www.xxxhub123.com
+www.xxxhub123.com###acipp_content
+
+! 19 wrz 2024 https://www.youtube.com
+www.youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope > .ytd-popup-container.style-scope
+
+
+
+
