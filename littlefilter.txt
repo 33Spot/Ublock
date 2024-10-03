@@ -663,6 +663,13 @@ www.youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope > .ytd-popup
 showup.tv###new-regulations-and-privacy-modal
 showup.tv###new-regulations-and-privacy-modal-background
 
+! 3 paź 2024 https://czestochowa.oglaszamy24.pl
+czestochowa.oglaszamy24.pl###fp_interstitial_overlay
+czestochowa.oglaszamy24.pl###fp_interstitial_c > div
+czestochowa.oglaszamy24.pl###fp_interstitial_c
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=playpuls.pl
+
+
 
 
 
