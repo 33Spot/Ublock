@@ -674,6 +674,15 @@ czestochowa.oglaszamy24.pl###fp_interstitial_c
 xnxx.gold
 pornkai.com
 pornmeka.com
+fuqqt.com
+fetishbreak.com
+xmanyclips.com
+xstarshub.com
+gaymaletube.com
+porzo.com
+pornwhitelist.com
+femdomixxx.com
+
 
 @@||ajax.googleapis.com^
 @@||ajax.aspnetcdn.com^
@@ -743,6 +752,9 @@ pornmeka.com
 ! 19 paź 2024 https://www.xnxx.com
 www.xnxx.com##.premium-results-line
 
+
+! 21 paź 2024 https://pl.xhamsterlive.com
+pl.xhamsterlive.com##.multiple-categories-wrapper.model-list-wrapper > .model-list-container
 
 
 
