@@ -2,7 +2,7 @@
 // @name         Universal Video Fixer (Freedisc.pl Added)
 // @namespace    http://tampermonkey.net/
 // @version      2.1
-// @description  Fixes video playback issues on multiple sites, now including Freedisc.pl.
+// @description  Universal Video Fixer (Freedisc.pl Added)
 // @match        *://*/*
 // @exclude      *://example.com/*
 // @exclude      *://*.example.com/*
