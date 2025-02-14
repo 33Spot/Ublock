@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Universal Video Fixer (Freedisc.pl Added)
+// @name         Universal Website Optimizer
 // @namespace    http://tampermonkey.net/
 // @version      2.1
-// @description  Universal Video Fixer (Freedisc.pl Added)
+// @description  Universal Website Optimizer
 // @match        *://*/*
 // @exclude      *://example.com/*
 // @exclude      *://*.example.com/*
