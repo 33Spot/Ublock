@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Universal Website Optimizer
+// @name          Universal Website Optimizer
 // @namespace    http://tampermonkey.net/
 // @version      2.1
-// @description  Universal Website Optimizer
+// @description   Universal Website Optimizer
 // @match        *://*/*
 // @exclude      *://example.com/*
 // @exclude      *://*.example.com/*
@@ -23,12 +23,12 @@
 
             // ✅ Keep essential video player scripts
             if (
-                src.includes("hls.js") ||  
+                src.includes("hls.js") ||
                 src.includes("video.js") ||
                 src.includes("player") ||
                 src.includes("stream") ||
-                src.includes("xp-Player") ||  
-                src.includes("nosofiles.com") ||  
+                src.includes("xp-Player") ||
+                src.includes("nosofiles.com") ||
                 src.includes("stream.freedisc.pl") // Freedisc video host
             ) {
                 console.log("[Universal Video Fixer] Keeping video script:", src);
@@ -58,31 +58,44 @@
             document.querySelectorAll("video, .xp-Player-video, iframe[src*='stream.freedisc.pl']").forEach(video => {
                 console.log("[Universal Video Fixer] Ensuring video stays visible and playing...");
 
-                // ✅ Ensure the video is displayed properly
                 video.style.display = "block";
                 video.style.opacity = "1";
                 video.style.position = "relative";
                 video.style.zIndex = "1000";
 
-                // ✅ Remove overlays blocking video playback
                 let overlays = document.querySelectorAll(".xp-Player-layer, .ad-overlay, .popup, .video-blocker");
                 overlays.forEach(el => {
                     console.log("[Universal Video Fixer] Removing overlay:", el);
                     el.remove();
                 });
 
-                // ✅ Reload video if it stops playing
                 if (video.readyState < 3) {
                     console.log("[Universal Video Fixer] Reloading video...");
                     video.load();
                     video.play();
                 }
 
-                // ✅ Restore missing video controls
                 video.controls = true;
                 video.setAttribute("controls", "controls");
             });
         }, 3000);
+    }
+
+    // 🔹 **Optimize cda-hd.cc by preventing auto-playback issues**
+    if (currentSite.includes("cda-hd.cc")) {
+        const observer = new MutationObserver(mutations => {
+            mutations.forEach(mutation => {
+                if (mutation.addedNodes.length) {
+                    mutation.addedNodes.forEach(node => {
+                        if (node.tagName === 'VIDEO') {
+                            node.setAttribute('controls', '');
+                            node.setAttribute('autoplay', 'false');
+                        }
+                    });
+                }
+            });
+        });
+        observer.observe(document.body, { childList: true, subtree: true });
     }
 
     // 🔹 **Ensure Freedisc.pl videos play correctly**
@@ -120,7 +133,7 @@
     // 🔹 **Remove pop-ups, overlays, and cookie banners**
     function removePopups() {
         const elementsToRemove = [
-            ".popup", ".overlay", ".cookie-consent", ".ad-banner", "#ad-container", 
+            ".popup", ".overlay", ".cookie-consent", ".ad-banner", "#ad-container",
             "[id*='modal']", "[class*='modal']", "[class*='popup']", "[id*='popup']"
         ];
         elementsToRemove.forEach(selector => {
