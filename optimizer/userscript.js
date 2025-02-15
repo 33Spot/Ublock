@@ -7,7 +7,7 @@
 // @exclude      *://example.com/*
 // @exclude      *://*.example.com/*
 // @grant        none
-// @updateURL    https://
+// @updateURL    https://github.com/33Spot/Ublock/raw/refs/heads/master/optimizer/userscript.js
 // ==/UserScript==
 
 (function() {
