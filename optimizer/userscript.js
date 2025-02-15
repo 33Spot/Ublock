@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name          Universal Website Optimizer
 // @namespace    http://tampermonkey.net/
-// @version      2.3
+// @version      2.4
 // @description   Universal Website Optimizer
 // @match        *://*/*
 // @exclude      *://example.com/*
@@ -13,9 +13,36 @@
 (function() {
     'use strict';
 
-    console.log("[Universal Video Fixer] Script started...");
+    console.log("[Universal Website Optimizer] Script started...");
 
     const currentSite = window.location.hostname;
+
+    // 🔹 **Dynamically detect and block adblock detection scripts**
+    function blockAdblockDetectors() {
+        document.querySelectorAll("script").forEach(script => {
+            if (
+                script.innerHTML.includes("adblock") ||
+                script.innerHTML.includes("fuckadblock") ||
+                script.innerHTML.includes("disableAdblock") ||
+                script.innerHTML.includes("adBlockDetected") ||
+                script.src.includes("adblock.js")
+            ) {
+                console.log("[Universal Website Optimizer] Blocking adblock detector:", script);
+                script.remove();
+            }
+        });
+
+        document.querySelectorAll("div, span, iframe").forEach(el => {
+            if (
+                el.id.includes("adblock") ||
+                el.className.includes("adblock") ||
+                el.innerText.includes("disable adblock")
+            ) {
+                console.log("[Universal Website Optimizer] Removing adblock detection element:", el);
+                el.remove();
+            }
+        });
+    }
 
     // 🔹 **Whitelist necessary video scripts**
     function whitelistVideoScripts() {
@@ -185,6 +212,7 @@
     // 🔹 **Run all optimizations after page load**
     window.addEventListener("load", () => {
         whitelistVideoScripts();
+        blockAdblockDetectors();
         removePopups();
         fixVideoPlayback();
         fixVideoIframes();
