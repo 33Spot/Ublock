@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name          Universal Website Optimizer
 // @namespace    http://tampermonkey.net/
-// @version      2.1
+// @version      2.2
 // @description   Universal Website Optimizer
 // @match        *://*/*
 // @exclude      *://example.com/*
