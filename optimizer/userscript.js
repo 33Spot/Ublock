@@ -7,6 +7,7 @@
 // @exclude      *://example.com/*
 // @exclude      *://*.example.com/*
 // @grant        none
+// @updateURL    https://
 // ==/UserScript==
 
 (function() {
