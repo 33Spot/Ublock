@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name          Universal Website Optimizer
 // @namespace    http://tampermonkey.net/
-// @version      2.2
+// @version      2.3
 // @description   Universal Website Optimizer
 // @match        *://*/*
 // @exclude      *://example.com/*
@@ -31,6 +31,7 @@
                 src.includes("xp-Player") ||
                 src.includes("nosofiles.com") ||
                 src.includes("stream.freedisc.pl") // Freedisc video host
+                src.includes("fmovies-hd.to") // FMovies video player
             ) {
                 console.log("[Universal Video Fixer] Keeping video script:", src);
                 return;
@@ -118,6 +119,26 @@
         }
     }
 
+        // 🔹 **Fix video playback issues on FMovies**
+    function fixFMoviesVideos() {
+        if (currentSite.includes("fmovies-hd.to")) {
+            console.log("[Universal Video Fixer] Applying FMovies fixes...");
+
+            // ✅ Allow MP4 links to play properly
+            document.querySelectorAll("a[href*='fmovies-hd.to']").forEach(link => {
+                link.setAttribute("target", "_blank");
+                console.log("[Universal Video Fixer] Allowing FMovies video link:", link.href);
+            });
+
+            // ✅ Remove popups blocking video playback
+            document.querySelectorAll(".popup, .overlay, .ad-banner, [class*='modal']").forEach(el => {
+                console.log("[Universal Video Fixer] Removing FMovies popup:", el);
+                el.remove();
+            });
+        }
+    }
+
+
     // 🔹 **Ensure all iframes containing video embeds are visible**
     function fixVideoIframes() {
         document.querySelectorAll("iframe").forEach(iframe => {
@@ -168,6 +189,7 @@
         fixVideoPlayback();
         fixVideoIframes();
         fixFreediscVideos();
+        fixFMoviesVideos();
         optimizeNavigation();
     });
 
