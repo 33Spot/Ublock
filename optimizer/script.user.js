@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name          Universal Website Optimizer
 // @namespace    http://tampermonkey.net/
-// @version      2.5
+// @version      2.6
 // @description   Universal Website Optimizer
 // @match        *://*/*
 // @exclude      *://example.com/*
 // @exclude      *://*.example.com/*
 // @grant        none
-// @updateURL    https://github.com/33Spot/Ublock/raw/refs/heads/master/optimizer/userscript.js
+// @updateURL    https://github.com/33Spot/Ublock/raw/refs/heads/master/optimizer/script.user.js
 // ==/UserScript==
 
 (function() {
