@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name          Universal Website Optimizer
 // @namespace    http://tampermonkey.net/
-// @version      2.4
+// @version      2.5
 // @description   Universal Website Optimizer
 // @match        *://*/*
 // @exclude      *://example.com/*
@@ -16,6 +16,22 @@
     console.log("[Universal Website Optimizer] Script started...");
 
     const currentSite = window.location.hostname;
+
+        // 🔹 **Bypass Cloudflare protection without breaking functionality**
+    function allowCloudflare() {
+        if (document.querySelector("#cf-challenge-form") || document.querySelector(".cf-browser-verification")) {
+            console.log("[Universal Website Optimizer] Detected Cloudflare challenge, allowing scripts...");
+            return;
+        }
+
+        document.querySelectorAll("script").forEach(script => {
+            if (script.src.includes("cloudflare.com") || script.src.includes("turnstile")) {
+                console.log("[Universal Website Optimizer] Allowing Cloudflare script:", script.src);
+                return;
+            }
+        });
+    }
+
 
     // 🔹 **Dynamically detect and block adblock detection scripts**
     function blockAdblockDetectors() {
@@ -211,6 +227,7 @@
 
     // 🔹 **Run all optimizations after page load**
     window.addEventListener("load", () => {
+        allowCloudflare();
         whitelistVideoScripts();
         blockAdblockDetectors();
         removePopups();
