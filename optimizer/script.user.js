@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name          Universal Website Optimizer
-// @namespace    http://tampermonkey.net/
-// @version      3.1
+// @namespace     http://tampermonkey.net/
+// @version       2.7
 // @description   Optimizes websites by blocking pop-ups, unmuting videos, and bypassing anti-adblock scripts.
-// @match        *://*/*
-// @grant        none
-// @updateURL    https://github.com/33Spot/Ublock/raw/refs/heads/master/optimizer/script.user.js
+// @match         *://*/*
+// @grant         none
+// @updateURL     https://github.com/33Spot/Ublock/raw/refs/heads/master/optimizer/script.user.js
 // ==/UserScript==
 
 (function () {
@@ -15,15 +15,32 @@
 
     const currentSite = window.location.hostname;
 
-    // 🔹 **Bypass Cloudflare protection without breaking functionality**
-    function allowCloudflare() {
-        if (document.querySelector("#cf-challenge-form") || document.querySelector(".cf-browser-verification")) {
-            console.log("[Universal Website Optimizer] Detected Cloudflare challenge, allowing scripts...");
-            return;
-        }
+    // 🔹 **Fix Mega.nz issue by skipping pop-up removal on Mega**
+    function isMegaSite() {
+        return currentSite.includes("mega.nz");
     }
 
-    // 🔹 **Block aggressive anti-adblock scripts**
+    // 🔹 **Prevent pop-ups and redirections, but not on Mega**
+    function blockPopupsAndRedirects() {
+        if (isMegaSite()) return; // Don't run on Mega
+
+        console.log("[Universal Website Optimizer] Blocking pop-ups and unwanted redirects...");
+
+        // Block pop-up tricks
+        window.open = function (url, name, specs) {
+            console.log("[Universal Website Optimizer] Blocked popup attempt:", url);
+            return null;
+        };
+
+        // Prevent forced redirects but allow normal navigation
+        window.addEventListener('beforeunload', (event) => {
+            if (document.activeElement.tagName !== 'A') {
+                event.stopImmediatePropagation();
+            }
+        }, true);
+    }
+
+    // 🔹 **Dynamically detect and block aggressive anti-adblock scripts**
     function blockAdblockDetectors() {
         const adblockKeys = ["adblock", "fuckadblock", "disableAdblock", "adBlockDetected", "BlockAdBlock", "isAdBlockActive", "canRunAds", "canShowAds"];
         document.querySelectorAll("script").forEach(script => {
@@ -36,54 +53,40 @@
         });
     }
 
-    // 🔹 **Prevent forced redirects while allowing manual navigation**
-    function refineRedirectBlocking() {
-        window.addEventListener('beforeunload', (event) => {
-            if (event.target.activeElement.tagName !== 'A') {
-                event.stopImmediatePropagation();
-            }
-        }, true);
-    }
-
-    // 🔹 **Ensure videos are visible, unmuted, and playable**
+    // 🔹 **Ensure videos start unmuted but keep user controls**
     function fixVideoPlayback() {
         setInterval(() => {
-            document.querySelectorAll("video, .xp-Player-video, iframe[src*='stream.freedisc.pl']").forEach(video => {
-                console.log("[Universal Website Optimizer] Ensuring video stays visible and playing...");
-
-                video.style.display = "block";
-                video.style.opacity = "1";
-                video.style.position = "relative";
-                video.style.zIndex = "1000";
-                video.muted = false; // Ensure videos start unmuted
-                video.controls = true; // Ensure video controls remain available
-
-                let overlays = document.querySelectorAll(".xp-Player-layer, .ad-overlay, .popup, .video-blocker");
-                overlays.forEach(el => {
-                    console.log("[Universal Website Optimizer] Removing overlay:", el);
-                    el.remove();
-                });
+            document.querySelectorAll("video").forEach(video => {
+                if (video.muted) {
+                    video.muted = false;
+                    console.log("[Universal Website Optimizer] Unmuted video:", video);
+                }
+                video.controls = true; // Keep user controls intact
             });
         }, 3000);
     }
 
-    // 🔹 **Fix cross-origin iframe issues (e.g., vidlink.pro videos)**
-    function fixCrossOriginFrames() {
+    // 🔹 **Ensure all iframes containing video embeds are visible**
+    function fixVideoIframes() {
         document.querySelectorAll("iframe").forEach(iframe => {
-            if (iframe.src.includes("vidlink.pro")) {
-                console.log("[Universal Website Optimizer] Fixing cross-origin frame visibility:", iframe);
-                iframe.setAttribute("sandbox", "allow-scripts allow-same-origin allow-popups allow-forms");
+            if (iframe.src.includes("embed") || iframe.src.includes("video")) {
+                console.log("[Universal Website Optimizer] Fixing iframe visibility...");
+                iframe.style.display = "block";
+                iframe.style.opacity = "1";
+                iframe.style.position = "relative";
+                iframe.style.zIndex = "1000";
             }
         });
     }
 
-    // 🔹 **Remove pop-ups, overlays, and cookie banners (EXCEPT Mega.nz)**
+    // 🔹 **Remove pop-ups, overlays, and cookie banners (except on Mega)**
     function removePopups() {
-        if (currentSite.includes("mega.nz")) {
-            console.log("[Universal Website Optimizer] Skipping pop-up removal for Mega.nz to prevent breakage.");
-            return;
-        }
-        const elementsToRemove = [".popup", ".overlay", ".cookie-consent", ".ad-banner", "#ad-container", "[id*='modal']", "[class*='modal']", "[class*='popup']", "[id*='popup']"];
+        if (isMegaSite()) return; // Skip pop-up removal on Mega
+
+        const elementsToRemove = [
+            ".popup", ".overlay", ".cookie-consent", ".ad-banner", "#ad-container",
+            "[id*='modal']", "[class*='modal']", "[class*='popup']", "[id*='popup']"
+        ];
         elementsToRemove.forEach(selector => {
             document.querySelectorAll(selector).forEach(element => {
                 console.log("[Universal Website Optimizer] Removing:", selector);
@@ -102,19 +105,18 @@
                 blockAdblockDetectors();
                 removePopups();
                 fixVideoPlayback();
-                fixCrossOriginFrames();
+                fixVideoIframes();
             }
         }).observe(document.body, { childList: true, subtree: true });
     }
 
     // 🔹 **Run all optimizations after page load**
     window.addEventListener("load", () => {
-        allowCloudflare();
+        blockPopupsAndRedirects();
         blockAdblockDetectors();
         removePopups();
-        refineRedirectBlocking();
         fixVideoPlayback();
-        fixCrossOriginFrames();
+        fixVideoIframes();
         optimizeNavigation();
     });
 
