@@ -17,19 +17,36 @@
 
     const currentSite = window.location.hostname;
 
-    // 🔹 **Prevent script from breaking GitHub and similar sites**
-    const safeSites = ["github.com", "gitlab.com", "bitbucket.org"];
-    if (safeSites.includes(currentSite)) {
-        console.log("[Universal Website Optimizer] Detected safe site, disabling modifications...");
-        return;
-    }
+    // 🔹 **Prevent pop-ups and redirections**
+    function blockPopupsAndRedirects() {
+        console.log("[Universal Website Optimizer] Blocking pop-ups and unwanted redirects...");
 
-    // 🔹 **Bypass Cloudflare protection without breaking functionality**
-    function allowCloudflare() {
-        if (document.querySelector("#cf-challenge-form") || document.querySelector(".cf-browser-verification")) {
-            console.log("[Universal Website Optimizer] Detected Cloudflare challenge, allowing scripts...");
-            return;
-        }
+        // Block `window.open` to prevent pop-ups
+        window.open = function(url, name, specs) {
+            console.log("[Universal Website Optimizer] Blocked popup attempt:", url);
+            return null;
+        };
+
+        // Prevent unwanted location changes
+        Object.defineProperty(window, 'location', {
+            configurable: false,
+            enumerable: true,
+            get: function() {
+                return window._location;
+            },
+            set: function(url) {
+                console.log("[Universal Website Optimizer] Blocked forced redirect to:", url);
+            }
+        });
+
+        // Remove event listeners that trigger pop-ups
+        document.addEventListener("mousedown", function(event) {
+            let target = event.target;
+            if (target.tagName === "A" && target.href.includes("ad") || target.href.includes("pop")) {
+                event.preventDefault();
+                console.log("[Universal Website Optimizer] Prevented ad popup click:", target.href);
+            }
+        }, true);
     }
 
     // 🔹 **Dynamically detect and block adblock detection scripts**
@@ -44,6 +61,17 @@
             ) {
                 console.log("[Universal Website Optimizer] Blocking adblock detector:", script);
                 script.remove();
+            }
+        });
+
+        document.querySelectorAll("div, span, iframe").forEach(el => {
+            if (
+                el.id.includes("adblock") ||
+                el.className.includes("adblock") ||
+                el.innerText.includes("disable adblock")
+            ) {
+                console.log("[Universal Website Optimizer] Removing adblock detection element:", el);
+                el.remove();
             }
         });
     }
@@ -61,61 +89,131 @@
                 src.includes("stream") ||
                 src.includes("xp-Player") ||
                 src.includes("nosofiles.com") ||
-                src.includes("stream.freedisc.pl") ||
-                src.includes("fmovies-hd.to")
+                src.includes("stream.freedisc.pl") || // Freedisc video host
+                src.includes("fmovies-hd.to") // FMovies video player
             ) {
-                console.log("[Universal Website Optimizer] Keeping video script:", src);
+                console.log("[Universal Video Fixer] Keeping video script:", src);
                 return;
             }
 
             // ❌ Block tracking & ad scripts
             if (
-                !script.src.includes("cloudflare.com") && // Allow Cloudflare
-                (src.includes("doubleclick.net") ||
+                src.includes("doubleclick.net") ||
                 src.includes("googletagmanager.com") ||
                 src.includes("ads.js") ||
                 src.includes("facebook.net") ||
                 src.includes("cookie-consent") ||
                 src.includes("track") ||
                 src.includes("recaptcha") ||
-                src.includes("adservice"))
+                src.includes("adservice")
             ) {
-                console.log("[Universal Website Optimizer] Blocking tracking script:", src);
+                console.log("[Universal Video Fixer] Blocking tracking script:", src);
                 script.remove();
             }
         });
     }
 
-    // 🔹 **Ensure smooth navigation without breaking Cloudflare challenges**
+    // 🔹 **Ensure all videos are visible and playable**
+    function fixVideoPlayback() {
+        setInterval(() => {
+            document.querySelectorAll("video, .xp-Player-video, iframe[src*='stream.freedisc.pl']").forEach(video => {
+                console.log("[Universal Video Fixer] Ensuring video stays visible and playing...");
+
+                video.style.display = "block";
+                video.style.opacity = "1";
+                video.style.position = "relative";
+                video.style.zIndex = "1000";
+
+                let overlays = document.querySelectorAll(".xp-Player-layer, .ad-overlay, .popup, .video-blocker");
+                overlays.forEach(el => {
+                    console.log("[Universal Video Fixer] Removing overlay:", el);
+                    el.remove();
+                });
+
+                if (video.readyState < 3) {
+                    console.log("[Universal Video Fixer] Reloading video...");
+                    video.load();
+                    video.play();
+                }
+
+                video.controls = true;
+                video.setAttribute("controls", "controls");
+            });
+        }, 3000);
+    }
+
+    // 🔹 **Ensure Freedisc.pl videos play correctly**
+    function fixFreediscVideos() {
+        if (currentSite.includes("freedisc.pl")) {
+            console.log("[Universal Video Fixer] Applying Freedisc.pl fixes...");
+
+            // ✅ Ensure MP4 video links load
+            document.querySelectorAll("a[href*='stream.freedisc.pl']").forEach(link => {
+                link.setAttribute("target", "_blank"); // Open in a new tab
+                console.log("[Universal Video Fixer] Allowing Freedisc MP4 link:", link.href);
+            });
+
+            // ✅ Remove outdated Flash player elements
+            document.querySelectorAll("embed[src*='player.swf'], object[data*='player.swf']").forEach(flashPlayer => {
+                console.log("[Universal Video Fixer] Removing outdated Flash player:", flashPlayer);
+                flashPlayer.remove();
+            });
+        }
+    }
+
+    // 🔹 **Ensure all iframes containing video embeds are visible**
+    function fixVideoIframes() {
+        document.querySelectorAll("iframe").forEach(iframe => {
+            if (iframe.src.includes("embed") || iframe.src.includes("video") || iframe.src.includes("stream.freedisc.pl")) {
+                console.log("[Universal Video Fixer] Fixing iframe visibility...");
+                iframe.style.display = "block";
+                iframe.style.opacity = "1";
+                iframe.style.position = "relative";
+                iframe.style.zIndex = "1000";
+            }
+        });
+    }
+
+    // 🔹 **Remove pop-ups, overlays, and cookie banners**
+    function removePopups() {
+        const elementsToRemove = [
+            ".popup", ".overlay", ".cookie-consent", ".ad-banner", "#ad-container",
+            "[id*='modal']", "[class*='modal']", "[class*='popup']", "[id*='popup']"
+        ];
+        elementsToRemove.forEach(selector => {
+            document.querySelectorAll(selector).forEach(element => {
+                console.log("[Universal Website Optimizer] Removing:", selector);
+                element.remove();
+            });
+        });
+    }
+
+    // 🔹 **Ensure smooth AJAX-based navigation**
     function optimizeNavigation() {
         let lastUrl = location.href;
         new MutationObserver(() => {
             if (location.href !== lastUrl) {
-                console.log("[Universal Website Optimizer] Page changed, reapplying optimizations...");
+                console.log("[Universal Video Fixer] Page changed, reapplying optimizations...");
                 lastUrl = location.href;
-                allowCloudflare();
                 whitelistVideoScripts();
-                blockAdblockDetectors();
+                removePopups();
+                fixVideoPlayback();
+                fixVideoIframes();
+                fixFreediscVideos();
             }
         }).observe(document.body, { childList: true, subtree: true });
     }
 
-    // 🔹 **Improve performance: Reduce execution frequency**
-    function optimizePerformance() {
-        setInterval(() => {
-            allowCloudflare();
-            whitelistVideoScripts();
-            blockAdblockDetectors();
-        }, 5000); // Run every 5 seconds to minimize CPU usage
-    }
-
     // 🔹 **Run all optimizations after page load**
     window.addEventListener("load", () => {
-        allowCloudflare();
+        blockPopupsAndRedirects();
         whitelistVideoScripts();
         blockAdblockDetectors();
+        removePopups();
+        fixVideoPlayback();
+        fixVideoIframes();
+        fixFreediscVideos();
         optimizeNavigation();
-        optimizePerformance();
     });
 
 })();
