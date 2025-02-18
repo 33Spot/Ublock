@@ -13,6 +13,8 @@
 
     console.log("[Universal Website Optimizer] Script started...");
 
+    const currentSite = window.location.hostname;
+
     // 🔹 **Bypass Cloudflare protection without breaking functionality**
     function allowCloudflare() {
         if (document.querySelector("#cf-challenge-form") || document.querySelector(".cf-browser-verification")) {
@@ -46,23 +48,15 @@
     // 🔹 **Ensure videos are visible, unmuted, and playable**
     function fixVideoPlayback() {
         setInterval(() => {
-            document.querySelectorAll("video").forEach(video => {
+            document.querySelectorAll("video, .xp-Player-video, iframe[src*='stream.freedisc.pl']").forEach(video => {
                 console.log("[Universal Website Optimizer] Ensuring video stays visible and playing...");
-                
+
                 video.style.display = "block";
                 video.style.opacity = "1";
                 video.style.position = "relative";
                 video.style.zIndex = "1000";
-
-                // ✅ Ensure video starts unmuted but keeps controls intact
-                if (video.muted) {
-                    video.muted = false;
-                    console.log("[Universal Website Optimizer] Unmuted video:", video);
-                }
-                if (!video.hasAttribute("controls")) {
-                    video.setAttribute("controls", "controls");
-                    console.log("[Universal Website Optimizer] Restored video controls:", video);
-                }
+                video.muted = false; // Ensure videos start unmuted
+                video.controls = true; // Ensure video controls remain available
 
                 let overlays = document.querySelectorAll(".xp-Player-layer, .ad-overlay, .popup, .video-blocker");
                 overlays.forEach(el => {
@@ -83,8 +77,12 @@
         });
     }
 
-    // 🔹 **Remove pop-ups, overlays, and cookie banners**
+    // 🔹 **Remove pop-ups, overlays, and cookie banners (EXCEPT Mega.nz)**
     function removePopups() {
+        if (currentSite.includes("mega.nz")) {
+            console.log("[Universal Website Optimizer] Skipping pop-up removal for Mega.nz to prevent breakage.");
+            return;
+        }
         const elementsToRemove = [".popup", ".overlay", ".cookie-consent", ".ad-banner", "#ad-container", "[id*='modal']", "[class*='modal']", "[class*='popup']", "[id*='popup']"];
         elementsToRemove.forEach(selector => {
             document.querySelectorAll(selector).forEach(element => {
@@ -94,14 +92,6 @@
         });
     }
 
-    // 🔹 **Remove "Leaving Site Confirmation"**
-    function removeLeaveConfirmation() {
-        window.addEventListener("beforeunload", (event) => {
-            event.stopImmediatePropagation();
-            console.log("[Universal Website Optimizer] Removed leaving site confirmation.");
-        }, true);
-    }
-
     // 🔹 **Ensure smooth AJAX-based navigation**
     function optimizeNavigation() {
         let lastUrl = location.href;
@@ -109,7 +99,6 @@
             if (location.href !== lastUrl) {
                 console.log("[Universal Website Optimizer] Page changed, reapplying optimizations...");
                 lastUrl = location.href;
-                removeLeaveConfirmation();
                 blockAdblockDetectors();
                 removePopups();
                 fixVideoPlayback();
@@ -121,7 +110,6 @@
     // 🔹 **Run all optimizations after page load**
     window.addEventListener("load", () => {
         allowCloudflare();
-        removeLeaveConfirmation();
         blockAdblockDetectors();
         removePopups();
         refineRedirectBlocking();
