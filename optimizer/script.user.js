@@ -4,8 +4,8 @@
 // @version       3.3
 // @description   Optimizes websites by blocking pop-ups, unmuting videos, and bypassing anti-adblock scripts.
 // @match         *://*/*
-@exclude      *://drive.google.com/*
-@exclude      *://*.drive.google.com/*
+// @exclude      *://drive.google.com/*
+// @exclude      *://*.drive.google.com/*
 // @grant         none
 // @updateURL     https://github.com/33Spot/Ublock/raw/refs/heads/master/optimizer/script.user.js
 // ==/UserScript==
