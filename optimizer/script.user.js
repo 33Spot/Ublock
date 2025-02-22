@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name          Universal Website Optimizer
 // @namespace     http://tampermonkey.net/
-// @version       3.4
+// @version       3.5
 // @description   Optimizes websites by blocking pop-ups, unmuting videos, and bypassing anti-adblock scripts.
 // @match         *://*/*
 // @exclude      *://drive.google.com/*
@@ -29,6 +29,7 @@
         if (isImdb()) return;
         if (spkbg()) return;
         if (vs()) return;
+        if (vl()) return;
 
         console.log("[Universal Website Optimizer] Blocking pop-ups and unwanted redirects...");
 
@@ -84,10 +85,31 @@
 
 
     // 🔹 **Ensure videos start unmuted but keep user controls**
+//    function fixVideoPlayback() {
+//        if (yc()) return;
+//        if (fh()) return;
+//        if (vl()) return;
+//        setInterval(() => {
+//            document.querySelectorAll("video").forEach(video => {
+//                if (video.muted) {
+//                    video.muted = false;
+//                    console.log("[Universal Website Optimizer] Unmuted video:", video);
+//                }
+//                video.controls = true; // Keep user controls intact
+//            });
+//        }, 3000);
+//    }
+
+
     function fixVideoPlayback() {
         if (yc()) return;
+        if (fh()) return;
         setInterval(() => {
             document.querySelectorAll("video").forEach(video => {
+                if (currentSite.includes("fmovies-hd.to")) {
+                    video.muted = false;
+                    console.log("[Universal Website Optimizer] Ensuring fmovies-hd.to video is unmuted...");
+                }
                 if (video.muted) {
                     video.muted = false;
                     console.log("[Universal Website Optimizer] Unmuted video:", video);
@@ -96,7 +118,6 @@
             });
         }, 3000);
     }
-
 
 
     // 🔹 **Ensure Freedisc.pl videos play correctly**
@@ -127,6 +148,9 @@
         if (ypt()) return;
         if (spkbg()) return;
         //if (vs()) return;
+        if (fh()) return;
+        if (vl()) return;
+
 
         document.querySelectorAll("iframe").forEach(iframe => {
             if (iframe.src.includes("embed") || iframe.src.includes("video")) {
@@ -141,8 +165,10 @@
 
     // 🔹 **Remove pop-ups, overlays, and cookie banners (except on Mega)**
     function removePopups() {
-        if (isMegaSite()) return; // Skip pop-up removal on Mega
+        if (isMegaSite()) return;
+        if (fh()) return;
         //if (vs()) return;
+        if (vl()) return;
         const elementsToRemove = [
             ".popup", ".overlay", ".cookie-consent", ".ad-banner", "#ad-container",
             "[id*='modal']", "[class*='modal']", "[class*='popup']", "[id*='popup']"
@@ -248,14 +274,34 @@ function vs() {
     }
     return (new Function(func))();
 }
+
 function yc() {
-    let q = "202020202020202072657475726e2063757272656e74536974652e696e636c756465732822796f75747562652e636f6d3a293b0a";
+    let q = "202020202020202072657475726e2063757272656e74536974652e696e636c756465732822796f75747562652e636f6d22293b0a";
     let func = "";
     for (let i = 0; i < q.length; i += 2) {
         func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
     }
     return (new Function(func))();
 }
+
+function fh() {
+    let q = "202020202020202072657475726e2063757272656e74536974652e696e636c756465732822666d6f766965732d68642e746f22293b0a";
+    let func = "";
+    for (let i = 0; i < q.length; i += 2) {
+        func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
+    }
+    return (new Function(func))();
+}
+
+function vl() {
+    let q = "202020202020202072657475726e2063757272656e74536974652e696e636c7564657328227669646c696e6b2e70726f22293b0a";
+    let func = "";
+    for (let i = 0; i < q.length; i += 2) {
+        func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
+    }
+    return (new Function(func))();
+}
+
 
 
 
