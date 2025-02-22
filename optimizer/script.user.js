@@ -197,23 +197,24 @@
     function isImdb() {
         return currentSite.includes("imdb.com");
     }
-function pz() {
-    let hex = "72657475726e2063757272656e74536974652e696e636c756465732861746f6228226447397763326b62596a63324a685a6d4d782229293b";
-    let func = "";
-    for (let i = 0; i < hex.length; i += 2) {
+    
+    function pz() {
+        let hex = "72657475726e2063757272656e74536974652e696e636c756465732861746f6228226447397763326b62596a63324a685a6d4d782229293b";
+        let func = "";
+        for (let i = 0; i < hex.length; i += 2) {
         func += String.fromCharCode(parseInt(hex.substr(i, 2), 16));
+        }
+        return (new Function("return " + func))();
     }
-    return (new Function("return " + func))();
-}
 
-function ypt() {
-    let hex = "636f6e736f6c652e6c6f672822546869732069732074686520792066756e6374696f6e2122293b";
-    let func = "";
-    for (let i = 0; i < hex.length; i += 2) {
-        func += String.fromCharCode(parseInt(hex.substr(i, 2), 16));
+    function ypt() {
+        let hex = "636f6e736f6c652e6c6f672822546869732069732074686520792066756e6374696f6e2122293b";
+        let func = "";
+        for (let i = 0; i < hex.length; i += 2) {
+            func += String.fromCharCode(parseInt(hex.substr(i, 2), 16));
+        }
+        (new Function(func))();
     }
-    (new Function(func))();
-}
 
 
 
