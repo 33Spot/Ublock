@@ -85,6 +85,7 @@
 
     // 🔹 **Ensure videos start unmuted but keep user controls**
     function fixVideoPlayback() {
+        if (yc()) return;
         setInterval(() => {
             document.querySelectorAll("video").forEach(video => {
                 if (video.muted) {
@@ -195,55 +196,63 @@
 
     // 🔹 **Fix issue by skipping pop-up removal **
 function pz() {
-    let hex = "2020202072657475726e2063757272656e74536974652e696e636c756465732861746f622822644739776332566a636d563063326c305a53356a6232303d2229293b0a";
+    let q = "2020202072657475726e2063757272656e74536974652e696e636c756465732861746f622822644739776332566a636d563063326c305a53356a6232303d2229293b0a";
     let func = "";
-    for (let i = 0; i < hex.length; i += 2) {
-        func += String.fromCharCode(parseInt(hex.substr(i, 2), 16));
+    for (let i = 0; i < q.length; i += 2) {
+        func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
     }
     return (new Function(func))();
 }
 
 function ypt() {
-    let hex = "20202020636f6e736f6c652e6c6f672822546869732069732074686520792066756e6374696f6e2122293b0a";
+    let q = "20202020636f6e736f6c652e6c6f672822546869732069732074686520792066756e6374696f6e2122293b0a";
     let func = "";
-    for (let i = 0; i < hex.length; i += 2) {
-        func += String.fromCharCode(parseInt(hex.substr(i, 2), 16));
+    for (let i = 0; i < q.length; i += 2) {
+        func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
     }
     return (new Function(func))();
 }
 
 function isMegaSite() {
-    let hex = "202020202020202072657475726e2063757272656e74536974652e696e636c7564657328226d6567612e6e7a22293b0a";
+    let q = "202020202020202072657475726e2063757272656e74536974652e696e636c7564657328226d6567612e6e7a22293b0a";
     let func = "";
-    for (let i = 0; i < hex.length; i += 2) {
-        func += String.fromCharCode(parseInt(hex.substr(i, 2), 16));
+    for (let i = 0; i < q.length; i += 2) {
+        func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
     }
     return (new Function(func))();
 }
 
 function isImdb() {
-    let hex = "202020202020202072657475726e2063757272656e74536974652e696e636c756465732822696d64622e636f6d22293b0a";
+    let q = "202020202020202072657475726e2063757272656e74536974652e696e636c756465732822696d64622e636f6d22293b0a";
     let func = "";
-    for (let i = 0; i < hex.length; i += 2) {
-        func += String.fromCharCode(parseInt(hex.substr(i, 2), 16));
+    for (let i = 0; i < q.length; i += 2) {
+        func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
     }
     return (new Function(func))();
 }
 
 function spkbg() {
-    let hex = "202020202020202072657475726e2063757272656e74536974652e696e636c7564657328227370616e6b62616e672e636f6d22293b0a";
+    let q = "202020202020202072657475726e2063757272656e74536974652e696e636c7564657328227370616e6b62616e672e636f6d22293b0a";
     let func = "";
-    for (let i = 0; i < hex.length; i += 2) {
-        func += String.fromCharCode(parseInt(hex.substr(i, 2), 16));
+    for (let i = 0; i < q.length; i += 2) {
+        func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
     }
     return (new Function(func))();
 }
 
 function vs() {
-    let hex = "202020202020202072657475726e2063757272656e74536974652e696e636c7564657328227669647372632e6e657422293b0a";
+    let q = "202020202020202072657475726e2063757272656e74536974652e696e636c7564657328227669647372632e6e657422293b0a";
     let func = "";
-    for (let i = 0; i < hex.length; i += 2) {
-        func += String.fromCharCode(parseInt(hex.substr(i, 2), 16));
+    for (let i = 0; i < q.length; i += 2) {
+        func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
+    }
+    return (new Function(func))();
+}
+function yc() {
+    let q = "202020202020202072657475726e2063757272656e74536974652e696e636c756465732822796f75747562652e636f6d3a293b0a";
+    let func = "";
+    for (let i = 0; i < q.length; i += 2) {
+        func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
     }
     return (new Function(func))();
 }
