@@ -8,6 +8,8 @@
 // @exclude      *://*.drive.google.com/*
 // @exclude      *://www.retrogames.cc/*
 // @exclude      *://*.retrogames.cc/*
+// @exclude      *://9animetv.to/*
+// @exclude      *://*.9animetv.to/*
 // @grant         none
 // @updateURL     https://github.com/33Spot/Ublock/raw/refs/heads/master/optimizer/script.user.js
 // ==/UserScript==
