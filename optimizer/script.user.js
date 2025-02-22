@@ -23,6 +23,12 @@
 
     const currentSite = window.location.hostname;
 
+     function allowCloudflare() {
+        if (document.querySelector("#cf-challenge-form") || document.querySelector(".cf-browser-verification")) {
+            console.log("[Universal Website Optimizer] Detected Cloudflare challenge, allowing scripts...");
+            return;
+        }
+
      //🔹 **Prevent pop-ups and redirections, but not on Mega**
     function blockPopupsAndRedirects() {
         if (isMegaSite()) return; // Don't run on Mega
@@ -105,6 +111,7 @@
         if (yc()) return;
         if (fh()) return;
         if (vl()) return;
+        if (mu()) return;
         //if (spkbg()) return;
 
         setInterval(() => {
@@ -156,6 +163,7 @@
         //if (vs()) return;
         if (fh()) return;
         if (vl()) return;
+        if (mu()) return;
 
 
         document.querySelectorAll("iframe").forEach(iframe => {
@@ -175,6 +183,8 @@
         if (fh()) return;
         //if (vs()) return;
         if (vl()) return;
+        if (mu()) return;
+
         const elementsToRemove = [
             ".popup", ".overlay", ".cookie-consent", ".ad-banner", "#ad-container",
             "[id*='modal']", "[class*='modal']", "[class*='popup']", "[id*='popup']"
@@ -309,6 +319,15 @@ function vl() {
 }
 
 
+function mu() {
+    let q = "202020202020202072657475726e2063757272656e74536974652e696e636c7564657328226d6f766965372e757322293b0a";
+    let func = "";
+    for (let i = 0; i < q.length; i += 2) {
+        func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
+    }
+    return (new Function(func))();
+}
+
 
 
     // 🔹 **Ensure smooth AJAX-based navigation**
@@ -318,6 +337,7 @@ function vl() {
             if (location.href !== lastUrl) {
                 console.log("[Universal Website Optimizer] Page changed, reapplying optimizations...");
                 lastUrl = location.href;
+                allowCloudflare()
                 whitelistVideoScripts();
                 fixFreediscVideos();
                 blockAdblockDetectors();
@@ -330,6 +350,7 @@ function vl() {
 
     // 🔹 **Run all optimizations after page load**
     window.addEventListener("load", () => {
+        allowCloudflare()
         whitelistVideoScripts();
         fixFreediscVideos();
         blockPopupsAndRedirects();
