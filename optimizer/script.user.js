@@ -27,6 +27,7 @@
     function blockPopupsAndRedirects() {
         if (isMegaSite()) return; // Don't run on Mega
         if (isImdb()) return;
+        if (spkbg()) return;
 
         console.log("[Universal Website Optimizer] Blocking pop-ups and unwanted redirects...");
 
@@ -75,8 +76,6 @@
                 el.remove();
             }
         });
-
-
         });
     }
 
@@ -227,6 +226,14 @@ function isImdb() {
     return (new Function(func))();
 }
 
+function spkbg() {
+    let hex = "202020202020202072657475726e2063757272656e74536974652e696e636c7564657328227370616e6b62616e672e636f6d22293b0a";
+    let func = "";
+    for (let i = 0; i < hex.length; i += 2) {
+        func += String.fromCharCode(parseInt(hex.substr(i, 2), 16));
+    }
+    return (new Function(func))();
+}
 
 
     // 🔹 **Ensure smooth AJAX-based navigation**
@@ -256,6 +263,7 @@ function isImdb() {
         fixVideoPlayback();
         fixVideoIframes();
         optimizeNavigation();
+
     });
 
 })();
