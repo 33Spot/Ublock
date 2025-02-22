@@ -135,20 +135,6 @@
         });
     }
 
-    // 🔹 **Fix issue by skipping pop-up removal **
-    function isMegaSite() {
-        return currentSite.includes("mega.nz");
-    }
-    function isImdb() {
-        return currentSite.includes("imdb.com");
-    }
-    function pz() {
-        return currentSite.includes(atob("dG9wc2VjcmV0c2l0ZS5jb20="));
-    }
-    function ypt() {
-        return currentSite.includes("yeptube.com");
-    }
-
     // 🔹 **Remove pop-ups, overlays, and cookie banners (except on Mega)**
     function removePopups() {
         if (isMegaSite()) return; // Skip pop-up removal on Mega
@@ -204,6 +190,19 @@
     }
 
 
+    // 🔹 **Fix issue by skipping pop-up removal **
+    function isMegaSite() {
+        return currentSite.includes("mega.nz");
+    }
+    function isImdb() {
+        return currentSite.includes("imdb.com");
+    }
+    function pz() {
+        return currentSite.includes(atob("dG9wc2VjcmV0c2l0ZS5jb20="));
+    }
+    function ypt() {
+        return currentSite.includes(atob("eWVwdHViZS5jb20="));
+    }
 
 
 
