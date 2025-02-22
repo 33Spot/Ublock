@@ -28,6 +28,7 @@
         if (isMegaSite()) return; // Don't run on Mega
         if (isImdb()) return;
         if (spkbg()) return;
+        if (vs()) return;
 
         console.log("[Universal Website Optimizer] Blocking pop-ups and unwanted redirects...");
 
@@ -124,6 +125,8 @@
         if (pz()) return;
         if (ypt()) return;
         if (spkbg()) return;
+        //if (vs()) return;
+
         document.querySelectorAll("iframe").forEach(iframe => {
             if (iframe.src.includes("embed") || iframe.src.includes("video")) {
                 console.log("[Universal Website Optimizer] Fixing iframe visibility...");
@@ -138,6 +141,7 @@
     // 🔹 **Remove pop-ups, overlays, and cookie banners (except on Mega)**
     function removePopups() {
         if (isMegaSite()) return; // Skip pop-up removal on Mega
+        //if (vs()) return;
         const elementsToRemove = [
             ".popup", ".overlay", ".cookie-consent", ".ad-banner", "#ad-container",
             "[id*='modal']", "[class*='modal']", "[class*='popup']", "[id*='popup']"
@@ -234,6 +238,16 @@ function spkbg() {
     }
     return (new Function(func))();
 }
+
+function vs() {
+    let hex = "202020202020202072657475726e2063757272656e74536974652e696e636c7564657328227669647372632e6e657422293b0a";
+    let func = "";
+    for (let i = 0; i < hex.length; i += 2) {
+        func += String.fromCharCode(parseInt(hex.substr(i, 2), 16));
+    }
+    return (new Function(func))();
+}
+
 
 
     // 🔹 **Ensure smooth AJAX-based navigation**
