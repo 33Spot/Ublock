@@ -104,8 +104,8 @@
     function fixVideoPlayback() {
         if (yc()) return;
         if (fh()) return;
-        if (spkbg()) return;
-        
+        //if (spkbg()) return;
+
         setInterval(() => {
             document.querySelectorAll("video").forEach(video => {
                 if (currentSite.includes("fmovies-hd.to")) {
@@ -114,12 +114,15 @@
                 }
                 if (video.muted) {
                     video.muted = false;
+                    video.volume = 1.0; // Set max volume
                     console.log("[Universal Website Optimizer] Unmuted video:", video);
                 }
                 video.controls = true; // Keep user controls intact
             });
         }, 3000);
     }
+
+
 
 
     // 🔹 **Ensure Freedisc.pl videos play correctly**
