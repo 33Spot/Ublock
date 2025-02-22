@@ -10,6 +10,8 @@
 // @exclude      *://*.retrogames.cc/*
 // @exclude      *://9animetv.to/*
 // @exclude      *://*.9animetv.to/*
+// @exclude      *://www.wco.tv/*
+// @exclude      *://*.wco.tv/*
 // @grant         none
 // @updateURL     https://github.com/33Spot/Ublock/raw/refs/heads/master/optimizer/script.user.js
 // ==/UserScript==
@@ -28,16 +30,14 @@
     function isImdb() {
         return currentSite.includes("imdb.com");
     }
-    function isWco() {
-        return currentSite.includes("wco.tv");
-    }
+
 
 
      //🔹 **Prevent pop-ups and redirections, but not on Mega**
     function blockPopupsAndRedirects() {
         if (isMegaSite()) return; // Don't run on Mega
         if (isImdb()) return; // Don't run on IMDB
-        if (isWco()) return; // Don't run on IMDB
+
 
 
         console.log("[Universal Website Optimizer] Blocking pop-ups and unwanted redirects...");
