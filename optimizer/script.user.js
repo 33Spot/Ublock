@@ -28,7 +28,7 @@
     function isImdb() {
         return currentSite.includes("imdb.com");
     }
-        function isWco() {
+    function isWco() {
         return currentSite.includes("wco.tv");
     }
 
