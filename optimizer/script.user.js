@@ -22,6 +22,7 @@
     // 🔹 **Fix Mega.nz issue by skipping pop-up removal on Mega**
     function isMegaSite() {
         return currentSite.includes("mega.nz");
+        return currentSite.includes("imdb.com");
     }
 
      //🔹 **Prevent pop-ups and redirections, but not on Mega**
