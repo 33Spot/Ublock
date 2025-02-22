@@ -28,11 +28,17 @@
     function isImdb() {
         return currentSite.includes("imdb.com");
     }
+        function isWco() {
+        return currentSite.includes("wco.tv");
+    }
+
 
      //🔹 **Prevent pop-ups and redirections, but not on Mega**
     function blockPopupsAndRedirects() {
         if (isMegaSite()) return; // Don't run on Mega
         if (isImdb()) return; // Don't run on IMDB
+        if (isWco()) return; // Don't run on IMDB
+
 
         console.log("[Universal Website Optimizer] Blocking pop-ups and unwanted redirects...");
 
