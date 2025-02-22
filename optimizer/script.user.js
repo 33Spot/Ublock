@@ -23,22 +23,10 @@
 
     const currentSite = window.location.hostname;
 
-    // 🔹 **Fix Mega.nz issue by skipping pop-up removal on Mega**
-    function isMegaSite() {
-        return currentSite.includes("mega.nz");
-    }
-    function isImdb() {
-        return currentSite.includes("imdb.com");
-    }
-
-
-
      //🔹 **Prevent pop-ups and redirections, but not on Mega**
     function blockPopupsAndRedirects() {
         if (isMegaSite()) return; // Don't run on Mega
-        if (isImdb()) return; // Don't run on IMDB
-
-
+        if (isImdb()) return;
 
         console.log("[Universal Website Optimizer] Blocking pop-ups and unwanted redirects...");
 
@@ -134,6 +122,8 @@
 
     // 🔹 **Ensure all iframes containing video embeds are visible**
     function fixVideoIframes() {
+        if (pz()) return;
+        if (ypt()) return;
         document.querySelectorAll("iframe").forEach(iframe => {
             if (iframe.src.includes("embed") || iframe.src.includes("video")) {
                 console.log("[Universal Website Optimizer] Fixing iframe visibility...");
@@ -143,6 +133,20 @@
                 iframe.style.zIndex = "1000";
             }
         });
+    }
+
+    // 🔹 **Fix issue by skipping pop-up removal **
+    function isMegaSite() {
+        return currentSite.includes("mega.nz");
+    }
+    function isImdb() {
+        return currentSite.includes("imdb.com");
+    }
+    function pz() {
+        return currentSite.includes(atob("dG9wc2VjcmV0c2l0ZS5jb20="));
+    }
+    function ypt() {
+        return currentSite.includes("yeptube.com");
     }
 
     // 🔹 **Remove pop-ups, overlays, and cookie banners (except on Mega)**
@@ -198,6 +202,8 @@
             }
         });
     }
+
+
 
 
 
