@@ -123,6 +123,7 @@
     function fixVideoIframes() {
         if (pz()) return;
         if (ypt()) return;
+        if (spkbg()) return;
         document.querySelectorAll("iframe").forEach(iframe => {
             if (iframe.src.includes("embed") || iframe.src.includes("video")) {
                 console.log("[Universal Website Optimizer] Fixing iframe visibility...");
@@ -137,7 +138,6 @@
     // 🔹 **Remove pop-ups, overlays, and cookie banners (except on Mega)**
     function removePopups() {
         if (isMegaSite()) return; // Skip pop-up removal on Mega
-
         const elementsToRemove = [
             ".popup", ".overlay", ".cookie-consent", ".ad-banner", "#ad-container",
             "[id*='modal']", "[class*='modal']", "[class*='popup']", "[id*='popup']"
