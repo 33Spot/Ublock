@@ -104,6 +104,7 @@
     function fixVideoPlayback() {
         if (yc()) return;
         if (fh()) return;
+        if (vl()) return;
         //if (spkbg()) return;
 
         setInterval(() => {
