@@ -104,6 +104,8 @@
     function fixVideoPlayback() {
         if (yc()) return;
         if (fh()) return;
+        if (spkbg()) return;
+        
         setInterval(() => {
             document.querySelectorAll("video").forEach(video => {
                 if (currentSite.includes("fmovies-hd.to")) {
