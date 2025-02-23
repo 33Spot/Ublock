@@ -828,3 +828,13 @@ at-app.cdntvn.pl/*/web/*/*/assets/adverts_.js
 browser-intake-datadoghq.eu
 at-app.cdntvn.pl/rel/web-display/*/app.js
 
+! 23 lut 2025 https://m2rfbgfy.fun
+m2rfbgfy.fun###ultimate_popup_blocker
+
+! 17 lut 2025 https://www.nytimes.com
+www.nytimes.com###gateway-content
+www.nytimes.com##.euiyums1.css-cfyeo7
+
+! 23 lut 2025 https://tvn24.pl
+tvn24.pl##section.narrow-container.two-column--right.two-column > .wide-column > .infinite-scroll > .virtual-page > span.placeholder-wrapper
+
