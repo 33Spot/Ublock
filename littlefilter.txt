@@ -760,5 +760,62 @@ www.xnxx.com##.premium-results-line
 ! 21 paź 2024 https://pl.xhamsterlive.com
 pl.xhamsterlive.com##.multiple-categories-wrapper.model-list-wrapper > .model-list-container
 
+! 10 lis 2024 https://archive.org
+archive.org###review-1728489549
+
+! 12 lis 2024 https://cytu.be
+cytu.be###motd
+
+! 16 lis 2024 https://vod.tvp.pl
+vod.tvp.pl##.pw103_bb.pw103_outer-container
+
+! 22 lis 2024 https://www.scribd.com
+www.scribd.com##.selected.personal_growth.category_item
+
+! 30 lis 2024 https://www.imdb.com
+||m.media-amazon.com/images/M/MV5BYmMzMmIxNzYtYjk3OS00NjBiLTkxNDQtODU3ZDNjN2RiMTIxXkEyXkFqcGc@._V1_SL200_QL1.jpg$image
+
+! 26 gru 2024 https://cda-hd.cc
+cda-hd.cc###cISXh
+
+! 29 gru 2024 https://progameguides.com
+progameguides.com##.DCDOr
+
+! 3 sty 2025 https://crazysexpics.com
+crazysexpics.com##div.wrapper:nth-of-type(5)
+
+! 3 sty 2025 https://exclusivemilf.com
+exclusivemilf.com##div.wrapper:nth-of-type(5)
+exclusivemilf.com##div.wrapper:nth-of-type(5)
+
+! 5 sty 2025 https://mature-orgasm.com
+mature-orgasm.com##div.wrapper:nth-of-type(5)
+
+! 9 sty 2025 https://www.4kdownload.com
+www.4kdownload.com##.overlay--shown.overlay
+
+! 26 sty 2025 https://suno.com
+suno.com##.lg\:block.no-scrollbar.bg-tertiary.hidden.overflow-y-scroll.\32 xl\:max-w-\[350px\].min-\[1350px\]\:max-w-\[300px\].max-w-\[250px\].w-\[232px\].min-w-\[232px\].h-full
+
+! 13 lut 2025 https://blog.csdn.net
+blog.csdn.net##.passport-login-mark
+blog.csdn.net##[src^="data:image/png;base64,"]
+
+! 18 lut 2025 https://www.wired.com
+www.wired.com##.ikBWJZ.ExpandedCanvasContainer-fVXHBp
+
+! 18 lut 2025 http://pornbimbo.com
+pornbimbo.com##[href="https://t.me/pornbimbo"]
+
+github.com/Microsoft-Office-2016-Crack-free
+up-community.link
+!m2rfbgfy.fun
+*.fun/adcgi
+*.fun/js/*.js
+*.fun/css/*.css
+*.xyz/adcgi
+*.xyz/js/*.js
+*.xyz/css/*.css
+
 
 
