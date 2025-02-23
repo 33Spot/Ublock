@@ -822,4 +822,9 @@ up-community.link
 gstatic.com/*/*/*/cast_sender.js
 .fun/script/*.php
 
+wake.tvn.pl
+at-app.cdntvn.pl/*/web/*/*/assets/adverts_.js
+*.services.tvn24.pl
+browser-intake-datadoghq.eu
+at-app.cdntvn.pl/rel/web-display/*/app.js
 
