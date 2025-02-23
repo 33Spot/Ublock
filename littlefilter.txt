@@ -818,5 +818,8 @@ up-community.link
 *.xyz/css/*.css
 *.fun/assets/css/*.css
 *.fun/dl*
+*.fun/fce*?cf=*
+gstatic.com/*/*/*/cast_sender.js
+.fun/script/*.php
 
 
