@@ -817,5 +817,6 @@ up-community.link
 *.xyz/js/*.js
 *.xyz/css/*.css
 *.fun/assets/css/*.css
+*.fun/dl*
 
 
