@@ -1,11 +1,12 @@
 // ==UserScript==
-// @name         Auto Unmute Videos (with Iframe Injection)
+// @name         Auto Unmute Videos (User-Control Friendly)
 // @namespace    http://tampermonkey.net/
-// @version      1.2
-// @description  Automatically unmutes all videos on a page, including those in iframes, by injecting scripts where possible.
+// @version      1.3
+// @description  Automatically unmutes all videos on a page, including iframes, but allows manual muting by the user.
 // @author       You
 // @match        *://*/*
 // @grant        none
+// @updateURL     https://github.com/33Spot/Ublock/raw/refs/heads/master/optimizer/videounmuter.user.js
 // @run-at       document-end
 // ==/UserScript==
 
@@ -14,13 +15,28 @@
 
     function unmuteVideo(video) {
         if (video && video.muted) {
-            video.muted = false;
-            video.volume = 1.0;
+            if (!video.dataset.userMuted) {
+                video.muted = false;
+                video.volume = 1.0;
+            }
         }
     }
 
+    function trackUserMute(video) {
+        video.addEventListener('volumechange', function () {
+            if (video.muted) {
+                video.dataset.userMuted = "true"; // Mark that the user muted it
+            } else {
+                delete video.dataset.userMuted; // Remove the flag if unmuted
+            }
+        });
+    }
+
     function processVideos() {
-        document.querySelectorAll('video').forEach(unmuteVideo);
+        document.querySelectorAll('video').forEach(video => {
+            unmuteVideo(video);
+            trackUserMute(video);
+        });
     }
 
     function injectScriptIntoIframe(iframe) {
@@ -31,16 +47,36 @@
             const script = document.createElement('script');
             script.textContent = `
                 (function() {
-                    document.querySelectorAll('video').forEach(video => {
-                        video.muted = false;
-                        video.volume = 1.0;
-                    });
+                    function unmuteVideo(video) {
+                        if (video && video.muted) {
+                            if (!video.dataset.userMuted) {
+                                video.muted = false;
+                                video.volume = 1.0;
+                            }
+                        }
+                    }
+
+                    function trackUserMute(video) {
+                        video.addEventListener('volumechange', function () {
+                            if (video.muted) {
+                                video.dataset.userMuted = "true"; // Mark that the user muted it
+                            } else {
+                                delete video.dataset.userMuted; // Remove the flag if unmuted
+                            }
+                        });
+                    }
+
+                    function processVideos() {
+                        document.querySelectorAll('video').forEach(video => {
+                            unmuteVideo(video);
+                            trackUserMute(video);
+                        });
+                    }
+
+                    processVideos();
 
                     const observer = new MutationObserver(() => {
-                        document.querySelectorAll('video').forEach(video => {
-                            video.muted = false;
-                            video.volume = 1.0;
-                        });
+                        processVideos();
                     });
 
                     observer.observe(document.body, { childList: true, subtree: true });
