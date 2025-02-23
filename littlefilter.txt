@@ -816,6 +816,6 @@ up-community.link
 *.xyz/adcgi
 *.xyz/js/*.js
 *.xyz/css/*.css
-
+*.fun/assets/css/*.css
 
 
