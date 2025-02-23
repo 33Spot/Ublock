@@ -91,22 +91,6 @@
 
 
     // 🔹 **Ensure videos start unmuted but keep user controls**
-//    function fixVideoPlayback() {
-//        if (yc()) return;
-//        if (fh()) return;
-//        if (vl()) return;
-//        setInterval(() => {
-//            document.querySelectorAll("video").forEach(video => {
-//                if (video.muted) {
-//                    video.muted = false;
-//                    console.log("[Universal Website Optimizer] Unmuted video:", video);
-//                }
-//                video.controls = true; // Keep user controls intact
-//            });
-//        }, 3000);
-//    }
-
-
     function fixVideoPlayback() {
         if (yc()) return;
         if (fh()) return;
