@@ -1,12 +1,11 @@
 // ==UserScript==
 // @name         Auto Unmute Videos (User-Control Friendly)
 // @namespace    http://tampermonkey.net/
-// @version      1.3
-// @description  Automatically unmutes all videos on a page, including iframes, but allows manual muting by the user.
+// @version      1.4
+// @description  Automatically unmutes all videos, but lets you mute manually.
 // @author       You
 // @match        *://*/*
 // @grant        none
-// @updateURL     https://github.com/33Spot/Ublock/raw/refs/heads/master/optimizer/videounmuter.user.js
 // @run-at       document-end
 // ==/UserScript==
 
@@ -14,20 +13,18 @@
     'use strict';
 
     function unmuteVideo(video) {
-        if (video && video.muted) {
-            if (!video.dataset.userMuted) {
-                video.muted = false;
-                video.volume = 1.0;
-            }
+        if (video && video.muted && !video.dataset.userMuted) {
+            video.muted = false;
+            video.volume = 1.0;
         }
     }
 
     function trackUserMute(video) {
         video.addEventListener('volumechange', function () {
             if (video.muted) {
-                video.dataset.userMuted = "true"; // Mark that the user muted it
+                video.dataset.userMuted = "true"; // User muted manually
             } else {
-                delete video.dataset.userMuted; // Remove the flag if unmuted
+                delete video.dataset.userMuted; // Remove flag if unmuted
             }
         });
     }
@@ -41,27 +38,22 @@
 
     function injectScriptIntoIframe(iframe) {
         try {
-            const doc = iframe.contentDocument || iframe.contentWindow.document;
-            if (!doc) return;
-
             const script = document.createElement('script');
             script.textContent = `
                 (function() {
                     function unmuteVideo(video) {
-                        if (video && video.muted) {
-                            if (!video.dataset.userMuted) {
-                                video.muted = false;
-                                video.volume = 1.0;
-                            }
+                        if (video && video.muted && !video.dataset.userMuted) {
+                            video.muted = false;
+                            video.volume = 1.0;
                         }
                     }
 
                     function trackUserMute(video) {
                         video.addEventListener('volumechange', function () {
                             if (video.muted) {
-                                video.dataset.userMuted = "true"; // Mark that the user muted it
+                                video.dataset.userMuted = "true";
                             } else {
-                                delete video.dataset.userMuted; // Remove the flag if unmuted
+                                delete video.dataset.userMuted;
                             }
                         });
                     }
@@ -83,9 +75,13 @@
                 })();
             `;
 
-            doc.head.appendChild(script);
+            iframe.onload = function () {
+                if (iframe.contentDocument) {
+                    iframe.contentDocument.head.appendChild(script);
+                }
+            };
         } catch (e) {
-            console.warn("Cannot inject script into iframe due to CORS:", e);
+            console.warn("Cannot inject into iframe:", e);
         }
     }
 
@@ -102,7 +98,6 @@
         observer.observe(document.body, { childList: true, subtree: true });
     }
 
-    // Run on initial page load
     processVideos();
     processIframes();
     observeMutations();
