@@ -8,8 +8,6 @@
 // @exclude      *://*.drive.google.com/*
 // @exclude      *://www.retrogames.cc/*
 // @exclude      *://*.retrogames.cc/*
-// @exclude      *://9animetv.to/*
-// @exclude      *://*.9animetv.to/*
 // @exclude      *://www.wco.tv/*
 // @exclude      *://*.wco.tv/*
 // @grant         none
