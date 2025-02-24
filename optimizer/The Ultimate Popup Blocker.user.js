@@ -12,6 +12,10 @@
 // @exclude        http*://mail.google.com/*
 // @exclude        http*://*.blogspot.tld/*
 // @exclude        http*://poczta.wp.pl/*
+// @exclude      *://imdb.com/*
+// @exclude      *://*.imdb.com/*
+// @exclude      *://themoviedb.org/*
+// @exclude      *://*.themoviedb.org/*
 // @downloadURL https://update.greasyfork.org/scripts/23228/The%20Ultimate%20Popup%20Blocker.user.js
 // @updateURL https://update.greasyfork.org/scripts/23228/The%20Ultimate%20Popup%20Blocker.meta.js
 // ==/UserScript==
