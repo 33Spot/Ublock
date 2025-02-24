@@ -26,7 +26,7 @@
             console.log("[Universal Website Optimizer] Detected Cloudflare challenge, allowing scripts...");
             return;
         }
-     }
+     
 
      //🔹 **Prevent pop-ups and redirections, but not on Mega**
     function blockPopupsAndRedirects() {
