@@ -339,7 +339,7 @@ function mu() {
             if (location.href !== lastUrl) {
                 console.log("[Universal Website Optimizer] Page changed, reapplying optimizations...");
                 lastUrl = location.href;
-                allowCloudflare()
+                allowCloudflare();
                 whitelistVideoScripts();
                 fixFreediscVideos();
                 blockAdblockDetectors();
@@ -352,7 +352,7 @@ function mu() {
 
     // 🔹 **Run all optimizations after page load**
     window.addEventListener("load", () => {
-        allowCloudflare()
+        allowCloudflare();
         whitelistVideoScripts();
         fixFreediscVideos();
         blockPopupsAndRedirects();
