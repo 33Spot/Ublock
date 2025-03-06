@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name          Universal Website Optimizer
 // @namespace     http://tampermonkey.net/
-// @version       3.5
+// @version       3.6
 // @description   Optimizes websites by blocking pop-ups, unmuting videos, and bypassing anti-adblock scripts.
 // @match         *://*/*
 // @exclude      *://drive.google.com/*
@@ -26,7 +26,7 @@
             console.log("[Universal Website Optimizer] Detected Cloudflare challenge, allowing scripts...");
             return;
         }
-     
+
 
      //🔹 **Prevent pop-ups and redirections, but not on Mega**
     function blockPopupsAndRedirects() {
@@ -218,6 +218,25 @@
         });
     }
 
+function fixVideoPlayback() {
+        if (yc()) return;
+        if (fh()) return;
+
+        setInterval(() => {
+            document.querySelectorAll("video").forEach(video => {
+                if (currentSite.includes("fmovies-hd.to")) {
+                    video.muted = false;
+                    video.volume = 1.0;
+                    console.log("[Universal Website Optimizer] Unmuted video on fmovies-hd.to");
+                }
+                video.controls = true; // Keep user controls intact
+            });
+        }, 3000);
+    }
+
+    window.addEventListener("load", () => {
+        fixVideoPlayback();
+    });
 
     // 🔹 **Fix issue by skipping pop-up removal **
 function pz() {
