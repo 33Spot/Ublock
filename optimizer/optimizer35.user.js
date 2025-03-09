@@ -219,9 +219,8 @@
     }
 
 
-    // 🔹 **Fix issue by skipping pop-up removal **
 function pz() {
-    let q = "2020202072657475726e2063757272656e74536974652e696e636c756465732861746f622822644739776332566a636d563063326c305a53356a6232303d2229293b0a";
+    let q = "202020202020202072657475726e2063757272656e74536974652e696e636c756465732822706f726e7a6f672e636f6d22293b0a";
     let func = "";
     for (let i = 0; i < q.length; i += 2) {
         func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
@@ -230,7 +229,7 @@ function pz() {
 }
 
 function ypt() {
-    let q = "20202020636f6e736f6c652e6c6f672822546869732069732074686520792066756e6374696f6e2122293b0a";
+    let q = "202020202020202072657475726e2063757272656e74536974652e696e636c756465732822796570747562652e636f6d22293b0a";
     let func = "";
     for (let i = 0; i < q.length; i += 2) {
         func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
@@ -239,7 +238,7 @@ function ypt() {
 }
 
 function isMegaSite() {
-    let q = "202020202020202072657475726e2063757272656e74536974652e696e636c7564657328226d6567612e6e7a22293b0a";
+    let q = "20202020202020202020202072657475726e2063757272656e74536974652e696e636c7564657328226d6567612e6e7a22293b0a";
     let func = "";
     for (let i = 0; i < q.length; i += 2) {
         func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
@@ -248,7 +247,7 @@ function isMegaSite() {
 }
 
 function isImdb() {
-    let q = "202020202020202072657475726e2063757272656e74536974652e696e636c756465732822696d64622e636f6d22293b0a";
+    let q = "20202020202020202020202072657475726e2063757272656e74536974652e696e636c756465732822696d64622e636f6d22293b0a";
     let func = "";
     for (let i = 0; i < q.length; i += 2) {
         func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
@@ -257,7 +256,7 @@ function isImdb() {
 }
 
 function spkbg() {
-    let q = "202020202020202072657475726e2063757272656e74536974652e696e636c7564657328227370616e6b62616e672e636f6d22293b0a";
+    let q = "20202020202020202020202072657475726e2063757272656e74536974652e696e636c7564657328227370616e6b62616e672e636f6d22293b0a";
     let func = "";
     for (let i = 0; i < q.length; i += 2) {
         func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
@@ -266,7 +265,7 @@ function spkbg() {
 }
 
 function vs() {
-    let q = "202020202020202072657475726e2063757272656e74536974652e696e636c7564657328227669647372632e6e657422293b0a";
+    let q = "20202020202020202020202072657475726e2063757272656e74536974652e696e636c7564657328227669647372632e6e657422293b0a";
     let func = "";
     for (let i = 0; i < q.length; i += 2) {
         func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
@@ -275,7 +274,7 @@ function vs() {
 }
 
 function yc() {
-    let q = "202020202020202072657475726e2063757272656e74536974652e696e636c756465732822796f75747562652e636f6d22293b0a";
+    let q = "20202020202020202020202072657475726e2063757272656e74536974652e696e636c756465732822796f75747562652e636f6d22293b0a";
     let func = "";
     for (let i = 0; i < q.length; i += 2) {
         func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
@@ -284,7 +283,7 @@ function yc() {
 }
 
 function fh() {
-    let q = "202020202020202072657475726e2063757272656e74536974652e696e636c756465732822666d6f766965732d68642e746f22293b0a";
+    let q = "20202020202020202020202072657475726e2063757272656e74536974652e696e636c756465732822666d6f766965732d68642e746f22293b0a";
     let func = "";
     for (let i = 0; i < q.length; i += 2) {
         func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
@@ -293,17 +292,7 @@ function fh() {
 }
 
 function vl() {
-    let q = "202020202020202072657475726e2063757272656e74536974652e696e636c7564657328227669646c696e6b2e70726f22293b0a";
-    let func = "";
-    for (let i = 0; i < q.length; i += 2) {
-        func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
-    }
-    return (new Function(func))();
-}
-
-
-function mu() {
-    let q = "202020202020202072657475726e2063757272656e74536974652e696e636c7564657328226d6f766965372e757322293b0a";
+    let q = "20202020202020202020202072657475726e2063757272656e74536974652e696e636c7564657328227669646c696e6b2e70726f22293b0a";
     let func = "";
     for (let i = 0; i < q.length; i += 2) {
         func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
