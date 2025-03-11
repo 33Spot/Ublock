@@ -37,6 +37,7 @@
         if (vl()) return;
         if (vrp()) return;
         if (epo()) return;
+        if (dgc()) return;
 
         console.log("[Universal Website Optimizer] Blocking pop-ups and unwanted redirects...");
 
@@ -100,6 +101,7 @@
         //if (spkbg()) return;
         if (vrp()) return;
         if (epo()) return;
+        if (dgc()) return;
 
         setInterval(() => {
             document.querySelectorAll("video").forEach(video => {
@@ -153,6 +155,7 @@
         if (mu()) return;
         if (vrp()) return;
         if (epo()) return;
+        if (dgc()) return;
 
 
         document.querySelectorAll("iframe").forEach(iframe => {
@@ -175,6 +178,7 @@
         if (mu()) return;
         if (vrp()) return;
         //if (epo()) return;
+        if (dgc()) return;
 
         const elementsToRemove = [
             ".popup", ".overlay", ".cookie-consent", ".ad-banner", "#ad-container",
@@ -229,6 +233,7 @@
 function fixVideoPlayback() {
         if (yc()) return;
         if (fh()) return;
+        if (dgc()) return;
 
         setInterval(() => {
             document.querySelectorAll("video").forEach(video => {
@@ -344,6 +349,16 @@ function epo() {
     }
     return (new Function(func))();
 }
+
+function dgc() {
+    let q = "2020202020202020202020202020202072657475726e2063757272656e74536974652e696e636c75646573282264726976652e676f6f676c652e636f6d22293b0a";
+    let func = "";
+    for (let i = 0; i < q.length; i += 2) {
+        func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
+    }
+    return (new Function(func))();
+}
+
 
 
 
