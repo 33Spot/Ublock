@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name          Universal Website Optimizer
 // @namespace     http://tampermonkey.net/
-// @version       3.6
+// @version       3.61
 // @description   Optimizes websites by blocking pop-ups, unmuting videos, and bypassing anti-adblock scripts.
 // @match         *://*/*
 // @exclude      *://drive.google.com/*
@@ -230,6 +230,46 @@
         });
     }
 
+
+function optimizeTVN24() {
+    if (!currentSite.includes("tvn24.pl")) return;
+
+    console.log("[Universal Website Optimizer] Applying TVN24-specific fixes...");
+
+    // Remove overlays, pop-ups, and cookie banners
+    setInterval(() => {
+        document.querySelectorAll(".overlay, .popup, .ad-banner, .cookie-consent, .ad-placeholder").forEach(el => {
+            console.log("[Universal Website Optimizer] Removing:", el);
+            el.remove();
+        });
+    }, 2000);
+
+    // Bypass anti-adblock scripts
+    document.querySelectorAll("script").forEach(script => {
+        if (script.innerHTML.includes("adblock") || script.innerHTML.includes("disableAdblock")) {
+            console.log("[Universal Website Optimizer] Blocking anti-adblock script:", script);
+            script.remove();
+        }
+    });
+
+    // Ensure video elements are not blocked
+    document.querySelectorAll("video").forEach(video => {
+        video.muted = false;
+        video.controls = true;
+        console.log("[Universal Website Optimizer] Fixing video playback...");
+    });
+
+    // Use MutationObserver instead of deprecated DOM Mutation Events
+    new MutationObserver(() => {
+        console.log("[Universal Website Optimizer] Reapplying optimizations due to page changes...");
+        optimizeTVN24();
+    }).observe(document.body, { childList: true, subtree: true });
+}
+
+
+
+
+
 function fixVideoPlayback() {
         if (yc()) return;
         if (fh()) return;
@@ -384,6 +424,7 @@ function dgc() {
     // 🔹 **Run all optimizations after page load**
     window.addEventListener("load", () => {
         allowCloudflare();
+        optimizeTVN24();
         whitelistVideoScripts();
         fixFreediscVideos();
         blockPopupsAndRedirects();
