@@ -6,6 +6,7 @@
 // @author       Drigtime
 // @match        https://www.reddit.com/r/PkgLinks/*
 // @match        https://rentry.co/hokukawaii-badianstinky
+// @match        https://rentry.org/hokukawaii-badianstinky
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
 // @grant        none
 // @license      MIT
