@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name          Universal Website Optimizer
 // @namespace     http://tampermonkey.net/
-// @version       3.61
+// @version       3.62
 // @description   Optimizes websites by blocking pop-ups, unmuting videos, and bypassing anti-adblock scripts.
 // @match         *://*/*
 // @exclude      *://drive.google.com/*
@@ -38,6 +38,7 @@
         if (vrp()) return;
         if (epo()) return;
         if (dgc()) return;
+        //if (pt()) return;
 
         console.log("[Universal Website Optimizer] Blocking pop-ups and unwanted redirects...");
 
@@ -67,6 +68,7 @@
 
     // 🔹 **Dynamically detect and block aggressive anti-adblock scripts**
     function blockAdblockDetectors() {
+        if (pt()) return;
         const adblockKeys = ["adblock", "fuckadblock", "disableAdblock", "adBlockDetected", "BlockAdBlock", "isAdBlockActive", "canRunAds", "canShowAds"];
         document.querySelectorAll("script").forEach(script => {
             adblockKeys.forEach(key => {
@@ -102,6 +104,7 @@
         if (vrp()) return;
         if (epo()) return;
         if (dgc()) return;
+        //if (pt()) return;
 
         setInterval(() => {
             document.querySelectorAll("video").forEach(video => {
@@ -156,6 +159,7 @@
         if (vrp()) return;
         if (epo()) return;
         if (dgc()) return;
+        //if (pt()) return;
 
 
         document.querySelectorAll("iframe").forEach(iframe => {
@@ -179,6 +183,7 @@
         if (vrp()) return;
         //if (epo()) return;
         if (dgc()) return;
+        //if (pt()) return;
 
         const elementsToRemove = [
             ".popup", ".overlay", ".cookie-consent", ".ad-banner", "#ad-container",
@@ -274,6 +279,7 @@ function fixVideoPlayback() {
         if (yc()) return;
         if (fh()) return;
         if (dgc()) return;
+        //if (pt()) return;
 
         setInterval(() => {
             document.querySelectorAll("video").forEach(video => {
@@ -392,6 +398,15 @@ function epo() {
 
 function dgc() {
     let q = "2020202020202020202020202020202072657475726e2063757272656e74536974652e696e636c75646573282264726976652e676f6f676c652e636f6d22293b0a";
+    let func = "";
+    for (let i = 0; i < q.length; i += 2) {
+        func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
+    }
+    return (new Function(func))();
+}
+
+function pt() {
+    let q = "2020202020202020202020202020202072657475726e202163757272656e74536974652e696e636c7564657328227777772e706f726e747265782e636f6d22293b0a";
     let func = "";
     for (let i = 0; i < q.length; i += 2) {
         func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
