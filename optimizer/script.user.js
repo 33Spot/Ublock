@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name          Universal Website Optimizer
 // @namespace     http://tampermonkey.net/
-// @version       3.63
+// @version       3.64
 // @description   Optimizes websites by blocking pop-ups, unmuting videos, and bypassing anti-adblock scripts.
 // @match         *://*/*
 // @exclude      *://drive.google.com/*
@@ -108,6 +108,7 @@
         if (dgc()) return;
         //if (pt()) return;
         if (sfx()) return;
+        if (fdp()) return;
 
         setInterval(() => {
             document.querySelectorAll("video").forEach(video => {
@@ -164,6 +165,7 @@
         if (dgc()) return;
         //if (pt()) return;
         if (sfx()) return;
+        if (fdp()) return;
 
 
         document.querySelectorAll("iframe").forEach(iframe => {
@@ -281,11 +283,12 @@ function optimizeTVN24() {
 
 
 function fixVideoPlayback() {
-        if (yc()) return;
-        if (fh()) return;
-        if (dgc()) return;
-        //if (pt()) return;
-        if (sfx()) return;
+    if (yc()) return;
+    if (fh()) return;
+    if (dgc()) return;
+    //if (pt()) return;
+    if (sfx()) return;
+    if (fdp()) return;
 
         setInterval(() => {
             document.querySelectorAll("video").forEach(video => {
@@ -422,6 +425,15 @@ function pt() {
 
 function sfx() {
     let q = "2020202020202020202020202020202072657475726e202163757272656e74536974652e696e636c75646573282273666c69782e746f22293b0a";
+    let func = "";
+    for (let i = 0; i < q.length; i += 2) {
+        func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
+    }
+    return (new Function(func))();
+}
+
+function fdp() {
+    let q = "2020202020202020202020202020202072657475726e202163757272656e74536974652e696e636c75646573282266726565646973632e706c22293b0a";
     let func = "";
     for (let i = 0; i < q.length; i += 2) {
         func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
