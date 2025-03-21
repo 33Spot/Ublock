@@ -836,6 +836,25 @@ gstatic.com/*/*/*/cast_sender.js
 
 wake.tvn.pl
 at-app.cdntvn.pl/*/web/*/*/assets/adverts_.js
+
+! 28 lut 2025 https://www.imdb.com
+www.imdb.com##.enter-done.ipc-rating-prompt.ipc-promptable-dialog.ipc-promptable-base
+
+! 2 mar 2025 https://drive.google.com
+drive.google.com###\:3k\.contentEl
+
+! 12 mar 2025 https://deovr.com
+deovr.com##.desktop\:u-flex-row.tablet\:u-flex-row.u-flex-col.u-flex
+deovr.com##.m-modal-overlay
+
+! 20 mar 2025 https://deovr.com
+deovr.com##.js-c-banner--bottom-registration.desktop\:u-py--three.table\:u-py--three.u-py--six-px.u-bgc--base.u-z--one.u-stretch--x.u-width--full.u-flex.u-pos--b.u-fixed.c-banner--bottom-registration
+deovr.com##.desktop\:u-radius--fifteen.desktop\:u-mb--four.desktop\:u-p--five.u-p--four.u-align-i--center.u-flex.u-bgc--lg
+
+! 21 mar 2025 https://www.youtube.com
+www.youtube.com###page-header
+
+
 *.services.tvn24.pl
 browser-intake-datadoghq.eu
 at-app.cdntvn.pl/rel/web-display/*/app.js
