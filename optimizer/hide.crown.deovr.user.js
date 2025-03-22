@@ -5,6 +5,7 @@
 // @description  Hides premium videos (with a crown icon) on DeoVR.
 // @author       You
 // @match        https://deovr.com/*
+// @match        https://jillvr.com/*
 // @grant        none
 // ==/UserScript==
 
