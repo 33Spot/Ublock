@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name          Universal Website Optimizer
 // @namespace     http://tampermonkey.net/
-// @version       3.64
+// @version       3.65
 // @description   Optimizes websites by blocking pop-ups, unmuting videos, and bypassing anti-adblock scripts.
 // @match         *://*/*
 // @exclude      *://drive.google.com/*
@@ -21,11 +21,23 @@
 
     const currentSite = window.location.hostname;
 
-     function allowCloudflare() {
+    function allowCloudflare(callback) {
+        // Check if Cloudflare challenge is present
         if (document.querySelector("#cf-challenge-form") || document.querySelector(".cf-browser-verification")) {
-            console.log("[Universal Website Optimizer] Detected Cloudflare challenge, allowing scripts...");
-            return;
+            console.log("[Universal Website Optimizer] Detected Cloudflare challenge, waiting...");
+
+            // Delay before retrying to prevent loops
+            setTimeout(() => {
+                console.log("[Universal Website Optimizer] Checking Cloudflare again...");
+                allowCloudflare(callback);
+            }, 5000); // Wait 5 seconds before retrying
+
+            return; // Exit early to prevent running other functions
         }
+
+        console.log("[Universal Website Optimizer] Cloudflare check passed, running optimizations...");
+        if (callback) callback(); // Run all functions after Cloudflare passes
+    }
 
 
      //🔹 **Prevent pop-ups and redirections, but not on Mega**
@@ -463,19 +475,23 @@ function fdp() {
         }).observe(document.body, { childList: true, subtree: true });
     }
 
-    // 🔹 **Run all optimizations after page load**
-    window.addEventListener("load", () => {
-        allowCloudflare();
-        optimizeTVN24();
-        whitelistVideoScripts();
-        fixFreediscVideos();
-        blockPopupsAndRedirects();
-        blockAdblockDetectors();
-        removePopups();
-        fixVideoPlayback();
-        fixVideoIframes();
-        optimizeNavigation();
+      // 🔹 **Run all optimizations**
+        function runOptimizations() {
+            whitelistVideoScripts();
+            fixFreediscVideos();
+            blockPopupsAndRedirects();
+            blockAdblockDetectors();
+            removePopups();
+            fixVideoPlayback();
+            fixVideoIframes();
+            optimizeNavigation();
+        }
 
-    });
+        runOptimizations();
+    }
+
+    //window.addEventListener("load", allowCloudflare);
+ window.addEventListener("load", () => allowCloudflare(runOptimizations));
+
 
 })();
