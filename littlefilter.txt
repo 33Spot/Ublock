@@ -869,3 +869,27 @@ www.nytimes.com##.euiyums1.css-cfyeo7
 ! 23 lut 2025 https://tvn24.pl
 tvn24.pl##section.narrow-container.two-column--right.two-column > .wide-column > .infinite-scroll > .virtual-page > span.placeholder-wrapper
 
+! 17 lut 2025 https://www.nytimes.com
+www.nytimes.com###gateway-content
+www.nytimes.com##.euiyums1.css-cfyeo7
+
+! 23 lut 2025 https://tvn24.pl
+tvn24.pl##section.narrow-container.two-column--right.two-column > .wide-column > .infinite-scroll > .virtual-page > span.placeholder-wrapper
+
+! 28 lut 2025 https://www.imdb.com
+www.imdb.com##.enter-done.ipc-rating-prompt.ipc-promptable-dialog.ipc-promptable-base
+
+! 2 mar 2025 https://drive.google.com
+drive.google.com###\:3k\.contentEl
+
+! 12 mar 2025 https://deovr.com
+deovr.com##.desktop\:u-flex-row.tablet\:u-flex-row.u-flex-col.u-flex
+deovr.com##.m-modal-overlay
+
+! 20 mar 2025 https://deovr.com
+deovr.com##.js-c-banner--bottom-registration.desktop\:u-py--three.table\:u-py--three.u-py--six-px.u-bgc--base.u-z--one.u-stretch--x.u-width--full.u-flex.u-pos--b.u-fixed.c-banner--bottom-registration
+deovr.com##.desktop\:u-radius--fifteen.desktop\:u-mb--four.desktop\:u-p--five.u-p--four.u-align-i--center.u-flex.u-bgc--lg
+
+! 21 mar 2025 https://www.youtube.com
+!www.youtube.com###page-header
+
