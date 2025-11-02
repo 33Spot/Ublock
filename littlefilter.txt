@@ -699,6 +699,10 @@ primeconverterapp.com
 convertpro.org
 lossless-scaling.com
 
+||embed.wcostream.com/inc/embed/pops-arrived2.jpg$image
+embed.wcostream.com##.announcement-backdrop
+embed.wcostream.com##.btn-overlay
+https://embed.wcostream.com/inc/embed/*/content.js
 
 @@||ajax.googleapis.com^
 @@||ajax.aspnetcdn.com^
