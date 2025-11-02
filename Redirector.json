@@ -1,0 +1,91 @@
+{
+    "createdBy": "Redirector v3.5.3",
+    "createdAt": "2025-11-02T14:18:08.395Z",
+    "redirects": [
+        {
+            "description": "Example redirect, try going to http://example.com/anywordhere",
+            "exampleUrl": "http://example.com/some-word-that-matches-wildcard",
+            "exampleResult": "https://google.com/search?q=some-word-that-matches-wildcard",
+            "error": null,
+            "includePattern": "http://example.com/*",
+            "excludePattern": "",
+            "patternDesc": "Any word after example.com leads to google search for that word.",
+            "redirectUrl": "https://google.com/search?q=$1",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "",
+            "exampleUrl": "https://www.youtube.com/watch?v=*",
+            "exampleResult": "https://inv.nadeko.net/watch?__goaway_challenge=resource-load&__goaway_id=7edc19446c1aaa97c5f6564cbb33a812&__goaway_referer=https%3A%2F%2Finv.nadeko.net%2F&v=*",
+            "error": null,
+            "includePattern": "https://www.youtube.com/watch?v=*",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://inv.nadeko.net/watch?__goaway_challenge=resource-load&__goaway_id=7edc19446c1aaa97c5f6564cbb33a812&__goaway_referer=https%3A%2F%2Finv.nadeko.net%2F&v=$1",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "",
+            "exampleUrl": "https://www.youtube.com/watch?v=*",
+            "exampleResult": "https://invidious.nerdvpn.de/watch?v=*",
+            "error": null,
+            "includePattern": "https://www.youtube.com/watch?v=*",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://invidious.nerdvpn.de/watch?v=$1",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": true,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "",
+            "exampleUrl": "https://www.youtube.com/watch?v=*",
+            "exampleResult": "https://inv.perditum.com/watch?v=*",
+            "error": null,
+            "includePattern": "https://www.youtube.com/watch?v=*",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://inv.perditum.com/watch?v=$1",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": true,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "NOT WORKING!",
+            "exampleUrl": "https://www.youtube.com/watch?v=*",
+            "exampleResult": "https://yewtu.be//watch?v=*",
+            "error": null,
+            "includePattern": "https://www.youtube.com/watch?v=*",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://yewtu.be//watch?v=$1",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": true,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        }
+    ]
+}
