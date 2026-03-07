@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name          Universal Website Optimizer
 // @namespace     http://tampermonkey.net/
-// @version       3.65
+// @version       3.66
 // @description   Optimizes websites by blocking pop-ups, unmuting videos, and bypassing anti-adblock scripts.
 // @match         *://*/*
 // @exclude      *://drive.google.com/*
@@ -52,6 +52,7 @@
         if (dgc()) return;
         //if (pt()) return;
         if (sfx()) return;
+        if (arn()) return;
 
         console.log("[Universal Website Optimizer] Blocking pop-ups and unwanted redirects...");
 
@@ -121,6 +122,7 @@
         //if (pt()) return;
         if (sfx()) return;
         if (fdp()) return;
+        if (arn()) return;
 
         setInterval(() => {
             document.querySelectorAll("video").forEach(video => {
@@ -178,6 +180,7 @@
         //if (pt()) return;
         if (sfx()) return;
         if (fdp()) return;
+        if (arn()) return;
 
 
         document.querySelectorAll("iframe").forEach(iframe => {
@@ -203,6 +206,7 @@
         if (dgc()) return;
         //if (pt()) return;
         if (sfx()) return;
+        if (arn()) return;
 
         const elementsToRemove = [
             ".popup", ".overlay", ".cookie-consent", ".ad-banner", "#ad-container",
@@ -301,6 +305,7 @@ function fixVideoPlayback() {
     //if (pt()) return;
     if (sfx()) return;
     if (fdp()) return;
+    if (arn()) return;
 
         setInterval(() => {
             document.querySelectorAll("video").forEach(video => {
@@ -453,7 +458,14 @@ function fdp() {
     return (new Function(func))();
 }
 
-
+function arn() {
+    let q = "20202020202020202020202072657475726e2063757272656e74536974652e696e636c7564657328226172656e612e616922293b0a";
+    let func = "";
+    for (let i = 0; i < q.length; i += 2) {
+        func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
+    }
+    return (new Function(func))();
+}
 
 
 
