@@ -897,3 +897,199 @@ deovr.com##.desktop\:u-radius--fifteen.desktop\:u-mb--four.desktop\:u-p--five.u-
 ! 21 mar 2025 https://www.youtube.com
 !www.youtube.com###page-header
 
+gtlf.fr
+faphouse.com
+
+! 17 lut 2025 https://www.nytimes.com
+www.nytimes.com###gateway-content
+www.nytimes.com##.euiyums1.css-cfyeo7
+
+! 23 lut 2025 https://tvn24.pl
+tvn24.pl##section.narrow-container.two-column--right.two-column > .wide-column > .infinite-scroll > .virtual-page > span.placeholder-wrapper
+
+! 28 lut 2025 https://www.imdb.com
+www.imdb.com##.enter-done.ipc-rating-prompt.ipc-promptable-dialog.ipc-promptable-base
+
+! 2 mar 2025 https://drive.google.com
+drive.google.com###\:3k\.contentEl
+
+! 12 mar 2025 https://deovr.com
+deovr.com##.desktop\:u-flex-row.tablet\:u-flex-row.u-flex-col.u-flex
+deovr.com##.m-modal-overlay
+
+! 20 mar 2025 https://deovr.com
+deovr.com##.js-c-banner--bottom-registration.desktop\:u-py--three.table\:u-py--three.u-py--six-px.u-bgc--base.u-z--one.u-stretch--x.u-width--full.u-flex.u-pos--b.u-fixed.c-banner--bottom-registration
+deovr.com##.desktop\:u-radius--fifteen.desktop\:u-mb--four.desktop\:u-p--five.u-p--four.u-align-i--center.u-flex.u-bgc--lg
+
+! 21 mar 2025 https://www.youtube.com
+!www.youtube.com###page-header
+vider-pl.net
+ptgamez.com
+xturkgames.com
+indafun.com
+justwatch.com
+netflix.com
+
+! 10 lip 2025 https://vod.tvp.pl
+||web.geb.snrbox.com/dc/v5/$xhr,domain=vod.tvp.pl
+
+! 14 lip 2025 https://infodatasheet.com
+!infodatasheet.com##.itc-modal-scrollable.itc-modal-content
+!infodatasheet.com##.itc-modal-show.itc-modal
+
+! 20 lip 2025 https://genialne.pl
+genialne.pl##.d146tu0
+
+! 6 sie 2025 https://ballbusting.cc
+ballbusting.cc###delayed-ad
+
+! 24 sie 2025 https://docer.pl
+||docs.google.com/viewer?embedded=true&url=https://stream.docer.pl/pdf/3915610/nv85c08/MjE1MTE0NTYyMjY3LDU,$subdocument
+
+! 31 sie 2025 https://www.aieroticsmut.com
+www.aieroticsmut.com##.p-4.z-50.justify-center.items-center.flex.backdrop-blur-sm.bg-opacity-50.bg-black.inset-0.fixed
+
+! 13 wrz 2025 https://prnt.sc
+prnt.sc##.under-image
+
+! 17 wrz 2025 https://sflix2.to
+sflix2.to##.text-center.modalsharecontent
+
+! 19 wrz 2025 https://perchance.org
+perchance.org###adCtn
+
+! 21 wrz 2025 https://eon.pl
+eon.pl##.notifications-container
+
+! 27 wrz 2025 https://www.eporner.com
+www.eporner.com##.vjs-inplayer-container
+www.eporner.com##.vjs-poster
+www.eporner.com##.vjs-poster
+
+! 23 paź 2025 https://tinkerbetter.tube
+!tinkerbetter.tube##.browser-ok.alert-light.alert
+
+! 23 paź 2025 https://videos.elenarossini.com
+!videos.elenarossini.com##.browser-ok.alert-light.alert
+
+! 12 lis 2025 https://gamejolt.com
+gamejolt.com##div.-item > div > div > div > div > div > div
+gamejolt.com##.gj-scroll-affixed.scroll-affix-container > div > div
+
+! 13 gru 2025 https://prnt.sc
+||st.prntscr.com/2023/07/24/0635/img/page-bg.png$image
+
+! 6 sty 2026 https://www.emulatorjs.com
+www.emulatorjs.com##.ad-close
+
+! 6 sty 2026 https://polszczyzna.pl
+polszczyzna.pl###modal-extended-adblocker
+
+! 16 sty 2026 https://getcomics.org
+getcomics.org##.getco-before-content
+
+! 17 sty 2026 https://acgxmh.com
+acgxmh.com##.pre_picture
+
+bagla.pl
+
+! 22 sty 2026 https://www.camwhores.tv
+||cdn.camwhores.tv/images/bg-grey.gif$image
+||cdn.camwhores.tv/images/bg-grey.gif$image
+
+! 22 sty 2026 https://fansly.com
+fansly.com##.image-overlay-flex
+
+! 27 sty 2026 https://annas-archive.pm
+annas-archive.pm##div.mb-4:nth-of-type(1)
+
+! 27 sty 2026 https://annas-archive.li
+annas-archive.li##div.mb-4:nth-of-type(1)
+
+  ! ||youtube.com/shorts/*$uritransform=/shorts\/(.*)/watch\/\$1/`
+
+! 19 lut 2026 https://vod.tvp.pl
+vod.tvp.pl##.ui-player-branding__curtain
+
+! 25 lut 2026 https://showup.tv
+showup.tv##.scrollbar-y-active.scrollbar-x-end.simplebar-scrollable-y.su-cnz4mm-root-scrollbar > .simplebar-wrapper > .simplebar-mask > .simplebar-offset > .simplebar-content-wrapper > .simplebar-content
+showup.tv##.su-919eu4.MuiBackdrop-root
+!showup.tv##.su-rg4gkr-outerContainer-root.MuiModal-root
+!showup.tv##.su-393x1r-backgroundMaximize.MuiBox-root
+!showup.tv##.su-1qcqvmz-root.MuiBox-root
+!showup.tv###stormLibrary_1 > video
+!showup.tv###mainStormPlayer > .stormLibrary
+!showup.tv##.su-1tard0s-content.MuiBox-root > .su-0.MuiBox-root
+
+! 28 lut 2026 https://showup.tv
+showup.tv##.scrollbar-x-end.simplebar-scrollable-y.su-cnz4mm-root-scrollbar > .simplebar-wrapper > .simplebar-mask > .simplebar-offset > .simplebar-content-wrapper > .simplebar-content
+showup.tv##.scrollbar-x-end.simplebar-scrollable-y.su-cnz4mm-root-scrollbar > .simplebar-wrapper > .simplebar-mask > .simplebar-offset > .simplebar-content-wrapper > .simplebar-content-wrapper
+showup.tv##.su-ybijf0-outerContainer-root.MuiModal-root
+
+! 1 mar 2026 https://www.vinted.pl
+www.vinted.pl##.slot-container--leaderboard.slot-container
+
+! 5 mar 2026 https://arena.ai
+arena.ai##.gap-2.flex-col.flex.border-border-faint.p-2
+
+! ============================
+! YouTube Ad Filters
+! Updated for 2026
+! ============================
+
+! --- Block YouTube video pre-roll & mid-roll ads ---
+||googlevideo.com/videoplayback?*&ctier=L*
+||youtube.com/api/stats/ads*
+||youtube.com/pagead/*
+||youtube.com/ptracking*
+||youtube.com/get_midroll_info*
+||doubleclick.net/pagead/adview*
+||googleads.g.doubleclick.net^
+||static.doubleclick.net^
+||ads.youtube.com^
+
+! --- Block ad-related network requests ---
+||youtubei.googleapis.com/youtubei/v1/log_event?*
+||googlesyndication.com^$third-party
+||googletagmanager.com/gtag/js*
+||google-analytics.com/analytics.js*
+
+! --- Cosmetic filters: Hide ad UI elements ---
+! Skip ad button
+www.youtube.com##.ytp-ad-skip-button-container
+www.youtube.com##.ytp-skip-ad-button
+www.youtube.com##.ytp-ad-skip-button-modern
+
+! Ad overlay on video
+www.youtube.com##.ytp-ad-overlay-container
+www.youtube.com##.ytp-ad-text-overlay
+
+! Ad info bar (top of video player)
+www.youtube.com##.ytp-ad-player-overlay
+www.youtube.com##.ytp-ad-player-overlay-instream-info
+www.youtube.com##.ytp-ad-progress
+www.youtube.com##.ytp-ad-progress-list
+
+! Companion ad (right side of player)
+www.youtube.com##.ytp-ad-module
+
+! Video masthead / banner ads
+www.youtube.com##ytd-banner-promo-renderer
+www.youtube.com##ytd-statement-banner-renderer
+www.youtube.com##ytd-video-masthead-ad-v3-renderer
+www.youtube.com##ytd-video-masthead-ad-AdvertiserInfoDialogRenderer
+
+! In-feed / 
+! --- YouTube Anti-Adblock & Interruption Bypasses ---
+www.youtube.com##.paper-toast-open.yt-notification-action-renderer.style-scope.toast-button
+youtube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
+youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
+youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
+youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
+
+! --- Remove "Experiencing interruptions?" & Playback Delays ---
+www.youtube.com##tp-yt-iron-overlay-backdrop
+www.youtube.com##ytd-enforcement-message-view-model
+
+
+
