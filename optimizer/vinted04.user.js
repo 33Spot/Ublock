@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Vinted.pl - reduce script bloat (block trackers + throttle timers)
+// @name         Vinted.pl - reduce script bloat version 0.4
 // @namespace    local
 // @version      0.4
-// @description  Blocks common third-party tracking scripts and throttles aggressive timers when the tab is hidden. Optional idle reload.
+// @description  Vinted.pl - reduce script bloat (block trackers + throttle timers) Blocks common third-party tracking scripts and throttles aggressive timers when the tab is hidden. Optional idle reload.
 // @match        https://www.vinted.pl/*
 // @run-at       document-start
 // @grant        GM_getValue
