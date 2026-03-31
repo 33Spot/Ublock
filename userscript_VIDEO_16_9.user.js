@@ -10,6 +10,7 @@
 // @match        *://*/*.avi*
 // @match        *://*/*.mov*
 // @match        *://*/*.ogv*
+// @match        *://*/*.rmvb*
 // @grant        GM_addStyle
 // ==/UserScript==
 
