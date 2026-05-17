@@ -1091,6 +1091,31 @@ youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
 www.youtube.com##tp-yt-iron-overlay-backdrop
 www.youtube.com##ytd-enforcement-message-view-model
 
+showup.tv##+js(nostif, webscraper)
+
+||showup.tv^$csp=worker-src 'none'
+showup.tv##+js(set, navigator.userAgent, Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0)
+
+showup.tv##+js(aopr, navigator.plugins)
+showup.tv##+js(set, navigator.vendor, '')
+showup.tv##+js(set, navigator.appName, Netscape)
+
+showup.tv##+js(rmnt, script, /floorp|workspace|scraper/i)
+showup.tv##+js(no-xhr-if, /api.*detect|fingerprint/)
+
+showup.tv * noop
+showup.tv * 3p-frame noop
+showup.tv * 3p-script noop
+
+@@||showup.tv^$generichide
+showup.tv##+js(addEventListener-defuser, visibilitychange)
+showup.tv##+js(no-fetch-if, /browser-detect|bot-detect/)
+
+! Fix Floorp detection on showup.tv
+showup.tv##+js(set, navigator.userAgent, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36)
+showup.tv##+js(set, navigator.platform, Win32)
+showup.tv##+js(aopr, navigator.getBattery)
+
 ! 29 mar 2026 https://sflix.ps
 !sflix.ps##.show.premodal-share.premodal.modal
 !sflix.ps##.show.modal-backdrop
@@ -1124,5 +1149,6 @@ vider.info##.reklama-content-1
 vider.pl##.info-close-ads-doublebillboard
 vider.pl##.info-close-ads-small
 vider.pl##.reklama-content-1
+
 
 
