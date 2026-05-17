@@ -1091,5 +1091,38 @@ youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
 www.youtube.com##tp-yt-iron-overlay-backdrop
 www.youtube.com##ytd-enforcement-message-view-model
 
+! 29 mar 2026 https://sflix.ps
+!sflix.ps##.show.premodal-share.premodal.modal
+!sflix.ps##.show.modal-backdrop
+
+! 30 mar 2026 https://www.scribd.com
+www.scribd.com###outer_page_6 > .newpage
+www.scribd.com###outer_page_3 > ._1qNr2d
+www.scribd.com###outer_page_4
+www.scribd.com###outer_page_5 > ._1qNr2d > ._1lOiS4 > ._3W3cvr._1nkpZI
+
+! 12 kwi 2026 https://allegro.pl
+allegro.pl##.msts_n7._17d9e_Ww88Y.opbox-sheet-c14f8.opbox-sheet > div > .cr1os2.mp7g_oh.meqh_en
+
+! 17 kwi 2026 http://192.168.2.1
+192.168.2.1###status-anonwarn
+
+! 25 kwi 2026 http://192.168.1.1
+192.168.1.1###status-anonwarn
+
+! 6 maj 2026 https://scrolller.com
+scrolller.com##.popup__overlay
+scrolller.com##.popup--zIndex.popup--dark.popup--animate.popup--sticky.popup
+
+! 16 maj 2026 https://www.anomiapress.com
+www.anomiapress.com##.popup--container
+www.anomiapress.com##.form-5-namespace.smsbump-sub-form.form-0.form.jszabd.sc-xn7cyx-0
+
+vider.info##.reklama-content-1
+
+! 17 maj 2026 https://vider.pl
+vider.pl##.info-close-ads-doublebillboard
+vider.pl##.info-close-ads-small
+vider.pl##.reklama-content-1
 
 
