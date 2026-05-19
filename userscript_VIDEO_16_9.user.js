@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Force Aspect Ratio & Controls (Fullscreen + Volume)
 // @namespace    http://tampermonkey.net/
-// @version      1.3
-// @description  Force aspect ratio, F for fullscreen, Arrows for volume on direct video files
+// @version      1.4
+// @description  Force aspect ratio, F for fullscreen, Q to exit, M to mute, Arrows for volume
 // @author       You
 // @match        *://*/*.mp4*
 // @match        *://*/*.webm*
@@ -157,6 +157,20 @@
             else if (key === 'f') {
                 toggleFullscreen();
             }
+            else if (key === 'q') {
+                if (document.fullscreenElement) {
+                    document.exitFullscreen();
+                }
+            }
+            else if (key === 'm') {
+                video.muted = !video.muted;
+                btn.textContent = video.muted ? 'Muted' : 'Unmuted';
+                showButtons();
+                setTimeout(() => {
+                    const current = aspectRatios[currentIndex];
+                    btn.textContent = `Aspect: ${current.name}`;
+                }, 1000);
+            }
             else if (e.key === 'ArrowUp') {
                 e.preventDefault();
                 adjustVolume(0.05);
@@ -177,14 +191,13 @@
         });
 
         showButtons();
-        console.log('Video Controls Loaded: A (Aspect), F (Fullscreen), Arrows (Volume)');
+        console.log('Video Controls Loaded: A (Aspect), F (Fullscreen), Q (Exit Full), M (Mute), Arrows (Volume)');
     }
 
     // Observer to handle the "first run" issue where video element is added late by the browser
     const observer = new MutationObserver((mutations) => {
         if (document.querySelector('video')) {
             initControls();
-            // We don't disconnect because some sites might swap video elements
         }
     });
 
