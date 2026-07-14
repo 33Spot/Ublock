@@ -2,7 +2,7 @@
 // @name         Force Aspect Ratio 4:3 & Controls (Fullscreen + Volume)
 // @namespace    http://tampermonkey.net/
 // @version      1.5
-// @description  Auto 16:9 aspect ratio, A to cycle ratios, F fullscreen, Q exit, M mute, Arrows volume
+// @description  Auto 4:3 aspect ratio, A to cycle ratios, F fullscreen, Q exit, M mute, Arrows volume
 // @author       You
 // @match        *://*/*.mp4*
 // @match        *://*/*.webm*
