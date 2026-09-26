@@ -1165,6 +1165,20 @@ www.reddit.com###main-content > .block.relative.promotedlink
 ! 21 wrz 2026 https://kobieta.onet.pl
 kobieta.onet.pl##.statementBox
 
+
+! https://github.com/uBlockOrigin/uAssets/issues/2081
+! https://github.com/easylist/easylist/issues/7486
+! https://www.reddit.com/r/uBlockOrigin/comments/177nvxn/popup/
+eporner.com##+js(set-cookie, ADBp, yes)
+eporner.com##+js(set-cookie, ADBpcount, 1)
+eporner.com##+js(aopw, EPeventFire)
+eporner.com##+js(nostif, additional_src, 300)
+*.xml$xhr,3p,domain=eporner.com
+||eporner.com/js/bowser.php
+||eporner.com/cppb/
+||eporner.com/dotm/
+eporner.com##.mb:has(> .adnative-1x1)
+
 ! 26 wrz 2026 https://pl.eporner.com
 ||a.magsrv.com/ad-provider.js$script,domain=eporner.com
 eporner.com##script:inject(abort-on-property-read.js, exoDocumentProtocol)
