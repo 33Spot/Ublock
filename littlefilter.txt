@@ -1187,3 +1187,16 @@ eporner.com##+js(abort-on-property-write.js, EPeventFire)
 ||www.eporner.com/pop_mobile.php$important
 ||www.eporner.com/dotm/pop2.php$domain=www.eporner.com,important
 
+
+! https://github.com/uBlockOrigin/uAssets/issues/869
+porntrex.com##+js(popads-dummy)
+porntrex.com##.fake-player
+porntrex.com###exclusive-link
+*$script,3p,denyallow=cdntrex.com|fastly.net|google.com|googleapis.com|gstatic.com|h-cdn.com|stackpathcdn.com,domain=porntrex.com
+! https://github.com/uBlockOrigin/uAssets/issues/869
+porntrex.com##+js(abort-current-inline-script.js, parseInt, tabunder)
+porntrex.com##+js(popads-dummy.js)
+||clickadu.com^$media,domain=porntrex.com
+
+
+
