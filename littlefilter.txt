@@ -1150,5 +1150,25 @@ vider.pl##.info-close-ads-doublebillboard
 vider.pl##.info-close-ads-small
 vider.pl##.reklama-content-1
 
+! 3 wrz 2026 https://chomikuj.pl
+||x3.static-chomikuj.pl/res/baf0432ec1.jpg$image
+||x3.static-chomikuj.pl/res/baf0432ec1.jpg$image
+chomikuj.pl###SliderTransferButtons > .sub_payment_buttons_mid.sub_payment_buttons > li > .yetiButton
+chomikuj.pl##.disabled.greenButtonBigFont.greenButtonCSS
+
+! 13 wrz 2026 https://fotostrana.ru
+fotostrana.ru##.fs2-login-popup-freeze.fs2-newsignup-popup.fs2-login-popup.iPopup-overlay
+
+! 20 wrz 2026 https://www.reddit.com
+www.reddit.com###main-content > .block.relative.promotedlink
+
+! 21 wrz 2026 https://kobieta.onet.pl
+kobieta.onet.pl##.statementBox
+
+! 26 wrz 2026 https://pl.eporner.com
+||a.magsrv.com/ad-provider.js$script,domain=eporner.com
+eporner.com##script:inject(abort-on-property-read.js, exoDocumentProtocol)
+eporner.com##+js(abort-on-property-read.js, open)
+eporner.com##+js(abort-on-property-write.js, EPeventFire)
 
 
