@@ -1,509 +1,739 @@
 // ==UserScript==
 // @name          Universal Website Optimizer
 // @namespace     http://tampermonkey.net/
-// @version       3.66
-// @description   Optimizes websites by blocking pop-ups, unmuting videos, and bypassing anti-adblock scripts.
+// @version       4.1.0
+// @description   Optimizes page behavior without exposing the target-domain list in plaintext.
 // @match         *://*/*
-// @exclude      *://drive.google.com/*
-// @exclude      *://*.drive.google.com/*
-// @exclude      *://www.retrogames.cc/*
-// @exclude      *://*.retrogames.cc/*
-// @exclude      *://www.wco.tv/*
-// @exclude      *://*.wco.tv/*
 // @grant         none
+// @run-at        document-start
+// @noframes
 // @updateURL     https://github.com/33Spot/Ublock/raw/refs/heads/master/optimizer/script.user.js
+// @downloadURL   https://github.com/33Spot/Ublock/raw/refs/heads/master/optimizer/script.user.js
 // ==/UserScript==
 
 (function () {
     'use strict';
 
-    console.log("[Universal Website Optimizer] Script started...");
+    // Top-level only. Remove this plus @noframes if you want iframe execution.
+    if (window.top !== window.self) return;
 
-    const currentSite = window.location.hostname;
+    const CONFIG = {
+        debug: false,
+        blockAllPopups: false,
+        unmuteVideos: true,
+        forceNativeControls: true,
+        fixHiddenVideoIframes: true,
+        removeObtrusiveOverlays: true,
+        blockAdblockDetectors: true,
+        waitForCloudflareMs: 120000,
+        scanDebounceMs: 400
+    };
 
-    function allowCloudflare(callback) {
-        // Check if Cloudflare challenge is present
-        if (document.querySelector("#cf-challenge-form") || document.querySelector(".cf-browser-verification")) {
-            console.log("[Universal Website Optimizer] Detected Cloudflare challenge, waiting...");
+    const LOG_PREFIX = '[Universal Website Optimizer]';
+    const log = (...args) => { if (CONFIG.debug) console.log(LOG_PREFIX, ...args); };
+    const warn = (...args) => { if (CONFIG.debug) console.warn(LOG_PREFIX, ...args); };
 
-            // Delay before retrying to prevent loops
-            setTimeout(() => {
-                console.log("[Universal Website Optimizer] Checking Cloudflare again...");
-                allowCloudflare(callback);
-            }, 5000); // Wait 5 seconds before retrying
+    const HOST = (location.hostname || '').toLowerCase();
 
-            return; // Exit early to prevent running other functions
+    // Encoded domain vault. No plaintext target domains here.
+    const VAULT = [
+        '6d6567612e6e7a',
+        '696d64622e636f6d',
+        '796f75747562652e636f6d',
+        '7370616e6b62616e672e636f6d',
+        '7669647372632e6e6574',
+        '666d6f766965732d68642e746f',
+        '7669646c696e6b2e70726f',
+        '7672706f726e67616c6178792e636f6d',
+        '65706f726e65722e636f6d',
+        '64726976652e676f6f676c652e636f6d',
+        '706f726e7a6f672e636f6d',
+        '706f726e747265782e636f6d',
+        '73666c69782e746f',
+        '66726565646973632e706c',
+        '6172656e612e6169',
+        '74766e32342e706c',
+        '726574726f67616d65732e6363',
+        '77636f2e7476'
+    ];
+
+    function dec(h) {
+        let out = '';
+        for (let i = 0; i < h.length; i += 2) {
+            out += String.fromCharCode(parseInt(h.slice(i, i + 2), 16));
         }
-
-        console.log("[Universal Website Optimizer] Cloudflare check passed, running optimizations...");
-        if (callback) callback(); // Run all functions after Cloudflare passes
+        return out;
     }
 
+    const DOMAINS = VAULT.map(dec);
 
-     //🔹 **Prevent pop-ups and redirections, but not on Mega**
-    function blockPopupsAndRedirects() {
-        if (isMegaSite()) return; // Don't run on Mega
-        if (isImdb()) return;
-        if (spkbg()) return;
-        if (vs()) return;
-        if (vl()) return;
-        if (vrp()) return;
-        if (epo()) return;
-        if (dgc()) return;
-        //if (pt()) return;
-        if (sfx()) return;
-        if (arn()) return;
+    function hostIs(domain) {
+        return HOST === domain || HOST.endsWith('.' + domain);
+    }
 
-        console.log("[Universal Website Optimizer] Blocking pop-ups and unwanted redirects...");
+    let CODE = -1;
+    for (let i = 0; i < DOMAINS.length; i++) {
+        if (hostIs(DOMAINS[i])) {
+            CODE = i;
+            break;
+        }
+    }
 
-         //Block pop-up tricks
-        window.open = function (url, name, specs) {
-            console.log("[Universal Website Optimizer] Blocked popup attempt:", url);
+    // Hard exclusions: numeric codes 9, 16 and 17.
+    if (CODE === 9 || CODE === 16 || CODE === 17) return;
+
+    function parseURL(value) {
+        try {
+            return new URL(String(value == null ? '' : value), location.href);
+        } catch (e) {
             return null;
+        }
+    }
+
+    function queryAll(root, selector) {
+        if (!root) return [];
+        const out = [];
+
+        try {
+            if (root.nodeType === 1 && root.matches && root.matches(selector)) {
+                out.push(root);
+            }
+
+            if (root.querySelectorAll) {
+                const nodes = root.querySelectorAll(selector);
+                for (let i = 0; i < nodes.length; i++) {
+                    out.push(nodes[i]);
+                }
+            }
+        } catch (e) {}
+
+        return out;
+    }
+
+    function getClassName(el) {
+        if (!el) return '';
+        if (typeof el.className === 'string') return el.className;
+        return el.getAttribute ? (el.getAttribute('class') || '') : '';
+    }
+
+    /* Cloudflare wait */
+
+    const CF_SELECTOR = [
+        '#cf-challenge-form',
+        '#challenge-form',
+        '.cf-browser-verification',
+        '.cf-turnstile',
+        'form[action*="cloudflare" i]',
+        'script[src*="/cdn-cgi/challenge-platform/"]'
+    ].join(',');
+
+    function isCloudflareChallenge() {
+        try {
+            if (document.querySelector(CF_SELECTOR)) return true;
+
+            const title = (document.title || '').trim();
+
+            if (
+                /^(Just a moment|Attention Required|Checking your browser|Verify you are human)/i.test(title) &&
+                document.querySelector('script[src*="/cdn-cgi/"]')
+            ) {
+                return true;
+            }
+        } catch (e) {}
+
+        return false;
+    }
+
+    function whenCloudflarePasses(callback) {
+        let waited = 0;
+
+        const tick = () => {
+            if (isCloudflareChallenge()) {
+                if (waited >= CONFIG.waitForCloudflareMs) {
+                    warn('Cloudflare wait timed out; continuing anyway.');
+                    callback();
+                    return;
+                }
+
+                waited += 1500;
+                setTimeout(tick, 1500);
+                return;
+            }
+
+            callback();
         };
 
-         // Remove event listeners that trigger pop-ups
-        document.addEventListener("mousedown", function(event) {
-            let target = event.target;
-            if (target.tagName === "A" && target.href.includes("ad") || target.href.includes("pop")) {
-                event.preventDefault();
-                console.log("[Universal Website Optimizer] Prevented ad popup click:", target.href);
-            }
-        }, true);
+        tick();
+    }
 
-         //Prevent forced redirects but allow normal navigation
-        window.addEventListener('beforeunload', (event) => {
-            if (document.activeElement.tagName !== 'A') {
+    /* Pop-up / redirect guarding */
+
+    let lastUserGesture = 0;
+
+    ['pointerdown', 'mousedown', 'touchstart', 'keydown', 'click'].forEach(type => {
+        document.addEventListener(type, () => {
+            lastUserGesture = Date.now();
+        }, true);
+    });
+
+    function hasRecentUserGesture() {
+        if (Date.now() - lastUserGesture < 1500) return true;
+
+        try {
+            if (navigator.userActivation) {
+                return !!navigator.userActivation.isActive;
+            }
+        } catch (e) {}
+
+        return false;
+    }
+
+    const SUSPICIOUS_PATH_RE = /(?:^|[/?#&._-])(?:popup|popunder|redirect|click|track(?:er|ing)?|sponsor|promo|affiliate|aff|adservice|advert|adsystem)(?:[/?#&._-]|$)/i;
+
+    function isSuspiciousURL(url) {
+        const u = parseURL(url);
+        if (!u) return false;
+        if (u.protocol !== 'http:' && u.protocol !== 'https:') return false;
+
+        return SUSPICIOUS_PATH_RE.test(u.hostname + u.pathname + u.search);
+    }
+
+    function shouldBlockPopup(url, target) {
+        const t = String(target || '').toLowerCase();
+
+        if (t === '_self' || t === '_top' || t === '_parent') return false;
+
+        const raw = String(url == null ? '' : url);
+        const u = parseURL(raw);
+        const activated = hasRecentUserGesture();
+
+        if (u && isSuspiciousURL(u.href)) return true;
+
+        if (CONFIG.blockAllPopups) return true;
+
+        if (!u) {
+            return !activated;
+        }
+
+        if (u.protocol === 'about:' || u.protocol === 'blob:' || u.protocol === 'data:') {
+            return false;
+        }
+
+        if (activated) {
+            return false;
+        }
+
+        return u.origin !== location.origin;
+    }
+
+    let popupBlockerInstalled = false;
+    let originalWindowOpen = null;
+
+    function installPopupBlocker() {
+        if (popupBlockerInstalled) return;
+        popupBlockerInstalled = true;
+
+        originalWindowOpen = window.open;
+
+        try {
+            window.open = function (url, name, specs, replace) {
+                if (shouldBlockPopup(url, name)) {
+                    log('Blocked popup:', url);
+                    return null;
+                }
+
+                try {
+                    return originalWindowOpen.apply(window, arguments);
+                } catch (e) {
+                    warn('window.open call failed:', e);
+                    return null;
+                }
+            };
+        } catch (e) {
+            warn('Could not override window.open:', e);
+        }
+
+        document.addEventListener('click', event => {
+            const anchor = event.target && event.target.closest
+                ? event.target.closest('a[href]')
+                : null;
+
+            if (!anchor) return;
+            if (anchor.hasAttribute('download')) return;
+
+            const href = anchor.href;
+
+            if (href && isSuspiciousURL(href)) {
+                log('Blocked suspicious link:', href);
+                event.preventDefault();
                 event.stopImmediatePropagation();
             }
         }, true);
     }
 
+    /* Anti-adblock helpers */
 
-    // 🔹 **Dynamically detect and block aggressive anti-adblock scripts**
-    function blockAdblockDetectors() {
-        if (pt()) return;
-        if (sfx()) return;
-        const adblockKeys = ["adblock", "fuckadblock", "disableAdblock", "adBlockDetected", "BlockAdBlock", "isAdBlockActive", "canRunAds", "canShowAds"];
-        document.querySelectorAll("script").forEach(script => {
-            adblockKeys.forEach(key => {
-                if (script.innerHTML.includes(key) || script.src.includes(key)) {
-                    console.log("[Universal Website Optimizer] Blocking adblock detector:", script);
-                    script.remove();
-                }
-            });
+    const ADBLOCK_SCRIPT_PATTERN = /(fuckadblock|blockadblock|detectadblock|detect-adblock|anti-adblock|antiadblock|canrunads|canshowads|isadblockactive|adblockdetected|adblock-detect|adblockdetection)/i;
+    const ADBLOCK_TEXT_PATTERN = /(adblock|ad blocker|ad-block|disable.{0,30}ad|whitelist.{0,30}(site|domain)|turn off.{0,30}ad|support us by disabling)/i;
 
-       document.querySelectorAll("div, span, iframe").forEach(el => {
-            if (
-                el.id.includes("adblock") ||
-                el.className.includes("adblock") ||
-                el.innerText.includes("disable adblock")
-            ) {
-                console.log("[Universal Website Optimizer] Removing adblock detection element:", el);
-                el.remove();
-            }
-        });
-        });
+    const checkedScripts = new WeakSet();
+
+    function isAdblockDetectorScript(script) {
+        if (!script || script.tagName !== 'SCRIPT') return false;
+
+        const src = script.src || '';
+        const code = script.textContent || '';
+
+        return (src && ADBLOCK_SCRIPT_PATTERN.test(src)) ||
+               (code && ADBLOCK_SCRIPT_PATTERN.test(code));
     }
 
+    function removeAdblockPrompts(root) {
+        const selector = [
+            '[id*="adblock" i]',
+            '[class*="adblock" i]',
+            '[id*="ad-block" i]',
+            '[class*="ad-block" i]',
+            '[id*="anti-ad" i]',
+            '[class*="anti-ad" i]',
+            '[id*="blockad" i]',
+            '[class*="blockad" i]'
+        ].join(',');
 
+        queryAll(root, selector).forEach(el => {
+            if (!el.isConnected) return;
+            if (el === document.body || el === document.documentElement) return;
 
-
-    // 🔹 **Ensure videos start unmuted but keep user controls**
-    function fixVideoPlayback() {
-        if (yc()) return;
-        if (fh()) return;
-        if (vl()) return;
-        if (mu()) return;
-        //if (spkbg()) return;
-        if (vrp()) return;
-        if (epo()) return;
-        if (dgc()) return;
-        //if (pt()) return;
-        if (sfx()) return;
-        if (fdp()) return;
-        if (arn()) return;
-
-        setInterval(() => {
-            document.querySelectorAll("video").forEach(video => {
-                if (currentSite.includes("fmovies-hd.to")) {
-                    video.muted = false;
-                    console.log("[Universal Website Optimizer] Ensuring fmovies-hd.to video is unmuted...");
-                }
-                if (video.muted) {
-                    video.muted = false;
-                    video.volume = 1.0; // Set max volume
-                    console.log("[Universal Website Optimizer] Unmuted video:", video);
-                }
-                video.controls = true; // Keep user controls intact
-            });
-        }, 3000);
-    }
-
-
-
-
-    // 🔹 **Ensure Freedisc.pl videos play correctly**
-    function fixFreediscVideos() {
-        if (currentSite.includes("freedisc.pl")) {
-            console.log("[Universal Video Fixer] Applying Freedisc.pl fixes...");
-
-            // ✅ Ensure MP4 video links load
-            document.querySelectorAll("a[href*='stream.freedisc.pl']").forEach(link => {
-                link.setAttribute("target", "_blank"); // Open in a new tab
-                console.log("[Universal Video Fixer] Allowing Freedisc MP4 link:", link.href);
-            });
-
-            // ✅ Remove outdated Flash player elements
-            document.querySelectorAll("embed[src*='player.swf'], object[data*='player.swf']").forEach(flashPlayer => {
-                console.log("[Universal Video Fixer] Removing outdated Flash player:", flashPlayer);
-                flashPlayer.remove();
-            });
-        }
-    }
-
-
-
-
-    // 🔹 **Ensure all iframes containing video embeds are visible**
-    function fixVideoIframes() {
-        if (pz()) return;
-        if (ypt()) return;
-        if (spkbg()) return;
-        //if (vs()) return;
-        if (fh()) return;
-        if (vl()) return;
-        if (mu()) return;
-        if (vrp()) return;
-        if (epo()) return;
-        if (dgc()) return;
-        //if (pt()) return;
-        if (sfx()) return;
-        if (fdp()) return;
-        if (arn()) return;
-
-
-        document.querySelectorAll("iframe").forEach(iframe => {
-            if (iframe.src.includes("embed") || iframe.src.includes("video")) {
-                console.log("[Universal Website Optimizer] Fixing iframe visibility...");
-                iframe.style.display = "block";
-                iframe.style.opacity = "1";
-                iframe.style.position = "relative";
-                iframe.style.zIndex = "1000";
-            }
-        });
-    }
-
-    // 🔹 **Remove pop-ups, overlays, and cookie banners (except on Mega)**
-    function removePopups() {
-        if (isMegaSite()) return;
-        if (fh()) return;
-        //if (vs()) return;
-        if (vl()) return;
-        if (mu()) return;
-        if (vrp()) return;
-        //if (epo()) return;
-        if (dgc()) return;
-        //if (pt()) return;
-        if (sfx()) return;
-        if (arn()) return;
-
-        const elementsToRemove = [
-            ".popup", ".overlay", ".cookie-consent", ".ad-banner", "#ad-container",
-            "[id*='modal']", "[class*='modal']", "[class*='popup']", "[id*='popup']"
-        ];
-        elementsToRemove.forEach(selector => {
-            document.querySelectorAll(selector).forEach(element => {
-                console.log("[Universal Website Optimizer] Removing:", selector);
-                element.remove();
-            });
-        });
-    }
-
-
-        // 🔹 **Whitelist necessary video scripts**
-    function whitelistVideoScripts() {
-        document.querySelectorAll("script").forEach(script => {
-            const src = script.src || "";
-
-            // ✅ Keep essential video player scripts
-            if (
-                src.includes("hls.js") ||
-                src.includes("video.js") ||
-                src.includes("player") ||
-                src.includes("stream") ||
-                src.includes("xp-Player") ||
-                src.includes("nosofiles.com") ||
-                src.includes("stream.freedisc.pl") || // Freedisc video host
-                src.includes("fmovies-hd.to") // FMovies video player
-            ) {
-                console.log("[Universal Video Fixer] Keeping video script:", src);
+            if (el.querySelector('input[type="password"], form[action*="login" i], form[action*="signin" i]')) {
                 return;
             }
 
-            // ❌ Block tracking & ad scripts
-            if (
-                src.includes("doubleclick.net") ||
-                src.includes("googletagmanager.com") ||
-                src.includes("ads.js") ||
-                src.includes("facebook.net") ||
-                src.includes("cookie-consent") ||
-                src.includes("track") ||
-                src.includes("recaptcha") ||
-                src.includes("adservice")
-            ) {
-                console.log("[Universal Video Fixer] Blocking tracking script:", src);
+            const text = (
+                (el.innerText || el.textContent || '') +
+                ' ' +
+                (el.id || '') +
+                ' ' +
+                getClassName(el)
+            ).replace(/\s+/g, ' ');
+
+            if (ADBLOCK_TEXT_PATTERN.test(text)) {
+                log('Removing anti-adblock prompt:', el);
+                el.remove();
+            }
+        });
+    }
+
+    function blockAdblockDetectors(root) {
+        if (!CONFIG.blockAdblockDetectors) return;
+
+        queryAll(root, 'script').forEach(script => {
+            if (!script.isConnected || checkedScripts.has(script)) return;
+            checkedScripts.add(script);
+
+            if (isAdblockDetectorScript(script)) {
+                log('Blocking anti-adblock script:', script.src || '(inline)');
                 script.remove();
             }
         });
+
+        removeAdblockPrompts(root);
     }
 
+    /* Overlay/cookie removal */
 
-function optimizeTVN24() {
-    if (!currentSite.includes("tvn24.pl")) return;
+    const OVERLAY_SELECTOR = [
+        '[id*="popup" i]', '[class*="popup" i]',
+        '[id*="pop-up" i]', '[class*="pop-up" i]',
+        '[id*="interstitial" i]', '[class*="interstitial" i]',
+        '[id*="ad-banner" i]', '[class*="ad-banner" i]',
+        '[id*="ad-container" i]', '[class*="ad-container" i]',
+        '[id*="ad-placeholder" i]', '[class*="ad-placeholder" i]',
+        '[id*="ad-slot" i]', '[class*="ad-slot" i]',
+        '[id*="ad-wrapper" i]', '[class*="ad-wrapper" i]',
+        '[id*="cookie" i]', '[class*="cookie" i]',
+        '[id*="consent" i]', '[class*="consent" i]',
+        '[id*="overlay" i]', '[class*="overlay" i]',
+        '.adsbygoogle'
+    ].join(',');
 
-    console.log("[Universal Website Optimizer] Applying TVN24-specific fixes...");
+    function isInsidePlayer(el) {
+        return !!(el && el.closest && el.closest(
+            'video, [class*="player" i], [id*="player" i]'
+        ));
+    }
 
-    // Remove overlays, pop-ups, and cookie banners
-    setInterval(() => {
-        document.querySelectorAll(".overlay, .popup, .ad-banner, .cookie-consent, .ad-placeholder").forEach(el => {
-            console.log("[Universal Website Optimizer] Removing:", el);
+    function hasLoginForm(el) {
+        return !!(el && el.querySelector && el.querySelector(
+            'input[type="password"], form[action*="login" i], form[action*="signin" i]'
+        ));
+    }
+
+    function shouldRemoveOverlay(el) {
+        if (!el || !el.isConnected) return false;
+        if (el === document.body || el === document.documentElement) return false;
+
+        const id = el.id || '';
+        const className = getClassName(el);
+        const name = (id + ' ' + className).toLowerCase();
+
+        const text = (
+            (el.innerText || el.textContent || '') +
+            ' ' +
+            name
+        ).replace(/\s+/g, ' ').trim();
+
+        if (ADBLOCK_TEXT_PATTERN.test(text)) return true;
+
+        if (/(adsbygoogle|ad-banner|ad-container|ad-placeholder|ad-slot|ad-wrapper)/.test(name)) {
+            return true;
+        }
+
+        if (
+            /(cookie|consent|gdpr|cmp)/.test(name) &&
+            /(cookie|consent|privacy|gdpr|accept all|reject all|manage choices|manage preferences)/i.test(text)
+        ) {
+            return true;
+        }
+
+        if (isInsidePlayer(el)) return false;
+        if (hasLoginForm(el)) return false;
+
+        if (/(popup|pop-up|interstitial)/.test(name)) {
+            return true;
+        }
+
+        if (/overlay/.test(name)) {
+            try {
+                const style = getComputedStyle(el);
+                const rect = el.getBoundingClientRect();
+
+                const fixed = style.position === 'fixed' || style.position === 'sticky';
+                const z = parseInt(style.zIndex, 10) || 0;
+                const large = rect.width >= innerWidth * 0.55 && rect.height >= innerHeight * 0.35;
+
+                if ((fixed && z >= 50) || large) return true;
+            } catch (e) {}
+        }
+
+        return false;
+    }
+
+    function removeObtrusiveOverlays(root) {
+        if (!CONFIG.removeObtrusiveOverlays) return;
+
+        // Conservative on two sensitive sites. Numeric codes only.
+        if (CODE === 0 || CODE === 1) return;
+
+        queryAll(root, OVERLAY_SELECTOR).forEach(el => {
+            try {
+                if (shouldRemoveOverlay(el)) {
+                    log('Removing overlay:', el);
+                    el.remove();
+                }
+            } catch (e) {}
+        });
+    }
+
+    /* Video playback */
+
+    const seenVideos = new WeakSet();
+
+    function fixVideoPlayback(root) {
+        if (!CONFIG.unmuteVideos) return;
+
+        // Leave two native-player sites alone. Numeric codes only.
+        if (CODE === 2 || CODE === 9) return;
+
+        queryAll(root, 'video').forEach(video => {
+            if (seenVideos.has(video)) return;
+            seenVideos.add(video);
+
+            try {
+                if (CONFIG.forceNativeControls && !video.controls) {
+                    video.controls = true;
+                }
+            } catch (e) {}
+
+            const unmute = () => {
+                try {
+                    if (!video.muted && video.volume !== 0) return;
+
+                    video.muted = false;
+
+                    if (video.volume === 0) {
+                        video.volume = 1;
+                    }
+
+                    log('Unmuted video:', video);
+                } catch (e) {}
+            };
+
+            try {
+                if (video.readyState >= 2 && !video.paused) {
+                    unmute();
+                }
+
+                video.addEventListener('playing', unmute, { once: true });
+            } catch (e) {}
+        });
+    }
+
+    /* Hidden video iframes */
+
+    const seenIframes = new WeakSet();
+
+    function fixVideoIframes(root) {
+        if (!CONFIG.fixHiddenVideoIframes) return;
+
+        queryAll(root, 'iframe').forEach(iframe => {
+            if (seenIframes.has(iframe)) return;
+
+            const src = iframe.src || iframe.getAttribute('src') || '';
+
+            if (!/(embed|player|stream|video)/i.test(src)) return;
+
+            seenIframes.add(iframe);
+
+            try {
+                const style = getComputedStyle(iframe);
+                const rect = iframe.getBoundingClientRect();
+
+                const hidden =
+                    style.display === 'none' ||
+                    style.visibility === 'hidden' ||
+                    parseFloat(style.opacity) === 0 ||
+                    rect.width < 2 ||
+                    rect.height < 2;
+
+                if (hidden) {
+                    log('Revealing video iframe:', src);
+
+                    iframe.style.display = 'block';
+                    iframe.style.visibility = 'visible';
+                    iframe.style.opacity = '1';
+
+                    if (rect.width < 2) iframe.style.width = '100%';
+                    if (rect.height < 2) iframe.style.height = '100%';
+                }
+            } catch (e) {}
+        });
+    }
+
+    /* Encoded site-specific fixes */
+
+    function fixSpecialVideos(root) {
+        if (CODE !== 13) return;
+
+        const domain = DOMAINS[13];
+
+        queryAll(root, 'a[href*="' + domain + '"]').forEach(link => {
+            if (link.target !== '_blank') link.target = '_blank';
+            link.rel = 'noopener noreferrer';
+        });
+
+        queryAll(root, "embed[src*='player.swf'], object[data*='player.swf']").forEach(el => {
+            log('Removing obsolete Flash element:', el);
             el.remove();
         });
-    }, 2000);
+    }
 
-    // Bypass anti-adblock scripts
-    document.querySelectorAll("script").forEach(script => {
-        if (script.innerHTML.includes("adblock") || script.innerHTML.includes("disableAdblock")) {
-            console.log("[Universal Website Optimizer] Blocking anti-adblock script:", script);
-            script.remove();
+    function optimizeSpecialA(root) {
+        if (CODE !== 15) return;
+
+        queryAll(root, '.overlay, .popup, .ad-banner, .cookie-consent, .ad-placeholder').forEach(el => {
+            try {
+                if (
+                    shouldRemoveOverlay(el) ||
+                    /cookie-consent|ad-placeholder|ad-banner/i.test(getClassName(el))
+                ) {
+                    el.remove();
+                }
+            } catch (e) {}
+        });
+    }
+
+    /* Main scan */
+
+    let isOptimizing = false;
+
+    function optimizePage(root) {
+        if (isOptimizing) return;
+        if (isCloudflareChallenge()) return;
+
+        isOptimizing = true;
+
+        try {
+            const target = root || document;
+
+            blockAdblockDetectors(target);
+            removeObtrusiveOverlays(target);
+
+            fixSpecialVideos(target);
+            optimizeSpecialA(target);
+
+            fixVideoPlayback(target);
+            fixVideoIframes(target);
+        } catch (e) {
+            warn('Optimization scan failed:', e);
+        } finally {
+            isOptimizing = false;
         }
-    });
+    }
 
-    // Ensure video elements are not blocked
-    document.querySelectorAll("video").forEach(video => {
-        video.muted = false;
-        video.controls = true;
-        console.log("[Universal Website Optimizer] Fixing video playback...");
-    });
+    let optimizeTimer = null;
 
-    // Use MutationObserver instead of deprecated DOM Mutation Events
-    new MutationObserver(() => {
-        console.log("[Universal Website Optimizer] Reapplying optimizations due to page changes...");
-        optimizeTVN24();
-    }).observe(document.body, { childList: true, subtree: true });
-}
+    function scheduleOptimize(delay) {
+        if (optimizeTimer) return;
 
+        optimizeTimer = setTimeout(() => {
+            optimizeTimer = null;
 
+            if (isCloudflareChallenge()) {
+                scheduleOptimize(2000);
+                return;
+            }
 
+            optimizePage(document);
+        }, typeof delay === 'number' ? delay : CONFIG.scanDebounceMs);
+    }
 
+    /* Early anti-adblock script blocker */
 
-function fixVideoPlayback() {
-    if (yc()) return;
-    if (fh()) return;
-    if (dgc()) return;
-    //if (pt()) return;
-    if (sfx()) return;
-    if (fdp()) return;
-    if (arn()) return;
+    function removeAdblockScriptsFromNode(node) {
+        if (!CONFIG.blockAdblockDetectors || !node) return;
+        if (node.nodeType !== 1 && node.nodeType !== 11) return;
+
+        if (node.nodeType === 1 && node.tagName === 'SCRIPT' && isAdblockDetectorScript(node)) {
+            log('Blocking early anti-adblock script:', node.src || '(inline)');
+            node.remove();
+            return;
+        }
+
+        if (node.querySelectorAll) {
+            node.querySelectorAll('script').forEach(script => {
+                if (isAdblockDetectorScript(script)) {
+                    log('Blocking early anti-adblock script:', script.src || '(inline)');
+                    script.remove();
+                }
+            });
+        }
+    }
+
+    function installEarlyMutationGuard() {
+        if (!CONFIG.blockAdblockDetectors) return;
+
+        const observer = new MutationObserver(mutations => {
+            for (const mutation of mutations) {
+                for (const node of mutation.addedNodes) {
+                    removeAdblockScriptsFromNode(node);
+                }
+            }
+        });
+
+        try {
+            observer.observe(document, { childList: true, subtree: true });
+        } catch (e) {
+            warn('Could not start early MutationObserver:', e);
+        }
+    }
+
+    /* SPA navigation / observers */
+
+    let domObserver = null;
+    let lastUrl = location.href;
+
+    function checkForUrlChange() {
+        if (location.href !== lastUrl) {
+            lastUrl = location.href;
+            log('URL changed:', lastUrl);
+            scheduleOptimize(200);
+        }
+    }
+
+    function hookHistory() {
+        ['pushState', 'replaceState'].forEach(method => {
+            const original = history[method];
+            if (!original || original.__uwoWrapped) return;
+
+            const wrapper = function () {
+                const result = original.apply(this, arguments);
+                checkForUrlChange();
+                scheduleOptimize(200);
+                return result;
+            };
+
+            wrapper.__uwoWrapped = true;
+
+            try {
+                history[method] = wrapper;
+            } catch (e) {}
+        });
+    }
+
+    function startObservers() {
+        if (domObserver) return;
+
+        const root = document.documentElement || document;
+
+        domObserver = new MutationObserver(() => {
+            checkForUrlChange();
+            scheduleOptimize();
+        });
+
+        try {
+            domObserver.observe(root, { childList: true, subtree: true });
+        } catch (e) {
+            warn('Could not start main MutationObserver:', e);
+            return;
+        }
+
+        window.addEventListener('popstate', checkForUrlChange, true);
+        window.addEventListener('hashchange', checkForUrlChange, true);
+
+        setInterval(checkForUrlChange, 1000);
 
         setInterval(() => {
-            document.querySelectorAll("video").forEach(video => {
-                if (currentSite.includes("fmovies-hd.to")) {
-                    video.muted = false;
-                    video.volume = 1.0;
-                    console.log("[Universal Website Optimizer] Unmuted video on fmovies-hd.to");
-                }
-                video.controls = true; // Keep user controls intact
-            });
-        }, 3000);
-    }
-
-    window.addEventListener("load", () => {
-        fixVideoPlayback();
-    });
-
-function pz() {
-    let q = "202020202020202072657475726e2063757272656e74536974652e696e636c756465732822706f726e7a6f672e636f6d22293b0a";
-    let func = "";
-    for (let i = 0; i < q.length; i += 2) {
-        func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
-    }
-    return (new Function(func))();
-}
-
-function ypt() {
-    let q = "202020202020202072657475726e2063757272656e74536974652e696e636c756465732822796570747562652e636f6d22293b0a";
-    let func = "";
-    for (let i = 0; i < q.length; i += 2) {
-        func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
-    }
-    return (new Function(func))();
-}
-
-function isMegaSite() {
-    let q = "20202020202020202020202072657475726e2063757272656e74536974652e696e636c7564657328226d6567612e6e7a22293b0a";
-    let func = "";
-    for (let i = 0; i < q.length; i += 2) {
-        func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
-    }
-    return (new Function(func))();
-}
-
-function isImdb() {
-    let q = "20202020202020202020202072657475726e2063757272656e74536974652e696e636c756465732822696d64622e636f6d22293b0a";
-    let func = "";
-    for (let i = 0; i < q.length; i += 2) {
-        func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
-    }
-    return (new Function(func))();
-}
-
-function spkbg() {
-    let q = "20202020202020202020202072657475726e2063757272656e74536974652e696e636c7564657328227370616e6b62616e672e636f6d22293b0a";
-    let func = "";
-    for (let i = 0; i < q.length; i += 2) {
-        func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
-    }
-    return (new Function(func))();
-}
-
-function vs() {
-    let q = "20202020202020202020202072657475726e2063757272656e74536974652e696e636c7564657328227669647372632e6e657422293b0a";
-    let func = "";
-    for (let i = 0; i < q.length; i += 2) {
-        func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
-    }
-    return (new Function(func))();
-}
-
-function yc() {
-    let q = "20202020202020202020202072657475726e2063757272656e74536974652e696e636c756465732822796f75747562652e636f6d22293b0a";
-    let func = "";
-    for (let i = 0; i < q.length; i += 2) {
-        func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
-    }
-    return (new Function(func))();
-}
-
-function fh() {
-    let q = "20202020202020202020202072657475726e2063757272656e74536974652e696e636c756465732822666d6f766965732d68642e746f22293b0a";
-    let func = "";
-    for (let i = 0; i < q.length; i += 2) {
-        func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
-    }
-    return (new Function(func))();
-}
-
-function vl() {
-    let q = "20202020202020202020202072657475726e2063757272656e74536974652e696e636c7564657328227669646c696e6b2e70726f22293b0a";
-    let func = "";
-    for (let i = 0; i < q.length; i += 2) {
-        func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
-    }
-    return (new Function(func))();
-}
-
-function vrp() {
-    let q = "20202020202020202020202072657475726e2063757272656e74536974652e696e636c7564657328227672706f726e67616c6178792e636f6d22293b0a";
-    let func = "";
-    for (let i = 0; i < q.length; i += 2) {
-        func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
-    }
-    return (new Function(func))();
-}
-
-function epo() {
-    let q = "2020202020202020202020202020202072657475726e2063757272656e74536974652e696e636c75646573282265706f726e65722e636f6d22293b0a";
-    let func = "";
-    for (let i = 0; i < q.length; i += 2) {
-        func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
-    }
-    return (new Function(func))();
-}
-
-function dgc() {
-    let q = "2020202020202020202020202020202072657475726e2063757272656e74536974652e696e636c75646573282264726976652e676f6f676c652e636f6d22293b0a";
-    let func = "";
-    for (let i = 0; i < q.length; i += 2) {
-        func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
-    }
-    return (new Function(func))();
-}
-
-function pt() {
-    let q = "2020202020202020202020202020202072657475726e202163757272656e74536974652e696e636c756465732822706f726e747265782e636f6d22293b0a";
-    let func = "";
-    for (let i = 0; i < q.length; i += 2) {
-        func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
-    }
-    return (new Function(func))();
-}
-
-function sfx() {
-    let q = "2020202020202020202020202020202072657475726e202163757272656e74536974652e696e636c75646573282273666c69782e746f22293b0a";
-    let func = "";
-    for (let i = 0; i < q.length; i += 2) {
-        func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
-    }
-    return (new Function(func))();
-}
-
-function fdp() {
-    let q = "2020202020202020202020202020202072657475726e202163757272656e74536974652e696e636c75646573282266726565646973632e706c22293b0a";
-    let func = "";
-    for (let i = 0; i < q.length; i += 2) {
-        func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
-    }
-    return (new Function(func))();
-}
-
-function arn() {
-    let q = "20202020202020202020202072657475726e2063757272656e74536974652e696e636c7564657328226172656e612e616922293b0a";
-    let func = "";
-    for (let i = 0; i < q.length; i += 2) {
-        func += String.fromCharCode(parseInt(q.substr(i, 2), 16));
-    }
-    return (new Function(func))();
-}
-
-
-
-    // 🔹 **Ensure smooth AJAX-based navigation**
-    function optimizeNavigation() {
-        let lastUrl = location.href;
-        new MutationObserver(() => {
-            if (location.href !== lastUrl) {
-                console.log("[Universal Website Optimizer] Page changed, reapplying optimizations...");
-                lastUrl = location.href;
-                allowCloudflare();
-                whitelistVideoScripts();
-                fixFreediscVideos();
-                blockAdblockDetectors();
-                removePopups();
-                fixVideoPlayback();
-                fixVideoIframes();
+            if (!document.hidden) {
+                scheduleOptimize(0);
             }
-        }).observe(document.body, { childList: true, subtree: true });
+        }, 10000);
+
+        hookHistory();
     }
 
-      // 🔹 **Run all optimizations**
-        function runOptimizations() {
-            whitelistVideoScripts();
-            fixFreediscVideos();
-            blockPopupsAndRedirects();
-            blockAdblockDetectors();
-            removePopups();
-            fixVideoPlayback();
-            fixVideoIframes();
-            optimizeNavigation();
+    /* Bootstrap */
+
+    let bootstrapped = false;
+
+    function bootstrap() {
+        if (bootstrapped) {
+            scheduleOptimize(0);
+            return;
         }
 
-        runOptimizations();
+        bootstrapped = true;
+        log('Starting on', HOST);
+
+        startObservers();
+        optimizePage(document);
+
+        setTimeout(() => scheduleOptimize(0), 1000);
+        setTimeout(() => scheduleOptimize(0), 3000);
     }
 
-    //window.addEventListener("load", allowCloudflare);
- window.addEventListener("load", () => allowCloudflare(runOptimizations));
+    installPopupBlocker();
+    installEarlyMutationGuard();
 
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', () => {
+            whenCloudflarePasses(bootstrap);
+        }, { once: true });
+    } else {
+        whenCloudflarePasses(bootstrap);
+    }
+
+    window.addEventListener('load', () => {
+        whenCloudflarePasses(() => scheduleOptimize(0));
+    }, { once: true });
 
 })();
