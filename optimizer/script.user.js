@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name          Universal Website Optimizer
+// @name          Universal Website Optimizer (Safe)
 // @namespace     http://tampermonkey.net/
-// @version       4.1.0
-// @description   Optimizes page behavior without exposing the target-domain list in plaintext.
+// @version       4.2.0
+// @description   Conservative optimizer: popup guard + video fixes without breaking normal site buttons/UI.
 // @match         *://*/*
 // @grant         none
 // @run-at        document-start
@@ -14,19 +14,29 @@
 (function () {
     'use strict';
 
-    // Top-level only. Remove this plus @noframes if you want iframe execution.
     if (window.top !== window.self) return;
 
     const CONFIG = {
         debug: false,
-        blockAllPopups: false,
+
+        // Popup guard. This does not modify page UI.
+        blockAutomaticPopups: true,
+        blockSuspiciousPopups: true,
+
+        // Video fixes.
         unmuteVideos: true,
-        forceNativeControls: true,
-        fixHiddenVideoIframes: true,
-        removeObtrusiveOverlays: true,
-        blockAdblockDetectors: true,
-        waitForCloudflareMs: 120000,
-        scanDebounceMs: 400
+        forceVideoControls: true,
+        revealHiddenVideoIframes: true,
+
+        // SPA navigation.
+        rescanOnSpaNavigation: true
+
+        // Intentionally NOT included:
+        // removeOverlays
+        // removeAdblockPrompts
+        // removeAdblockScripts
+        //
+        // Those caused normal buttons/dropdowns/modals to be deleted or reset.
     };
 
     const LOG_PREFIX = '[Universal Website Optimizer]';
@@ -35,7 +45,7 @@
 
     const HOST = (location.hostname || '').toLowerCase();
 
-    // Encoded domain vault. No plaintext target domains here.
+    // Encoded host list. No plaintext target domains here.
     const VAULT = [
         '6d6567612e6e7a',
         '696d64622e636f6d',
@@ -79,7 +89,7 @@
         }
     }
 
-    // Hard exclusions: numeric codes 9, 16 and 17.
+    // Hard exclusions. Numeric only.
     if (CODE === 9 || CODE === 16 || CODE === 17) return;
 
     function parseURL(value) {
@@ -110,13 +120,9 @@
         return out;
     }
 
-    function getClassName(el) {
-        if (!el) return '';
-        if (typeof el.className === 'string') return el.className;
-        return el.getAttribute ? (el.getAttribute('class') || '') : '';
-    }
-
-    /* Cloudflare wait */
+    /* ------------------------------------------------------------
+       Cloudflare wait
+       ------------------------------------------------------------ */
 
     const CF_SELECTOR = [
         '#cf-challenge-form',
@@ -149,7 +155,7 @@
 
         const tick = () => {
             if (isCloudflareChallenge()) {
-                if (waited >= CONFIG.waitForCloudflareMs) {
+                if (waited >= 120000) {
                     warn('Cloudflare wait timed out; continuing anyway.');
                     callback();
                     return;
@@ -166,7 +172,9 @@
         tick();
     }
 
-    /* Pop-up / redirect guarding */
+    /* ------------------------------------------------------------
+       Popup guard
+       ------------------------------------------------------------ */
 
     let lastUserGesture = 0;
 
@@ -188,7 +196,7 @@
         return false;
     }
 
-    const SUSPICIOUS_PATH_RE = /(?:^|[/?#&._-])(?:popup|popunder|redirect|click|track(?:er|ing)?|sponsor|promo|affiliate|aff|adservice|advert|adsystem)(?:[/?#&._-]|$)/i;
+    const SUSPICIOUS_PATH_RE = /(?:^|[/?#&._-])(?:popup|popunder|redirect|track(?:er|ing)?|sponsor|promo|affiliate|aff|adservice|advert|adsystem)(?:[/?#&._-]|$)/i;
 
     function isSuspiciousURL(url) {
         const u = parseURL(url);
@@ -199,17 +207,17 @@
     }
 
     function shouldBlockPopup(url, target) {
-        const t = String(target || '').toLowerCase();
+        if (!CONFIG.blockAutomaticPopups) return false;
 
+        const t = String(target || '').toLowerCase();
         if (t === '_self' || t === '_top' || t === '_parent') return false;
 
-        const raw = String(url == null ? '' : url);
-        const u = parseURL(raw);
+        const u = parseURL(url);
         const activated = hasRecentUserGesture();
 
-        if (u && isSuspiciousURL(u.href)) return true;
-
-        if (CONFIG.blockAllPopups) return true;
+        if (u && CONFIG.blockSuspiciousPopups && isSuspiciousURL(u.href)) {
+            return true;
+        }
 
         if (!u) {
             return !activated;
@@ -226,12 +234,12 @@
         return u.origin !== location.origin;
     }
 
-    let popupBlockerInstalled = false;
+    let popupGuardInstalled = false;
     let originalWindowOpen = null;
 
-    function installPopupBlocker() {
-        if (popupBlockerInstalled) return;
-        popupBlockerInstalled = true;
+    function installPopupGuard() {
+        if (popupGuardInstalled) return;
+        popupGuardInstalled = true;
 
         originalWindowOpen = window.open;
 
@@ -245,203 +253,25 @@
                 try {
                     return originalWindowOpen.apply(window, arguments);
                 } catch (e) {
-                    warn('window.open call failed:', e);
+                    warn('window.open failed:', e);
                     return null;
                 }
             };
         } catch (e) {
             warn('Could not override window.open:', e);
         }
-
-        document.addEventListener('click', event => {
-            const anchor = event.target && event.target.closest
-                ? event.target.closest('a[href]')
-                : null;
-
-            if (!anchor) return;
-            if (anchor.hasAttribute('download')) return;
-
-            const href = anchor.href;
-
-            if (href && isSuspiciousURL(href)) {
-                log('Blocked suspicious link:', href);
-                event.preventDefault();
-                event.stopImmediatePropagation();
-            }
-        }, true);
     }
 
-    /* Anti-adblock helpers */
-
-    const ADBLOCK_SCRIPT_PATTERN = /(fuckadblock|blockadblock|detectadblock|detect-adblock|anti-adblock|antiadblock|canrunads|canshowads|isadblockactive|adblockdetected|adblock-detect|adblockdetection)/i;
-    const ADBLOCK_TEXT_PATTERN = /(adblock|ad blocker|ad-block|disable.{0,30}ad|whitelist.{0,30}(site|domain)|turn off.{0,30}ad|support us by disabling)/i;
-
-    const checkedScripts = new WeakSet();
-
-    function isAdblockDetectorScript(script) {
-        if (!script || script.tagName !== 'SCRIPT') return false;
-
-        const src = script.src || '';
-        const code = script.textContent || '';
-
-        return (src && ADBLOCK_SCRIPT_PATTERN.test(src)) ||
-               (code && ADBLOCK_SCRIPT_PATTERN.test(code));
-    }
-
-    function removeAdblockPrompts(root) {
-        const selector = [
-            '[id*="adblock" i]',
-            '[class*="adblock" i]',
-            '[id*="ad-block" i]',
-            '[class*="ad-block" i]',
-            '[id*="anti-ad" i]',
-            '[class*="anti-ad" i]',
-            '[id*="blockad" i]',
-            '[class*="blockad" i]'
-        ].join(',');
-
-        queryAll(root, selector).forEach(el => {
-            if (!el.isConnected) return;
-            if (el === document.body || el === document.documentElement) return;
-
-            if (el.querySelector('input[type="password"], form[action*="login" i], form[action*="signin" i]')) {
-                return;
-            }
-
-            const text = (
-                (el.innerText || el.textContent || '') +
-                ' ' +
-                (el.id || '') +
-                ' ' +
-                getClassName(el)
-            ).replace(/\s+/g, ' ');
-
-            if (ADBLOCK_TEXT_PATTERN.test(text)) {
-                log('Removing anti-adblock prompt:', el);
-                el.remove();
-            }
-        });
-    }
-
-    function blockAdblockDetectors(root) {
-        if (!CONFIG.blockAdblockDetectors) return;
-
-        queryAll(root, 'script').forEach(script => {
-            if (!script.isConnected || checkedScripts.has(script)) return;
-            checkedScripts.add(script);
-
-            if (isAdblockDetectorScript(script)) {
-                log('Blocking anti-adblock script:', script.src || '(inline)');
-                script.remove();
-            }
-        });
-
-        removeAdblockPrompts(root);
-    }
-
-    /* Overlay/cookie removal */
-
-    const OVERLAY_SELECTOR = [
-        '[id*="popup" i]', '[class*="popup" i]',
-        '[id*="pop-up" i]', '[class*="pop-up" i]',
-        '[id*="interstitial" i]', '[class*="interstitial" i]',
-        '[id*="ad-banner" i]', '[class*="ad-banner" i]',
-        '[id*="ad-container" i]', '[class*="ad-container" i]',
-        '[id*="ad-placeholder" i]', '[class*="ad-placeholder" i]',
-        '[id*="ad-slot" i]', '[class*="ad-slot" i]',
-        '[id*="ad-wrapper" i]', '[class*="ad-wrapper" i]',
-        '[id*="cookie" i]', '[class*="cookie" i]',
-        '[id*="consent" i]', '[class*="consent" i]',
-        '[id*="overlay" i]', '[class*="overlay" i]',
-        '.adsbygoogle'
-    ].join(',');
-
-    function isInsidePlayer(el) {
-        return !!(el && el.closest && el.closest(
-            'video, [class*="player" i], [id*="player" i]'
-        ));
-    }
-
-    function hasLoginForm(el) {
-        return !!(el && el.querySelector && el.querySelector(
-            'input[type="password"], form[action*="login" i], form[action*="signin" i]'
-        ));
-    }
-
-    function shouldRemoveOverlay(el) {
-        if (!el || !el.isConnected) return false;
-        if (el === document.body || el === document.documentElement) return false;
-
-        const id = el.id || '';
-        const className = getClassName(el);
-        const name = (id + ' ' + className).toLowerCase();
-
-        const text = (
-            (el.innerText || el.textContent || '') +
-            ' ' +
-            name
-        ).replace(/\s+/g, ' ').trim();
-
-        if (ADBLOCK_TEXT_PATTERN.test(text)) return true;
-
-        if (/(adsbygoogle|ad-banner|ad-container|ad-placeholder|ad-slot|ad-wrapper)/.test(name)) {
-            return true;
-        }
-
-        if (
-            /(cookie|consent|gdpr|cmp)/.test(name) &&
-            /(cookie|consent|privacy|gdpr|accept all|reject all|manage choices|manage preferences)/i.test(text)
-        ) {
-            return true;
-        }
-
-        if (isInsidePlayer(el)) return false;
-        if (hasLoginForm(el)) return false;
-
-        if (/(popup|pop-up|interstitial)/.test(name)) {
-            return true;
-        }
-
-        if (/overlay/.test(name)) {
-            try {
-                const style = getComputedStyle(el);
-                const rect = el.getBoundingClientRect();
-
-                const fixed = style.position === 'fixed' || style.position === 'sticky';
-                const z = parseInt(style.zIndex, 10) || 0;
-                const large = rect.width >= innerWidth * 0.55 && rect.height >= innerHeight * 0.35;
-
-                if ((fixed && z >= 50) || large) return true;
-            } catch (e) {}
-        }
-
-        return false;
-    }
-
-    function removeObtrusiveOverlays(root) {
-        if (!CONFIG.removeObtrusiveOverlays) return;
-
-        // Conservative on two sensitive sites. Numeric codes only.
-        if (CODE === 0 || CODE === 1) return;
-
-        queryAll(root, OVERLAY_SELECTOR).forEach(el => {
-            try {
-                if (shouldRemoveOverlay(el)) {
-                    log('Removing overlay:', el);
-                    el.remove();
-                }
-            } catch (e) {}
-        });
-    }
-
-    /* Video playback */
+    /* ------------------------------------------------------------
+       Video playback
+       ------------------------------------------------------------ */
 
     const seenVideos = new WeakSet();
 
     function fixVideoPlayback(root) {
-        if (!CONFIG.unmuteVideos) return;
+        if (!CONFIG.unmuteVideos && !CONFIG.forceVideoControls) return;
 
-        // Leave two native-player sites alone. Numeric codes only.
+        // Leave these native-player hosts alone. Numeric codes only.
         if (CODE === 2 || CODE === 9) return;
 
         queryAll(root, 'video').forEach(video => {
@@ -449,10 +279,12 @@
             seenVideos.add(video);
 
             try {
-                if (CONFIG.forceNativeControls && !video.controls) {
+                if (CONFIG.forceVideoControls && !video.controls) {
                     video.controls = true;
                 }
             } catch (e) {}
+
+            if (!CONFIG.unmuteVideos) return;
 
             const unmute = () => {
                 try {
@@ -478,19 +310,40 @@
         });
     }
 
-    /* Hidden video iframes */
+    /* ------------------------------------------------------------
+       Hidden video iframe reveal
+       ------------------------------------------------------------ */
 
     const seenIframes = new WeakSet();
 
+    function isVideoLikeIframe(iframe) {
+        if (!iframe) return false;
+
+        const src = iframe.getAttribute('src') || iframe.src || '';
+        if (!src) return false;
+
+        const hasFullscreen =
+            iframe.hasAttribute('allowfullscreen') ||
+            /allowfullscreen/i.test(iframe.getAttribute('allow') || '');
+
+        // Generic detection only. No target host names are exposed.
+        return hasFullscreen || /(?:embed|player|stream|video)/i.test(src);
+    }
+
     function fixVideoIframes(root) {
-        if (!CONFIG.fixHiddenVideoIframes) return;
+        if (!CONFIG.revealHiddenVideoIframes) return;
 
         queryAll(root, 'iframe').forEach(iframe => {
             if (seenIframes.has(iframe)) return;
+            if (!isVideoLikeIframe(iframe)) return;
 
-            const src = iframe.src || iframe.getAttribute('src') || '';
-
-            if (!/(embed|player|stream|video)/i.test(src)) return;
+            // Do not touch UI containers.
+            if (iframe.closest(
+                'nav, header, footer, form, button, ' +
+                '[role="dialog"], [role="menu"], [aria-modal="true"]'
+            )) {
+                return;
+            }
 
             seenIframes.add(iframe);
 
@@ -506,7 +359,7 @@
                     rect.height < 2;
 
                 if (hidden) {
-                    log('Revealing video iframe:', src);
+                    log('Revealing video iframe:', iframe.src || iframe.getAttribute('src'));
 
                     iframe.style.display = 'block';
                     iframe.style.visibility = 'visible';
@@ -519,40 +372,9 @@
         });
     }
 
-    /* Encoded site-specific fixes */
-
-    function fixSpecialVideos(root) {
-        if (CODE !== 13) return;
-
-        const domain = DOMAINS[13];
-
-        queryAll(root, 'a[href*="' + domain + '"]').forEach(link => {
-            if (link.target !== '_blank') link.target = '_blank';
-            link.rel = 'noopener noreferrer';
-        });
-
-        queryAll(root, "embed[src*='player.swf'], object[data*='player.swf']").forEach(el => {
-            log('Removing obsolete Flash element:', el);
-            el.remove();
-        });
-    }
-
-    function optimizeSpecialA(root) {
-        if (CODE !== 15) return;
-
-        queryAll(root, '.overlay, .popup, .ad-banner, .cookie-consent, .ad-placeholder').forEach(el => {
-            try {
-                if (
-                    shouldRemoveOverlay(el) ||
-                    /cookie-consent|ad-placeholder|ad-banner/i.test(getClassName(el))
-                ) {
-                    el.remove();
-                }
-            } catch (e) {}
-        });
-    }
-
-    /* Main scan */
+    /* ------------------------------------------------------------
+       Main scan
+       ------------------------------------------------------------ */
 
     let isOptimizing = false;
 
@@ -565,12 +387,6 @@
         try {
             const target = root || document;
 
-            blockAdblockDetectors(target);
-            removeObtrusiveOverlays(target);
-
-            fixSpecialVideos(target);
-            optimizeSpecialA(target);
-
             fixVideoPlayback(target);
             fixVideoIframes(target);
         } catch (e) {
@@ -580,85 +396,92 @@
         }
     }
 
-    let optimizeTimer = null;
+    function processAddedNode(node) {
+        if (!node) return;
 
-    function scheduleOptimize(delay) {
-        if (optimizeTimer) return;
+        if (node.nodeType === 1) {
+            if (node.tagName === 'VIDEO') {
+                fixVideoPlayback(node);
+            } else if (node.tagName === 'IFRAME') {
+                fixVideoIframes(node);
+            } else if (node.querySelector && node.querySelector('video, iframe')) {
+                fixVideoPlayback(node);
+                fixVideoIframes(node);
+            }
+        } else if (node.nodeType === 11) {
+            fixVideoPlayback(node);
+            fixVideoIframes(node);
+        }
+    }
 
-        optimizeTimer = setTimeout(() => {
-            optimizeTimer = null;
+    let scanTimer = null;
+
+    function scheduleLightScan(delay) {
+        if (scanTimer) return;
+
+        scanTimer = setTimeout(() => {
+            scanTimer = null;
 
             if (isCloudflareChallenge()) {
-                scheduleOptimize(2000);
+                scheduleLightScan(2000);
                 return;
             }
 
             optimizePage(document);
-        }, typeof delay === 'number' ? delay : CONFIG.scanDebounceMs);
+        }, typeof delay === 'number' ? delay : 400);
     }
 
-    /* Early anti-adblock script blocker */
+    /* ------------------------------------------------------------
+       Observers / SPA navigation
+       ------------------------------------------------------------ */
 
-    function removeAdblockScriptsFromNode(node) {
-        if (!CONFIG.blockAdblockDetectors || !node) return;
-        if (node.nodeType !== 1 && node.nodeType !== 11) return;
-
-        if (node.nodeType === 1 && node.tagName === 'SCRIPT' && isAdblockDetectorScript(node)) {
-            log('Blocking early anti-adblock script:', node.src || '(inline)');
-            node.remove();
-            return;
-        }
-
-        if (node.querySelectorAll) {
-            node.querySelectorAll('script').forEach(script => {
-                if (isAdblockDetectorScript(script)) {
-                    log('Blocking early anti-adblock script:', script.src || '(inline)');
-                    script.remove();
-                }
-            });
-        }
-    }
-
-    function installEarlyMutationGuard() {
-        if (!CONFIG.blockAdblockDetectors) return;
-
+    function installObservers() {
         const observer = new MutationObserver(mutations => {
             for (const mutation of mutations) {
                 for (const node of mutation.addedNodes) {
-                    removeAdblockScriptsFromNode(node);
+                    processAddedNode(node);
                 }
             }
         });
 
         try {
-            observer.observe(document, { childList: true, subtree: true });
+            observer.observe(document.documentElement || document, {
+                childList: true,
+                subtree: true
+            });
         } catch (e) {
-            warn('Could not start early MutationObserver:', e);
+            warn('MutationObserver failed:', e);
         }
-    }
 
-    /* SPA navigation / observers */
+        let lastUrl = location.href;
 
-    let domObserver = null;
-    let lastUrl = location.href;
+        const checkUrl = () => {
+            if (location.href !== lastUrl) {
+                lastUrl = location.href;
 
-    function checkForUrlChange() {
-        if (location.href !== lastUrl) {
-            lastUrl = location.href;
-            log('URL changed:', lastUrl);
-            scheduleOptimize(200);
-        }
-    }
+                if (CONFIG.rescanOnSpaNavigation) {
+                    scheduleLightScan(200);
+                }
+            }
+        };
 
-    function hookHistory() {
+        window.addEventListener('popstate', checkUrl, true);
+        window.addEventListener('hashchange', checkUrl, true);
+
+        setInterval(checkUrl, 1000);
+
         ['pushState', 'replaceState'].forEach(method => {
             const original = history[method];
             if (!original || original.__uwoWrapped) return;
 
             const wrapper = function () {
                 const result = original.apply(this, arguments);
-                checkForUrlChange();
-                scheduleOptimize(200);
+                checkUrl();
+
+                if (CONFIG.rescanOnSpaNavigation) {
+                    scheduleLightScan(200);
+                }
+
                 return result;
             };
 
@@ -670,59 +493,31 @@
         });
     }
 
-    function startObservers() {
-        if (domObserver) return;
-
-        const root = document.documentElement || document;
-
-        domObserver = new MutationObserver(() => {
-            checkForUrlChange();
-            scheduleOptimize();
-        });
-
-        try {
-            domObserver.observe(root, { childList: true, subtree: true });
-        } catch (e) {
-            warn('Could not start main MutationObserver:', e);
-            return;
-        }
-
-        window.addEventListener('popstate', checkForUrlChange, true);
-        window.addEventListener('hashchange', checkForUrlChange, true);
-
-        setInterval(checkForUrlChange, 1000);
-
-        setInterval(() => {
-            if (!document.hidden) {
-                scheduleOptimize(0);
-            }
-        }, 10000);
-
-        hookHistory();
-    }
-
-    /* Bootstrap */
+    /* ------------------------------------------------------------
+       Bootstrap
+       ------------------------------------------------------------ */
 
     let bootstrapped = false;
 
     function bootstrap() {
         if (bootstrapped) {
-            scheduleOptimize(0);
+            scheduleLightScan(0);
             return;
         }
 
         bootstrapped = true;
-        log('Starting on', HOST);
 
-        startObservers();
-        optimizePage(document);
+        installPopupGuard();
+        installObservers();
 
-        setTimeout(() => scheduleOptimize(0), 1000);
-        setTimeout(() => scheduleOptimize(0), 3000);
+        scheduleLightScan(0);
+        setTimeout(() => scheduleLightScan(0), 1000);
+        setTimeout(() => scheduleLightScan(0), 3000);
+
+        window.addEventListener('load', () => {
+            scheduleLightScan(0);
+        }, { once: true });
     }
-
-    installPopupBlocker();
-    installEarlyMutationGuard();
 
     if (document.readyState === 'loading') {
         document.addEventListener('DOMContentLoaded', () => {
@@ -733,7 +528,7 @@
     }
 
     window.addEventListener('load', () => {
-        whenCloudflarePasses(() => scheduleOptimize(0));
+        whenCloudflarePasses(() => scheduleLightScan(0));
     }, { once: true });
 
 })();
