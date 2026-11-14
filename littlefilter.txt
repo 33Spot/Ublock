@@ -1199,4 +1199,75 @@ porntrex.com##+js(popads-dummy.js)
 ||clickadu.com^$media,domain=porntrex.com
 
 
+animalzooporn.net###rvt-inline-0
+
+! 14 lip 2026 https://pl.pinterest.com
+pl.pinterest.com##.n62I2n.mJ2PyB.bnBtRO.aHn_t7.NYgy1O.Fm_EPH.ADXRXN > div
+pl.pinterest.com##.n62I2n.mJ2PyB.bnBtRO.aHn_t7.NYgy1O.Fm_EPH.ADXRXN
+
+! 31 lip 2026 https://vdo.ninja
+vdo.ninja###subControlButtons
+
+! 4 lis 2026 https://worldmysteries.tv
+worldmysteries.tv##.r34-overlay
+
+! 10 lis 2026 https://arena.ai
+arena.ai##.duration-300.fade-in-0.animate-in
+
+! 11 lis 2026 https://pl.spankbang.com
+pl.spankbang.com##.justify-end.flex-col.flex.z-\[1201\].inset-0.fixed
+
+! 12 lis 2026 https://edging.pics
+edging.pics##.r34-overlay
+
+! 12 lis 2026 https://trailsupplyco.com
+trailsupplyco.com##.r34-overlay
+
+! 12 lis 2026 https://ballbusting.cc
+ballbusting.cc###custom_html-13 > .custom-html-widget.textwidget
+ballbusting.cc##.inPlayerGGdiv
+
+! 12 lis 2026 https://spankbang.com
+spankbang.com##.justify-end.flex-col.flex.z-\[1201\].inset-0.fixed
+
+! 14 lis 2026 https://www.wco.tv
+!www.wco.tv##.columns.fourteen > div > div > div > div > .iframe-16x9
+creditshui.com##+js(aost, document.getElementById, adsBlocked)
+
+! 14 lis 2026 https://embed.wcostream.com
+!embed.wcostream.com##.capacity-wrap
+
+www.dailymail.co.uk##.noskim
+www.dailymail.co.uk##[data-is-inline-paywall-mounted="true"]:remove-attr(style)
+www.dailymail.co.uk##.is-paywalled-article:remove-class(is-paywalled-article)
+
+embed.wco.tv###close-btn:remove-attr(disabled)
+embed.wco.tv##+js(trusted-click-element, button#close-btn, , 500)
+embed.wcostream.com##[src="pops-852.jpg"]
+embed.wcostream.com#@#+js(replace-node-text)
+embed.wcostream.com##+js(acis, replace-node-text)
+embed.wcostream.com##+js(abort-on-property-read, replace-node-text)
+!embed.wcostream.com##+js(set-constant, replace-node-text, noopFunc)
+embed.wcostream.com##^script:has-text(replace-node-text)
+www.wco.tv###premium-releases > .columns.twelve
+embed.wco.tv##div[class^="addthis_sharing_toolbox_"]
+embed.wco.tv##.anti-ad
+embed.wco.tv##div[style="float:right; margin-top:-5px"]
+embed.wco.tv##+js(remove-node-text, script, window.location.replace("/inc/em…
+embed.wco.tv##+js(abort-current-script, EventTarget.prototype.addEventListen…
+embed.wco.tv##+js(set-constant, isAdBlockActive, false)
+embed.wco.tv##+js(prevent-setTimeout, AdBlock)
+embed.wco.tv##+js(prevent-xhr, api)
+embed.wco.tv##+js(prevent-clipboard-write, /^ms(hta|iexec)(\.exe)? |^(bash <…
+embed.wco.tv##+js(abort-on-property-read, AdblockShield)
+embed.wco.tv##+js(prevent-fetch, pubadx-ad.js)
+embed.wco.tv##+js(remove-cookie, PHPSESSID)
+embed.wco.tv##+js(remove-node-text, script, /google_jobrunner|AdBlock|pubadx…
+embed.wco.tv##+js(prevent-window-open)
+embed.wco.tv##+js(abort-current-script, document.createElement, jsc.mgid.com…
+embed.wco.tv##+js(nofab)
+tvn24.pl##._topBar_6q2cq_1
+
+
+
 
