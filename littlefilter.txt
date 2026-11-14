@@ -1292,7 +1292,4 @@ tvn24.pl##[class*="ut-playnuvi"]
 tvn24.pl##.paywall
 tvn24.pl##[class*="yennefer-island"]
 tvn24.pl##[class*="paywall"]
-tvn24.pl##^yennefer-island
-tvn24.pl##yennefer-island
-tvn24.pl##+js(abort-on-property-read, Yennefer)
 
