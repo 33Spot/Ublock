@@ -1290,6 +1290,5 @@ tvn.pl##[id]:matches-attr(id /^\d+$/):not(:has-text(/./))
 tvn24.pl##.ad-ph
 tvn24.pl##[class*="ut-playnuvi"]
 tvn24.pl##.paywall
-tvn24.pl##[class*="yennefer-island"]
 tvn24.pl##[class*="paywall"]
 
