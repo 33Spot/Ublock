@@ -1243,6 +1243,7 @@ www.dailymail.co.uk##.is-paywalled-article:remove-class(is-paywalled-article)
 
 embed.wco.tv###close-btn:remove-attr(disabled)
 embed.wco.tv##+js(trusted-click-element, button#close-btn, , 500)
+www.wco.tv##.anti-ad
 embed.wcostream.com##[src="pops-852.jpg"]
 embed.wcostream.com#@#+js(replace-node-text)
 embed.wcostream.com##+js(acis, replace-node-text)
