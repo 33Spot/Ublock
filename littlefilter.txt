@@ -1270,5 +1270,5 @@ embed.wco.tv##+js(nofab)
 tvn24.pl##._topBar_6q2cq_1
 tvn.pl###\32
 tvn.pl##ad-placeholder.ad-ph:nth-of-type(2)
-
+tvn.pl###\32 2
 
