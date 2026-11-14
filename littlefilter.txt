@@ -1268,7 +1268,27 @@ embed.wco.tv##+js(prevent-window-open)
 embed.wco.tv##+js(abort-current-script, document.createElement, jsc.mgid.com…
 embed.wco.tv##+js(nofab)
 tvn24.pl##._topBar_6q2cq_1
-tvn.pl###\32
-tvn.pl##ad-placeholder.ad-ph:nth-of-type(2)
-tvn.pl###\32 2
+! TVN: ad placeholders and promotional elements
+tvn.pl##.ad-ph
+tvn.pl##ad-placeholder
+tvn.pl##[class*="_ad-last-placeholder_"]
+tvn.pl##[class*="_narrow-column_"]:has(.ad-ph, ad-placeholder)
+tvn.pl##shop-slider
+||tvn.pl/_i/placeholders/ad_placeholder.svg$image
+tvn.pl##[class*="PlayNuvi_svg__ut-playnuvi"]
+tvn.pl##[id]:matches-attr(id="/^[0-9]+$/"):has(.ad-ph, ad-placeholder, img[src*="/ad_placeholder"])
+tvn.pl##ad-placeholder
+tvn.pl##.ad-ph
+tvn.pl##[class*="_ad-last-placeholder_"]
+tvn.pl##[class*="_narrow-column_"]
+tvn.pl##[class*="playnuvi" i]
+tvn.pl##[id]:matches-attr(id /^\d+$/)
+||tvn.pl/_i/placeholders/$image
+tvn24.pl##.mht-inline-paywall
+tvn.pl##div[id]:matches-attr(id /^\d{1,3}$/)
+tvn.pl##[id]:matches-attr(id /^\d+$/):not(:has-text(/./))
+tvn24.pl##.ad-ph
+tvn24.pl##[class*="ut-playnuvi"]
+tvn24.pl##.paywall
+
 
