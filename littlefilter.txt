@@ -1292,3 +1292,15 @@ tvn24.pl##.ad-ph
 tvn24.pl##[class*="ut-playnuvi"]
 tvn24.pl##.paywall
 tvn24.pl##[class*="paywall"]
+
+
+watchtvs.live###pushport-gate-overlay
+www.xvideos.com###ceu97a4mxqe0mz4
+!www.xnxx.com##.disclaimer_background
+spankbang.com##.text-center.gap-4.items-center.flex-col.w-full.flex
+||www.wco.tv/cdn-cgi/challenge-platform/scripts/jsd/main.js$script,domain=www.wco.tv
+||embed.wcostream.com/inc/embed/pre-init.js$script,domain=embed.wcostream.com
+||embed.wcostream.com/assets/ads/advertisement.js$script,domain=embed.wcostream.com
+||maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js$script,domain=embed.wcostream.com
+||embed.wcostream.com/inc/video-js/video.min.js$script,domain=embed.wcostream.com
+
