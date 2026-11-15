@@ -1229,6 +1229,7 @@ ballbusting.cc##.inPlayerGGdiv
 
 ! 12 lis 2026 https://spankbang.com
 spankbang.com##.justify-end.flex-col.flex.z-\[1201\].inset-0.fixed
+spankbang.com##.js-native-ad
 
 ! 14 lis 2026 https://www.wco.tv
 !www.wco.tv##.columns.fourteen > div > div > div > div > .iframe-16x9
@@ -1303,4 +1304,4 @@ spankbang.com##.text-center.gap-4.items-center.flex-col.w-full.flex
 ||embed.wcostream.com/assets/ads/advertisement.js$script,domain=embed.wcostream.com
 ||maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js$script,domain=embed.wcostream.com
 ||embed.wcostream.com/inc/video-js/video.min.js$script,domain=embed.wcostream.com
-
+||images.wcostream.com/catimg/93462*.jpg$image
