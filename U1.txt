@@ -4,7 +4,7 @@
 !
 ! Homepage:
 !
-! Link: https://raw.githubusercontent.com/33Spot/Ublock/master/U.txt
+! Link: https://raw.githubusercontent.com/33Spot/Ublock/master/U1.txt
 !
 ! Version: 20200502-1
 !
