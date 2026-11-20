@@ -1280,6 +1280,7 @@ tvn.pl##shop-slider
 !tvn.pl##[class*="PlayNuvi_svg__ut-playnuvi"]
 tvn.pl##[id]:matches-attr(id="/^[0-9]+$/"):has(.ad-ph, ad-placeholder, img[src*="/ad_placeholder"])
 tvn24.pl##html > body > style:has-text(/floating\.VideoContainer/)
+tvn24.pl##html > body > style:has-text(/nuviContainer/)
 tvn.pl##ad-placeholder
 tvn.pl##.ad-ph
 tvn.pl##[class*="_ad-last-placeholder_"]
