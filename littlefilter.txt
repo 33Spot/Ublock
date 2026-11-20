@@ -1284,6 +1284,8 @@ tvn24.pl##html > body > style:has-text(/nuviContainer/)
 tvn24.pl##html > body > style:has-text(/nuvi-wrapper/)
 tvn24.pl##html > body > style:has-text(/nuvi-player/)
 tvn24.pl##html > body > style:has-text(/multimedium/)
+||rcontent.services.tvn.pl^$script,domain=tvn24.pl
+||at-app.cdntvn.pl^$script,domain=tvn24.pl
 tvn.pl##ad-placeholder
 tvn.pl##.ad-ph
 tvn.pl##[class*="_ad-last-placeholder_"]
