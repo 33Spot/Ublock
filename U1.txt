@@ -49,6 +49,8 @@
 !#include https://raw.githubusercontent.com/JanJastrow/blocked_domains/master/bigcompany.txt
 !#include https://raw.githubusercontent.com/JanJastrow/blocked_domains/master/ublock_elements
 !#include https://raw.githubusercontent.com/Maxi9090/Adblock-files/master/Filter.txt
+!#include https://raw.githubusercontent.com/33Spot/Ublock/master/littlefilter.txt
+!#include https://phishing.army/download/phishing_army_blocklist_extended.txt
 !#include https://filters.adavoid.org/ultimate-ad-filter.txt
 !#include https://filters.adavoid.org/ultimate-privacy-filter.txt
 !#include https://filters.adavoid.org/ultimate-security-filter.txt
@@ -68,3 +70,16 @@
 !#include https://raw.githubusercontent.com/IDKwhattoputhere/uBlock-Filters-Plus/master/uBlock-Filters-Plus.txt
 !#include https://raw.githubusercontent.com/uBlock-LLC/uBlock/master/assets/ublock/privacy.txt
 !#include https://raw.githubusercontent.com/uBlock-LLC/uBlock/master/assets/ublock/filters.txt
+!#include https://codeberg.org/x2effe/digitalfreedom/raw/branch/main/ublock_custom.txt
+!#include https://hole.cert.pl/domains/v2/domains_adblock.txt
+!#include https://phishing.army/download/phishing-army-adblock.txt
+!#include https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt
+!#include https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/spam-tlds-ublock.txt
+!#include https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
+!#include https://gitlab.com/eyeo/anti-cv/abp-filters-anti-cv/-/raw/master/distribution/anti-cv-domainless-snippets.txt
+!#include https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adguard/dns-rebind-protection.txt
+!#include https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/fake.txt
+
+
+
+
