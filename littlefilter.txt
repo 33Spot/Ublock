@@ -157,6 +157,11 @@ vider.info##.reklama-content-1
 !freedisc.pl##div.content-line:nth-of-type(4)
 !||freedisc.pl/static/min/css/upload_async.css$stylesheet,first-party
 !||freedisc.pl^$popup
+resetoff.pl##.info-close-ads-small
+resetoff.pl##.info-close-ads-doublebillboard
+resetoff.pl##.reklama-content-2
+resetoff.pl###video_reklamy
+resetoff.pl##.background-cloud-reseton
 
 !||mrex.exs.pl^$stylesheet,domain=freedisc.pl
 !||connect.facebook.net^$script,domain=freedisc.pl
